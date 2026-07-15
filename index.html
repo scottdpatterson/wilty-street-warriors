@@ -374,6 +374,13 @@ function displayName(name) {
   return NAME_MAP[name] || name;
 }
 
+// Managers excluded from public leaderboards/rankings (privacy). Their games
+// still count in season standings, matchups, and head-to-head.
+const HIDDEN_FROM_LEADERBOARD = new Set(["cool brees"]);
+function visibleManagers(managers) {
+  return Object.fromEntries(Object.entries(managers).filter(([name]) => !HIDDEN_FROM_LEADERBOARD.has(name)));
+}
+
 // ── page nav ──────────────────────────────────────────────────────────────────
 function showPage(id) {
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
@@ -398,7 +405,7 @@ function buildDashboard() {
   const seasons = WSW_DATA.seasons;
   const seasonKeys = Object.keys(seasons).sort();
   const totalMatchups = WSW_DATA.matchups.filter(m => !m.is_consolation).length;
-  const managers = WSW_DATA.managers;
+  const managers = visibleManagers(WSW_DATA.managers);
 
   // hero tagline
   document.getElementById('hero-tagline').textContent =
@@ -467,7 +474,7 @@ function buildDashboard() {
 
 // ── ALL-TIME ──────────────────────────────────────────────────────────────────
 function buildAllTime() {
-  const managers = WSW_DATA.managers;
+  const managers = visibleManagers(WSW_DATA.managers);
   const sorted = Object.entries(managers).sort((a,b) => {
     const ga = a[1].W + a[1].L + a[1].T;
     const gb = b[1].W + b[1].L + b[1].T;
