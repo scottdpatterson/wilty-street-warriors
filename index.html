@@ -208,6 +208,7 @@
     <div class="nav-tab active" onclick="showPage('dashboard')">Dashboard</div>
     <div class="nav-tab" onclick="showPage('alltime')">All-Time</div>
     <div class="nav-tab" onclick="showPage('h2h')">Head-to-Head</div>
+    <div class="nav-tab" onclick="showPage('rivals')">Rivals</div>
     <div class="nav-tab" onclick="showPage('seasons')">Seasons</div>
     <div class="nav-tab" onclick="showPage('matchups')">Matchups</div>
     <div class="nav-tab" onclick="showPage('draft')">Draft</div>
@@ -284,6 +285,21 @@
 
   <div id="h2h-result-area"></div>
   <div id="h2h-games-area"></div>
+</div>
+
+<!-- ══════════════════════════════════════════════════ RIVALS -->
+<div id="page-rivals" class="page">
+  <h1>Rivals</h1>
+  <p class="subtitle">Pick a manager to see their record against everyone else, ranked by win %</p>
+
+  <div class="filter-row">
+    <div>
+      <label>Manager</label><br>
+      <select id="rivals-manager" onchange="renderRivals()"><option value="">— select —</option></select>
+    </div>
+  </div>
+
+  <div id="rivals-result-area"></div>
 </div>
 
 <!-- ══════════════════════════════════════════════════ SEASONS -->
@@ -648,6 +664,65 @@ function renderH2H() {
   }
 }
 
+// ── RIVALS ────────────────────────────────────────────────────────────────────
+function populateRivalsSelect() {
+  const managers = sortedManagers();
+  const sel = document.getElementById('rivals-manager');
+  managers.forEach(m => {
+    const opt = document.createElement('option');
+    opt.value = m; opt.textContent = displayName(m);
+    sel.appendChild(opt);
+  });
+}
+
+function renderRivals() {
+  const manager = document.getElementById('rivals-manager').value;
+  const area = document.getElementById('rivals-result-area');
+  area.innerHTML = '';
+  if (!manager) return;
+
+  const rows = [];
+  sortedManagers().forEach(opp => {
+    if (opp === manager) return;
+    const pair = [manager, opp].sort().join('|||');
+    const data = WSW_DATA.h2h[pair];
+    if (!data || !data[manager]) return;
+    const d = data[manager];
+    const g = d.W + d.L + d.T;
+    if (!g) return;
+    const winPct = (d.W + d.T * 0.5) / g;
+    rows.push({ opp, ...d, g, winPct });
+  });
+
+  if (!rows.length) {
+    area.innerHTML = '<p style="color:var(--muted)">No matchup history found for this manager.</p>';
+    return;
+  }
+
+  rows.sort((a, b) => b.winPct - a.winPct || (b.W - b.L) - (a.W - a.L));
+
+  let html = `<div class="table-wrap"><table><thead><tr>
+    <th>#</th><th>Opponent</th><th>W</th><th>L</th><th>T</th><th>Win %</th><th>Pts For</th><th>Pts Against</th><th>Avg Margin</th>
+  </tr></thead><tbody>`;
+  rows.forEach((r, i) => {
+    const margin = (r.pts_for - r.pts_against) / r.g;
+    const marginStr = (margin >= 0 ? '+' : '') + margin.toFixed(1);
+    html += `<tr>
+      <td class="rank">${i + 1}</td>
+      <td><strong>${displayName(r.opp)}</strong></td>
+      <td class="num win">${r.W}</td>
+      <td class="num loss">${r.L}</td>
+      <td class="num">${r.T}</td>
+      <td class="num">${(r.winPct * 100).toFixed(1)}%</td>
+      <td class="num">${r.pts_for.toFixed(1)}</td>
+      <td class="num">${r.pts_against.toFixed(1)}</td>
+      <td class="num" style="color:${margin >= 0 ? 'var(--green)' : 'var(--red)'}">${marginStr}</td>
+    </tr>`;
+  });
+  html += '</tbody></table></div>';
+  area.innerHTML = `<h2 style="margin-bottom:12px;">${displayName(manager)}'s Record vs Every Manager</h2>` + html;
+}
+
 // ── SEASONS ───────────────────────────────────────────────────────────────────
 function buildSeasons() {
   const seasons = WSW_DATA.seasons;
@@ -837,6 +912,7 @@ window.addEventListener('DOMContentLoaded', () => {
   buildDashboard();
   buildAllTime();
   populateH2HSelects();
+  populateRivalsSelect();
   buildSeasons();
   populateMatchupFilters();
   renderMatchups();
