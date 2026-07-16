@@ -248,6 +248,12 @@
   <div class="stat-grid" id="summary-stats"></div>
 
   <div class="section">
+    <h2>League Highlights</h2>
+    <p class="subtitle" style="margin-bottom:12px;">A snapshot from each tab — see that tab for the full picture.</p>
+    <div class="stat-grid" id="highlights-stats"></div>
+  </div>
+
+  <div class="section">
     <h2>All-Time Wins Leaders</h2>
     <div class="table-wrap">
       <table id="wins-table">
@@ -398,11 +404,8 @@
 
   <div class="section" style="background:var(--card); border:1px solid var(--border); border-radius:8px; padding:18px 20px;">
     <h2 style="margin-top:0;">How This Is Measured</h2>
-    <p style="margin-bottom:10px;">Every player drafted that season (skill positions only — QB/RB/WR/TE; DEF/K are excluded, their scoring rules have changed too much over the years for a fair year-to-year comparison) gets ranked by the fantasy points they actually scored: the league's #1 overall scorer that season is <strong>Points Rank 1</strong>, the #2 scorer is <strong>Points Rank 2</strong>, and so on — regardless of position.</p>
-    <p style="margin-bottom:10px;"><strong>Pick Value = Draft Pick Number &minus; Points Rank.</strong></p>
-    <p style="margin-bottom:10px;">Example: you take a player with the 50th overall pick, and he finishes the season as the 10th-highest scorer in the league. Value = 50 &minus; 10 = <strong style="color:var(--gold);">+40</strong> — a steal, since he outproduced players taken way ahead of him. Flip it around: you take a player 1st overall and he finishes as the 100th-highest scorer. Value = 1 &minus; 100 = <strong style="color:#E05050;">&minus;99</strong> — about as bad a bust as it gets.</p>
-    <p style="margin-bottom:10px;">A manager's <strong>Draft Class Value</strong> for one season is just the sum of every pick's value that draft. <strong>Avg Value/Pick</strong> (the All-Time Draft Rankings number) sums that across every draft a manager has been in and divides by their total picks — so it rewards showing up with a good draft year after year, not one lucky class.</p>
-    <p style="margin-bottom:0;"><strong>Best/Worst Draft</strong> below is a manager's single best/worst season by Draft Class Value. <strong>Biggest Steals/Busts</strong> are individual picks, not whole drafts. <strong>Best &amp; Worst Draft Classes Ever</strong> ranks single-season Draft Class Value across every manager and year.</p>
+    <p style="margin-bottom:10px;"><strong>Pick Value = Draft Pick Number &minus; Points Rank</strong> (where that player finished in total points that season, skill positions only). Pick him 50th, he finishes 10th &rarr; Value = <strong style="color:var(--gold);">+40</strong>, a steal. Pick him 1st, he finishes 100th &rarr; Value = <strong style="color:#E05050;">&minus;99</strong>, a bust.</p>
+    <p style="margin-bottom:0;">A manager's <strong>Draft Class Value</strong> is the sum of every pick's value that season. <strong>Avg Value/Pick</strong> averages that across all their drafts, rewarding consistency over one lucky year. <strong>Best/Worst Draft</strong> is their single best/worst season. <strong>Steals/Busts</strong> are individual picks. <strong>Best &amp; Worst Draft Classes Ever</strong> ranks single-season totals across everyone.</p>
   </div>
 
   <div class="stat-grid" id="draft-summary-stats"></div>
@@ -632,6 +635,41 @@ function buildDashboard() {
       <td>${s.champion_team || '—'}</td>
       <td style="color:var(--muted); font-size:12px;">${s.name}</td>
     </tr>`;
+  });
+}
+
+// ── HIGHLIGHTS ────────────────────────────────────────────────────────────────
+function buildHighlights() {
+  const grid = document.getElementById('highlights-stats');
+  if (!grid) return;
+  grid.innerHTML = '';
+  const cards = [];
+
+  if (WSW_DATA.draft && WSW_DATA.draft.manager_rankings) {
+    const rankings = WSW_DATA.draft.manager_rankings.filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
+    if (rankings.length) {
+      const best = rankings[0];
+      const v = best.avg_value_per_pick;
+      cards.push({ label: "Best Drafter", value: (v >= 0 ? '+' : '') + v, sub: `${displayName(best.manager)} · avg value/pick` });
+    }
+  }
+
+  const placing = WSW_DATA.placingHistory;
+  if (placing && placing.length) {
+    const mostConsistent = placing[0];
+    const leastConsistent = placing[placing.length - 1];
+    cards.push({ label: "Best Placement Every Season", value: mostConsistent.avg_placing, sub: `${displayName(mostConsistent.manager)} · avg placing` });
+    cards.push({ label: "Worst Placement Every Season", value: leastConsistent.avg_placing, sub: `${displayName(leastConsistent.manager)} · avg placing` });
+
+    const mostAt = idx => placing.reduce((best, r) => (!best || r.counts[idx] > best.counts[idx]) ? r : best, null);
+    const p2 = mostAt(1), p3 = mostAt(2), p10 = mostAt(9);
+    if (p2 && p2.counts[1] > 0) cards.push({ label: "Most 2nd Place Finishes", value: p2.counts[1], sub: displayName(p2.manager) });
+    if (p3 && p3.counts[2] > 0) cards.push({ label: "Most 3rd Place Finishes", value: p3.counts[2], sub: displayName(p3.manager) });
+    if (p10 && p10.counts[9] > 0) cards.push({ label: "Most 10th Place Finishes", value: p10.counts[9], sub: `${displayName(p10.manager)} · wooden spoon` });
+  }
+
+  cards.forEach(c => {
+    grid.innerHTML += `<div class="stat-card"><div class="label">${c.label}</div><div class="value">${c.value}</div><div class="sub">${c.sub}</div></div>`;
   });
 }
 
@@ -1125,6 +1163,7 @@ window.addEventListener('DOMContentLoaded', () => {
     return;
   }
   buildDashboard();
+  buildHighlights();
   buildAllTime();
   populateH2HSelects();
   populateRivalsSelect();
