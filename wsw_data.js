@@ -1,4 +1,4 @@
-// Wilty Street Warriors data — ['2001', '2002', '2003', '2004', '2005', '2006', '2007', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025']
+// Wilty Street Warriors data — ['1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025']
 const WSW_DATA = {
   seasons: {
   "2001": {
@@ -61,7 +61,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2002": {
     "season": "2002",
@@ -159,7 +160,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2003": {
     "season": "2003",
@@ -239,7 +241,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2004": {
     "season": "2004",
@@ -337,7 +340,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2005": {
     "season": "2005",
@@ -435,7 +439,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2006": {
     "season": "2006",
@@ -533,7 +538,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2007": {
     "season": "2007",
@@ -631,7 +637,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2009": {
     "season": "2009",
@@ -729,7 +736,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2010": {
     "season": "2010",
@@ -827,7 +835,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2011": {
     "season": "2011",
@@ -925,7 +934,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2012": {
     "season": "2012",
@@ -1023,7 +1033,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2013": {
     "season": "2013",
@@ -1121,7 +1132,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2014": {
     "season": "2014",
@@ -1219,7 +1231,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2015": {
     "season": "2015",
@@ -1317,7 +1330,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2016": {
     "season": "2016",
@@ -1415,7 +1429,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2017": {
     "season": "2017",
@@ -1513,7 +1528,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2018": {
     "season": "2018",
@@ -1611,7 +1627,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2019": {
     "season": "2019",
@@ -1709,7 +1726,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2020": {
     "season": "2020",
@@ -1807,7 +1825,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2021": {
     "season": "2021",
@@ -1905,7 +1924,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2022": {
     "season": "2022",
@@ -2003,7 +2023,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2023": {
     "season": "2023",
@@ -2101,7 +2122,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2024": {
     "season": "2024",
@@ -2199,7 +2221,8 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
   },
   "2025": {
     "season": "2025",
@@ -2297,7 +2320,32 @@ const WSW_DATA = {
         "losses": null,
         "points_for": null
       }
-    ]
+    ],
+    "no_data": false
+  },
+  "1999": {
+    "season": "1999",
+    "name": "1999",
+    "champion": "Scott",
+    "champion_team": "SKULL's Spoliators",
+    "standings": [],
+    "no_data": true
+  },
+  "2000": {
+    "season": "2000",
+    "name": "2000",
+    "champion": "Roger",
+    "champion_team": "The Dahminators",
+    "standings": [],
+    "no_data": true
+  },
+  "2008": {
+    "season": "2008",
+    "name": "2008",
+    "champion": "Roger",
+    "champion_team": "The Dahminators",
+    "standings": [],
+    "no_data": true
   }
 },
   matchups: [
@@ -61538,7 +61586,7 @@ const WSW_DATA = {
     "L": 177,
     "T": 0,
     "pts_for": 33378.78,
-    "championships": 6,
+    "championships": 7,
     "seasons": [
       "2001",
       "2002",
@@ -61572,7 +61620,7 @@ const WSW_DATA = {
     "L": 164,
     "T": 0,
     "pts_for": 33729.15,
-    "championships": 4,
+    "championships": 6,
     "seasons": [
       "2001",
       "2002",

@@ -508,6 +508,11 @@ function buildDashboard() {
   // summary stats
   const mostWins = Object.entries(managers).sort((a,b) => b[1].W - a[1].W)[0];
   const mostChamps = Object.entries(managers).sort((a,b) => b[1].championships - a[1].championships)[0];
+  const bestPct = Object.entries(managers).sort((a,b) => {
+    const ga = a[1].W + a[1].L + a[1].T, gb = b[1].W + b[1].L + b[1].T;
+    const pa = ga ? (a[1].W + a[1].T*0.5)/ga : 0, pb = gb ? (b[1].W + b[1].T*0.5)/gb : 0;
+    return pb - pa;
+  })[0];
   const totalPts = Object.values(managers).reduce((s, m) => s + m.pts_for, 0);
 
   const stats = [
@@ -515,6 +520,7 @@ function buildDashboard() {
     { label: "Total Games", value: totalMatchups, sub: "regular + playoffs" },
     { label: "Managers", value: Object.keys(managers).length, sub: "tracked" },
     { label: "Win Leader", value: mostWins[1].W, sub: displayName(mostWins[0]) },
+    { label: "% Win Leader", value: pct(bestPct[1].W, bestPct[1].L, bestPct[1].T), sub: displayName(bestPct[0]) },
     { label: "Most Titles", value: mostChamps[1].championships + ' 🏆', sub: displayName(mostChamps[0]) },
   ];
   const grid = document.getElementById('summary-stats');
@@ -754,6 +760,9 @@ function showSeasonDetail(yr) {
   document.getElementById('season-detail-title').textContent = `${yr} — ${s.name}`;
   const tbody = document.querySelector('#season-standings-table tbody');
   tbody.innerHTML = '';
+  if (s.no_data) {
+    tbody.innerHTML = `<tr><td colspan="6" style="color:var(--muted); text-align:center; padding:20px;">No detailed records available for this season — champion confirmed from league history, full standings/matchups weren't tracked on Yahoo.</td></tr>`;
+  }
   (s.standings || []).forEach((row, i) => {
     tbody.innerHTML += `<tr>
       <td>${i === 0 ? '🏆' : i+1}</td>
