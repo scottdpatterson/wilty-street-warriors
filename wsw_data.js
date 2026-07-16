@@ -109447,4 +109447,76 @@ const WSW_DATA = {
     }
   ]
 },
+  awardRankings: [
+  {
+    "manager": "Scott",
+    "champions": 7,
+    "runner_up": 4,
+    "lasebre": 1,
+    "crown_points": 565
+  },
+  {
+    "manager": "Roger",
+    "champions": 6,
+    "runner_up": 3,
+    "lasebre": 3,
+    "crown_points": 495
+  },
+  {
+    "manager": "Robert",
+    "champions": 4,
+    "runner_up": 4,
+    "lasebre": 4,
+    "crown_points": 400
+  },
+  {
+    "manager": "Chris",
+    "champions": 3,
+    "runner_up": 3,
+    "lasebre": 1,
+    "crown_points": 280
+  },
+  {
+    "manager": "Davidson",
+    "champions": 3,
+    "runner_up": 1,
+    "lasebre": 3,
+    "crown_points": 250
+  },
+  {
+    "manager": "Damon",
+    "champions": 1,
+    "runner_up": 2,
+    "lasebre": 3,
+    "crown_points": 145
+  },
+  {
+    "manager": "Seth",
+    "champions": 1,
+    "runner_up": 2,
+    "lasebre": 2,
+    "crown_points": 135
+  },
+  {
+    "manager": "Michael",
+    "champions": 1,
+    "runner_up": 1,
+    "lasebre": 1,
+    "crown_points": 100
+  },
+  {
+    "manager": "Jack",
+    "champions": 0,
+    "runner_up": 2,
+    "lasebre": 1,
+    "crown_points": 60
+  },
+  {
+    "manager": "Brett",
+    "champions": 0,
+    "runner_up": 2,
+    "lasebre": 1,
+    "crown_points": 60
+  }
+],
 };

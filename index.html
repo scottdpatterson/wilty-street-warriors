@@ -212,6 +212,7 @@
     <div class="nav-tab" onclick="showPage('seasons')">Seasons</div>
     <div class="nav-tab" onclick="showPage('matchups')">Matchups</div>
     <div class="nav-tab" onclick="showPage('draft')">Draft</div>
+    <div class="nav-tab" onclick="showPage('awards')">Awards</div>
   </div>
 </nav>
 
@@ -424,6 +425,19 @@
         </table>
       </div>
     </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════ AWARDS -->
+<div id="page-awards" class="page">
+  <h1>Award Rankings</h1>
+  <p class="subtitle">Career standing across 27 seasons (1999–2025) — Champions worth 65 crown points, Runner Up 25, LaSeBre Award 10. Excludes managers no longer in the league.</p>
+
+  <div class="table-wrap">
+    <table id="awards-table">
+      <thead><tr><th>Standing</th><th>Manager</th><th>Champions (65 pts)</th><th>Runner Up (25 pts)</th><th>LaSeBre Award (10 pts)</th><th>Crown Points</th></tr></thead>
+      <tbody></tbody>
+    </table>
   </div>
 </div>
 
@@ -919,6 +933,24 @@ function buildDraft() {
   });
 }
 
+// ── AWARDS ────────────────────────────────────────────────────────────────────
+function buildAwards() {
+  const rankings = WSW_DATA.awardRankings;
+  if (!rankings) return;
+  const body = document.querySelector('#awards-table tbody');
+  body.innerHTML = '';
+  rankings.forEach((r, i) => {
+    body.innerHTML += `<tr>
+      <td class="rank">${i + 1}</td>
+      <td><strong>${displayName(r.manager)}</strong></td>
+      <td class="num">${r.champions}</td>
+      <td class="num">${r.runner_up}</td>
+      <td class="num">${r.lasebre}</td>
+      <td class="num" style="color:var(--gold); font-weight:600;">${r.crown_points}</td>
+    </tr>`;
+  });
+}
+
 // ── INIT ──────────────────────────────────────────────────────────────────────
 window.addEventListener('DOMContentLoaded', () => {
   if (typeof WSW_DATA === 'undefined') {
@@ -933,6 +965,7 @@ window.addEventListener('DOMContentLoaded', () => {
   populateMatchupFilters();
   renderMatchups();
   buildDraft();
+  buildAwards();
 });
 </script>
 </body>
