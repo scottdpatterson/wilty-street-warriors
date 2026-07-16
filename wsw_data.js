@@ -109519,4 +109519,177 @@ const WSW_DATA = {
     "crown_points": 60
   }
 ],
+  placingHistory: [
+  {
+    "manager": "Robert",
+    "counts": [
+      4,
+      4,
+      1,
+      3,
+      4,
+      3,
+      2,
+      0,
+      1,
+      1
+    ],
+    "avg_placing": 4.26,
+    "best": 1,
+    "worst": 10,
+    "seasons": 23
+  },
+  {
+    "manager": "Roger",
+    "counts": [
+      4,
+      2,
+      4,
+      3,
+      1,
+      2,
+      5,
+      3,
+      0,
+      0
+    ],
+    "avg_placing": 4.5,
+    "best": 1,
+    "worst": 8,
+    "seasons": 24
+  },
+  {
+    "manager": "Scott",
+    "counts": [
+      6,
+      3,
+      2,
+      0,
+      4,
+      1,
+      3,
+      2,
+      1,
+      3
+    ],
+    "avg_placing": 4.8,
+    "best": 1,
+    "worst": 10,
+    "seasons": 25
+  },
+  {
+    "manager": "Jack",
+    "counts": [
+      0,
+      2,
+      0,
+      0,
+      2,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "avg_placing": 5.0,
+    "best": 2,
+    "worst": 9,
+    "seasons": 6
+  },
+  {
+    "manager": "Seth",
+    "counts": [
+      1,
+      2,
+      3,
+      3,
+      1,
+      1,
+      0,
+      2,
+      2,
+      1
+    ],
+    "avg_placing": 5.06,
+    "best": 1,
+    "worst": 10,
+    "seasons": 16
+  },
+  {
+    "manager": "Damon",
+    "counts": [
+      1,
+      2,
+      5,
+      1,
+      2,
+      3,
+      2,
+      5,
+      2,
+      1
+    ],
+    "avg_placing": 5.58,
+    "best": 1,
+    "worst": 10,
+    "seasons": 24
+  },
+  {
+    "manager": "Michael",
+    "counts": [
+      1,
+      1,
+      3,
+      1,
+      4,
+      2,
+      3,
+      2,
+      2,
+      5
+    ],
+    "avg_placing": 6.38,
+    "best": 1,
+    "worst": 10,
+    "seasons": 24
+  },
+  {
+    "manager": "Davidson",
+    "counts": [
+      3,
+      1,
+      0,
+      2,
+      1,
+      3,
+      1,
+      3,
+      6,
+      4
+    ],
+    "avg_placing": 6.71,
+    "best": 1,
+    "worst": 10,
+    "seasons": 24
+  },
+  {
+    "manager": "Brett",
+    "counts": [
+      0,
+      2,
+      0,
+      2,
+      1,
+      0,
+      3,
+      3,
+      3,
+      5
+    ],
+    "avg_placing": 7.32,
+    "best": 2,
+    "worst": 10,
+    "seasons": 19
+  }
+],
 };

@@ -192,6 +192,20 @@
   .bar-inner { height: 100%; background: var(--gold); border-radius: 3px; display: flex; align-items: center; padding-left: 8px; transition: width .3s; }
   .bar-inner .bar-val { font-family: 'Roboto Mono', monospace; font-size: 11px; color: var(--dark); font-weight: 600; }
 
+  /* ── PLACING HISTOGRAMS ── */
+  .placing-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+  .placing-card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 16px; }
+  .placing-card .placing-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 14px; }
+  .placing-card .placing-name { font-family: 'Oswald', sans-serif; font-size: 16px; font-weight: 600; }
+  .placing-card .placing-avg { font-size: 12px; color: var(--muted); }
+  .placing-card .placing-avg strong { color: var(--gold); font-family: 'Roboto Mono', monospace; }
+  .hist { display: flex; align-items: flex-end; gap: 4px; height: 90px; }
+  .hist-col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
+  .hist-count { font-size: 10px; color: var(--muted); margin-bottom: 3px; font-family: 'Roboto Mono', monospace; }
+  .hist-bar { width: 100%; background: var(--gold); border-radius: 2px 2px 0 0; min-height: 2px; transition: height .3s; }
+  .hist-bar.zero { background: var(--dark3); min-height: 2px; }
+  .hist-label { font-size: 10px; color: var(--muted); margin-top: 5px; }
+
   /* ── RESPONSIVE ── */
   @media (max-width: 600px) {
     .page { padding: 16px; }
@@ -213,6 +227,7 @@
     <div class="nav-tab" onclick="showPage('matchups')">Matchups</div>
     <div class="nav-tab" onclick="showPage('draft')">Draft</div>
     <div class="nav-tab" onclick="showPage('awards')">Awards</div>
+    <div class="nav-tab" onclick="showPage('placing')">Placing</div>
   </div>
 </nav>
 
@@ -438,6 +453,27 @@
       <thead><tr><th>Standing</th><th>Manager</th><th>Champions (65 pts)</th><th>Runner Up (25 pts)</th><th>LaSeBre Award (10 pts)</th><th>Crown Points</th></tr></thead>
       <tbody></tbody>
     </table>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════ PLACING HISTORY -->
+<div id="page-placing" class="page">
+  <h1>Placing History</h1>
+  <p class="subtitle">Final standing each season (1-8 decided by the playoff bracket, 9-10 by regular-season record). Covers the 24 seasons with full Yahoo standings data.</p>
+
+  <div class="section">
+    <h2>Average Placing</h2>
+    <div class="table-wrap">
+      <table id="placing-summary-table">
+        <thead><tr><th>#</th><th>Manager</th><th>Avg Placing</th><th>Best</th><th>Worst</th><th>Seasons</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Placing Distribution</h2>
+    <div class="placing-grid" id="placing-grid"></div>
   </div>
 </div>
 
@@ -951,6 +987,48 @@ function buildAwards() {
   });
 }
 
+// ── PLACING HISTORY ───────────────────────────────────────────────────────────
+function buildPlacing() {
+  const rows = WSW_DATA.placingHistory;
+  if (!rows) return;
+
+  const summaryBody = document.querySelector('#placing-summary-table tbody');
+  summaryBody.innerHTML = '';
+  rows.forEach((r, i) => {
+    summaryBody.innerHTML += `<tr>
+      <td class="rank">${i + 1}</td>
+      <td><strong>${displayName(r.manager)}</strong></td>
+      <td class="num" style="color:var(--gold); font-weight:600;">${r.avg_placing}</td>
+      <td class="num">${r.best}</td>
+      <td class="num">${r.worst}</td>
+      <td class="num">${r.seasons}</td>
+    </tr>`;
+  });
+
+  const grid = document.getElementById('placing-grid');
+  grid.innerHTML = '';
+  rows.forEach(r => {
+    const maxCount = Math.max(...r.counts, 1);
+    const cols = r.counts.map((c, i) => {
+      const heightPct = c ? Math.max((c / maxCount) * 100, 6) : 0;
+      return `<div class="hist-col">
+        <div class="hist-count">${c || ''}</div>
+        <div class="hist-bar ${c ? '' : 'zero'}" style="height:${heightPct}%"></div>
+        <div class="hist-label">${i + 1}</div>
+      </div>`;
+    }).join('');
+    const card = document.createElement('div');
+    card.className = 'placing-card';
+    card.innerHTML = `
+      <div class="placing-head">
+        <span class="placing-name">${displayName(r.manager)}</span>
+        <span class="placing-avg">avg <strong>${r.avg_placing}</strong></span>
+      </div>
+      <div class="hist">${cols}</div>`;
+    grid.appendChild(card);
+  });
+}
+
 // ── INIT ──────────────────────────────────────────────────────────────────────
 window.addEventListener('DOMContentLoaded', () => {
   if (typeof WSW_DATA === 'undefined') {
@@ -966,6 +1044,7 @@ window.addEventListener('DOMContentLoaded', () => {
   renderMatchups();
   buildDraft();
   buildAwards();
+  buildPlacing();
 });
 </script>
 </body>
