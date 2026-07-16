@@ -210,6 +210,7 @@
     <div class="nav-tab" onclick="showPage('h2h')">Head-to-Head</div>
     <div class="nav-tab" onclick="showPage('seasons')">Seasons</div>
     <div class="nav-tab" onclick="showPage('matchups')">Matchups</div>
+    <div class="nav-tab" onclick="showPage('draft')">Draft</div>
   </div>
 </nav>
 
@@ -349,6 +350,64 @@
       <thead><tr><th>Season</th><th>Wk</th><th>Type</th><th>Winner</th><th>Score</th><th>Loser</th><th>Margin</th></tr></thead>
       <tbody></tbody>
     </table>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════ DRAFT -->
+<div id="page-draft" class="page">
+  <h1>Draft Grades</h1>
+  <p class="subtitle">Every pick ranked against the points it actually scored that season. A late pick that outscores early picks is a steal; an early pick that busts is, well, a bust.</p>
+
+  <div class="stat-grid" id="draft-summary-stats"></div>
+
+  <div class="section">
+    <h2>All-Time Draft Rankings</h2>
+    <p class="subtitle" style="margin-bottom:12px;">Ranked by average value per pick (pick number minus that season's points rank, averaged across every draft). Positive = consistently finds value; negative = consistently reaches.</p>
+    <div class="table-wrap">
+      <table id="draft-rankings-table">
+        <thead><tr><th>#</th><th>Manager</th><th>Avg Value/Pick</th><th>Seasons Drafted</th><th>Best Draft</th><th>Worst Draft</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Biggest Steals</h2>
+    <p class="subtitle" style="margin-bottom:12px;">Skill positions only (QB/RB/WR/TE) — DEF/K scoring has varied too much across seasons for a fair comparison.</p>
+    <div class="table-wrap">
+      <table id="draft-steals-table">
+        <thead><tr><th>Season</th><th>Manager</th><th>Player</th><th>Pos</th><th>Pick</th><th>Pts Rank</th><th>Points</th><th>Value</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Biggest Busts</h2>
+    <div class="table-wrap">
+      <table id="draft-busts-table">
+        <thead><tr><th>Season</th><th>Manager</th><th>Player</th><th>Pos</th><th>Pick</th><th>Pts Rank</th><th>Points</th><th>Value</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Best &amp; Worst Draft Classes Ever</h2>
+    <div style="display:flex; gap:20px; flex-wrap:wrap;">
+      <div style="flex:1; min-width:280px;" class="table-wrap">
+        <table id="draft-best-classes-table">
+          <thead><tr><th>Season</th><th>Manager</th><th>Total Value</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div style="flex:1; min-width:280px;" class="table-wrap">
+        <table id="draft-worst-classes-table">
+          <thead><tr><th>Season</th><th>Manager</th><th>Total Value</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -684,6 +743,91 @@ function renderMatchups() {
   });
 }
 
+// ── DRAFT ─────────────────────────────────────────────────────────────────────
+const valueColor = v => v > 0 ? 'var(--green)' : v < 0 ? 'var(--red)' : 'var(--muted)';
+
+function buildDraft() {
+  const draft = WSW_DATA.draft;
+  if (!draft || !draft.manager_rankings) return;
+
+  const rankings = draft.manager_rankings.filter(r => !HIDDEN_FROM_LEADERBOARD.has(r.manager));
+  const steals = draft.biggest_steals.filter(p => !HIDDEN_FROM_LEADERBOARD.has(p.manager));
+  const busts = draft.biggest_busts.filter(p => !HIDDEN_FROM_LEADERBOARD.has(p.manager));
+  const bestClasses = draft.best_draft_classes.filter(c => !HIDDEN_FROM_LEADERBOARD.has(c.manager));
+  const worstClasses = draft.worst_draft_classes.filter(c => !HIDDEN_FROM_LEADERBOARD.has(c.manager));
+
+  const bestDrafter = rankings[0];
+  const worstDrafter = rankings[rankings.length - 1];
+  const topSteal = steals[0];
+  const topBust = busts[0];
+  const stats = [
+    { label: "Best Drafter", value: displayName(bestDrafter.manager), sub: `+${bestDrafter.avg_value_per_pick} avg value/pick` },
+    { label: "Worst Drafter", value: displayName(worstDrafter.manager), sub: `${worstDrafter.avg_value_per_pick} avg value/pick` },
+    { label: "Biggest Steal", value: topSteal.player_name, sub: `${displayName(topSteal.manager)} · ${topSteal.season} · Pick ${topSteal.pick}` },
+    { label: "Biggest Bust", value: topBust.player_name, sub: `${displayName(topBust.manager)} · ${topBust.season} · Pick ${topBust.pick}` },
+  ];
+  const grid = document.getElementById('draft-summary-stats');
+  grid.innerHTML = '';
+  stats.forEach(s => {
+    grid.innerHTML += `<div class="stat-card"><div class="label">${s.label}</div><div class="value" style="font-size:18px;">${s.value}</div><div class="sub">${s.sub}</div></div>`;
+  });
+
+  const rBody = document.querySelector('#draft-rankings-table tbody');
+  rBody.innerHTML = '';
+  rankings.forEach((r, i) => {
+    rBody.innerHTML += `<tr>
+      <td class="rank">${i+1}</td>
+      <td><strong>${displayName(r.manager)}</strong></td>
+      <td class="num" style="color:${valueColor(r.avg_value_per_pick)}">${r.avg_value_per_pick > 0 ? '+' : ''}${r.avg_value_per_pick}</td>
+      <td class="num">${r.seasons_drafted}</td>
+      <td style="font-size:12px; color:var(--muted)">${r.best_season.season} (${r.best_season.avg_value > 0 ? '+' : ''}${r.best_season.avg_value})</td>
+      <td style="font-size:12px; color:var(--muted)">${r.worst_season.season} (${r.worst_season.avg_value > 0 ? '+' : ''}${r.worst_season.avg_value})</td>
+    </tr>`;
+  });
+
+  const sBody = document.querySelector('#draft-steals-table tbody');
+  sBody.innerHTML = '';
+  steals.forEach(p => {
+    sBody.innerHTML += `<tr>
+      <td>${p.season}</td>
+      <td>${displayName(p.manager)}</td>
+      <td><strong>${p.player_name}</strong></td>
+      <td>${p.position}</td>
+      <td class="num">${p.pick} (Rd ${p.round})</td>
+      <td class="num">${p.points_rank}</td>
+      <td class="num">${p.points}</td>
+      <td class="num" style="color:var(--green); font-weight:600;">+${p.value}</td>
+    </tr>`;
+  });
+
+  const bBody = document.querySelector('#draft-busts-table tbody');
+  bBody.innerHTML = '';
+  busts.forEach(p => {
+    bBody.innerHTML += `<tr>
+      <td>${p.season}</td>
+      <td>${displayName(p.manager)}</td>
+      <td><strong>${p.player_name}</strong></td>
+      <td>${p.position}</td>
+      <td class="num">${p.pick} (Rd ${p.round})</td>
+      <td class="num">${p.points_rank}</td>
+      <td class="num">${p.points}</td>
+      <td class="num" style="color:var(--red); font-weight:600;">${p.value}</td>
+    </tr>`;
+  });
+
+  const bcBody = document.querySelector('#draft-best-classes-table tbody');
+  bcBody.innerHTML = '';
+  bestClasses.forEach(c => {
+    bcBody.innerHTML += `<tr><td>${c.season}</td><td>${displayName(c.manager)}</td><td class="num" style="color:var(--green)">+${c.total_value}</td></tr>`;
+  });
+
+  const wcBody = document.querySelector('#draft-worst-classes-table tbody');
+  wcBody.innerHTML = '';
+  worstClasses.forEach(c => {
+    wcBody.innerHTML += `<tr><td>${c.season}</td><td>${displayName(c.manager)}</td><td class="num" style="color:var(--red)">${c.total_value}</td></tr>`;
+  });
+}
+
 // ── INIT ──────────────────────────────────────────────────────────────────────
 window.addEventListener('DOMContentLoaded', () => {
   if (typeof WSW_DATA === 'undefined') {
@@ -696,6 +840,7 @@ window.addEventListener('DOMContentLoaded', () => {
   buildSeasons();
   populateMatchupFilters();
   renderMatchups();
+  buildDraft();
 });
 </script>
 </body>
