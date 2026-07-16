@@ -109,7 +109,7 @@ const WSW_DATA = {
         "rank": 5,
         "name": "Coltrain Blue",
         "team_id": "1",
-        "manager": "Coltrain Blue",
+        "manager": "Scott",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -2964,7 +2964,7 @@ const WSW_DATA = {
     "week": 1,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 53.54,
     "t0_result": "W",
@@ -3034,7 +3034,7 @@ const WSW_DATA = {
     "week": 2,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 78.42,
     "t0_result": "W",
@@ -3104,7 +3104,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 82.48,
     "t0_result": "W",
@@ -3174,7 +3174,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 64.08,
     "t0_result": "L",
@@ -3244,7 +3244,7 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 94.0,
     "t0_result": "W",
@@ -3314,7 +3314,7 @@ const WSW_DATA = {
     "week": 6,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 68.37,
     "t0_result": "L",
@@ -3384,7 +3384,7 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 77.4,
     "t0_result": "L",
@@ -3454,7 +3454,7 @@ const WSW_DATA = {
     "week": 8,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 97.59,
     "t0_result": "W",
@@ -3524,7 +3524,7 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 63.88,
     "t0_result": "L",
@@ -3594,7 +3594,7 @@ const WSW_DATA = {
     "week": 10,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 76.12,
     "t0_result": "W",
@@ -3664,7 +3664,7 @@ const WSW_DATA = {
     "week": 11,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 57.13,
     "t0_result": "L",
@@ -3734,7 +3734,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 73.23,
     "t0_result": "L",
@@ -3804,7 +3804,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 60.57,
     "t0_result": "L",
@@ -3874,7 +3874,7 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 60.57,
     "t0_result": "W",
@@ -3944,7 +3944,7 @@ const WSW_DATA = {
     "week": 15,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 66.06,
     "t0_result": "W",
@@ -4000,7 +4000,7 @@ const WSW_DATA = {
     "week": 16,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Coltrain Blue",
+    "t0_manager": "Scott",
     "t0_team": "Coltrain Blue",
     "t0_pts": 66.76,
     "t0_result": "W",
@@ -28233,11 +28233,11 @@ const WSW_DATA = {
   h2h: {
   "Roger|||Scott": {
     "Scott": {
-      "W": 22,
-      "L": 17,
+      "W": 23,
+      "L": 18,
       "T": 0,
-      "pts_for": 3519.89,
-      "pts_against": 3464.76,
+      "pts_for": 3655.44,
+      "pts_against": 3591.08,
       "games": [
         {
           "season": "2001",
@@ -28262,6 +28262,24 @@ const WSW_DATA = {
           "week": 11,
           "pts": 59.57,
           "opp_pts": 65.28,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 78.42,
+          "opp_pts": 65.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 57.13,
+          "opp_pts": 60.82,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
@@ -28593,11 +28611,11 @@ const WSW_DATA = {
       ]
     },
     "Roger": {
-      "W": 17,
-      "L": 22,
+      "W": 18,
+      "L": 23,
       "T": 0,
-      "pts_for": 3464.76,
-      "pts_against": 3519.89,
+      "pts_for": 3591.08,
+      "pts_against": 3655.44,
       "games": [
         {
           "season": "2001",
@@ -28625,6 +28643,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 65.5,
+          "opp_pts": 78.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 60.82,
+          "opp_pts": 57.13,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
         },
         {
           "season": "2003",
@@ -29967,11 +30003,11 @@ const WSW_DATA = {
   },
   "Michael|||Scott": {
     "Scott": {
-      "W": 20,
-      "L": 21,
+      "W": 21,
+      "L": 22,
       "T": 0,
-      "pts_for": 3636.73,
-      "pts_against": 3639.68,
+      "pts_for": 3792.44,
+      "pts_against": 3770.09,
       "games": [
         {
           "season": "2001",
@@ -29999,6 +30035,24 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Headhunter's R us"
+        },
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 82.48,
+          "opp_pts": 34.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 73.23,
+          "opp_pts": 96.13,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
         },
         {
           "season": "2003",
@@ -30345,11 +30399,11 @@ const WSW_DATA = {
       ]
     },
     "Michael": {
-      "W": 21,
-      "L": 20,
+      "W": 22,
+      "L": 21,
       "T": 0,
-      "pts_for": 3639.68,
-      "pts_against": 3636.73,
+      "pts_for": 3770.09,
+      "pts_against": 3792.44,
       "games": [
         {
           "season": "2001",
@@ -30377,6 +30431,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 34.28,
+          "opp_pts": 82.48,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 96.13,
+          "opp_pts": 73.23,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
         },
         {
           "season": "2003",
@@ -31774,10 +31846,10 @@ const WSW_DATA = {
   "Davidson|||Scott": {
     "Scott": {
       "W": 22,
-      "L": 19,
+      "L": 20,
       "T": 0,
-      "pts_for": 3537.81,
-      "pts_against": 3480.39,
+      "pts_for": 3615.21,
+      "pts_against": 3580.07,
       "games": [
         {
           "season": "2001",
@@ -31803,6 +31875,15 @@ const WSW_DATA = {
           "pts": 65.65,
           "opp_pts": 39.31,
           "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 77.4,
+          "opp_pts": 99.68,
+          "result": "L",
           "is_playoffs": false,
           "opp_team": "Fighting Tigers"
         },
@@ -32151,11 +32232,11 @@ const WSW_DATA = {
       ]
     },
     "Davidson": {
-      "W": 19,
+      "W": 20,
       "L": 22,
       "T": 0,
-      "pts_for": 3480.39,
-      "pts_against": 3537.81,
+      "pts_for": 3580.07,
+      "pts_against": 3615.21,
       "games": [
         {
           "season": "2001",
@@ -32183,6 +32264,15 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 99.68,
+          "opp_pts": 77.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
         },
         {
           "season": "2003",
@@ -33453,11 +33543,11 @@ const WSW_DATA = {
   },
   "Damon|||Scott": {
     "Scott": {
-      "W": 26,
+      "W": 28,
       "L": 17,
       "T": 0,
-      "pts_for": 4105.36,
-      "pts_against": 3699.55,
+      "pts_for": 4235.02,
+      "pts_against": 3826.58,
       "games": [
         {
           "season": "2001",
@@ -33485,6 +33575,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "lasebre avengers"
+        },
+        {
+          "season": "2002",
+          "week": 1,
+          "pts": 53.54,
+          "opp_pts": 53.35,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
+        },
+        {
+          "season": "2002",
+          "week": 10,
+          "pts": 76.12,
+          "opp_pts": 73.68,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
         },
         {
           "season": "2003",
@@ -33850,10 +33958,10 @@ const WSW_DATA = {
     },
     "Damon": {
       "W": 17,
-      "L": 26,
+      "L": 28,
       "T": 0,
-      "pts_for": 3699.55,
-      "pts_against": 4105.36,
+      "pts_for": 3826.58,
+      "pts_against": 4235.02,
       "games": [
         {
           "season": "2001",
@@ -33881,6 +33989,24 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2002",
+          "week": 1,
+          "pts": 53.35,
+          "opp_pts": 53.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2002",
+          "week": 10,
+          "pts": 73.68,
+          "opp_pts": 76.12,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
         },
         {
           "season": "2003",
@@ -35223,11 +35349,11 @@ const WSW_DATA = {
   },
   "Dahmer's Cannibals|||Scott": {
     "Scott": {
-      "W": 5,
+      "W": 6,
       "L": 2,
       "T": 0,
-      "pts_for": 532.72,
-      "pts_against": 513.9,
+      "pts_for": 630.31,
+      "pts_against": 555.33,
       "games": [
         {
           "season": "2001",
@@ -35243,6 +35369,15 @@ const WSW_DATA = {
           "week": 10,
           "pts": 87.82,
           "opp_pts": 75.7,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2002",
+          "week": 8,
+          "pts": 97.59,
+          "opp_pts": 41.43,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
@@ -35296,10 +35431,10 @@ const WSW_DATA = {
     },
     "Dahmer's Cannibals": {
       "W": 2,
-      "L": 5,
+      "L": 6,
       "T": 0,
-      "pts_for": 513.9,
-      "pts_against": 532.72,
+      "pts_for": 555.33,
+      "pts_against": 630.31,
       "games": [
         {
           "season": "2001",
@@ -35318,6 +35453,15 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2002",
+          "week": 8,
+          "pts": 41.43,
+          "opp_pts": 97.59,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
         },
         {
           "season": "2003",
@@ -36919,62 +37063,6 @@ const WSW_DATA = {
       ]
     }
   },
-  "Coltrain Blue|||Damon": {
-    "Coltrain Blue": {
-      "W": 2,
-      "L": 0,
-      "T": 0,
-      "pts_for": 129.66,
-      "pts_against": 127.03,
-      "games": [
-        {
-          "season": "2002",
-          "week": 1,
-          "pts": 53.54,
-          "opp_pts": 53.35,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2002",
-          "week": 10,
-          "pts": 76.12,
-          "opp_pts": 73.68,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        }
-      ]
-    },
-    "Damon": {
-      "W": 0,
-      "L": 2,
-      "T": 0,
-      "pts_for": 127.03,
-      "pts_against": 129.66,
-      "games": [
-        {
-          "season": "2002",
-          "week": 1,
-          "pts": 53.35,
-          "opp_pts": 53.54,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 10,
-          "pts": 73.68,
-          "opp_pts": 76.12,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        }
-      ]
-    }
-  },
   "Jakes Jugglers|||Robert": {
     "Robert": {
       "W": 3,
@@ -37119,62 +37207,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Radical Riptide"
-        }
-      ]
-    }
-  },
-  "Coltrain Blue|||Roger": {
-    "Coltrain Blue": {
-      "W": 1,
-      "L": 1,
-      "T": 0,
-      "pts_for": 135.55,
-      "pts_against": 126.32,
-      "games": [
-        {
-          "season": "2002",
-          "week": 2,
-          "pts": 78.42,
-          "opp_pts": 65.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 11,
-          "pts": 57.13,
-          "opp_pts": 60.82,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        }
-      ]
-    },
-    "Roger": {
-      "W": 1,
-      "L": 1,
-      "T": 0,
-      "pts_for": 126.32,
-      "pts_against": 135.55,
-      "games": [
-        {
-          "season": "2002",
-          "week": 2,
-          "pts": 65.5,
-          "opp_pts": 78.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 11,
-          "pts": 60.82,
-          "opp_pts": 57.13,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
         }
       ]
     }
@@ -38301,62 +38333,6 @@ const WSW_DATA = {
       ]
     }
   },
-  "Coltrain Blue|||Michael": {
-    "Coltrain Blue": {
-      "W": 1,
-      "L": 1,
-      "T": 0,
-      "pts_for": 155.71,
-      "pts_against": 130.41,
-      "games": [
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 82.48,
-          "opp_pts": 34.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 73.23,
-          "opp_pts": 96.13,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        }
-      ]
-    },
-    "Michael": {
-      "W": 1,
-      "L": 1,
-      "T": 0,
-      "pts_for": 130.41,
-      "pts_against": 155.71,
-      "games": [
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 34.28,
-          "opp_pts": 82.48,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 96.13,
-          "opp_pts": 73.23,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        }
-      ]
-    }
-  },
   "Dahmer's Cannibals|||Robert": {
     "Robert": {
       "W": 6,
@@ -38633,13 +38609,13 @@ const WSW_DATA = {
       ]
     }
   },
-  "Coltrain Blue|||Robert": {
-    "Coltrain Blue": {
-      "W": 0,
-      "L": 2,
+  "Robert|||Scott": {
+    "Scott": {
+      "W": 18,
+      "L": 19,
       "T": 0,
-      "pts_for": 124.65,
-      "pts_against": 158.96,
+      "pts_for": 3181.42,
+      "pts_against": 3379.62,
       "games": [
         {
           "season": "2002",
@@ -38658,15 +38634,330 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 48.36,
+          "opp_pts": 53.17,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 65.04,
+          "opp_pts": 90.92,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2004",
+          "week": 8,
+          "pts": 75.87,
+          "opp_pts": 64.37,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2005",
+          "week": 7,
+          "pts": 60.48,
+          "opp_pts": 72.89,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2006",
+          "week": 8,
+          "pts": 83.2,
+          "opp_pts": 44.79,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 96.84,
+          "opp_pts": 75.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 44.52,
+          "opp_pts": 106.66,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 110.08,
+          "opp_pts": 105.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2009",
+          "week": 7,
+          "pts": 59.74,
+          "opp_pts": 110.04,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 3,
+          "pts": 108.78,
+          "opp_pts": 88.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 12,
+          "pts": 53.26,
+          "opp_pts": 120.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 16,
+          "pts": 62.98,
+          "opp_pts": 138.96,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2011",
+          "week": 7,
+          "pts": 86.34,
+          "opp_pts": 63.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2012",
+          "week": 9,
+          "pts": 105.34,
+          "opp_pts": 84.78,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2012",
+          "week": 16,
+          "pts": 117.24,
+          "opp_pts": 78.48,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2013",
+          "week": 6,
+          "pts": 52.26,
+          "opp_pts": 110.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2014",
+          "week": 3,
+          "pts": 59.94,
+          "opp_pts": 92.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2014",
+          "week": 12,
+          "pts": 109.06,
+          "opp_pts": 80.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2015",
+          "week": 6,
+          "pts": 103.52,
+          "opp_pts": 93.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2016",
+          "week": 4,
+          "pts": 135.7,
+          "opp_pts": 96.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2016",
+          "week": 13,
+          "pts": 92.16,
+          "opp_pts": 69.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2017",
+          "week": 5,
+          "pts": 96.6,
+          "opp_pts": 100.1,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2017",
+          "week": 14,
+          "pts": 70.84,
+          "opp_pts": 106.24,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2018",
+          "week": 5,
+          "pts": 99.94,
+          "opp_pts": 108.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2018",
+          "week": 14,
+          "pts": 113.14,
+          "opp_pts": 53.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2019",
+          "week": 2,
+          "pts": 101.26,
+          "opp_pts": 77.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2019",
+          "week": 11,
+          "pts": 58.34,
+          "opp_pts": 82.44,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2020",
+          "week": 8,
+          "pts": 82.64,
+          "opp_pts": 60.76,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2021",
+          "week": 4,
+          "pts": 102.62,
+          "opp_pts": 96.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2021",
+          "week": 13,
+          "pts": 114.52,
+          "opp_pts": 100.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2022",
+          "week": 6,
+          "pts": 85.92,
+          "opp_pts": 113.76,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2022",
+          "week": 15,
+          "pts": 94.0,
+          "opp_pts": 138.76,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2023",
+          "week": 7,
+          "pts": 99.66,
+          "opp_pts": 101.9,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2024",
+          "week": 8,
+          "pts": 101.56,
+          "opp_pts": 83.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2025",
+          "week": 8,
+          "pts": 105.02,
+          "opp_pts": 154.44,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
         }
       ]
     },
     "Robert": {
-      "W": 2,
-      "L": 0,
+      "W": 19,
+      "L": 18,
       "T": 0,
-      "pts_for": 158.96,
-      "pts_against": 124.65,
+      "pts_for": 3379.62,
+      "pts_against": 3181.42,
       "games": [
         {
           "season": "2002",
@@ -38685,6 +38976,321 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 53.17,
+          "opp_pts": 48.36,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 90.92,
+          "opp_pts": 65.04,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2004",
+          "week": 8,
+          "pts": 64.37,
+          "opp_pts": 75.87,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2005",
+          "week": 7,
+          "pts": 72.89,
+          "opp_pts": 60.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 8,
+          "pts": 44.79,
+          "opp_pts": 83.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 75.0,
+          "opp_pts": 96.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 106.66,
+          "opp_pts": 44.52,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 105.44,
+          "opp_pts": 110.08,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2009",
+          "week": 7,
+          "pts": 110.04,
+          "opp_pts": 59.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 3,
+          "pts": 88.54,
+          "opp_pts": 108.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 12,
+          "pts": 120.56,
+          "opp_pts": 53.26,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 16,
+          "pts": 138.96,
+          "opp_pts": 62.98,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2011",
+          "week": 7,
+          "pts": 63.9,
+          "opp_pts": 86.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2012",
+          "week": 9,
+          "pts": 84.78,
+          "opp_pts": 105.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2012",
+          "week": 16,
+          "pts": 78.48,
+          "opp_pts": 117.24,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2013",
+          "week": 6,
+          "pts": 110.88,
+          "opp_pts": 52.26,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2014",
+          "week": 3,
+          "pts": 92.2,
+          "opp_pts": 59.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2014",
+          "week": 12,
+          "pts": 80.8,
+          "opp_pts": 109.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2015",
+          "week": 6,
+          "pts": 93.9,
+          "opp_pts": 103.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2016",
+          "week": 4,
+          "pts": 96.28,
+          "opp_pts": 135.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2016",
+          "week": 13,
+          "pts": 69.94,
+          "opp_pts": 92.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2017",
+          "week": 5,
+          "pts": 100.1,
+          "opp_pts": 96.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2017",
+          "week": 14,
+          "pts": 106.24,
+          "opp_pts": 70.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2018",
+          "week": 5,
+          "pts": 108.5,
+          "opp_pts": 99.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2018",
+          "week": 14,
+          "pts": 53.6,
+          "opp_pts": 113.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2019",
+          "week": 2,
+          "pts": 77.5,
+          "opp_pts": 101.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2019",
+          "week": 11,
+          "pts": 82.44,
+          "opp_pts": 58.34,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2020",
+          "week": 8,
+          "pts": 60.76,
+          "opp_pts": 82.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2021",
+          "week": 4,
+          "pts": 96.32,
+          "opp_pts": 102.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2021",
+          "week": 13,
+          "pts": 100.2,
+          "opp_pts": 114.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2022",
+          "week": 6,
+          "pts": 113.76,
+          "opp_pts": 85.92,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2022",
+          "week": 15,
+          "pts": 138.76,
+          "opp_pts": 94.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2023",
+          "week": 7,
+          "pts": 101.9,
+          "opp_pts": 99.66,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2024",
+          "week": 8,
+          "pts": 83.64,
+          "opp_pts": 101.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2025",
+          "week": 8,
+          "pts": 154.44,
+          "opp_pts": 105.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     }
@@ -39019,8 +39625,8 @@ const WSW_DATA = {
       ]
     }
   },
-  "Coltrain Blue|||Radical Riptide": {
-    "Coltrain Blue": {
+  "Radical Riptide|||Scott": {
+    "Scott": {
       "W": 2,
       "L": 0,
       "T": 0,
@@ -39945,13 +40551,13 @@ const WSW_DATA = {
       ]
     }
   },
-  "Coltrain Blue|||Jakes Jugglers": {
-    "Coltrain Blue": {
-      "W": 0,
-      "L": 1,
+  "Jakes Jugglers|||Scott": {
+    "Scott": {
+      "W": 1,
+      "L": 2,
       "T": 0,
-      "pts_for": 68.37,
-      "pts_against": 82.88,
+      "pts_for": 206.07,
+      "pts_against": 195.62,
       "games": [
         {
           "season": "2002",
@@ -39961,15 +40567,33 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2003",
+          "week": 7,
+          "pts": 72.74,
+          "opp_pts": 41.71,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        },
+        {
+          "season": "2003",
+          "week": 14,
+          "pts": 64.96,
+          "opp_pts": 71.03,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
         }
       ]
     },
     "Jakes Jugglers": {
-      "W": 1,
-      "L": 0,
+      "W": 2,
+      "L": 1,
       "T": 0,
-      "pts_for": 82.88,
-      "pts_against": 68.37,
+      "pts_for": 195.62,
+      "pts_against": 206.07,
       "games": [
         {
           "season": "2002",
@@ -39979,6 +40603,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2003",
+          "week": 7,
+          "pts": 41.71,
+          "opp_pts": 72.74,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 14,
+          "pts": 71.03,
+          "opp_pts": 64.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
         }
       ]
     }
@@ -41033,44 +41675,6 @@ const WSW_DATA = {
       ]
     }
   },
-  "Coltrain Blue|||Davidson": {
-    "Coltrain Blue": {
-      "W": 0,
-      "L": 1,
-      "T": 0,
-      "pts_for": 77.4,
-      "pts_against": 99.68,
-      "games": [
-        {
-          "season": "2002",
-          "week": 7,
-          "pts": 77.4,
-          "opp_pts": 99.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        }
-      ]
-    },
-    "Davidson": {
-      "W": 1,
-      "L": 0,
-      "T": 0,
-      "pts_for": 99.68,
-      "pts_against": 77.4,
-      "games": [
-        {
-          "season": "2002",
-          "week": 7,
-          "pts": 99.68,
-          "opp_pts": 77.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        }
-      ]
-    }
-  },
   "Damon|||Jakes Jugglers": {
     "Damon": {
       "W": 1,
@@ -42033,44 +42637,6 @@ const WSW_DATA = {
       ]
     }
   },
-  "Coltrain Blue|||Dahmer's Cannibals": {
-    "Coltrain Blue": {
-      "W": 1,
-      "L": 0,
-      "T": 0,
-      "pts_for": 97.59,
-      "pts_against": 41.43,
-      "games": [
-        {
-          "season": "2002",
-          "week": 8,
-          "pts": 97.59,
-          "opp_pts": 41.43,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        }
-      ]
-    },
-    "Dahmer's Cannibals": {
-      "W": 0,
-      "L": 1,
-      "T": 0,
-      "pts_for": 41.43,
-      "pts_against": 97.59,
-      "games": [
-        {
-          "season": "2002",
-          "week": 8,
-          "pts": 41.43,
-          "opp_pts": 97.59,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        }
-      ]
-    }
-  },
   "Jakes Jugglers|||Roger": {
     "Roger": {
       "W": 1,
@@ -42365,13 +42931,13 @@ const WSW_DATA = {
       ]
     }
   },
-  "Coltrain Blue|||Ric's Last Resort": {
-    "Coltrain Blue": {
-      "W": 0,
-      "L": 1,
+  "Ric's Last Resort|||Scott": {
+    "Scott": {
+      "W": 2,
+      "L": 8,
       "T": 0,
-      "pts_for": 63.88,
-      "pts_against": 81.1,
+      "pts_for": 714.37,
+      "pts_against": 868.93,
       "games": [
         {
           "season": "2002",
@@ -42381,15 +42947,96 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2004",
+          "week": 9,
+          "pts": 76.18,
+          "opp_pts": 26.03,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 9,
+          "pts": 58.62,
+          "opp_pts": 70.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 2,
+          "pts": 50.8,
+          "opp_pts": 102.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 11,
+          "pts": 52.93,
+          "opp_pts": 65.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 72.54,
+          "opp_pts": 109.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 51.72,
+          "opp_pts": 106.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 85.28,
+          "opp_pts": 93.32,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 87.86,
+          "opp_pts": 101.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2009",
+          "week": 9,
+          "pts": 114.56,
+          "opp_pts": 112.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
         }
       ]
     },
     "Ric's Last Resort": {
-      "W": 1,
-      "L": 0,
+      "W": 8,
+      "L": 2,
       "T": 0,
-      "pts_for": 81.1,
-      "pts_against": 63.88,
+      "pts_for": 868.93,
+      "pts_against": 714.37,
       "games": [
         {
           "season": "2002",
@@ -42399,6 +43046,87 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2004",
+          "week": 9,
+          "pts": 26.03,
+          "opp_pts": 76.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2005",
+          "week": 9,
+          "pts": 70.18,
+          "opp_pts": 58.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 2,
+          "pts": 102.52,
+          "opp_pts": 50.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 11,
+          "pts": 65.7,
+          "opp_pts": 52.93,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 109.68,
+          "opp_pts": 72.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 106.42,
+          "opp_pts": 51.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 93.32,
+          "opp_pts": 85.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 101.52,
+          "opp_pts": 87.86,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2009",
+          "week": 9,
+          "pts": 112.46,
+          "opp_pts": 114.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     }
@@ -42511,712 +43239,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
-        }
-      ]
-    }
-  },
-  "Robert|||Scott": {
-    "Scott": {
-      "W": 18,
-      "L": 17,
-      "T": 0,
-      "pts_for": 3056.77,
-      "pts_against": 3220.66,
-      "games": [
-        {
-          "season": "2003",
-          "week": 3,
-          "pts": 48.36,
-          "opp_pts": 53.17,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 10,
-          "pts": 65.04,
-          "opp_pts": 90.92,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
-          "season": "2004",
-          "week": 8,
-          "pts": 75.87,
-          "opp_pts": 64.37,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2005",
-          "week": 7,
-          "pts": 60.48,
-          "opp_pts": 72.89,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2006",
-          "week": 8,
-          "pts": 83.2,
-          "opp_pts": 44.79,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 96.84,
-          "opp_pts": 75.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2007",
-          "week": 8,
-          "pts": 44.52,
-          "opp_pts": 106.66,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 110.08,
-          "opp_pts": 105.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2009",
-          "week": 7,
-          "pts": 59.74,
-          "opp_pts": 110.04,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2010",
-          "week": 3,
-          "pts": 108.78,
-          "opp_pts": 88.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2010",
-          "week": 12,
-          "pts": 53.26,
-          "opp_pts": 120.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2010",
-          "week": 16,
-          "pts": 62.98,
-          "opp_pts": 138.96,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2011",
-          "week": 7,
-          "pts": 86.34,
-          "opp_pts": 63.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2012",
-          "week": 9,
-          "pts": 105.34,
-          "opp_pts": 84.78,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2012",
-          "week": 16,
-          "pts": 117.24,
-          "opp_pts": 78.48,
-          "result": "W",
-          "is_playoffs": true,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2013",
-          "week": 6,
-          "pts": 52.26,
-          "opp_pts": 110.88,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2014",
-          "week": 3,
-          "pts": 59.94,
-          "opp_pts": 92.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2014",
-          "week": 12,
-          "pts": 109.06,
-          "opp_pts": 80.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2015",
-          "week": 6,
-          "pts": 103.52,
-          "opp_pts": 93.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2016",
-          "week": 4,
-          "pts": 135.7,
-          "opp_pts": 96.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2016",
-          "week": 13,
-          "pts": 92.16,
-          "opp_pts": 69.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2017",
-          "week": 5,
-          "pts": 96.6,
-          "opp_pts": 100.1,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2017",
-          "week": 14,
-          "pts": 70.84,
-          "opp_pts": 106.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2018",
-          "week": 5,
-          "pts": 99.94,
-          "opp_pts": 108.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2018",
-          "week": 14,
-          "pts": 113.14,
-          "opp_pts": 53.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2019",
-          "week": 2,
-          "pts": 101.26,
-          "opp_pts": 77.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2019",
-          "week": 11,
-          "pts": 58.34,
-          "opp_pts": 82.44,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2020",
-          "week": 8,
-          "pts": 82.64,
-          "opp_pts": 60.76,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2021",
-          "week": 4,
-          "pts": 102.62,
-          "opp_pts": 96.32,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2021",
-          "week": 13,
-          "pts": 114.52,
-          "opp_pts": 100.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2022",
-          "week": 6,
-          "pts": 85.92,
-          "opp_pts": 113.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2022",
-          "week": 15,
-          "pts": 94.0,
-          "opp_pts": 138.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2023",
-          "week": 7,
-          "pts": 99.66,
-          "opp_pts": 101.9,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2024",
-          "week": 8,
-          "pts": 101.56,
-          "opp_pts": 83.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2025",
-          "week": 8,
-          "pts": 105.02,
-          "opp_pts": 154.44,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        }
-      ]
-    },
-    "Robert": {
-      "W": 17,
-      "L": 18,
-      "T": 0,
-      "pts_for": 3220.66,
-      "pts_against": 3056.77,
-      "games": [
-        {
-          "season": "2003",
-          "week": 3,
-          "pts": 53.17,
-          "opp_pts": 48.36,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULLs Spoliators"
-        },
-        {
-          "season": "2003",
-          "week": 10,
-          "pts": 90.92,
-          "opp_pts": 65.04,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULLs Spoliators"
-        },
-        {
-          "season": "2004",
-          "week": 8,
-          "pts": 64.37,
-          "opp_pts": 75.87,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2005",
-          "week": 7,
-          "pts": 72.89,
-          "opp_pts": 60.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2006",
-          "week": 8,
-          "pts": 44.79,
-          "opp_pts": 83.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 75.0,
-          "opp_pts": 96.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 8,
-          "pts": 106.66,
-          "opp_pts": 44.52,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 105.44,
-          "opp_pts": 110.08,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2009",
-          "week": 7,
-          "pts": 110.04,
-          "opp_pts": 59.74,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 3,
-          "pts": 88.54,
-          "opp_pts": 108.78,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 12,
-          "pts": 120.56,
-          "opp_pts": 53.26,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 16,
-          "pts": 138.96,
-          "opp_pts": 62.98,
-          "result": "W",
-          "is_playoffs": true,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2011",
-          "week": 7,
-          "pts": 63.9,
-          "opp_pts": 86.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2012",
-          "week": 9,
-          "pts": 84.78,
-          "opp_pts": 105.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2012",
-          "week": 16,
-          "pts": 78.48,
-          "opp_pts": 117.24,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2013",
-          "week": 6,
-          "pts": 110.88,
-          "opp_pts": 52.26,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2014",
-          "week": 3,
-          "pts": 92.2,
-          "opp_pts": 59.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2014",
-          "week": 12,
-          "pts": 80.8,
-          "opp_pts": 109.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2015",
-          "week": 6,
-          "pts": 93.9,
-          "opp_pts": 103.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2016",
-          "week": 4,
-          "pts": 96.28,
-          "opp_pts": 135.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2016",
-          "week": 13,
-          "pts": 69.94,
-          "opp_pts": 92.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2017",
-          "week": 5,
-          "pts": 100.1,
-          "opp_pts": 96.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2017",
-          "week": 14,
-          "pts": 106.24,
-          "opp_pts": 70.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2018",
-          "week": 5,
-          "pts": 108.5,
-          "opp_pts": 99.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2018",
-          "week": 14,
-          "pts": 53.6,
-          "opp_pts": 113.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2019",
-          "week": 2,
-          "pts": 77.5,
-          "opp_pts": 101.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2019",
-          "week": 11,
-          "pts": 82.44,
-          "opp_pts": 58.34,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2020",
-          "week": 8,
-          "pts": 60.76,
-          "opp_pts": 82.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2021",
-          "week": 4,
-          "pts": 96.32,
-          "opp_pts": 102.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2021",
-          "week": 13,
-          "pts": 100.2,
-          "opp_pts": 114.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2022",
-          "week": 6,
-          "pts": 113.76,
-          "opp_pts": 85.92,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2022",
-          "week": 15,
-          "pts": 138.76,
-          "opp_pts": 94.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2023",
-          "week": 7,
-          "pts": 101.9,
-          "opp_pts": 99.66,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2024",
-          "week": 8,
-          "pts": 83.64,
-          "opp_pts": 101.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2025",
-          "week": 8,
-          "pts": 154.44,
-          "opp_pts": 105.02,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        }
-      ]
-    }
-  },
-  "Jakes Jugglers|||Scott": {
-    "Scott": {
-      "W": 1,
-      "L": 1,
-      "T": 0,
-      "pts_for": 137.7,
-      "pts_against": 112.74,
-      "games": [
-        {
-          "season": "2003",
-          "week": 7,
-          "pts": 72.74,
-          "opp_pts": 41.71,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Jakes Jugglers"
-        },
-        {
-          "season": "2003",
-          "week": 14,
-          "pts": 64.96,
-          "opp_pts": 71.03,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Jakes Jugglers"
-        }
-      ]
-    },
-    "Jakes Jugglers": {
-      "W": 1,
-      "L": 1,
-      "T": 0,
-      "pts_for": 112.74,
-      "pts_against": 137.7,
-      "games": [
-        {
-          "season": "2003",
-          "week": 7,
-          "pts": 41.71,
-          "opp_pts": 72.74,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULLs Spoliators"
-        },
-        {
-          "season": "2003",
-          "week": 14,
-          "pts": 71.03,
-          "opp_pts": 64.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULLs Spoliators"
         }
       ]
     }
@@ -47171,188 +47193,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Patterson Prophets"
-        }
-      ]
-    }
-  },
-  "Ric's Last Resort|||Scott": {
-    "Scott": {
-      "W": 2,
-      "L": 7,
-      "T": 0,
-      "pts_for": 650.49,
-      "pts_against": 787.83,
-      "games": [
-        {
-          "season": "2004",
-          "week": 9,
-          "pts": 76.18,
-          "opp_pts": 26.03,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2005",
-          "week": 9,
-          "pts": 58.62,
-          "opp_pts": 70.18,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 2,
-          "pts": 50.8,
-          "opp_pts": 102.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 11,
-          "pts": 52.93,
-          "opp_pts": 65.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 2,
-          "pts": 72.54,
-          "opp_pts": 109.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 51.72,
-          "opp_pts": 106.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 85.28,
-          "opp_pts": 93.32,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 87.86,
-          "opp_pts": 101.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2009",
-          "week": 9,
-          "pts": 114.56,
-          "opp_pts": 112.46,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        }
-      ]
-    },
-    "Ric's Last Resort": {
-      "W": 7,
-      "L": 2,
-      "T": 0,
-      "pts_for": 787.83,
-      "pts_against": 650.49,
-      "games": [
-        {
-          "season": "2004",
-          "week": 9,
-          "pts": 26.03,
-          "opp_pts": 76.18,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2005",
-          "week": 9,
-          "pts": 70.18,
-          "opp_pts": 58.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2006",
-          "week": 2,
-          "pts": 102.52,
-          "opp_pts": 50.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2006",
-          "week": 11,
-          "pts": 65.7,
-          "opp_pts": 52.93,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 2,
-          "pts": 109.68,
-          "opp_pts": 72.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 106.42,
-          "opp_pts": 51.72,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 93.32,
-          "opp_pts": 85.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 101.52,
-          "opp_pts": 87.86,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2009",
-          "week": 9,
-          "pts": 112.46,
-          "opp_pts": 114.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         }
       ]
     }
@@ -61694,13 +61534,14 @@ const WSW_DATA = {
 },
   managers: {
   "Scott": {
-    "W": 185,
-    "L": 170,
+    "W": 192,
+    "L": 177,
     "T": 0,
-    "pts_for": 32371.4,
+    "pts_for": 33378.78,
     "championships": 6,
     "seasons": [
       "2001",
+      "2002",
       "2003",
       "2004",
       "2005",
@@ -61875,17 +61716,6 @@ const WSW_DATA = {
       "2004",
       "2005",
       "2006"
-    ],
-    "playoff_apps": 0
-  },
-  "Coltrain Blue": {
-    "W": 7,
-    "L": 7,
-    "T": 0,
-    "pts_for": 1007.38,
-    "championships": 0,
-    "seasons": [
-      "2002"
     ],
     "playoff_apps": 0
   },
@@ -63387,7 +63217,7 @@ const WSW_DATA = {
           "pick": 6,
           "round": 1,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Ahman Green",
           "position": "RB",
@@ -63504,7 +63334,7 @@ const WSW_DATA = {
           "pick": 15,
           "round": 2,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Edgerrin James",
           "position": "RB",
@@ -63647,7 +63477,7 @@ const WSW_DATA = {
           "pick": 26,
           "round": 3,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Donovan McNabb",
           "position": "QB",
@@ -63764,7 +63594,7 @@ const WSW_DATA = {
           "pick": 35,
           "round": 4,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Isaac Bruce",
           "position": "WR",
@@ -63907,7 +63737,7 @@ const WSW_DATA = {
           "pick": 46,
           "round": 5,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Terry Glenn",
           "position": "WR",
@@ -64024,7 +63854,7 @@ const WSW_DATA = {
           "pick": 55,
           "round": 6,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Buccaneers",
           "position": "DEF",
@@ -64167,7 +63997,7 @@ const WSW_DATA = {
           "pick": 66,
           "round": 7,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Amani Toomer",
           "position": "WR",
@@ -64284,7 +64114,7 @@ const WSW_DATA = {
           "pick": 75,
           "round": 8,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Freddie Jones",
           "position": "TE",
@@ -64427,7 +64257,7 @@ const WSW_DATA = {
           "pick": 86,
           "round": 9,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Olindo Mare",
           "position": "K",
@@ -64544,7 +64374,7 @@ const WSW_DATA = {
           "pick": 95,
           "round": 10,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Michael Vick",
           "position": "QB",
@@ -64687,7 +64517,7 @@ const WSW_DATA = {
           "pick": 106,
           "round": 11,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Muhsin Muhammad",
           "position": "WR",
@@ -64804,7 +64634,7 @@ const WSW_DATA = {
           "pick": 115,
           "round": 12,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "James Stewart",
           "position": "RB",
@@ -64947,7 +64777,7 @@ const WSW_DATA = {
           "pick": 126,
           "round": 13,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Bill Schroeder",
           "position": "WR",
@@ -65064,7 +64894,7 @@ const WSW_DATA = {
           "pick": 135,
           "round": 14,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Tyrone Wheatley",
           "position": "RB",
@@ -65207,7 +65037,7 @@ const WSW_DATA = {
           "pick": 146,
           "round": 15,
           "team_key": "49.l.19125.t.1",
-          "manager": "Coltrain Blue",
+          "manager": "Scott",
           "team_name": "Coltrain Blue",
           "player_name": "Jake Plummer",
           "position": "QB",
@@ -65294,7 +65124,7 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 2.87
         },
-        "Coltrain Blue": {
+        "Scott": {
           "total_value": -3,
           "picks": 15,
           "avg_value": -0.2
@@ -108985,19 +108815,6 @@ const WSW_DATA = {
       }
     },
     {
-      "manager": "Coltrain Blue",
-      "seasons_drafted": 1,
-      "avg_value_per_pick": -0.2,
-      "best_season": {
-        "season": "2002",
-        "avg_value": -0.2
-      },
-      "worst_season": {
-        "season": "2002",
-        "avg_value": -0.2
-      }
-    },
-    {
       "manager": "Michael",
       "seasons_drafted": 24,
       "avg_value_per_pick": -0.23,
@@ -109038,8 +108855,8 @@ const WSW_DATA = {
     },
     {
       "manager": "Scott",
-      "seasons_drafted": 23,
-      "avg_value_per_pick": -4.19,
+      "seasons_drafted": 24,
+      "avg_value_per_pick": -4.03,
       "best_season": {
         "season": "2005",
         "avg_value": 12.0
