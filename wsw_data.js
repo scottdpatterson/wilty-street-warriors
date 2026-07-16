@@ -108769,7 +108769,7 @@ const WSW_DATA = {
     {
       "manager": "Ric's Last Resort",
       "seasons_drafted": 6,
-      "avg_value_per_pick": 6.23,
+      "avg_value_per_pick": 6.2,
       "best_season": {
         "season": "2005",
         "avg_value": 11.27
@@ -108782,7 +108782,7 @@ const WSW_DATA = {
     {
       "manager": "Jack",
       "seasons_drafted": 6,
-      "avg_value_per_pick": 4.22,
+      "avg_value_per_pick": 4.2,
       "best_season": {
         "season": "2021",
         "avg_value": 12.0
@@ -108795,7 +108795,7 @@ const WSW_DATA = {
     {
       "manager": "Roger",
       "seasons_drafted": 24,
-      "avg_value_per_pick": 2.45,
+      "avg_value_per_pick": 2.4,
       "best_season": {
         "season": "2004",
         "avg_value": 23.27
@@ -108808,7 +108808,7 @@ const WSW_DATA = {
     {
       "manager": "Jakes Jugglers",
       "seasons_drafted": 2,
-      "avg_value_per_pick": 1.44,
+      "avg_value_per_pick": 1.4,
       "best_season": {
         "season": "2002",
         "avg_value": 2.87
@@ -108821,7 +108821,7 @@ const WSW_DATA = {
     {
       "manager": "Seth",
       "seasons_drafted": 16,
-      "avg_value_per_pick": 1.38,
+      "avg_value_per_pick": 1.4,
       "best_season": {
         "season": "2022",
         "avg_value": 14.27
@@ -108834,7 +108834,7 @@ const WSW_DATA = {
     {
       "manager": "Dahmer's Cannibals",
       "seasons_drafted": 6,
-      "avg_value_per_pick": 1.07,
+      "avg_value_per_pick": 1.1,
       "best_season": {
         "season": "2006",
         "avg_value": 8.07
@@ -108847,7 +108847,7 @@ const WSW_DATA = {
     {
       "manager": "Davidson",
       "seasons_drafted": 24,
-      "avg_value_per_pick": 0.91,
+      "avg_value_per_pick": 0.9,
       "best_season": {
         "season": "2017",
         "avg_value": 24.0
@@ -108860,7 +108860,7 @@ const WSW_DATA = {
     {
       "manager": "Robert",
       "seasons_drafted": 23,
-      "avg_value_per_pick": 0.33,
+      "avg_value_per_pick": 0.3,
       "best_season": {
         "season": "2007",
         "avg_value": 18.2
@@ -108873,7 +108873,7 @@ const WSW_DATA = {
     {
       "manager": "Damon",
       "seasons_drafted": 24,
-      "avg_value_per_pick": -0.23,
+      "avg_value_per_pick": -0.2,
       "best_season": {
         "season": "2013",
         "avg_value": 14.6
@@ -108886,7 +108886,7 @@ const WSW_DATA = {
     {
       "manager": "Brett",
       "seasons_drafted": 19,
-      "avg_value_per_pick": -2.14,
+      "avg_value_per_pick": -2.1,
       "best_season": {
         "season": "2017",
         "avg_value": 8.4
@@ -108899,7 +108899,7 @@ const WSW_DATA = {
     {
       "manager": "Michael",
       "seasons_drafted": 24,
-      "avg_value_per_pick": -3.94,
+      "avg_value_per_pick": -3.9,
       "best_season": {
         "season": "2011",
         "avg_value": 8.53
@@ -108912,7 +108912,7 @@ const WSW_DATA = {
     {
       "manager": "Scott",
       "seasons_drafted": 24,
-      "avg_value_per_pick": -4.03,
+      "avg_value_per_pick": -4.0,
       "best_season": {
         "season": "2005",
         "avg_value": 12.0
@@ -108925,7 +108925,7 @@ const WSW_DATA = {
     {
       "manager": "Radical Riptide",
       "seasons_drafted": 1,
-      "avg_value_per_pick": -6.27,
+      "avg_value_per_pick": -6.3,
       "best_season": {
         "season": "2002",
         "avg_value": -6.27
@@ -109542,7 +109542,7 @@ const WSW_DATA = {
       1,
       1
     ],
-    "avg_placing": 4.26,
+    "avg_placing": 4.3,
     "best": 1,
     "worst": 10,
     "seasons": 23
@@ -109618,7 +109618,7 @@ const WSW_DATA = {
       2,
       1
     ],
-    "avg_placing": 5.06,
+    "avg_placing": 5.1,
     "best": 1,
     "worst": 10,
     "seasons": 16
@@ -109637,7 +109637,7 @@ const WSW_DATA = {
       2,
       1
     ],
-    "avg_placing": 5.58,
+    "avg_placing": 5.6,
     "best": 1,
     "worst": 10,
     "seasons": 24
@@ -109656,7 +109656,7 @@ const WSW_DATA = {
       2,
       5
     ],
-    "avg_placing": 6.38,
+    "avg_placing": 6.4,
     "best": 1,
     "worst": 10,
     "seasons": 24
@@ -109675,7 +109675,7 @@ const WSW_DATA = {
       6,
       4
     ],
-    "avg_placing": 6.71,
+    "avg_placing": 6.7,
     "best": 1,
     "worst": 10,
     "seasons": 24
@@ -109694,7 +109694,7 @@ const WSW_DATA = {
       3,
       5
     ],
-    "avg_placing": 7.32,
+    "avg_placing": 7.3,
     "best": 2,
     "worst": 10,
     "seasons": 19
