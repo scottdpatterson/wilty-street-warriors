@@ -38,7 +38,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "Dahmer's Cannibals",
         "team_id": "6",
-        "manager": "Scott",
+        "manager": "Dahmer's Cannibals",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -47,7 +47,7 @@ const WSW_DATA = {
         "rank": 5,
         "name": "The Dahminators",
         "team_id": "2",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -91,7 +91,7 @@ const WSW_DATA = {
         "rank": 3,
         "name": "Dahmer's Cannibals",
         "team_id": "9",
-        "manager": "Scott",
+        "manager": "Dahmer's Cannibals",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -100,7 +100,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "ric's last resort",
         "team_id": "10",
-        "manager": "Damon",
+        "manager": "Ric's Last Resort",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -109,7 +109,7 @@ const WSW_DATA = {
         "rank": 5,
         "name": "Coltrain Blue",
         "team_id": "1",
-        "manager": "Scott",
+        "manager": "Coltrain Blue",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -118,7 +118,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "jakesjugglers",
         "team_id": "7",
-        "manager": "Scott",
+        "manager": "Jakes Jugglers",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -127,7 +127,7 @@ const WSW_DATA = {
         "rank": 7,
         "name": "The Dahminators",
         "team_id": "3",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -145,7 +145,7 @@ const WSW_DATA = {
         "rank": 9,
         "name": "Radical Riptide",
         "team_id": "6",
-        "manager": "Scott",
+        "manager": "Radical Riptide",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -154,7 +154,7 @@ const WSW_DATA = {
         "rank": 10,
         "name": "LaSeBre AvenGERs",
         "team_id": "2",
-        "manager": "Scott",
+        "manager": "Damon",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -171,7 +171,7 @@ const WSW_DATA = {
         "rank": 1,
         "name": "The Dahminators",
         "team_id": "7",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -189,7 +189,7 @@ const WSW_DATA = {
         "rank": 3,
         "name": "Dahmers Cannibals",
         "team_id": "8",
-        "manager": "Scott",
+        "manager": "Dahmer's Cannibals",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -225,7 +225,7 @@ const WSW_DATA = {
         "rank": 7,
         "name": "Jakes Jugglers",
         "team_id": "6",
-        "manager": "Scott",
+        "manager": "Jakes Jugglers",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -234,7 +234,7 @@ const WSW_DATA = {
         "rank": 8,
         "name": "The Fighting Tigers",
         "team_id": "2",
-        "manager": "Scott",
+        "manager": "Davidson",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -251,7 +251,7 @@ const WSW_DATA = {
         "rank": 1,
         "name": "The Dahminators",
         "team_id": "6",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -278,7 +278,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "Ric's Last Resort",
         "team_id": "10",
-        "manager": "Damon",
+        "manager": "Ric's Last Resort",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -305,7 +305,7 @@ const WSW_DATA = {
         "rank": 7,
         "name": "Dahmer's Cannibals",
         "team_id": "7",
-        "manager": null,
+        "manager": "Dahmer's Cannibals",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -332,7 +332,7 @@ const WSW_DATA = {
         "rank": 10,
         "name": "LaSeBre",
         "team_id": "2",
-        "manager": "Scott",
+        "manager": "Damon",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -342,14 +342,14 @@ const WSW_DATA = {
   "2005": {
     "season": "2005",
     "name": "2005",
-    "champion": "Damon",
+    "champion": "Ric's Last Resort",
     "champion_team": "Rics Last Resort",
     "standings": [
       {
         "rank": 1,
         "name": "Rics Last Resort",
         "team_id": "9",
-        "manager": "Damon",
+        "manager": "Ric's Last Resort",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -376,7 +376,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "The Runnin' Rebels",
         "team_id": "5",
-        "manager": "Scott",
+        "manager": "Brett",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -394,7 +394,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "Cannibals",
         "team_id": "10",
-        "manager": null,
+        "manager": "Dahmer's Cannibals",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -403,7 +403,7 @@ const WSW_DATA = {
         "rank": 7,
         "name": "The Dahminators",
         "team_id": "4",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -447,7 +447,7 @@ const WSW_DATA = {
         "rank": 1,
         "name": "The Dahminators",
         "team_id": "4",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -456,7 +456,7 @@ const WSW_DATA = {
         "rank": 2,
         "name": "Ric's Last Resort",
         "team_id": "3",
-        "manager": "Damon",
+        "manager": "Ric's Last Resort",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -474,7 +474,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "Dahmer's Cannibals",
         "team_id": "10",
-        "manager": null,
+        "manager": "Dahmer's Cannibals",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -510,7 +510,7 @@ const WSW_DATA = {
         "rank": 8,
         "name": "The Runnin' Rebels",
         "team_id": "5",
-        "manager": "Scott",
+        "manager": "Brett",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -554,7 +554,7 @@ const WSW_DATA = {
         "rank": 2,
         "name": "The Dahminators",
         "team_id": "8",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -563,7 +563,7 @@ const WSW_DATA = {
         "rank": 3,
         "name": "Ric's Last Resort",
         "team_id": "3",
-        "manager": "Damon",
+        "manager": "Ric's Last Resort",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -572,7 +572,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "The Runnin' Rebels",
         "team_id": "7",
-        "manager": "Scott",
+        "manager": "Brett",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -599,7 +599,7 @@ const WSW_DATA = {
         "rank": 7,
         "name": "SKULL's Spoliators",
         "team_id": "10",
-        "manager": null,
+        "manager": "Scott",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -652,7 +652,7 @@ const WSW_DATA = {
         "rank": 2,
         "name": "The Runnin' Rebels",
         "team_id": "3",
-        "manager": null,
+        "manager": "Brett",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -679,7 +679,7 @@ const WSW_DATA = {
         "rank": 5,
         "name": "Ric's Last Resort",
         "team_id": "9",
-        "manager": "Damon",
+        "manager": "Ric's Last Resort",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -688,7 +688,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "The Dahminator's",
         "team_id": "8",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -786,7 +786,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "The Dahminators",
         "team_id": "4",
-        "manager": null,
+        "manager": "Roger",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -822,7 +822,7 @@ const WSW_DATA = {
         "rank": 10,
         "name": "The Runnin' Rebels",
         "team_id": "7",
-        "manager": null,
+        "manager": "Brett",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -2338,7 +2338,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 69.17,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 87.9,
     "t1_result": "W"
@@ -2366,7 +2366,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 43.81,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 64.72,
     "t1_result": "W"
@@ -2422,7 +2422,7 @@ const WSW_DATA = {
     "t0_team": "lasebre avengers",
     "t0_pts": 76.97,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 47.47,
     "t1_result": "L"
@@ -2464,7 +2464,7 @@ const WSW_DATA = {
     "t0_team": "Headhunter's R us",
     "t0_pts": 61.12,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 54.89,
     "t1_result": "L"
@@ -2478,7 +2478,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 61.91,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 103.84,
     "t1_result": "W"
@@ -2548,7 +2548,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 33.45,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 55.44,
     "t1_result": "W"
@@ -2576,7 +2576,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 62.2,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 89.63,
     "t1_result": "W"
@@ -2632,7 +2632,7 @@ const WSW_DATA = {
     "t0_team": "lasebre avengers",
     "t0_pts": 42.63,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 69.67,
     "t1_result": "W"
@@ -2674,7 +2674,7 @@ const WSW_DATA = {
     "t0_team": "Headhunter's R us",
     "t0_pts": 65.63,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 90.24,
     "t1_result": "W"
@@ -2688,7 +2688,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 87.82,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 75.7,
     "t1_result": "L"
@@ -2758,7 +2758,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 63.0,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 73.48,
     "t1_result": "W"
@@ -2786,7 +2786,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 61.8,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 100.63,
     "t1_result": "W"
@@ -2842,7 +2842,7 @@ const WSW_DATA = {
     "t0_team": "lasebre avengers",
     "t0_pts": 88.58,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 69.87,
     "t1_result": "L"
@@ -2884,7 +2884,7 @@ const WSW_DATA = {
     "t0_team": "Headhunter's R us",
     "t0_pts": 61.62,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 47.51,
     "t1_result": "L"
@@ -2898,7 +2898,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 65.13,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 45.92,
     "t1_result": "L"
@@ -2954,7 +2954,7 @@ const WSW_DATA = {
     "t0_team": "Headhunter's R us",
     "t0_pts": 83.38,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 51.73,
     "t1_result": "L"
@@ -2964,11 +2964,11 @@ const WSW_DATA = {
     "week": 1,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 53.54,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Damon",
     "t1_team": "LaSeBre AvenGERs",
     "t1_pts": 53.35,
     "t1_result": "L"
@@ -2982,7 +2982,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 58.13,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 90.53,
     "t1_result": "W"
@@ -3010,7 +3010,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 90.93,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 79.92,
     "t1_result": "L"
@@ -3020,11 +3020,11 @@ const WSW_DATA = {
     "week": 1,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Radical Riptide",
     "t0_team": "Radical Riptide",
     "t0_pts": 43.93,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 88.64,
     "t1_result": "W"
@@ -3034,7 +3034,7 @@ const WSW_DATA = {
     "week": 2,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 78.42,
     "t0_result": "W",
@@ -3048,11 +3048,11 @@ const WSW_DATA = {
     "week": 2,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 43.82,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 77.63,
     "t1_result": "W"
@@ -3066,7 +3066,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 81.95,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 55.01,
     "t1_result": "L"
@@ -3090,11 +3090,11 @@ const WSW_DATA = {
     "week": 2,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Radical Riptide",
     "t0_team": "Radical Riptide",
     "t0_pts": 69.04,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 52.03,
     "t1_result": "L"
@@ -3104,7 +3104,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 82.48,
     "t0_result": "W",
@@ -3118,7 +3118,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 41.72,
     "t0_result": "L",
@@ -3136,7 +3136,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 80.87,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 49.4,
     "t1_result": "L"
@@ -3146,7 +3146,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Radical Riptide",
     "t0_team": "Radical Riptide",
     "t0_pts": 56.59,
     "t0_result": "L",
@@ -3160,11 +3160,11 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Jakes Jugglers",
     "t0_team": "jakesjugglers",
     "t0_pts": 92.44,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 100.25,
     "t1_result": "W"
@@ -3174,7 +3174,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 64.08,
     "t0_result": "L",
@@ -3188,7 +3188,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 57.49,
     "t0_result": "L",
@@ -3206,7 +3206,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 93.65,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 44.31,
     "t1_result": "L"
@@ -3216,11 +3216,11 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Radical Riptide",
     "t0_team": "Radical Riptide",
     "t0_pts": 37.03,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 102.32,
     "t1_result": "W"
@@ -3230,7 +3230,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Jakes Jugglers",
     "t0_team": "jakesjugglers",
     "t0_pts": 42.38,
     "t0_result": "L",
@@ -3244,11 +3244,11 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 94.0,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Radical Riptide",
     "t1_team": "Radical Riptide",
     "t1_pts": 32.52,
     "t1_result": "L"
@@ -3258,7 +3258,7 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 56.57,
     "t0_result": "L",
@@ -3286,11 +3286,11 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Jakes Jugglers",
     "t0_team": "jakesjugglers",
     "t0_pts": 91.88,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 103.04,
     "t1_result": "W"
@@ -3304,7 +3304,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 69.62,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 44.5,
     "t1_result": "L"
@@ -3314,11 +3314,11 @@ const WSW_DATA = {
     "week": 6,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 68.37,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 82.88,
     "t1_result": "W"
@@ -3328,11 +3328,11 @@ const WSW_DATA = {
     "week": 6,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 59.62,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Radical Riptide",
     "t1_team": "Radical Riptide",
     "t1_pts": 42.59,
     "t1_result": "L"
@@ -3360,7 +3360,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 63.94,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 86.66,
     "t1_result": "W"
@@ -3374,7 +3374,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 84.65,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 50.74,
     "t1_result": "L"
@@ -3384,7 +3384,7 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 77.4,
     "t0_result": "L",
@@ -3398,11 +3398,11 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 44.65,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 52.48,
     "t1_result": "W"
@@ -3416,7 +3416,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 80.18,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Radical Riptide",
     "t1_team": "Radical Riptide",
     "t1_pts": 34.86,
     "t1_result": "L"
@@ -3440,11 +3440,11 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Dahmer's Cannibals",
     "t0_team": "Dahmer's Cannibals",
     "t0_pts": 103.67,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 79.47,
     "t1_result": "L"
@@ -3454,11 +3454,11 @@ const WSW_DATA = {
     "week": 8,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 97.59,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 41.43,
     "t1_result": "L"
@@ -3468,7 +3468,7 @@ const WSW_DATA = {
     "week": 8,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 44.54,
     "t0_result": "L",
@@ -3486,7 +3486,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 63.89,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 64.73,
     "t1_result": "W"
@@ -3500,7 +3500,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 99.04,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Radical Riptide",
     "t1_team": "Radical Riptide",
     "t1_pts": 47.39,
     "t1_result": "L"
@@ -3514,7 +3514,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 70.85,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 93.55,
     "t1_result": "W"
@@ -3524,11 +3524,11 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 63.88,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 81.1,
     "t1_result": "W"
@@ -3538,11 +3538,11 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 49.2,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 94.43,
     "t1_result": "W"
@@ -3570,7 +3570,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 51.74,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 67.04,
     "t1_result": "W"
@@ -3584,7 +3584,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 23.89,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Radical Riptide",
     "t1_team": "Radical Riptide",
     "t1_pts": 63.42,
     "t1_result": "W"
@@ -3594,11 +3594,11 @@ const WSW_DATA = {
     "week": 10,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 76.12,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Damon",
     "t1_team": "LaSeBre AvenGERs",
     "t1_pts": 73.68,
     "t1_result": "L"
@@ -3612,7 +3612,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 63.42,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 97.96,
     "t1_result": "W"
@@ -3640,7 +3640,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 46.59,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 100.88,
     "t1_result": "W"
@@ -3650,11 +3650,11 @@ const WSW_DATA = {
     "week": 10,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Radical Riptide",
     "t0_team": "Radical Riptide",
     "t0_pts": 63.75,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 55.39,
     "t1_result": "L"
@@ -3664,7 +3664,7 @@ const WSW_DATA = {
     "week": 11,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 57.13,
     "t0_result": "L",
@@ -3678,11 +3678,11 @@ const WSW_DATA = {
     "week": 11,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 78.58,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 76.63,
     "t1_result": "L"
@@ -3696,7 +3696,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 64.49,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 74.34,
     "t1_result": "W"
@@ -3720,11 +3720,11 @@ const WSW_DATA = {
     "week": 11,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Radical Riptide",
     "t0_team": "Radical Riptide",
     "t0_pts": 56.52,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 78.39,
     "t1_result": "W"
@@ -3734,7 +3734,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 73.23,
     "t0_result": "L",
@@ -3748,7 +3748,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 76.14,
     "t0_result": "L",
@@ -3766,7 +3766,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 90.21,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 68.85,
     "t1_result": "L"
@@ -3776,7 +3776,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Radical Riptide",
     "t0_team": "Radical Riptide",
     "t0_pts": 41.88,
     "t0_result": "W",
@@ -3790,11 +3790,11 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Jakes Jugglers",
     "t0_team": "jakesjugglers",
     "t0_pts": 29.28,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 124.78,
     "t1_result": "W"
@@ -3804,7 +3804,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 60.57,
     "t0_result": "L",
@@ -3818,7 +3818,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 64.97,
     "t0_result": "L",
@@ -3836,7 +3836,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 63.02,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 66.05,
     "t1_result": "W"
@@ -3846,11 +3846,11 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Radical Riptide",
     "t0_team": "Radical Riptide",
     "t0_pts": 64.01,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 72.14,
     "t1_result": "W"
@@ -3860,7 +3860,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Jakes Jugglers",
     "t0_team": "jakesjugglers",
     "t0_pts": 54.95,
     "t0_result": "L",
@@ -3874,11 +3874,11 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 60.57,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Radical Riptide",
     "t1_team": "Radical Riptide",
     "t1_pts": 58.49,
     "t1_result": "L"
@@ -3888,7 +3888,7 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre AvenGERs",
     "t0_pts": 62.61,
     "t0_result": "L",
@@ -3916,11 +3916,11 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Jakes Jugglers",
     "t0_team": "jakesjugglers",
     "t0_pts": 38.39,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 52.36,
     "t1_result": "W"
@@ -3934,7 +3934,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 56.2,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 105.96,
     "t1_result": "W"
@@ -3944,7 +3944,7 @@ const WSW_DATA = {
     "week": 15,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 66.06,
     "t0_result": "W",
@@ -3962,7 +3962,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 90.57,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 92.39,
     "t1_result": "W"
@@ -3976,7 +3976,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 89.24,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 44.98,
     "t1_result": "L"
@@ -3990,7 +3990,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 65.1,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmer's Cannibals",
     "t1_pts": 62.98,
     "t1_result": "L"
@@ -4000,11 +4000,11 @@ const WSW_DATA = {
     "week": 16,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Scott",
+    "t0_manager": "Coltrain Blue",
     "t0_team": "Coltrain Blue",
     "t0_pts": 66.76,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "jakesjugglers",
     "t1_pts": 64.0,
     "t1_result": "L"
@@ -4042,11 +4042,11 @@ const WSW_DATA = {
     "week": 16,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Scott",
+    "t0_manager": "Dahmer's Cannibals",
     "t0_team": "Dahmer's Cannibals",
     "t0_pts": 53.12,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "ric's last resort",
     "t1_pts": 45.71,
     "t1_result": "L"
@@ -4060,7 +4060,7 @@ const WSW_DATA = {
     "t0_team": "SKULLs Spoliators",
     "t0_pts": 55.52,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Davidson",
     "t1_team": "The Fighting Tigers",
     "t1_pts": 51.78,
     "t1_result": "L"
@@ -4074,7 +4074,7 @@ const WSW_DATA = {
     "t0_team": "DAMONs Demons",
     "t0_pts": 40.99,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 70.43,
     "t1_result": "W"
@@ -4102,7 +4102,7 @@ const WSW_DATA = {
     "t0_team": "LasEbreAvEngers",
     "t0_pts": 77.01,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 49.45,
     "t1_result": "L"
@@ -4126,11 +4126,11 @@ const WSW_DATA = {
     "week": 2,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 81.78,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 72.62,
     "t1_result": "L"
@@ -4144,7 +4144,7 @@ const WSW_DATA = {
     "t0_team": "Murphys Marauders",
     "t0_pts": 83.4,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 75.21,
     "t1_result": "L"
@@ -4182,7 +4182,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 45.35,
     "t0_result": "L",
@@ -4200,7 +4200,7 @@ const WSW_DATA = {
     "t0_team": "LasEbreAvEngers",
     "t0_pts": 50.4,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 52.73,
     "t1_result": "W"
@@ -4214,7 +4214,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 42.2,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 67.3,
     "t1_result": "W"
@@ -4238,7 +4238,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 62.96,
     "t0_result": "L",
@@ -4256,7 +4256,7 @@ const WSW_DATA = {
     "t0_team": "DAMONs Demons",
     "t0_pts": 48.19,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 64.64,
     "t1_result": "W"
@@ -4270,7 +4270,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 78.19,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 81.86,
     "t1_result": "W"
@@ -4294,7 +4294,7 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 44.07,
     "t0_result": "L",
@@ -4322,11 +4322,11 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Dahmer's Cannibals",
     "t0_team": "Dahmers Cannibals",
     "t0_pts": 55.71,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 66.62,
     "t1_result": "W"
@@ -4340,7 +4340,7 @@ const WSW_DATA = {
     "t0_team": "SKULLs Spoliators",
     "t0_pts": 72.56,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 41.57,
     "t1_result": "L"
@@ -4350,7 +4350,7 @@ const WSW_DATA = {
     "week": 6,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 64.51,
     "t0_result": "L",
@@ -4382,7 +4382,7 @@ const WSW_DATA = {
     "t0_team": "Murphys Marauders",
     "t0_pts": 74.92,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 58.49,
     "t1_result": "L"
@@ -4396,7 +4396,7 @@ const WSW_DATA = {
     "t0_team": "SKULLs Spoliators",
     "t0_pts": 72.74,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 41.71,
     "t1_result": "L"
@@ -4406,11 +4406,11 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 109.04,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 61.09,
     "t1_result": "L"
@@ -4452,7 +4452,7 @@ const WSW_DATA = {
     "t0_team": "SKULLs Spoliators",
     "t0_pts": 71.93,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Davidson",
     "t1_team": "The Fighting Tigers",
     "t1_pts": 61.89,
     "t1_result": "L"
@@ -4466,7 +4466,7 @@ const WSW_DATA = {
     "t0_team": "DAMONs Demons",
     "t0_pts": 34.6,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 70.4,
     "t1_result": "W"
@@ -4494,7 +4494,7 @@ const WSW_DATA = {
     "t0_team": "LasEbreAvEngers",
     "t0_pts": 63.06,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 76.61,
     "t1_result": "W"
@@ -4518,11 +4518,11 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 90.57,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 76.95,
     "t1_result": "L"
@@ -4536,7 +4536,7 @@ const WSW_DATA = {
     "t0_team": "Murphys Marauders",
     "t0_pts": 67.35,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 83.21,
     "t1_result": "W"
@@ -4574,7 +4574,7 @@ const WSW_DATA = {
     "week": 10,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 66.85,
     "t0_result": "L",
@@ -4592,7 +4592,7 @@ const WSW_DATA = {
     "t0_team": "LasEbreAvEngers",
     "t0_pts": 60.38,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 84.15,
     "t1_result": "W"
@@ -4606,7 +4606,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 83.75,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 37.29,
     "t1_result": "L"
@@ -4630,7 +4630,7 @@ const WSW_DATA = {
     "week": 11,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 79.86,
     "t0_result": "W",
@@ -4648,7 +4648,7 @@ const WSW_DATA = {
     "t0_team": "DAMONs Demons",
     "t0_pts": 72.23,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 42.08,
     "t1_result": "L"
@@ -4662,7 +4662,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 78.72,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 43.3,
     "t1_result": "L"
@@ -4686,7 +4686,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 64.23,
     "t0_result": "W",
@@ -4714,11 +4714,11 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Dahmer's Cannibals",
     "t0_team": "Dahmers Cannibals",
     "t0_pts": 52.63,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 53.86,
     "t1_result": "W"
@@ -4732,7 +4732,7 @@ const WSW_DATA = {
     "t0_team": "SKULLs Spoliators",
     "t0_pts": 85.49,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 117.59,
     "t1_result": "W"
@@ -4742,7 +4742,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 48.19,
     "t0_result": "L",
@@ -4774,7 +4774,7 @@ const WSW_DATA = {
     "t0_team": "Murphys Marauders",
     "t0_pts": 105.26,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 65.97,
     "t1_result": "L"
@@ -4788,7 +4788,7 @@ const WSW_DATA = {
     "t0_team": "SKULLs Spoliators",
     "t0_pts": 64.96,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 71.03,
     "t1_result": "W"
@@ -4798,11 +4798,11 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 92.5,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 74.11,
     "t1_result": "L"
@@ -4844,7 +4844,7 @@ const WSW_DATA = {
     "t0_team": "SKULLs Spoliators",
     "t0_pts": 86.2,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 44.37,
     "t1_result": "L"
@@ -4854,7 +4854,7 @@ const WSW_DATA = {
     "week": 15,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 80.22,
     "t0_result": "L",
@@ -4872,7 +4872,7 @@ const WSW_DATA = {
     "t0_team": "DAMONs Demons",
     "t0_pts": 58.53,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 34.19,
     "t1_result": "L"
@@ -4910,11 +4910,11 @@ const WSW_DATA = {
     "week": 16,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Scott",
+    "t0_manager": "Davidson",
     "t0_team": "The Fighting Tigers",
     "t0_pts": 74.06,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Jakes Jugglers",
     "t1_team": "Jakes Jugglers",
     "t1_pts": 84.73,
     "t1_result": "W"
@@ -4942,7 +4942,7 @@ const WSW_DATA = {
     "t0_team": "Murphys Marauders",
     "t0_pts": 69.93,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "Dahmers Cannibals",
     "t1_pts": 103.88,
     "t1_result": "W"
@@ -4956,7 +4956,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 69.99,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Damon",
     "t1_team": "LaSeBre",
     "t1_pts": 42.41,
     "t1_result": "L"
@@ -5012,7 +5012,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 89.04,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 85.44,
     "t1_result": "L"
@@ -5036,11 +5036,11 @@ const WSW_DATA = {
     "week": 2,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 44.24,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 82.55,
     "t1_result": "W"
@@ -5106,7 +5106,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 83.76,
     "t0_result": "W",
@@ -5152,7 +5152,7 @@ const WSW_DATA = {
     "t0_team": "Dahmer's Cannibals",
     "t0_pts": 62.46,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 85.02,
     "t1_result": "W"
@@ -5176,7 +5176,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 51.15,
     "t0_result": "L",
@@ -5194,7 +5194,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 59.09,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 57.59,
     "t1_result": "L"
@@ -5246,7 +5246,7 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 41.86,
     "t0_result": "L",
@@ -5292,7 +5292,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 50.12,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 84.92,
     "t1_result": "W"
@@ -5316,7 +5316,7 @@ const WSW_DATA = {
     "week": 6,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 73.89,
     "t0_result": "W",
@@ -5348,7 +5348,7 @@ const WSW_DATA = {
     "t0_team": "Patterson Prophets",
     "t0_pts": 48.15,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 65.33,
     "t1_result": "W"
@@ -5386,7 +5386,7 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 77.91,
     "t0_result": "W",
@@ -5432,7 +5432,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 50.03,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 91.52,
     "t1_result": "W"
@@ -5456,7 +5456,7 @@ const WSW_DATA = {
     "week": 8,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 43.33,
     "t0_result": "L",
@@ -5502,7 +5502,7 @@ const WSW_DATA = {
     "t0_team": "The Fighting Tigers",
     "t0_pts": 37.74,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 70.23,
     "t1_result": "W"
@@ -5516,7 +5516,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 76.18,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 26.03,
     "t1_result": "L"
@@ -5526,7 +5526,7 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 65.48,
     "t0_result": "L",
@@ -5586,7 +5586,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 119.71,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Damon",
     "t1_team": "LaSeBre",
     "t1_pts": 100.02,
     "t1_result": "L"
@@ -5642,7 +5642,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 71.42,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 69.0,
     "t1_result": "L"
@@ -5666,11 +5666,11 @@ const WSW_DATA = {
     "week": 11,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 38.71,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 58.84,
     "t1_result": "W"
@@ -5736,7 +5736,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 69.2,
     "t0_result": "L",
@@ -5782,7 +5782,7 @@ const WSW_DATA = {
     "t0_team": "Dahmer's Cannibals",
     "t0_pts": 104.26,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 93.83,
     "t1_result": "L"
@@ -5806,7 +5806,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 50.12,
     "t0_result": "L",
@@ -5824,7 +5824,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 57.06,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 93.33,
     "t1_result": "W"
@@ -5876,7 +5876,7 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Damon",
     "t0_team": "LaSeBre",
     "t0_pts": 68.36,
     "t0_result": "L",
@@ -5922,7 +5922,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 71.91,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 45.15,
     "t1_result": "L"
@@ -5978,7 +5978,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 80.43,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 55.76,
     "t1_result": "L"
@@ -6006,7 +6006,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 50.42,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 34.67,
     "t1_result": "L"
@@ -6086,7 +6086,7 @@ const WSW_DATA = {
     "week": 1,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 48.64,
     "t0_result": "W",
@@ -6104,7 +6104,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 54.78,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 53.49,
     "t1_result": "L"
@@ -6132,7 +6132,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 45.87,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 102.79,
     "t1_result": "W"
@@ -6156,7 +6156,7 @@ const WSW_DATA = {
     "week": 2,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 75.28,
     "t0_result": "W",
@@ -6212,7 +6212,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 99.58,
     "t0_result": "W",
@@ -6244,7 +6244,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 54.95,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 85.55,
     "t1_result": "W"
@@ -6258,7 +6258,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 81.71,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 95.14,
     "t1_result": "W"
@@ -6286,7 +6286,7 @@ const WSW_DATA = {
     "t0_team": "LaSebreAvenGers",
     "t0_pts": 51.71,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 89.13,
     "t1_result": "W"
@@ -6342,7 +6342,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 64.42,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 56.71,
     "t1_result": "L"
@@ -6384,7 +6384,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 64.33,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 67.57,
     "t1_result": "W"
@@ -6426,7 +6426,7 @@ const WSW_DATA = {
     "t0_team": "LaSebreAvenGers",
     "t0_pts": 43.88,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 71.97,
     "t1_result": "W"
@@ -6440,7 +6440,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 79.81,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 99.37,
     "t1_result": "W"
@@ -6510,7 +6510,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 51.13,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 49.32,
     "t1_result": "L"
@@ -6524,7 +6524,7 @@ const WSW_DATA = {
     "t0_team": "Cannibals",
     "t0_pts": 57.65,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 79.54,
     "t1_result": "W"
@@ -6590,11 +6590,11 @@ const WSW_DATA = {
     "week": 8,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 65.09,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 49.05,
     "t1_result": "L"
@@ -6608,7 +6608,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 58.62,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 70.18,
     "t1_result": "W"
@@ -6660,7 +6660,7 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 78.67,
     "t0_result": "W",
@@ -6716,7 +6716,7 @@ const WSW_DATA = {
     "week": 10,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 60.78,
     "t0_result": "W",
@@ -6734,7 +6734,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 61.59,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 83.27,
     "t1_result": "W"
@@ -6762,7 +6762,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 95.18,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 44.4,
     "t1_result": "L"
@@ -6786,7 +6786,7 @@ const WSW_DATA = {
     "week": 11,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 54.55,
     "t0_result": "L",
@@ -6842,7 +6842,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 101.34,
     "t0_result": "W",
@@ -6874,7 +6874,7 @@ const WSW_DATA = {
     "t0_team": "Fighting Tigers",
     "t0_pts": 47.91,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 79.68,
     "t1_result": "W"
@@ -6888,7 +6888,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 74.63,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 49.72,
     "t1_result": "L"
@@ -6916,7 +6916,7 @@ const WSW_DATA = {
     "t0_team": "LaSebreAvenGers",
     "t0_pts": 55.1,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 72.62,
     "t1_result": "W"
@@ -6972,7 +6972,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 61.06,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 77.99,
     "t1_result": "W"
@@ -7014,7 +7014,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 82.26,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 38.69,
     "t1_result": "L"
@@ -7066,11 +7066,11 @@ const WSW_DATA = {
     "week": 15,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 78.72,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 80.86,
     "t1_result": "W"
@@ -7084,7 +7084,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 93.23,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 53.15,
     "t1_result": "L"
@@ -7126,7 +7126,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 70.22,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Rics Last Resort",
     "t1_pts": 100.93,
     "t1_result": "W"
@@ -7150,7 +7150,7 @@ const WSW_DATA = {
     "week": 1,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 99.64,
     "t0_result": "W",
@@ -7178,7 +7178,7 @@ const WSW_DATA = {
     "week": 1,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 29.81,
     "t0_result": "L",
@@ -7210,7 +7210,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 50.8,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 102.52,
     "t1_result": "W"
@@ -7248,7 +7248,7 @@ const WSW_DATA = {
     "week": 2,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 67.99,
     "t0_result": "W",
@@ -7294,7 +7294,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 80.67,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 94.05,
     "t1_result": "W"
@@ -7304,7 +7304,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 69.14,
     "t0_result": "W",
@@ -7350,7 +7350,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 71.91,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 80.73,
     "t1_result": "W"
@@ -7374,7 +7374,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 54.51,
     "t0_result": "L",
@@ -7434,7 +7434,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 55.03,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 72.75,
     "t1_result": "W"
@@ -7444,7 +7444,7 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 55.87,
     "t0_result": "L",
@@ -7514,11 +7514,11 @@ const WSW_DATA = {
     "week": 6,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 75.45,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 78.91,
     "t1_result": "W"
@@ -7584,7 +7584,7 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 102.18,
     "t0_result": "W",
@@ -7602,7 +7602,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 44.43,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 44.02,
     "t1_result": "L"
@@ -7654,7 +7654,7 @@ const WSW_DATA = {
     "week": 8,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 92.98,
     "t0_result": "L",
@@ -7682,7 +7682,7 @@ const WSW_DATA = {
     "week": 8,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 37.33,
     "t0_result": "L",
@@ -7724,7 +7724,7 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 69.68,
     "t0_result": "W",
@@ -7752,7 +7752,7 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 65.29,
     "t0_result": "L",
@@ -7780,7 +7780,7 @@ const WSW_DATA = {
     "week": 10,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 51.12,
     "t0_result": "L",
@@ -7808,7 +7808,7 @@ const WSW_DATA = {
     "week": 10,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 56.63,
     "t0_result": "L",
@@ -7840,7 +7840,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 52.93,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 65.7,
     "t1_result": "W"
@@ -7878,7 +7878,7 @@ const WSW_DATA = {
     "week": 11,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 55.77,
     "t0_result": "L",
@@ -7924,7 +7924,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 60.56,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 101.86,
     "t1_result": "W"
@@ -7934,7 +7934,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 52.16,
     "t0_result": "L",
@@ -7980,7 +7980,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 30.62,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 53.51,
     "t1_result": "W"
@@ -8004,7 +8004,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 75.6,
     "t0_result": "L",
@@ -8064,7 +8064,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 55.04,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 34.46,
     "t1_result": "L"
@@ -8074,7 +8074,7 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 78.24,
     "t0_result": "L",
@@ -8130,7 +8130,7 @@ const WSW_DATA = {
     "week": 15,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 67.44,
     "t0_result": "W",
@@ -8158,7 +8158,7 @@ const WSW_DATA = {
     "week": 15,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 55.77,
     "t0_result": "L",
@@ -8176,7 +8176,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 64.19,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 51.08,
     "t1_result": "L"
@@ -8186,7 +8186,7 @@ const WSW_DATA = {
     "week": 16,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 67.48,
     "t0_result": "L",
@@ -8242,7 +8242,7 @@ const WSW_DATA = {
     "week": 1,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 79.82,
     "t0_result": "L",
@@ -8274,7 +8274,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 85.98,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 127.66,
     "t1_result": "W"
@@ -8302,7 +8302,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's  Spoliators",
     "t0_pts": 72.54,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 109.68,
     "t1_result": "W"
@@ -8358,7 +8358,7 @@ const WSW_DATA = {
     "t0_team": "LaSeBre AveNgers",
     "t0_pts": 59.4,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 114.36,
     "t1_result": "W"
@@ -8386,7 +8386,7 @@ const WSW_DATA = {
     "t0_team": "The Fighting Tigers",
     "t0_pts": 90.36,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 113.62,
     "t1_result": "W"
@@ -8424,7 +8424,7 @@ const WSW_DATA = {
     "week": 3,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 125.94,
     "t0_result": "W",
@@ -8466,7 +8466,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 106.42,
     "t0_result": "W",
@@ -8494,7 +8494,7 @@ const WSW_DATA = {
     "week": 4,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 104.14,
     "t0_result": "L",
@@ -8536,7 +8536,7 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 110.92,
     "t0_result": "W",
@@ -8550,7 +8550,7 @@ const WSW_DATA = {
     "week": 5,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 109.8,
     "t0_result": "W",
@@ -8582,7 +8582,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's  Spoliators",
     "t0_pts": 133.88,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 128.12,
     "t1_result": "L"
@@ -8606,7 +8606,7 @@ const WSW_DATA = {
     "week": 6,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 66.14,
     "t0_result": "L",
@@ -8666,7 +8666,7 @@ const WSW_DATA = {
     "t0_team": "The Fighting Tigers",
     "t0_pts": 62.08,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 108.06,
     "t1_result": "W"
@@ -8676,7 +8676,7 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 109.26,
     "t0_result": "W",
@@ -8746,11 +8746,11 @@ const WSW_DATA = {
     "week": 8,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 89.3,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 84.34,
     "t1_result": "L"
@@ -8816,7 +8816,7 @@ const WSW_DATA = {
     "week": 9,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 109.9,
     "t0_result": "W",
@@ -8834,7 +8834,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 131.2,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 91.4,
     "t1_result": "L"
@@ -8872,7 +8872,7 @@ const WSW_DATA = {
     "week": 10,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 91.72,
     "t0_result": "L",
@@ -8904,7 +8904,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 98.64,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 89.28,
     "t1_result": "L"
@@ -8932,7 +8932,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's  Spoliators",
     "t0_pts": 85.28,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 93.32,
     "t1_result": "W"
@@ -8988,7 +8988,7 @@ const WSW_DATA = {
     "t0_team": "LaSeBre AveNgers",
     "t0_pts": 70.1,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 102.12,
     "t1_result": "W"
@@ -9016,7 +9016,7 @@ const WSW_DATA = {
     "t0_team": "The Fighting Tigers",
     "t0_pts": 107.62,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 130.08,
     "t1_result": "W"
@@ -9054,7 +9054,7 @@ const WSW_DATA = {
     "week": 12,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 116.5,
     "t0_result": "W",
@@ -9096,7 +9096,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 101.52,
     "t0_result": "W",
@@ -9124,7 +9124,7 @@ const WSW_DATA = {
     "week": 13,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 94.88,
     "t0_result": "L",
@@ -9166,7 +9166,7 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 105.36,
     "t0_result": "W",
@@ -9180,7 +9180,7 @@ const WSW_DATA = {
     "week": 14,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Scott",
+    "t0_manager": "Brett",
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 161.06,
     "t0_result": "W",
@@ -9212,7 +9212,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's  Spoliators",
     "t0_pts": 90.26,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 84.1,
     "t1_result": "L"
@@ -9222,7 +9222,7 @@ const WSW_DATA = {
     "week": 15,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 81.84,
     "t0_result": "L",
@@ -9278,11 +9278,11 @@ const WSW_DATA = {
     "week": 16,
     "is_playoffs": true,
     "is_consolation": true,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 125.84,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Brett",
     "t1_team": "The Runnin' Rebels",
     "t1_pts": 118.5,
     "t1_result": "L"
@@ -9338,7 +9338,7 @@ const WSW_DATA = {
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 94.72,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 73.48,
     "t1_result": "L"
@@ -9422,7 +9422,7 @@ const WSW_DATA = {
     "t0_team": "cool brees",
     "t0_pts": 70.4,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 105.54,
     "t1_result": "W"
@@ -9492,7 +9492,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 86.58,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 85.72,
     "t1_result": "L"
@@ -9576,7 +9576,7 @@ const WSW_DATA = {
     "t0_team": "LaSEbre Avengers",
     "t0_pts": 131.82,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 110.46,
     "t1_result": "L"
@@ -9646,7 +9646,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 90.42,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 102.1,
     "t1_result": "W"
@@ -9730,7 +9730,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminator's",
     "t0_pts": 80.42,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 109.86,
     "t1_result": "W"
@@ -9796,7 +9796,7 @@ const WSW_DATA = {
     "week": 7,
     "is_playoffs": false,
     "is_consolation": false,
-    "t0_manager": "Damon",
+    "t0_manager": "Ric's Last Resort",
     "t0_team": "Ric's Last Resort",
     "t0_pts": 103.32,
     "t0_result": "W",
@@ -9814,7 +9814,7 @@ const WSW_DATA = {
     "t0_team": "nector",
     "t0_pts": 106.72,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 100.76,
     "t1_result": "L"
@@ -9898,7 +9898,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's Spoliators",
     "t0_pts": 114.56,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 112.46,
     "t1_result": "L"
@@ -9968,7 +9968,7 @@ const WSW_DATA = {
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 68.32,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 100.94,
     "t1_result": "W"
@@ -10052,7 +10052,7 @@ const WSW_DATA = {
     "t0_team": "cool brees",
     "t0_pts": 93.36,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 99.2,
     "t1_result": "W"
@@ -10122,7 +10122,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Demons",
     "t0_pts": 130.56,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 104.08,
     "t1_result": "L"
@@ -10206,7 +10206,7 @@ const WSW_DATA = {
     "t0_team": "LaSEbre Avengers",
     "t0_pts": 87.92,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 107.52,
     "t1_result": "W"
@@ -10276,7 +10276,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 90.8,
     "t0_result": "W",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 52.28,
     "t1_result": "L"
@@ -10332,7 +10332,7 @@ const WSW_DATA = {
     "t0_team": "cool brees",
     "t0_pts": 85.82,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 98.82,
     "t1_result": "W"
@@ -10402,7 +10402,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminator's",
     "t0_pts": 94.84,
     "t0_result": "L",
-    "t1_manager": "Damon",
+    "t1_manager": "Ric's Last Resort",
     "t1_team": "Ric's Last Resort",
     "t1_pts": 108.06,
     "t1_result": "W"
@@ -28233,26 +28233,17 @@ const WSW_DATA = {
   h2h: {
   "Roger|||Scott": {
     "Scott": {
-      "W": 32,
-      "L": 29,
+      "W": 22,
+      "L": 17,
       "T": 0,
-      "pts_for": 5025.06,
-      "pts_against": 5007.53,
+      "pts_for": 3519.89,
+      "pts_against": 3464.76,
       "games": [
         {
           "season": "2001",
           "week": 1,
           "pts": 74.52,
           "opp_pts": 62.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2001",
-          "week": 2,
-          "pts": 64.72,
-          "opp_pts": 43.81,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
@@ -28268,118 +28259,10 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 7,
-          "pts": 89.63,
-          "opp_pts": 62.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2001",
           "week": 11,
           "pts": 59.57,
           "opp_pts": 65.28,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2001",
-          "week": 12,
-          "pts": 100.63,
-          "opp_pts": 61.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 1,
-          "pts": 90.53,
-          "opp_pts": 58.13,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 2,
-          "pts": 78.42,
-          "opp_pts": 65.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 41.72,
-          "opp_pts": 74.49,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 7,
-          "pts": 34.86,
-          "opp_pts": 80.18,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 8,
-          "pts": 64.73,
-          "opp_pts": 63.89,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 10,
-          "pts": 97.96,
-          "opp_pts": 63.42,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 11,
-          "pts": 57.13,
-          "opp_pts": 60.82,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 76.14,
-          "opp_pts": 83.02,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2003",
-          "week": 3,
-          "pts": 67.3,
-          "opp_pts": 42.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2003",
-          "week": 4,
-          "pts": 81.86,
-          "opp_pts": 78.19,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -28394,46 +28277,10 @@ const WSW_DATA = {
         },
         {
           "season": "2003",
-          "week": 6,
-          "pts": 64.51,
-          "opp_pts": 77.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2003",
-          "week": 10,
-          "pts": 37.29,
-          "opp_pts": 83.75,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2003",
-          "week": 11,
-          "pts": 43.3,
-          "opp_pts": 78.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2003",
           "week": 12,
           "pts": 98.51,
           "opp_pts": 91.52,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2003",
-          "week": 13,
-          "pts": 48.19,
-          "opp_pts": 91.85,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -28443,15 +28290,6 @@ const WSW_DATA = {
           "pts": 75.57,
           "opp_pts": 105.9,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2004",
-          "week": 6,
-          "pts": 73.89,
-          "opp_pts": 53.18,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -28469,15 +28307,6 @@ const WSW_DATA = {
           "week": 3,
           "pts": 53.75,
           "opp_pts": 75.04,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2005",
-          "week": 7,
-          "pts": 49.32,
-          "opp_pts": 51.13,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
@@ -28502,27 +28331,9 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 7,
-          "pts": 44.02,
-          "opp_pts": 44.43,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2006",
           "week": 12,
           "pts": 66.26,
           "opp_pts": 74.67,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 104.14,
-          "opp_pts": 104.56,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
@@ -28542,15 +28353,6 @@ const WSW_DATA = {
           "pts": 105.1,
           "opp_pts": 74.28,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 94.88,
-          "opp_pts": 120.16,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -28791,11 +28593,11 @@ const WSW_DATA = {
       ]
     },
     "Roger": {
-      "W": 29,
-      "L": 32,
+      "W": 17,
+      "L": 22,
       "T": 0,
-      "pts_for": 5007.53,
-      "pts_against": 5025.06,
+      "pts_for": 3464.76,
+      "pts_against": 3519.89,
       "games": [
         {
           "season": "2001",
@@ -28808,15 +28610,6 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 2,
-          "pts": 43.81,
-          "opp_pts": 64.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2001",
           "week": 6,
           "pts": 96.38,
           "opp_pts": 38.92,
@@ -28826,120 +28619,12 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 7,
-          "pts": 62.2,
-          "opp_pts": 89.63,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2001",
           "week": 11,
           "pts": 65.28,
           "opp_pts": 59.57,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2001",
-          "week": 12,
-          "pts": 61.8,
-          "opp_pts": 100.63,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 1,
-          "pts": 58.13,
-          "opp_pts": 90.53,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 2,
-          "pts": 65.5,
-          "opp_pts": 78.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 74.49,
-          "opp_pts": 41.72,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2002",
-          "week": 7,
-          "pts": 80.18,
-          "opp_pts": 34.86,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Radical Riptide"
-        },
-        {
-          "season": "2002",
-          "week": 8,
-          "pts": 63.89,
-          "opp_pts": 64.73,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "jakesjugglers"
-        },
-        {
-          "season": "2002",
-          "week": 10,
-          "pts": 63.42,
-          "opp_pts": 97.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 11,
-          "pts": 60.82,
-          "opp_pts": 57.13,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 83.02,
-          "opp_pts": 76.14,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2003",
-          "week": 3,
-          "pts": 42.2,
-          "opp_pts": 67.3,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Jakes Jugglers"
-        },
-        {
-          "season": "2003",
-          "week": 4,
-          "pts": 78.19,
-          "opp_pts": 81.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmers Cannibals"
         },
         {
           "season": "2003",
@@ -28952,48 +28637,12 @@ const WSW_DATA = {
         },
         {
           "season": "2003",
-          "week": 6,
-          "pts": 77.34,
-          "opp_pts": 64.51,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2003",
-          "week": 10,
-          "pts": 83.75,
-          "opp_pts": 37.29,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Jakes Jugglers"
-        },
-        {
-          "season": "2003",
-          "week": 11,
-          "pts": 78.72,
-          "opp_pts": 43.3,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmers Cannibals"
-        },
-        {
-          "season": "2003",
           "week": 12,
           "pts": 91.52,
           "opp_pts": 98.51,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULLs Spoliators"
-        },
-        {
-          "season": "2003",
-          "week": 13,
-          "pts": 91.85,
-          "opp_pts": 48.19,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
         },
         {
           "season": "2004",
@@ -29003,15 +28652,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2004",
-          "week": 6,
-          "pts": 53.18,
-          "opp_pts": 73.89,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
         },
         {
           "season": "2004",
@@ -29033,15 +28673,6 @@ const WSW_DATA = {
         },
         {
           "season": "2005",
-          "week": 7,
-          "pts": 51.13,
-          "opp_pts": 49.32,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2005",
           "week": 12,
           "pts": 59.63,
           "opp_pts": 82.13,
@@ -29060,30 +28691,12 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 7,
-          "pts": 44.43,
-          "opp_pts": 44.02,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
           "week": 12,
           "pts": 74.67,
           "opp_pts": 66.26,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 104.56,
-          "opp_pts": 104.14,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2007",
@@ -29102,15 +28715,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 120.16,
-          "opp_pts": 94.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2007",
@@ -29351,11 +28955,11 @@ const WSW_DATA = {
   },
   "Damon|||Michael": {
     "Michael": {
-      "W": 24,
-      "L": 24,
+      "W": 20,
+      "L": 22,
       "T": 0,
-      "pts_for": 4129.0,
-      "pts_against": 4148.23,
+      "pts_for": 3590.04,
+      "pts_against": 3594.99,
       "games": [
         {
           "season": "2001",
@@ -29386,12 +28990,21 @@ const WSW_DATA = {
         },
         {
           "season": "2002",
-          "week": 6,
-          "pts": 63.94,
-          "opp_pts": 86.66,
-          "result": "L",
+          "week": 4,
+          "pts": 64.06,
+          "opp_pts": 57.49,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "ric's last resort"
+          "opp_team": "LaSeBre AvenGERs"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 74.83,
+          "opp_pts": 64.97,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
         },
         {
           "season": "2003",
@@ -29413,30 +29026,21 @@ const WSW_DATA = {
         },
         {
           "season": "2004",
-          "week": 4,
-          "pts": 59.09,
-          "opp_pts": 57.59,
-          "result": "W",
+          "week": 3,
+          "pts": 45.62,
+          "opp_pts": 83.76,
+          "result": "L",
           "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
+          "opp_team": "LaSeBre"
         },
         {
           "season": "2004",
-          "week": 13,
-          "pts": 57.06,
-          "opp_pts": 93.33,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2005",
-          "week": 1,
-          "pts": 54.78,
-          "opp_pts": 53.49,
+          "week": 12,
+          "pts": 76.2,
+          "opp_pts": 69.2,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
+          "opp_team": "LaSeBre"
         },
         {
           "season": "2005",
@@ -29446,15 +29050,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2005",
-          "week": 10,
-          "pts": 61.59,
-          "opp_pts": 83.27,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
         },
         {
           "season": "2006",
@@ -29467,30 +29062,12 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 8,
-          "pts": 99.59,
-          "opp_pts": 92.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
           "week": 13,
           "pts": 54.87,
           "opp_pts": 86.35,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "LaSebre-Avengers"
-        },
-        {
-          "season": "2007",
-          "week": 1,
-          "pts": 86.96,
-          "opp_pts": 79.82,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2007",
@@ -29503,15 +29080,6 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 10,
-          "pts": 99.52,
-          "opp_pts": 91.72,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
           "week": 13,
           "pts": 55.02,
           "opp_pts": 100.56,
@@ -29521,30 +29089,12 @@ const WSW_DATA = {
         },
         {
           "season": "2009",
-          "week": 3,
-          "pts": 86.58,
-          "opp_pts": 85.72,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2009",
           "week": 9,
           "pts": 105.58,
           "opp_pts": 76.68,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
-          "week": 12,
-          "pts": 130.56,
-          "opp_pts": 104.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2010",
@@ -29792,11 +29342,11 @@ const WSW_DATA = {
       ]
     },
     "Damon": {
-      "W": 24,
-      "L": 24,
+      "W": 22,
+      "L": 20,
       "T": 0,
-      "pts_for": 4148.23,
-      "pts_against": 4129.0,
+      "pts_for": 3594.99,
+      "pts_against": 3590.04,
       "games": [
         {
           "season": "2001",
@@ -29827,10 +29377,19 @@ const WSW_DATA = {
         },
         {
           "season": "2002",
-          "week": 6,
-          "pts": 86.66,
-          "opp_pts": 63.94,
-          "result": "W",
+          "week": 4,
+          "pts": 57.49,
+          "opp_pts": 64.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 64.97,
+          "opp_pts": 74.83,
+          "result": "L",
           "is_playoffs": false,
           "opp_team": "Damon's Demons"
         },
@@ -29854,27 +29413,18 @@ const WSW_DATA = {
         },
         {
           "season": "2004",
-          "week": 4,
-          "pts": 57.59,
-          "opp_pts": 59.09,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2004",
-          "week": 13,
-          "pts": 93.33,
-          "opp_pts": 57.06,
+          "week": 3,
+          "pts": 83.76,
+          "opp_pts": 45.62,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Damon's Demons"
         },
         {
-          "season": "2005",
-          "week": 1,
-          "pts": 53.49,
-          "opp_pts": 54.78,
+          "season": "2004",
+          "week": 12,
+          "pts": 69.2,
+          "opp_pts": 76.2,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Damon's Demons"
@@ -29884,15 +29434,6 @@ const WSW_DATA = {
           "week": 7,
           "pts": 63.3,
           "opp_pts": 60.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2005",
-          "week": 10,
-          "pts": 83.27,
-          "opp_pts": 61.59,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Damon's Demons"
@@ -29908,15 +29449,6 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 8,
-          "pts": 92.98,
-          "opp_pts": 99.59,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
-        },
-        {
-          "season": "2006",
           "week": 13,
           "pts": 86.35,
           "opp_pts": 54.87,
@@ -29926,27 +29458,9 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 1,
-          "pts": 79.82,
-          "opp_pts": 86.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
-        },
-        {
-          "season": "2007",
           "week": 4,
           "pts": 65.74,
           "opp_pts": 85.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
-        },
-        {
-          "season": "2007",
-          "week": 10,
-          "pts": 91.72,
-          "opp_pts": 99.52,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Damon's Digglers"
@@ -29962,27 +29476,9 @@ const WSW_DATA = {
         },
         {
           "season": "2009",
-          "week": 3,
-          "pts": 85.72,
-          "opp_pts": 86.58,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2009",
           "week": 9,
           "pts": 76.68,
           "opp_pts": 105.58,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2009",
-          "week": 12,
-          "pts": 104.08,
-          "opp_pts": 130.56,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Damon's Demons"
@@ -30233,13 +29729,13 @@ const WSW_DATA = {
       ]
     }
   },
-  "Davidson|||Scott": {
+  "Dahmer's Cannibals|||Davidson": {
     "Davidson": {
-      "W": 28,
-      "L": 27,
+      "W": 3,
+      "L": 9,
       "T": 0,
-      "pts_for": 4499.42,
-      "pts_against": 4388.65,
+      "pts_for": 799.2,
+      "pts_against": 864.84,
       "games": [
         {
           "season": "2001",
@@ -30252,30 +29748,12 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 3,
-          "pts": 59.57,
-          "opp_pts": 89.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2001",
           "week": 6,
           "pts": 33.45,
           "opp_pts": 55.44,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2001",
-          "week": 8,
-          "pts": 73.18,
-          "opp_pts": 65.74,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2001",
@@ -30287,33 +29765,6 @@ const WSW_DATA = {
           "opp_team": "Dahmer's Cannibals"
         },
         {
-          "season": "2001",
-          "week": 13,
-          "pts": 39.31,
-          "opp_pts": 65.65,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 112.36,
-          "opp_pts": 56.59,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Radical Riptide"
-        },
-        {
-          "season": "2002",
-          "week": 4,
-          "pts": 76.18,
-          "opp_pts": 42.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "jakesjugglers"
-        },
-        {
           "season": "2002",
           "week": 6,
           "pts": 84.65,
@@ -30323,442 +29774,91 @@ const WSW_DATA = {
           "opp_team": "Dahmer's Cannibals"
         },
         {
-          "season": "2002",
+          "season": "2003",
           "week": 7,
-          "pts": 99.68,
-          "opp_pts": 77.4,
+          "pts": 109.04,
+          "opp_pts": 61.09,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
+          "opp_team": "Dahmers Cannibals"
         },
         {
-          "season": "2002",
-          "week": 8,
-          "pts": 60.34,
-          "opp_pts": 44.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 30.86,
-          "opp_pts": 41.88,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Radical Riptide"
-        },
-        {
-          "season": "2002",
-          "week": 13,
-          "pts": 116.91,
-          "opp_pts": 54.95,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "jakesjugglers"
-        },
-        {
-          "season": "2004",
-          "week": 4,
-          "pts": 52.71,
-          "opp_pts": 21.14,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2004",
-          "week": 5,
-          "pts": 60.37,
-          "opp_pts": 41.86,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
-        },
-        {
-          "season": "2004",
-          "week": 13,
-          "pts": 109.32,
-          "opp_pts": 71.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2004",
+          "season": "2003",
           "week": 14,
-          "pts": 94.23,
-          "opp_pts": 68.36,
+          "pts": 92.5,
+          "opp_pts": 74.11,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "LaSeBre"
+          "opp_team": "Dahmers Cannibals"
         },
         {
-          "season": "2005",
+          "season": "2004",
           "week": 1,
-          "pts": 31.26,
-          "opp_pts": 48.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2005",
-          "week": 6,
-          "pts": 67.69,
-          "opp_pts": 42.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2005",
-          "week": 10,
           "pts": 56.27,
-          "opp_pts": 60.78,
+          "opp_pts": 71.43,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 10,
+          "pts": 38.29,
+          "opp_pts": 96.73,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 5,
+          "pts": 69.02,
+          "opp_pts": 73.95,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 14,
+          "pts": 53.77,
+          "opp_pts": 67.53,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
         },
         {
           "season": "2006",
-          "week": 5,
-          "pts": 45.8,
-          "opp_pts": 64.67,
+          "week": 1,
+          "pts": 47.0,
+          "opp_pts": 58.84,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
+          "opp_team": "Dahmer's Cannibals"
         },
         {
           "season": "2006",
-          "week": 9,
-          "pts": 81.89,
-          "opp_pts": 65.29,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
-          "week": 14,
-          "pts": 78.74,
-          "opp_pts": 76.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 1,
-          "pts": 103.82,
-          "opp_pts": 76.18,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 2,
-          "pts": 97.46,
-          "opp_pts": 105.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 7,
-          "pts": 62.08,
-          "opp_pts": 108.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
           "week": 10,
-          "pts": 55.92,
-          "opp_pts": 82.02,
+          "pts": 83.04,
+          "opp_pts": 93.6,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 84.96,
-          "opp_pts": 85.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2009",
-          "week": 2,
-          "pts": 94.3,
-          "opp_pts": 87.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2009",
-          "week": 11,
-          "pts": 75.76,
-          "opp_pts": 102.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 6,
-          "pts": 93.5,
-          "opp_pts": 74.7,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2011",
-          "week": 5,
-          "pts": 78.96,
-          "opp_pts": 105.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2011",
-          "week": 14,
-          "pts": 89.78,
-          "opp_pts": 111.48,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2012",
-          "week": 2,
-          "pts": 76.76,
-          "opp_pts": 109.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2012",
-          "week": 11,
-          "pts": 94.44,
-          "opp_pts": 104.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2013",
-          "week": 5,
-          "pts": 82.86,
-          "opp_pts": 34.18,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2013",
-          "week": 14,
-          "pts": 77.76,
-          "opp_pts": 53.36,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2014",
-          "week": 6,
-          "pts": 96.14,
-          "opp_pts": 91.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2015",
-          "week": 8,
-          "pts": 92.4,
-          "opp_pts": 110.48,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2016",
-          "week": 7,
-          "pts": 71.9,
-          "opp_pts": 100.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2017",
-          "week": 8,
-          "pts": 132.94,
-          "opp_pts": 65.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2018",
-          "week": 8,
-          "pts": 95.96,
-          "opp_pts": 90.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2019",
-          "week": 8,
-          "pts": 87.36,
-          "opp_pts": 77.26,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2020",
-          "week": 5,
-          "pts": 74.94,
-          "opp_pts": 115.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2020",
-          "week": 14,
-          "pts": 123.14,
-          "opp_pts": 110.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2021",
-          "week": 8,
-          "pts": 83.3,
-          "opp_pts": 101.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2022",
-          "week": 1,
-          "pts": 70.6,
-          "opp_pts": 78.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2022",
-          "week": 10,
-          "pts": 79.0,
-          "opp_pts": 95.08,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2023",
-          "week": 1,
-          "pts": 102.62,
-          "opp_pts": 102.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2023",
-          "week": 10,
-          "pts": 97.16,
-          "opp_pts": 86.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2024",
-          "week": 1,
-          "pts": 111.96,
-          "opp_pts": 93.16,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2024",
-          "week": 10,
-          "pts": 72.24,
-          "opp_pts": 111.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2025",
-          "week": 5,
-          "pts": 143.84,
-          "opp_pts": 130.18,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2025",
-          "week": 14,
-          "pts": 101.84,
-          "opp_pts": 111.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2025",
-          "week": 17,
-          "pts": 96.78,
-          "opp_pts": 106.5,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "SKULL's Spoliators"
+          "opp_team": "Dahmer's Cannibals"
         }
       ]
     },
-    "Scott": {
-      "W": 27,
-      "L": 28,
+    "Dahmer's Cannibals": {
+      "W": 9,
+      "L": 3,
       "T": 0,
-      "pts_for": 4388.65,
-      "pts_against": 4499.42,
+      "pts_for": 864.84,
+      "pts_against": 799.2,
       "games": [
         {
           "season": "2001",
           "week": 1,
           "pts": 87.9,
           "opp_pts": 69.17,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2001",
-          "week": 3,
-          "pts": 89.14,
-          "opp_pts": 59.57,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Fighting Tigers"
@@ -30774,46 +29874,10 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 8,
-          "pts": 65.74,
-          "opp_pts": 73.18,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2001",
           "week": 11,
           "pts": 73.48,
           "opp_pts": 63.0,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2001",
-          "week": 13,
-          "pts": 65.65,
-          "opp_pts": 39.31,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 56.59,
-          "opp_pts": 112.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2002",
-          "week": 4,
-          "pts": 42.38,
-          "opp_pts": 76.18,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "Fighting Tigers"
         },
@@ -30827,417 +29891,75 @@ const WSW_DATA = {
           "opp_team": "Fighting Tigers"
         },
         {
-          "season": "2002",
+          "season": "2003",
           "week": 7,
-          "pts": 77.4,
-          "opp_pts": 99.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2002",
-          "week": 8,
-          "pts": 44.54,
-          "opp_pts": 60.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 41.88,
-          "opp_pts": 30.86,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2002",
-          "week": 13,
-          "pts": 54.95,
-          "opp_pts": 116.91,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2004",
-          "week": 4,
-          "pts": 21.14,
-          "opp_pts": 52.71,
+          "pts": 61.09,
+          "opp_pts": 109.04,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
         },
         {
-          "season": "2004",
-          "week": 5,
-          "pts": 41.86,
-          "opp_pts": 60.37,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2004",
-          "week": 13,
-          "pts": 71.38,
-          "opp_pts": 109.32,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2004",
+          "season": "2003",
           "week": 14,
-          "pts": 68.36,
-          "opp_pts": 94.23,
+          "pts": 74.11,
+          "opp_pts": 92.5,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
         },
         {
-          "season": "2005",
+          "season": "2004",
           "week": 1,
-          "pts": 48.64,
-          "opp_pts": 31.26,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2005",
-          "week": 6,
-          "pts": 42.44,
-          "opp_pts": 67.69,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2005",
-          "week": 10,
-          "pts": 60.78,
+          "pts": 71.43,
           "opp_pts": 56.27,
           "result": "W",
           "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2004",
+          "week": 10,
+          "pts": 96.73,
+          "opp_pts": 38.29,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2005",
+          "week": 5,
+          "pts": 73.95,
+          "opp_pts": 69.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2005",
+          "week": 14,
+          "pts": 67.53,
+          "opp_pts": 53.77,
+          "result": "W",
+          "is_playoffs": false,
           "opp_team": "Fighting Tigers"
         },
         {
           "season": "2006",
-          "week": 5,
-          "pts": 64.67,
-          "opp_pts": 45.8,
+          "week": 1,
+          "pts": 58.84,
+          "opp_pts": 47.0,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
         },
         {
           "season": "2006",
-          "week": 9,
-          "pts": 65.29,
-          "opp_pts": 81.89,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2006",
-          "week": 14,
-          "pts": 76.56,
-          "opp_pts": 78.74,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
-          "week": 1,
-          "pts": 76.18,
-          "opp_pts": 103.82,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
-          "week": 2,
-          "pts": 105.2,
-          "opp_pts": 97.46,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
-          "week": 7,
-          "pts": 108.06,
-          "opp_pts": 62.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
           "week": 10,
-          "pts": 82.02,
-          "opp_pts": 55.92,
+          "pts": 93.6,
+          "opp_pts": 83.04,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 85.86,
-          "opp_pts": 84.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2009",
-          "week": 2,
-          "pts": 87.24,
-          "opp_pts": 94.3,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2009",
-          "week": 11,
-          "pts": 102.94,
-          "opp_pts": 75.76,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2010",
-          "week": 6,
-          "pts": 74.7,
-          "opp_pts": 93.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2011",
-          "week": 5,
-          "pts": 105.94,
-          "opp_pts": 78.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2011",
-          "week": 14,
-          "pts": 111.48,
-          "opp_pts": 89.78,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2012",
-          "week": 2,
-          "pts": 109.94,
-          "opp_pts": 76.76,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2012",
-          "week": 11,
-          "pts": 104.72,
-          "opp_pts": 94.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2013",
-          "week": 5,
-          "pts": 34.18,
-          "opp_pts": 82.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2013",
-          "week": 14,
-          "pts": 53.36,
-          "opp_pts": 77.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2014",
-          "week": 6,
-          "pts": 91.8,
-          "opp_pts": 96.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2015",
-          "week": 8,
-          "pts": 110.48,
-          "opp_pts": 92.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2016",
-          "week": 7,
-          "pts": 100.98,
-          "opp_pts": 71.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2017",
-          "week": 8,
-          "pts": 65.5,
-          "opp_pts": 132.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2018",
-          "week": 8,
-          "pts": 90.24,
-          "opp_pts": 95.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2019",
-          "week": 8,
-          "pts": 77.26,
-          "opp_pts": 87.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2020",
-          "week": 5,
-          "pts": 115.86,
-          "opp_pts": 74.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2020",
-          "week": 14,
-          "pts": 110.56,
-          "opp_pts": 123.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2021",
-          "week": 8,
-          "pts": 101.5,
-          "opp_pts": 83.3,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2022",
-          "week": 1,
-          "pts": 78.2,
-          "opp_pts": 70.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2022",
-          "week": 10,
-          "pts": 95.08,
-          "opp_pts": 79.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2023",
-          "week": 1,
-          "pts": 102.24,
-          "opp_pts": 102.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2023",
-          "week": 10,
-          "pts": 86.96,
-          "opp_pts": 97.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2024",
-          "week": 1,
-          "pts": 93.16,
-          "opp_pts": 111.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2024",
-          "week": 10,
-          "pts": 111.42,
-          "opp_pts": 72.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2025",
-          "week": 5,
-          "pts": 130.18,
-          "opp_pts": 143.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2025",
-          "week": 14,
-          "pts": 111.96,
-          "opp_pts": 101.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2025",
-          "week": 17,
-          "pts": 106.5,
-          "opp_pts": 96.78,
-          "result": "W",
-          "is_playoffs": true,
           "opp_team": "The Fighting Tigers"
         }
       ]
@@ -31245,26 +29967,17 @@ const WSW_DATA = {
   },
   "Michael|||Scott": {
     "Scott": {
-      "W": 31,
-      "L": 34,
+      "W": 20,
+      "L": 21,
       "T": 0,
-      "pts_for": 5300.0,
-      "pts_against": 5238.48,
+      "pts_for": 3636.73,
+      "pts_against": 3639.68,
       "games": [
         {
           "season": "2001",
           "week": 2,
           "pts": 74.0,
           "opp_pts": 77.32,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Headhunter's R us"
-        },
-        {
-          "season": "2001",
-          "week": 4,
-          "pts": 54.89,
-          "opp_pts": 61.12,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Headhunter's R us"
@@ -31280,15 +29993,6 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 9,
-          "pts": 90.24,
-          "opp_pts": 65.63,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Headhunter's R us"
-        },
-        {
-          "season": "2001",
           "week": 12,
           "pts": 80.59,
           "opp_pts": 94.14,
@@ -31297,127 +30001,10 @@ const WSW_DATA = {
           "opp_team": "Headhunter's R us"
         },
         {
-          "season": "2001",
-          "week": 14,
-          "pts": 47.51,
-          "opp_pts": 61.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Headhunter's R us"
-        },
-        {
-          "season": "2002",
-          "week": 2,
-          "pts": 55.01,
-          "opp_pts": 81.95,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 82.48,
-          "opp_pts": 34.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2002",
-          "week": 4,
-          "pts": 57.49,
-          "opp_pts": 64.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2002",
-          "week": 8,
-          "pts": 47.39,
-          "opp_pts": 99.04,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2002",
-          "week": 9,
-          "pts": 67.04,
-          "opp_pts": 51.74,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2002",
-          "week": 11,
-          "pts": 74.34,
-          "opp_pts": 64.49,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 73.23,
-          "opp_pts": 96.13,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2002",
-          "week": 13,
-          "pts": 64.97,
-          "opp_pts": 74.83,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2003",
-          "week": 1,
-          "pts": 70.43,
-          "opp_pts": 40.99,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "DAMONs Demons"
-        },
-        {
           "season": "2003",
           "week": 2,
           "pts": 82.16,
           "opp_pts": 68.77,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "DAMONs Demons"
-        },
-        {
-          "season": "2003",
-          "week": 3,
-          "pts": 45.35,
-          "opp_pts": 50.65,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "DAMONs Demons"
-        },
-        {
-          "season": "2003",
-          "week": 4,
-          "pts": 64.64,
-          "opp_pts": 48.19,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "DAMONs Demons"
-        },
-        {
-          "season": "2003",
-          "week": 8,
-          "pts": 70.4,
-          "opp_pts": 34.6,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "DAMONs Demons"
@@ -31432,24 +30019,6 @@ const WSW_DATA = {
           "opp_team": "DAMONs Demons"
         },
         {
-          "season": "2003",
-          "week": 10,
-          "pts": 66.85,
-          "opp_pts": 94.63,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "DAMONs Demons"
-        },
-        {
-          "season": "2003",
-          "week": 11,
-          "pts": 42.08,
-          "opp_pts": 72.23,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "DAMONs Demons"
-        },
-        {
           "season": "2004",
           "week": 2,
           "pts": 69.81,
@@ -31460,27 +30029,9 @@ const WSW_DATA = {
         },
         {
           "season": "2004",
-          "week": 3,
-          "pts": 83.76,
-          "opp_pts": 45.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2004",
           "week": 11,
           "pts": 50.61,
           "opp_pts": 63.33,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2004",
-          "week": 12,
-          "pts": 69.2,
-          "opp_pts": 76.2,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Damon's Demons"
@@ -31496,15 +30047,6 @@ const WSW_DATA = {
         },
         {
           "season": "2005",
-          "week": 9,
-          "pts": 78.67,
-          "opp_pts": 70.27,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2005",
           "week": 14,
           "pts": 87.8,
           "opp_pts": 51.68,
@@ -31514,37 +30056,10 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 1,
-          "pts": 29.81,
-          "opp_pts": 64.02,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
-        },
-        {
-          "season": "2006",
           "week": 6,
           "pts": 40.51,
           "opp_pts": 58.23,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
-        },
-        {
-          "season": "2006",
-          "week": 10,
-          "pts": 56.63,
-          "opp_pts": 80.31,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
-        },
-        {
-          "season": "2007",
-          "week": 5,
-          "pts": 109.8,
-          "opp_pts": 77.04,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "Damon's Digglers"
         },
@@ -31562,15 +30077,6 @@ const WSW_DATA = {
           "week": 8,
           "pts": 102.58,
           "opp_pts": 73.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
-        },
-        {
-          "season": "2007",
-          "week": 14,
-          "pts": 161.06,
-          "opp_pts": 89.16,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Damon's Digglers"
@@ -31839,11 +30345,11 @@ const WSW_DATA = {
       ]
     },
     "Michael": {
-      "W": 34,
-      "L": 31,
+      "W": 21,
+      "L": 20,
       "T": 0,
-      "pts_for": 5238.48,
-      "pts_against": 5300.0,
+      "pts_for": 3639.68,
+      "pts_against": 3636.73,
       "games": [
         {
           "season": "2001",
@@ -31856,15 +30362,6 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 4,
-          "pts": 61.12,
-          "opp_pts": 54.89,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2001",
           "week": 7,
           "pts": 40.55,
           "opp_pts": 92.51,
@@ -31874,111 +30371,12 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 9,
-          "pts": 65.63,
-          "opp_pts": 90.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2001",
           "week": 12,
           "pts": 94.14,
           "opp_pts": 80.59,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2001",
-          "week": 14,
-          "pts": 61.62,
-          "opp_pts": 47.51,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 2,
-          "pts": 81.95,
-          "opp_pts": 55.01,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 34.28,
-          "opp_pts": 82.48,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 4,
-          "pts": 64.06,
-          "opp_pts": 57.49,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2002",
-          "week": 8,
-          "pts": 99.04,
-          "opp_pts": 47.39,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Radical Riptide"
-        },
-        {
-          "season": "2002",
-          "week": 9,
-          "pts": 51.74,
-          "opp_pts": 67.04,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "jakesjugglers"
-        },
-        {
-          "season": "2002",
-          "week": 11,
-          "pts": 64.49,
-          "opp_pts": 74.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 96.13,
-          "opp_pts": 73.23,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 13,
-          "pts": 74.83,
-          "opp_pts": 64.97,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2003",
-          "week": 1,
-          "pts": 40.99,
-          "opp_pts": 70.43,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmers Cannibals"
         },
         {
           "season": "2003",
@@ -31991,57 +30389,12 @@ const WSW_DATA = {
         },
         {
           "season": "2003",
-          "week": 3,
-          "pts": 50.65,
-          "opp_pts": 45.35,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2003",
-          "week": 4,
-          "pts": 48.19,
-          "opp_pts": 64.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Jakes Jugglers"
-        },
-        {
-          "season": "2003",
-          "week": 8,
-          "pts": 34.6,
-          "opp_pts": 70.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmers Cannibals"
-        },
-        {
-          "season": "2003",
           "week": 9,
           "pts": 38.92,
           "opp_pts": 50.77,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULLs Spoliators"
-        },
-        {
-          "season": "2003",
-          "week": 10,
-          "pts": 94.63,
-          "opp_pts": 66.85,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2003",
-          "week": 11,
-          "pts": 72.23,
-          "opp_pts": 42.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Jakes Jugglers"
         },
         {
           "season": "2004",
@@ -32054,30 +30407,12 @@ const WSW_DATA = {
         },
         {
           "season": "2004",
-          "week": 3,
-          "pts": 45.62,
-          "opp_pts": 83.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
-        },
-        {
-          "season": "2004",
           "week": 11,
           "pts": 63.33,
           "opp_pts": 50.61,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2004",
-          "week": 12,
-          "pts": 76.2,
-          "opp_pts": 69.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
         },
         {
           "season": "2005",
@@ -32090,15 +30425,6 @@ const WSW_DATA = {
         },
         {
           "season": "2005",
-          "week": 9,
-          "pts": 70.27,
-          "opp_pts": 78.67,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2005",
           "week": 14,
           "pts": 51.68,
           "opp_pts": 87.8,
@@ -32108,39 +30434,12 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 1,
-          "pts": 64.02,
-          "opp_pts": 29.81,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
           "week": 6,
           "pts": 58.23,
           "opp_pts": 40.51,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2006",
-          "week": 10,
-          "pts": 80.31,
-          "opp_pts": 56.63,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
-          "week": 5,
-          "pts": 77.04,
-          "opp_pts": 109.8,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2007",
@@ -32159,15 +30458,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 14,
-          "pts": 89.16,
-          "opp_pts": 161.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2009",
@@ -32433,13 +30723,249 @@ const WSW_DATA = {
       ]
     }
   },
+  "Dahmer's Cannibals|||Roger": {
+    "Roger": {
+      "W": 5,
+      "L": 7,
+      "T": 0,
+      "pts_for": 846.72,
+      "pts_against": 891.67,
+      "games": [
+        {
+          "season": "2001",
+          "week": 2,
+          "pts": 43.81,
+          "opp_pts": 64.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2001",
+          "week": 7,
+          "pts": 62.2,
+          "opp_pts": 89.63,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2001",
+          "week": 12,
+          "pts": 61.8,
+          "opp_pts": 100.63,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2002",
+          "week": 1,
+          "pts": 58.13,
+          "opp_pts": 90.53,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2002",
+          "week": 10,
+          "pts": 63.42,
+          "opp_pts": 97.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 4,
+          "pts": 78.19,
+          "opp_pts": 81.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 11,
+          "pts": 78.72,
+          "opp_pts": 43.3,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 2,
+          "pts": 68.8,
+          "opp_pts": 77.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 11,
+          "pts": 104.87,
+          "opp_pts": 51.92,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 2,
+          "pts": 74.62,
+          "opp_pts": 64.85,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 11,
+          "pts": 66.26,
+          "opp_pts": 60.99,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 6,
+          "pts": 85.9,
+          "opp_pts": 68.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 7,
+      "L": 5,
+      "T": 0,
+      "pts_for": 891.67,
+      "pts_against": 846.72,
+      "games": [
+        {
+          "season": "2001",
+          "week": 2,
+          "pts": 64.72,
+          "opp_pts": 43.81,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2001",
+          "week": 7,
+          "pts": 89.63,
+          "opp_pts": 62.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2001",
+          "week": 12,
+          "pts": 100.63,
+          "opp_pts": 61.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2002",
+          "week": 1,
+          "pts": 90.53,
+          "opp_pts": 58.13,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2002",
+          "week": 10,
+          "pts": 97.96,
+          "opp_pts": 63.42,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2003",
+          "week": 4,
+          "pts": 81.86,
+          "opp_pts": 78.19,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2003",
+          "week": 11,
+          "pts": 43.3,
+          "opp_pts": 78.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2004",
+          "week": 2,
+          "pts": 77.16,
+          "opp_pts": 68.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2004",
+          "week": 11,
+          "pts": 51.92,
+          "opp_pts": 104.87,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2005",
+          "week": 2,
+          "pts": 64.85,
+          "opp_pts": 74.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2005",
+          "week": 11,
+          "pts": 60.99,
+          "opp_pts": 66.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2006",
+          "week": 6,
+          "pts": 68.12,
+          "opp_pts": 85.9,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        }
+      ]
+    }
+  },
   "Damon|||Davidson": {
     "Davidson": {
-      "W": 18,
-      "L": 30,
+      "W": 21,
+      "L": 23,
       "T": 0,
-      "pts_for": 4049.88,
-      "pts_against": 4461.21,
+      "pts_for": 3728.49,
+      "pts_against": 3894.16,
       "games": [
         {
           "season": "2001",
@@ -32470,39 +30996,48 @@ const WSW_DATA = {
         },
         {
           "season": "2002",
-          "week": 5,
-          "pts": 69.62,
-          "opp_pts": 44.5,
+          "week": 8,
+          "pts": 60.34,
+          "opp_pts": 44.54,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "ric's last resort"
+          "opp_team": "LaSeBre AvenGERs"
         },
         {
-          "season": "2002",
-          "week": 14,
-          "pts": 56.2,
-          "opp_pts": 105.96,
+          "season": "2003",
+          "week": 5,
+          "pts": 44.07,
+          "opp_pts": 61.4,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "ric's last resort"
+          "opp_team": "LasEbreAvEngers"
+        },
+        {
+          "season": "2003",
+          "week": 12,
+          "pts": 64.23,
+          "opp_pts": 51.91,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
         },
         {
           "season": "2004",
-          "week": 8,
-          "pts": 37.74,
-          "opp_pts": 70.23,
-          "result": "L",
+          "week": 5,
+          "pts": 60.37,
+          "opp_pts": 41.86,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
+          "opp_team": "LaSeBre"
         },
         {
-          "season": "2005",
-          "week": 3,
-          "pts": 54.95,
-          "opp_pts": 85.55,
-          "result": "L",
+          "season": "2004",
+          "week": 14,
+          "pts": 94.23,
+          "opp_pts": 68.36,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
+          "opp_team": "LaSeBre"
         },
         {
           "season": "2005",
@@ -32512,15 +31047,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2005",
-          "week": 12,
-          "pts": 47.91,
-          "opp_pts": 79.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
         },
         {
           "season": "2006",
@@ -32533,30 +31059,12 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 7,
-          "pts": 89.59,
-          "opp_pts": 102.18,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
           "week": 12,
           "pts": 49.41,
           "opp_pts": 47.88,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSebre-Avengers"
-        },
-        {
-          "season": "2007",
-          "week": 3,
-          "pts": 90.36,
-          "opp_pts": 113.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2007",
@@ -32568,15 +31076,6 @@ const WSW_DATA = {
           "opp_team": "LaSeBre AveNgers"
         },
         {
-          "season": "2007",
-          "week": 12,
-          "pts": 107.62,
-          "opp_pts": 130.08,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
           "season": "2009",
           "week": 1,
           "pts": 68.86,
@@ -32584,15 +31083,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
-          "week": 7,
-          "pts": 90.64,
-          "opp_pts": 103.32,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2009",
@@ -32876,11 +31366,11 @@ const WSW_DATA = {
       ]
     },
     "Damon": {
-      "W": 30,
-      "L": 18,
+      "W": 23,
+      "L": 21,
       "T": 0,
-      "pts_for": 4461.21,
-      "pts_against": 4049.88,
+      "pts_for": 3894.16,
+      "pts_against": 3728.49,
       "games": [
         {
           "season": "2001",
@@ -32911,39 +31401,48 @@ const WSW_DATA = {
         },
         {
           "season": "2002",
-          "week": 5,
-          "pts": 44.5,
-          "opp_pts": 69.62,
+          "week": 8,
+          "pts": 44.54,
+          "opp_pts": 60.34,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Fighting Tigers"
         },
         {
-          "season": "2002",
-          "week": 14,
-          "pts": 105.96,
-          "opp_pts": 56.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2004",
-          "week": 8,
-          "pts": 70.23,
-          "opp_pts": 37.74,
+          "season": "2003",
+          "week": 5,
+          "pts": 61.4,
+          "opp_pts": 44.07,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
         },
         {
-          "season": "2005",
-          "week": 3,
-          "pts": 85.55,
-          "opp_pts": 54.95,
-          "result": "W",
+          "season": "2003",
+          "week": 12,
+          "pts": 51.91,
+          "opp_pts": 64.23,
+          "result": "L",
           "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2004",
+          "week": 5,
+          "pts": 41.86,
+          "opp_pts": 60.37,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2004",
+          "week": 14,
+          "pts": 68.36,
+          "opp_pts": 94.23,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
         },
         {
           "season": "2005",
@@ -32955,28 +31454,10 @@ const WSW_DATA = {
           "opp_team": "Fighting Tigers"
         },
         {
-          "season": "2005",
-          "week": 12,
-          "pts": 79.68,
-          "opp_pts": 47.91,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
           "season": "2006",
           "week": 3,
           "pts": 53.84,
           "opp_pts": 42.66,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2006",
-          "week": 7,
-          "pts": 102.18,
-          "opp_pts": 89.59,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
@@ -32992,27 +31473,9 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 3,
-          "pts": 113.62,
-          "opp_pts": 90.36,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
           "week": 6,
           "pts": 116.64,
           "opp_pts": 77.42,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
-          "week": 12,
-          "pts": 130.08,
-          "opp_pts": 107.62,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
@@ -33022,15 +31485,6 @@ const WSW_DATA = {
           "week": 1,
           "pts": 78.82,
           "opp_pts": 68.86,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2009",
-          "week": 7,
-          "pts": 103.32,
-          "opp_pts": 90.64,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
@@ -33313,6 +31767,764 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
+        }
+      ]
+    }
+  },
+  "Davidson|||Scott": {
+    "Scott": {
+      "W": 22,
+      "L": 19,
+      "T": 0,
+      "pts_for": 3537.81,
+      "pts_against": 3480.39,
+      "games": [
+        {
+          "season": "2001",
+          "week": 3,
+          "pts": 89.14,
+          "opp_pts": 59.57,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2001",
+          "week": 8,
+          "pts": 65.74,
+          "opp_pts": 73.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2001",
+          "week": 13,
+          "pts": 65.65,
+          "opp_pts": 39.31,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 1,
+          "pts": 55.52,
+          "opp_pts": 51.78,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 8,
+          "pts": 71.93,
+          "opp_pts": 61.89,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2004",
+          "week": 4,
+          "pts": 21.14,
+          "opp_pts": 52.71,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2004",
+          "week": 13,
+          "pts": 71.38,
+          "opp_pts": 109.32,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2005",
+          "week": 6,
+          "pts": 42.44,
+          "opp_pts": 67.69,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2006",
+          "week": 5,
+          "pts": 64.67,
+          "opp_pts": 45.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2006",
+          "week": 14,
+          "pts": 76.56,
+          "opp_pts": 78.74,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 76.18,
+          "opp_pts": 103.82,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 105.2,
+          "opp_pts": 97.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 82.02,
+          "opp_pts": 55.92,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 85.86,
+          "opp_pts": 84.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2009",
+          "week": 2,
+          "pts": 87.24,
+          "opp_pts": 94.3,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2009",
+          "week": 11,
+          "pts": 102.94,
+          "opp_pts": 75.76,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2010",
+          "week": 6,
+          "pts": 74.7,
+          "opp_pts": 93.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2011",
+          "week": 5,
+          "pts": 105.94,
+          "opp_pts": 78.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2011",
+          "week": 14,
+          "pts": 111.48,
+          "opp_pts": 89.78,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2012",
+          "week": 2,
+          "pts": 109.94,
+          "opp_pts": 76.76,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2012",
+          "week": 11,
+          "pts": 104.72,
+          "opp_pts": 94.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2013",
+          "week": 5,
+          "pts": 34.18,
+          "opp_pts": 82.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2013",
+          "week": 14,
+          "pts": 53.36,
+          "opp_pts": 77.76,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2014",
+          "week": 6,
+          "pts": 91.8,
+          "opp_pts": 96.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2015",
+          "week": 8,
+          "pts": 110.48,
+          "opp_pts": 92.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2016",
+          "week": 7,
+          "pts": 100.98,
+          "opp_pts": 71.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2017",
+          "week": 8,
+          "pts": 65.5,
+          "opp_pts": 132.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2018",
+          "week": 8,
+          "pts": 90.24,
+          "opp_pts": 95.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2019",
+          "week": 8,
+          "pts": 77.26,
+          "opp_pts": 87.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2020",
+          "week": 5,
+          "pts": 115.86,
+          "opp_pts": 74.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2020",
+          "week": 14,
+          "pts": 110.56,
+          "opp_pts": 123.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2021",
+          "week": 8,
+          "pts": 101.5,
+          "opp_pts": 83.3,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2022",
+          "week": 1,
+          "pts": 78.2,
+          "opp_pts": 70.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2022",
+          "week": 10,
+          "pts": 95.08,
+          "opp_pts": 79.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2023",
+          "week": 1,
+          "pts": 102.24,
+          "opp_pts": 102.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2023",
+          "week": 10,
+          "pts": 86.96,
+          "opp_pts": 97.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2024",
+          "week": 1,
+          "pts": 93.16,
+          "opp_pts": 111.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2024",
+          "week": 10,
+          "pts": 111.42,
+          "opp_pts": 72.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2025",
+          "week": 5,
+          "pts": 130.18,
+          "opp_pts": 143.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2025",
+          "week": 14,
+          "pts": 111.96,
+          "opp_pts": 101.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2025",
+          "week": 17,
+          "pts": 106.5,
+          "opp_pts": 96.78,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "The Fighting Tigers"
+        }
+      ]
+    },
+    "Davidson": {
+      "W": 19,
+      "L": 22,
+      "T": 0,
+      "pts_for": 3480.39,
+      "pts_against": 3537.81,
+      "games": [
+        {
+          "season": "2001",
+          "week": 3,
+          "pts": 59.57,
+          "opp_pts": 89.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2001",
+          "week": 8,
+          "pts": 73.18,
+          "opp_pts": 65.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2001",
+          "week": 13,
+          "pts": 39.31,
+          "opp_pts": 65.65,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 1,
+          "pts": 51.78,
+          "opp_pts": 55.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 8,
+          "pts": 61.89,
+          "opp_pts": 71.93,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2004",
+          "week": 4,
+          "pts": 52.71,
+          "opp_pts": 21.14,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2004",
+          "week": 13,
+          "pts": 109.32,
+          "opp_pts": 71.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2005",
+          "week": 6,
+          "pts": 67.69,
+          "opp_pts": 42.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 5,
+          "pts": 45.8,
+          "opp_pts": 64.67,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 14,
+          "pts": 78.74,
+          "opp_pts": 76.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 103.82,
+          "opp_pts": 76.18,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 97.46,
+          "opp_pts": 105.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 55.92,
+          "opp_pts": 82.02,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 84.96,
+          "opp_pts": 85.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2009",
+          "week": 2,
+          "pts": 94.3,
+          "opp_pts": 87.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2009",
+          "week": 11,
+          "pts": 75.76,
+          "opp_pts": 102.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 6,
+          "pts": 93.5,
+          "opp_pts": 74.7,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2011",
+          "week": 5,
+          "pts": 78.96,
+          "opp_pts": 105.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2011",
+          "week": 14,
+          "pts": 89.78,
+          "opp_pts": 111.48,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2012",
+          "week": 2,
+          "pts": 76.76,
+          "opp_pts": 109.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2012",
+          "week": 11,
+          "pts": 94.44,
+          "opp_pts": 104.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2013",
+          "week": 5,
+          "pts": 82.86,
+          "opp_pts": 34.18,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2013",
+          "week": 14,
+          "pts": 77.76,
+          "opp_pts": 53.36,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2014",
+          "week": 6,
+          "pts": 96.14,
+          "opp_pts": 91.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2015",
+          "week": 8,
+          "pts": 92.4,
+          "opp_pts": 110.48,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2016",
+          "week": 7,
+          "pts": 71.9,
+          "opp_pts": 100.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2017",
+          "week": 8,
+          "pts": 132.94,
+          "opp_pts": 65.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2018",
+          "week": 8,
+          "pts": 95.96,
+          "opp_pts": 90.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2019",
+          "week": 8,
+          "pts": 87.36,
+          "opp_pts": 77.26,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2020",
+          "week": 5,
+          "pts": 74.94,
+          "opp_pts": 115.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2020",
+          "week": 14,
+          "pts": 123.14,
+          "opp_pts": 110.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2021",
+          "week": 8,
+          "pts": 83.3,
+          "opp_pts": 101.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2022",
+          "week": 1,
+          "pts": 70.6,
+          "opp_pts": 78.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2022",
+          "week": 10,
+          "pts": 79.0,
+          "opp_pts": 95.08,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2023",
+          "week": 1,
+          "pts": 102.62,
+          "opp_pts": 102.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2023",
+          "week": 10,
+          "pts": 97.16,
+          "opp_pts": 86.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2024",
+          "week": 1,
+          "pts": 111.96,
+          "opp_pts": 93.16,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2024",
+          "week": 10,
+          "pts": 72.24,
+          "opp_pts": 111.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2025",
+          "week": 5,
+          "pts": 143.84,
+          "opp_pts": 130.18,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2025",
+          "week": 14,
+          "pts": 101.84,
+          "opp_pts": 111.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2025",
+          "week": 17,
+          "pts": 96.78,
+          "opp_pts": 106.5,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     }
@@ -34021,13 +33233,13 @@ const WSW_DATA = {
       ]
     }
   },
-  "Damon|||Scott": {
+  "Dahmer's Cannibals|||Damon": {
     "Damon": {
-      "W": 37,
-      "L": 40,
+      "W": 4,
+      "L": 7,
       "T": 0,
-      "pts_for": 6261.27,
-      "pts_against": 6367.25,
+      "pts_for": 701.34,
+      "pts_against": 766.25,
       "games": [
         {
           "season": "2001",
@@ -34040,30 +33252,12 @@ const WSW_DATA = {
         },
         {
           "season": "2001",
-          "week": 4,
-          "pts": 52.07,
-          "opp_pts": 82.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2001",
           "week": 8,
           "pts": 42.63,
           "opp_pts": 69.67,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2001",
-          "week": 9,
-          "pts": 84.88,
-          "opp_pts": 95.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2001",
@@ -34075,94 +33269,13 @@ const WSW_DATA = {
           "opp_team": "Dahmer's Cannibals"
         },
         {
-          "season": "2001",
-          "week": 14,
-          "pts": 76.08,
-          "opp_pts": 92.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
           "season": "2002",
-          "week": 1,
-          "pts": 88.64,
-          "opp_pts": 43.93,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Radical Riptide"
-        },
-        {
-          "season": "2002",
-          "week": 2,
-          "pts": 77.63,
-          "opp_pts": 43.82,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 100.25,
-          "opp_pts": 92.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "jakesjugglers"
-        },
-        {
-          "season": "2002",
-          "week": 7,
-          "pts": 79.47,
-          "opp_pts": 103.67,
+          "week": 9,
+          "pts": 49.2,
+          "opp_pts": 94.43,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 9,
-          "pts": 81.1,
-          "opp_pts": 63.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 10,
-          "pts": 55.39,
-          "opp_pts": 63.75,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Radical Riptide"
-        },
-        {
-          "season": "2002",
-          "week": 11,
-          "pts": 76.63,
-          "opp_pts": 78.58,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 124.78,
-          "opp_pts": 29.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "jakesjugglers"
-        },
-        {
-          "season": "2003",
-          "week": 1,
-          "pts": 77.01,
-          "opp_pts": 49.45,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Jakes Jugglers"
         },
         {
           "season": "2003",
@@ -34175,39 +33288,608 @@ const WSW_DATA = {
         },
         {
           "season": "2003",
-          "week": 4,
-          "pts": 77.23,
-          "opp_pts": 88.08,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULLs Spoliators"
-        },
-        {
-          "season": "2003",
-          "week": 5,
-          "pts": 61.4,
-          "opp_pts": 44.07,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2003",
-          "week": 8,
-          "pts": 63.06,
-          "opp_pts": 76.61,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Jakes Jugglers"
-        },
-        {
-          "season": "2003",
           "week": 10,
           "pts": 60.38,
           "opp_pts": 84.15,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 7,
+          "pts": 77.91,
+          "opp_pts": 63.85,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 1,
+          "pts": 83.53,
+          "opp_pts": 84.77,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 10,
+          "pts": 62.49,
+          "opp_pts": 63.05,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 5,
+          "pts": 55.85,
+          "opp_pts": 54.97,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 14,
+          "pts": 53.4,
+          "opp_pts": 81.29,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 7,
+      "L": 4,
+      "T": 0,
+      "pts_for": 766.25,
+      "pts_against": 701.34,
+      "games": [
+        {
+          "season": "2001",
+          "week": 3,
+          "pts": 47.47,
+          "opp_pts": 76.97,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "lasebre avengers"
+        },
+        {
+          "season": "2001",
+          "week": 8,
+          "pts": 69.67,
+          "opp_pts": 42.63,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "lasebre avengers"
+        },
+        {
+          "season": "2001",
+          "week": 13,
+          "pts": 69.87,
+          "opp_pts": 88.58,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "lasebre avengers"
+        },
+        {
+          "season": "2002",
+          "week": 9,
+          "pts": 94.43,
+          "opp_pts": 49.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
+        },
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 52.73,
+          "opp_pts": 50.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 84.15,
+          "opp_pts": 60.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
+        },
+        {
+          "season": "2004",
+          "week": 7,
+          "pts": 63.85,
+          "opp_pts": 77.91,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre"
+        },
+        {
+          "season": "2005",
+          "week": 1,
+          "pts": 84.77,
+          "opp_pts": 83.53,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebreAvenGers"
+        },
+        {
+          "season": "2005",
+          "week": 10,
+          "pts": 63.05,
+          "opp_pts": 62.49,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebreAvenGers"
+        },
+        {
+          "season": "2006",
+          "week": 5,
+          "pts": 54.97,
+          "opp_pts": 55.85,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSebre-Avengers"
+        },
+        {
+          "season": "2006",
+          "week": 14,
+          "pts": 81.29,
+          "opp_pts": 53.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebre-Avengers"
+        }
+      ]
+    }
+  },
+  "Damon|||Scott": {
+    "Scott": {
+      "W": 26,
+      "L": 17,
+      "T": 0,
+      "pts_for": 4105.36,
+      "pts_against": 3699.55,
+      "games": [
+        {
+          "season": "2001",
+          "week": 4,
+          "pts": 82.68,
+          "opp_pts": 52.07,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "lasebre avengers"
+        },
+        {
+          "season": "2001",
+          "week": 9,
+          "pts": 95.24,
+          "opp_pts": 84.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "lasebre avengers"
+        },
+        {
+          "season": "2001",
+          "week": 14,
+          "pts": 92.72,
+          "opp_pts": 76.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "lasebre avengers"
+        },
+        {
+          "season": "2003",
+          "week": 4,
+          "pts": 88.08,
+          "opp_pts": 77.23,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
+        },
+        {
+          "season": "2003",
+          "week": 11,
+          "pts": 67.12,
+          "opp_pts": 57.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
+        },
+        {
+          "season": "2004",
+          "week": 1,
+          "pts": 69.99,
+          "opp_pts": 42.41,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre"
+        },
+        {
+          "season": "2004",
+          "week": 10,
+          "pts": 119.71,
+          "opp_pts": 100.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre"
+        },
+        {
+          "season": "2005",
+          "week": 2,
+          "pts": 75.46,
+          "opp_pts": 39.75,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebreAvenGers"
+        },
+        {
+          "season": "2005",
+          "week": 11,
+          "pts": 88.61,
+          "opp_pts": 48.89,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebreAvenGers"
+        },
+        {
+          "season": "2006",
+          "week": 7,
+          "pts": 69.99,
+          "opp_pts": 73.9,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSebre-Avengers"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 73.06,
+          "opp_pts": 45.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
+        },
+        {
+          "season": "2007",
+          "week": 5,
+          "pts": 98.24,
+          "opp_pts": 46.68,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 106.82,
+          "opp_pts": 69.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
+        },
+        {
+          "season": "2007",
+          "week": 14,
+          "pts": 116.58,
+          "opp_pts": 93.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
+        },
+        {
+          "season": "2009",
+          "week": 6,
+          "pts": 95.88,
+          "opp_pts": 117.28,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSEbre Avengers"
+        },
+        {
+          "season": "2010",
+          "week": 5,
+          "pts": 103.0,
+          "opp_pts": 38.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2010",
+          "week": 14,
+          "pts": 73.3,
+          "opp_pts": 79.46,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2011",
+          "week": 8,
+          "pts": 109.72,
+          "opp_pts": 75.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2012",
+          "week": 4,
+          "pts": 102.04,
+          "opp_pts": 100.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2012",
+          "week": 13,
+          "pts": 95.92,
+          "opp_pts": 99.1,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2013",
+          "week": 7,
+          "pts": 73.42,
+          "opp_pts": 122.3,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2014",
+          "week": 4,
+          "pts": 126.6,
+          "opp_pts": 86.82,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2014",
+          "week": 13,
+          "pts": 158.6,
+          "opp_pts": 111.1,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2015",
+          "week": 5,
+          "pts": 91.18,
+          "opp_pts": 103.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2015",
+          "week": 14,
+          "pts": 82.28,
+          "opp_pts": 132.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2016",
+          "week": 3,
+          "pts": 114.08,
+          "opp_pts": 72.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2016",
+          "week": 12,
+          "pts": 109.94,
+          "opp_pts": 81.36,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2017",
+          "week": 4,
+          "pts": 59.04,
+          "opp_pts": 71.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2017",
+          "week": 13,
+          "pts": 77.74,
+          "opp_pts": 112.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2018",
+          "week": 4,
+          "pts": 117.28,
+          "opp_pts": 151.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2018",
+          "week": 13,
+          "pts": 98.22,
+          "opp_pts": 101.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2019",
+          "week": 3,
+          "pts": 106.74,
+          "opp_pts": 95.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2019",
+          "week": 12,
+          "pts": 82.0,
+          "opp_pts": 122.74,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2020",
+          "week": 6,
+          "pts": 75.0,
+          "opp_pts": 75.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2021",
+          "week": 3,
+          "pts": 69.32,
+          "opp_pts": 105.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2021",
+          "week": 12,
+          "pts": 79.0,
+          "opp_pts": 115.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2022",
+          "week": 9,
+          "pts": 62.3,
+          "opp_pts": 91.66,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2023",
+          "week": 3,
+          "pts": 120.18,
+          "opp_pts": 109.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2023",
+          "week": 12,
+          "pts": 145.62,
+          "opp_pts": 73.16,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2024",
+          "week": 3,
+          "pts": 66.86,
+          "opp_pts": 54.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2024",
+          "week": 12,
+          "pts": 103.88,
+          "opp_pts": 52.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2025",
+          "week": 1,
+          "pts": 93.22,
+          "opp_pts": 121.58,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2025",
+          "week": 10,
+          "pts": 168.7,
+          "opp_pts": 115.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        }
+      ]
+    },
+    "Damon": {
+      "W": 17,
+      "L": 26,
+      "T": 0,
+      "pts_for": 3699.55,
+      "pts_against": 4105.36,
+      "games": [
+        {
+          "season": "2001",
+          "week": 4,
+          "pts": 52.07,
+          "opp_pts": 82.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2001",
+          "week": 9,
+          "pts": 84.88,
+          "opp_pts": 95.24,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2001",
+          "week": 14,
+          "pts": 76.08,
+          "opp_pts": 92.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 4,
+          "pts": 77.23,
+          "opp_pts": 88.08,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
         },
         {
           "season": "2003",
@@ -34219,40 +33901,22 @@ const WSW_DATA = {
           "opp_team": "SKULLs Spoliators"
         },
         {
-          "season": "2003",
-          "week": 12,
-          "pts": 51.91,
-          "opp_pts": 64.23,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
           "season": "2004",
-          "week": 2,
-          "pts": 82.55,
-          "opp_pts": 44.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
-        },
-        {
-          "season": "2004",
-          "week": 9,
-          "pts": 26.03,
-          "opp_pts": 76.18,
+          "week": 1,
+          "pts": 42.41,
+          "opp_pts": 69.99,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2004",
-          "week": 11,
-          "pts": 58.84,
-          "opp_pts": 38.71,
-          "result": "W",
+          "week": 10,
+          "pts": 100.02,
+          "opp_pts": 119.71,
+          "result": "L",
           "is_playoffs": false,
-          "opp_team": "LaSeBre"
+          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2005",
@@ -34260,33 +33924,6 @@ const WSW_DATA = {
           "pts": 39.75,
           "opp_pts": 75.46,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2005",
-          "week": 6,
-          "pts": 43.88,
-          "opp_pts": 71.97,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2005",
-          "week": 8,
-          "pts": 49.05,
-          "opp_pts": 65.09,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2005",
-          "week": 9,
-          "pts": 70.18,
-          "opp_pts": 58.62,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
         },
@@ -34301,33 +33938,6 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 2,
-          "pts": 102.52,
-          "opp_pts": 50.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2006",
-          "week": 2,
-          "pts": 53.74,
-          "opp_pts": 67.99,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
-          "week": 6,
-          "pts": 75.45,
-          "opp_pts": 78.91,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
           "week": 7,
           "pts": 73.9,
           "opp_pts": 69.99,
@@ -34336,56 +33946,11 @@ const WSW_DATA = {
           "opp_team": "SKULL's Spoliators"
         },
         {
-          "season": "2006",
-          "week": 11,
-          "pts": 65.7,
-          "opp_pts": 52.93,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2006",
-          "week": 11,
-          "pts": 77.78,
-          "opp_pts": 55.77,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
           "season": "2007",
           "week": 1,
           "pts": 45.48,
           "opp_pts": 73.06,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 2,
-          "pts": 109.68,
-          "opp_pts": 72.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 2,
-          "pts": 59.4,
-          "opp_pts": 114.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 106.42,
-          "opp_pts": 51.72,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
         },
@@ -34400,46 +33965,10 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 8,
-          "pts": 89.3,
-          "opp_pts": 84.34,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
           "week": 10,
           "pts": 69.38,
           "opp_pts": 106.82,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 93.32,
-          "opp_pts": 85.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 70.1,
-          "opp_pts": 102.12,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 101.52,
-          "opp_pts": 87.86,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
         },
@@ -34458,15 +33987,6 @@ const WSW_DATA = {
           "pts": 117.28,
           "opp_pts": 95.88,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2009",
-          "week": 9,
-          "pts": 112.46,
-          "opp_pts": 114.56,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
         },
@@ -34723,717 +34243,15 @@ const WSW_DATA = {
           "opp_team": "SKULL's Spoliators"
         }
       ]
-    },
-    "Scott": {
-      "W": 40,
-      "L": 37,
-      "T": 0,
-      "pts_for": 6367.25,
-      "pts_against": 6261.27,
-      "games": [
-        {
-          "season": "2001",
-          "week": 3,
-          "pts": 47.47,
-          "opp_pts": 76.97,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "lasebre avengers"
-        },
-        {
-          "season": "2001",
-          "week": 4,
-          "pts": 82.68,
-          "opp_pts": 52.07,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "lasebre avengers"
-        },
-        {
-          "season": "2001",
-          "week": 8,
-          "pts": 69.67,
-          "opp_pts": 42.63,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "lasebre avengers"
-        },
-        {
-          "season": "2001",
-          "week": 9,
-          "pts": 95.24,
-          "opp_pts": 84.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "lasebre avengers"
-        },
-        {
-          "season": "2001",
-          "week": 13,
-          "pts": 69.87,
-          "opp_pts": 88.58,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "lasebre avengers"
-        },
-        {
-          "season": "2001",
-          "week": 14,
-          "pts": 92.72,
-          "opp_pts": 76.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "lasebre avengers"
-        },
-        {
-          "season": "2002",
-          "week": 1,
-          "pts": 43.93,
-          "opp_pts": 88.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2002",
-          "week": 2,
-          "pts": 43.82,
-          "opp_pts": 77.63,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 92.44,
-          "opp_pts": 100.25,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2002",
-          "week": 7,
-          "pts": 103.67,
-          "opp_pts": 79.47,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2002",
-          "week": 9,
-          "pts": 63.88,
-          "opp_pts": 81.1,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2002",
-          "week": 10,
-          "pts": 63.75,
-          "opp_pts": 55.39,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2002",
-          "week": 11,
-          "pts": 78.58,
-          "opp_pts": 76.63,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 29.28,
-          "opp_pts": 124.78,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2003",
-          "week": 1,
-          "pts": 49.45,
-          "opp_pts": 77.01,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2003",
-          "week": 3,
-          "pts": 52.73,
-          "opp_pts": 50.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2003",
-          "week": 4,
-          "pts": 88.08,
-          "opp_pts": 77.23,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2003",
-          "week": 5,
-          "pts": 44.07,
-          "opp_pts": 61.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2003",
-          "week": 8,
-          "pts": 76.61,
-          "opp_pts": 63.06,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2003",
-          "week": 10,
-          "pts": 84.15,
-          "opp_pts": 60.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2003",
-          "week": 11,
-          "pts": 67.12,
-          "opp_pts": 57.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2003",
-          "week": 12,
-          "pts": 64.23,
-          "opp_pts": 51.91,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2004",
-          "week": 2,
-          "pts": 44.24,
-          "opp_pts": 82.55,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2004",
-          "week": 9,
-          "pts": 76.18,
-          "opp_pts": 26.03,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2004",
-          "week": 11,
-          "pts": 38.71,
-          "opp_pts": 58.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2005",
-          "week": 2,
-          "pts": 75.46,
-          "opp_pts": 39.75,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2005",
-          "week": 6,
-          "pts": 71.97,
-          "opp_pts": 43.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2005",
-          "week": 8,
-          "pts": 65.09,
-          "opp_pts": 49.05,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
-        },
-        {
-          "season": "2005",
-          "week": 9,
-          "pts": 58.62,
-          "opp_pts": 70.18,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
-        },
-        {
-          "season": "2005",
-          "week": 11,
-          "pts": 88.61,
-          "opp_pts": 48.89,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2006",
-          "week": 2,
-          "pts": 50.8,
-          "opp_pts": 102.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 2,
-          "pts": 67.99,
-          "opp_pts": 53.74,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebre-Avengers"
-        },
-        {
-          "season": "2006",
-          "week": 6,
-          "pts": 78.91,
-          "opp_pts": 75.45,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 7,
-          "pts": 69.99,
-          "opp_pts": 73.9,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSebre-Avengers"
-        },
-        {
-          "season": "2006",
-          "week": 11,
-          "pts": 52.93,
-          "opp_pts": 65.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 11,
-          "pts": 55.77,
-          "opp_pts": 77.78,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSebre-Avengers"
-        },
-        {
-          "season": "2007",
-          "week": 1,
-          "pts": 73.06,
-          "opp_pts": 45.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
-          "week": 2,
-          "pts": 72.54,
-          "opp_pts": 109.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 2,
-          "pts": 114.36,
-          "opp_pts": 59.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 51.72,
-          "opp_pts": 106.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 5,
-          "pts": 98.24,
-          "opp_pts": 46.68,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
-          "week": 8,
-          "pts": 84.34,
-          "opp_pts": 89.3,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 10,
-          "pts": 106.82,
-          "opp_pts": 69.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 85.28,
-          "opp_pts": 93.32,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 102.12,
-          "opp_pts": 70.1,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 87.86,
-          "opp_pts": 101.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 14,
-          "pts": 116.58,
-          "opp_pts": 93.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2009",
-          "week": 6,
-          "pts": 95.88,
-          "opp_pts": 117.28,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
-          "week": 9,
-          "pts": 114.56,
-          "opp_pts": 112.46,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2010",
-          "week": 5,
-          "pts": 103.0,
-          "opp_pts": 38.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2010",
-          "week": 14,
-          "pts": 73.3,
-          "opp_pts": 79.46,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2011",
-          "week": 8,
-          "pts": 109.72,
-          "opp_pts": 75.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2012",
-          "week": 4,
-          "pts": 102.04,
-          "opp_pts": 100.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2012",
-          "week": 13,
-          "pts": 95.92,
-          "opp_pts": 99.1,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2013",
-          "week": 7,
-          "pts": 73.42,
-          "opp_pts": 122.3,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2014",
-          "week": 4,
-          "pts": 126.6,
-          "opp_pts": 86.82,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2014",
-          "week": 13,
-          "pts": 158.6,
-          "opp_pts": 111.1,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2015",
-          "week": 5,
-          "pts": 91.18,
-          "opp_pts": 103.54,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2015",
-          "week": 14,
-          "pts": 82.28,
-          "opp_pts": 132.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2016",
-          "week": 3,
-          "pts": 114.08,
-          "opp_pts": 72.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2016",
-          "week": 12,
-          "pts": 109.94,
-          "opp_pts": 81.36,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2017",
-          "week": 4,
-          "pts": 59.04,
-          "opp_pts": 71.54,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2017",
-          "week": 13,
-          "pts": 77.74,
-          "opp_pts": 112.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2018",
-          "week": 4,
-          "pts": 117.28,
-          "opp_pts": 151.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2018",
-          "week": 13,
-          "pts": 98.22,
-          "opp_pts": 101.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2019",
-          "week": 3,
-          "pts": 106.74,
-          "opp_pts": 95.12,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2019",
-          "week": 12,
-          "pts": 82.0,
-          "opp_pts": 122.74,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2020",
-          "week": 6,
-          "pts": 75.0,
-          "opp_pts": 75.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2021",
-          "week": 3,
-          "pts": 69.32,
-          "opp_pts": 105.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2021",
-          "week": 12,
-          "pts": 79.0,
-          "opp_pts": 115.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2022",
-          "week": 9,
-          "pts": 62.3,
-          "opp_pts": 91.66,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2023",
-          "week": 3,
-          "pts": 120.18,
-          "opp_pts": 109.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2023",
-          "week": 12,
-          "pts": 145.62,
-          "opp_pts": 73.16,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2024",
-          "week": 3,
-          "pts": 66.86,
-          "opp_pts": 54.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2024",
-          "week": 12,
-          "pts": 103.88,
-          "opp_pts": 52.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2025",
-          "week": 1,
-          "pts": 93.22,
-          "opp_pts": 121.58,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2025",
-          "week": 10,
-          "pts": 168.7,
-          "opp_pts": 115.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        }
-      ]
     }
   },
   "Davidson|||Roger": {
     "Roger": {
-      "W": 29,
+      "W": 31,
       "L": 9,
       "T": 0,
-      "pts_for": 3598.64,
-      "pts_against": 3246.05,
+      "pts_for": 3767.83,
+      "pts_against": 3358.75,
       "games": [
         {
           "season": "2001",
@@ -35470,6 +34288,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 6,
+          "pts": 77.34,
+          "opp_pts": 64.51,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 13,
+          "pts": 91.85,
+          "opp_pts": 48.19,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
         },
         {
           "season": "2004",
@@ -35781,10 +34617,10 @@ const WSW_DATA = {
     },
     "Davidson": {
       "W": 9,
-      "L": 29,
+      "L": 31,
       "T": 0,
-      "pts_for": 3246.05,
-      "pts_against": 3598.64,
+      "pts_for": 3358.75,
+      "pts_against": 3767.83,
       "games": [
         {
           "season": "2001",
@@ -35818,6 +34654,24 @@ const WSW_DATA = {
           "week": 9,
           "pts": 58.32,
           "opp_pts": 61.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2003",
+          "week": 6,
+          "pts": 64.51,
+          "opp_pts": 77.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2003",
+          "week": 13,
+          "pts": 48.19,
+          "opp_pts": 91.85,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
@@ -36131,13 +34985,395 @@ const WSW_DATA = {
       ]
     }
   },
+  "Dahmer's Cannibals|||Michael": {
+    "Michael": {
+      "W": 4,
+      "L": 8,
+      "T": 0,
+      "pts_for": 824.95,
+      "pts_against": 865.0,
+      "games": [
+        {
+          "season": "2001",
+          "week": 4,
+          "pts": 61.12,
+          "opp_pts": 54.89,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2001",
+          "week": 9,
+          "pts": 65.63,
+          "opp_pts": 90.24,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2001",
+          "week": 14,
+          "pts": 61.62,
+          "opp_pts": 47.51,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 81.95,
+          "opp_pts": 55.01,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 64.49,
+          "opp_pts": 74.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 1,
+          "pts": 40.99,
+          "opp_pts": 70.43,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 8,
+          "pts": 34.6,
+          "opp_pts": 70.4,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 8,
+          "pts": 85.08,
+          "opp_pts": 102.07,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 4,
+          "pts": 100.73,
+          "opp_pts": 48.03,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 13,
+          "pts": 81.84,
+          "opp_pts": 82.82,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 3,
+          "pts": 60.82,
+          "opp_pts": 70.31,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 12,
+          "pts": 86.08,
+          "opp_pts": 98.95,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 8,
+      "L": 4,
+      "T": 0,
+      "pts_for": 865.0,
+      "pts_against": 824.95,
+      "games": [
+        {
+          "season": "2001",
+          "week": 4,
+          "pts": 54.89,
+          "opp_pts": 61.12,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Headhunter's R us"
+        },
+        {
+          "season": "2001",
+          "week": 9,
+          "pts": 90.24,
+          "opp_pts": 65.63,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Headhunter's R us"
+        },
+        {
+          "season": "2001",
+          "week": 14,
+          "pts": 47.51,
+          "opp_pts": 61.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Headhunter's R us"
+        },
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 55.01,
+          "opp_pts": 81.95,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 74.34,
+          "opp_pts": 64.49,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2003",
+          "week": 1,
+          "pts": 70.43,
+          "opp_pts": 40.99,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "DAMONs Demons"
+        },
+        {
+          "season": "2003",
+          "week": 8,
+          "pts": 70.4,
+          "opp_pts": 34.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "DAMONs Demons"
+        },
+        {
+          "season": "2004",
+          "week": 8,
+          "pts": 102.07,
+          "opp_pts": 85.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2005",
+          "week": 4,
+          "pts": 48.03,
+          "opp_pts": 100.73,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2005",
+          "week": 13,
+          "pts": 82.82,
+          "opp_pts": 81.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2006",
+          "week": 3,
+          "pts": 70.31,
+          "opp_pts": 60.82,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
+        },
+        {
+          "season": "2006",
+          "week": 12,
+          "pts": 98.95,
+          "opp_pts": 86.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
+        }
+      ]
+    }
+  },
+  "Dahmer's Cannibals|||Scott": {
+    "Scott": {
+      "W": 5,
+      "L": 2,
+      "T": 0,
+      "pts_for": 532.72,
+      "pts_against": 513.9,
+      "games": [
+        {
+          "season": "2001",
+          "week": 5,
+          "pts": 61.91,
+          "opp_pts": 103.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2001",
+          "week": 10,
+          "pts": 87.82,
+          "opp_pts": 75.7,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 6,
+          "pts": 72.56,
+          "opp_pts": 41.57,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 13,
+          "pts": 85.49,
+          "opp_pts": 117.59,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 6,
+          "pts": 97.35,
+          "opp_pts": 58.77,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 8,
+          "pts": 65.12,
+          "opp_pts": 56.58,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 9,
+          "pts": 62.47,
+          "opp_pts": 59.85,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 2,
+      "L": 5,
+      "T": 0,
+      "pts_for": 513.9,
+      "pts_against": 532.72,
+      "games": [
+        {
+          "season": "2001",
+          "week": 5,
+          "pts": 103.84,
+          "opp_pts": 61.91,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2001",
+          "week": 10,
+          "pts": 75.7,
+          "opp_pts": 87.82,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 6,
+          "pts": 41.57,
+          "opp_pts": 72.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 13,
+          "pts": 117.59,
+          "opp_pts": 85.49,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2004",
+          "week": 6,
+          "pts": 58.77,
+          "opp_pts": 97.35,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2005",
+          "week": 8,
+          "pts": 56.58,
+          "opp_pts": 65.12,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 9,
+          "pts": 59.85,
+          "opp_pts": 62.47,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        }
+      ]
+    }
+  },
   "Damon|||Roger": {
     "Roger": {
-      "W": 34,
-      "L": 19,
+      "W": 31,
+      "L": 16,
       "T": 0,
-      "pts_for": 5176.33,
-      "pts_against": 4727.84,
+      "pts_for": 4671.07,
+      "pts_against": 4201.55,
       "games": [
         {
           "season": "2001",
@@ -36159,21 +35395,21 @@ const WSW_DATA = {
         },
         {
           "season": "2002",
-          "week": 4,
-          "pts": 93.65,
-          "opp_pts": 44.31,
+          "week": 3,
+          "pts": 74.49,
+          "opp_pts": 41.72,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "ric's last resort"
+          "opp_team": "LaSeBre AvenGERs"
         },
         {
           "season": "2002",
-          "week": 13,
-          "pts": 63.02,
-          "opp_pts": 66.05,
-          "result": "L",
+          "week": 12,
+          "pts": 83.02,
+          "opp_pts": 76.14,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "ric's last resort"
+          "opp_team": "LaSeBre AvenGERs"
         },
         {
           "season": "2003",
@@ -36195,21 +35431,12 @@ const WSW_DATA = {
         },
         {
           "season": "2004",
-          "week": 1,
-          "pts": 89.04,
-          "opp_pts": 85.44,
-          "result": "W",
+          "week": 6,
+          "pts": 53.18,
+          "opp_pts": 73.89,
+          "result": "L",
           "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2004",
-          "week": 10,
-          "pts": 71.42,
-          "opp_pts": 69.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
+          "opp_team": "LaSeBre"
         },
         {
           "season": "2005",
@@ -36219,15 +35446,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2005",
-          "week": 6,
-          "pts": 79.81,
-          "opp_pts": 99.37,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
         },
         {
           "season": "2005",
@@ -36249,30 +35467,12 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 5,
-          "pts": 81.85,
-          "opp_pts": 55.87,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
           "week": 10,
           "pts": 82.35,
           "opp_pts": 43.99,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSebre-Avengers"
-        },
-        {
-          "season": "2006",
-          "week": 14,
-          "pts": 80.08,
-          "opp_pts": 78.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2007",
@@ -36282,15 +35482,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
-          "week": 9,
-          "pts": 76.66,
-          "opp_pts": 109.9,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2007",
@@ -36309,15 +35500,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
-          "week": 6,
-          "pts": 80.42,
-          "opp_pts": 109.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2009",
@@ -36619,11 +35801,11 @@ const WSW_DATA = {
       ]
     },
     "Damon": {
-      "W": 19,
-      "L": 34,
+      "W": 16,
+      "L": 31,
       "T": 0,
-      "pts_for": 4727.84,
-      "pts_against": 5176.33,
+      "pts_for": 4201.55,
+      "pts_against": 4671.07,
       "games": [
         {
           "season": "2001",
@@ -36645,19 +35827,19 @@ const WSW_DATA = {
         },
         {
           "season": "2002",
-          "week": 4,
-          "pts": 44.31,
-          "opp_pts": 93.65,
+          "week": 3,
+          "pts": 41.72,
+          "opp_pts": 74.49,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
         {
           "season": "2002",
-          "week": 13,
-          "pts": 66.05,
-          "opp_pts": 63.02,
-          "result": "W",
+          "week": 12,
+          "pts": 76.14,
+          "opp_pts": 83.02,
+          "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -36681,19 +35863,10 @@ const WSW_DATA = {
         },
         {
           "season": "2004",
-          "week": 1,
-          "pts": 85.44,
-          "opp_pts": 89.04,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2004",
-          "week": 10,
-          "pts": 69.0,
-          "opp_pts": 71.42,
-          "result": "L",
+          "week": 6,
+          "pts": 73.89,
+          "opp_pts": 53.18,
+          "result": "W",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -36703,15 +35876,6 @@ const WSW_DATA = {
           "pts": 60.8,
           "opp_pts": 66.97,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2005",
-          "week": 6,
-          "pts": 99.37,
-          "opp_pts": 79.81,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -36735,27 +35899,9 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 5,
-          "pts": 55.87,
-          "opp_pts": 81.85,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2006",
           "week": 10,
           "pts": 43.99,
           "opp_pts": 82.35,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2006",
-          "week": 14,
-          "pts": 78.24,
-          "opp_pts": 80.08,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
@@ -36766,15 +35912,6 @@ const WSW_DATA = {
           "pts": 66.4,
           "opp_pts": 95.76,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2007",
-          "week": 9,
-          "pts": 109.9,
-          "opp_pts": 76.66,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -36792,15 +35929,6 @@ const WSW_DATA = {
           "week": 3,
           "pts": 78.28,
           "opp_pts": 75.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminator's"
-        },
-        {
-          "season": "2009",
-          "week": 6,
-          "pts": 109.86,
-          "opp_pts": 80.42,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Dahminator's"
@@ -37107,11 +36235,11 @@ const WSW_DATA = {
   },
   "Davidson|||Michael": {
     "Michael": {
-      "W": 17,
+      "W": 19,
       "L": 18,
       "T": 0,
-      "pts_for": 3116.93,
-      "pts_against": 2818.95,
+      "pts_for": 3262.21,
+      "pts_against": 2931.15,
       "games": [
         {
           "season": "2001",
@@ -37148,6 +36276,24 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 50.65,
+          "opp_pts": 45.35,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 94.63,
+          "opp_pts": 66.85,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
         },
         {
           "season": "2004",
@@ -37432,10 +36578,10 @@ const WSW_DATA = {
     },
     "Davidson": {
       "W": 18,
-      "L": 17,
+      "L": 19,
       "T": 0,
-      "pts_for": 2818.95,
-      "pts_against": 3116.93,
+      "pts_for": 2931.15,
+      "pts_against": 3262.21,
       "games": [
         {
           "season": "2001",
@@ -37472,6 +36618,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 45.35,
+          "opp_pts": 50.65,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "DAMONs Demons"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 66.85,
+          "opp_pts": 94.63,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "DAMONs Demons"
         },
         {
           "season": "2004",
@@ -37755,13 +36919,69 @@ const WSW_DATA = {
       ]
     }
   },
-  "Robert|||Scott": {
-    "Robert": {
-      "W": 32,
-      "L": 25,
+  "Coltrain Blue|||Damon": {
+    "Coltrain Blue": {
+      "W": 2,
+      "L": 0,
       "T": 0,
-      "pts_for": 4924.89,
-      "pts_against": 4622.32,
+      "pts_for": 129.66,
+      "pts_against": 127.03,
+      "games": [
+        {
+          "season": "2002",
+          "week": 1,
+          "pts": 53.54,
+          "opp_pts": 53.35,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
+        },
+        {
+          "season": "2002",
+          "week": 10,
+          "pts": 76.12,
+          "opp_pts": 73.68,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
+        }
+      ]
+    },
+    "Damon": {
+      "W": 0,
+      "L": 2,
+      "T": 0,
+      "pts_for": 127.03,
+      "pts_against": 129.66,
+      "games": [
+        {
+          "season": "2002",
+          "week": 1,
+          "pts": 53.35,
+          "opp_pts": 53.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2002",
+          "week": 10,
+          "pts": 73.68,
+          "opp_pts": 76.12,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Jakes Jugglers|||Robert": {
+    "Robert": {
+      "W": 3,
+      "L": 1,
+      "T": 0,
+      "pts_for": 317.7,
+      "pts_against": 305.26,
       "games": [
         {
           "season": "2002",
@@ -37774,102 +36994,12 @@ const WSW_DATA = {
         },
         {
           "season": "2002",
-          "week": 3,
-          "pts": 80.87,
-          "opp_pts": 49.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 4,
-          "pts": 75.26,
-          "opp_pts": 64.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 5,
-          "pts": 73.15,
-          "opp_pts": 56.57,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2002",
-          "week": 9,
-          "pts": 23.89,
-          "opp_pts": 63.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Radical Riptide"
-        },
-        {
-          "season": "2002",
           "week": 10,
           "pts": 46.59,
           "opp_pts": 100.88,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "jakesjugglers"
-        },
-        {
-          "season": "2002",
-          "week": 12,
-          "pts": 90.21,
-          "opp_pts": 68.85,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2002",
-          "week": 13,
-          "pts": 83.7,
-          "opp_pts": 60.57,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Coltrain Blue"
-        },
-        {
-          "season": "2002",
-          "week": 14,
-          "pts": 88.09,
-          "opp_pts": 62.61,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGERs"
-        },
-        {
-          "season": "2003",
-          "week": 2,
-          "pts": 83.4,
-          "opp_pts": 75.21,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmers Cannibals"
-        },
-        {
-          "season": "2003",
-          "week": 3,
-          "pts": 53.17,
-          "opp_pts": 48.36,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULLs Spoliators"
-        },
-        {
-          "season": "2003",
-          "week": 4,
-          "pts": 85.42,
-          "opp_pts": 62.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
         },
         {
           "season": "2003",
@@ -37882,408 +37012,21 @@ const WSW_DATA = {
         },
         {
           "season": "2003",
-          "week": 9,
-          "pts": 67.35,
-          "opp_pts": 83.21,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmers Cannibals"
-        },
-        {
-          "season": "2003",
-          "week": 10,
-          "pts": 90.92,
-          "opp_pts": 65.04,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULLs Spoliators"
-        },
-        {
-          "season": "2003",
-          "week": 11,
-          "pts": 49.82,
-          "opp_pts": 79.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2003",
           "week": 13,
           "pts": 105.26,
           "opp_pts": 65.97,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Jakes Jugglers"
-        },
-        {
-          "season": "2004",
-          "week": 8,
-          "pts": 64.37,
-          "opp_pts": 75.87,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2004",
-          "week": 9,
-          "pts": 85.25,
-          "opp_pts": 65.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
-        },
-        {
-          "season": "2005",
-          "week": 2,
-          "pts": 63.39,
-          "opp_pts": 75.28,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2005",
-          "week": 7,
-          "pts": 72.89,
-          "opp_pts": 60.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2005",
-          "week": 11,
-          "pts": 85.0,
-          "opp_pts": 54.55,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
-          "week": 3,
-          "pts": 69.04,
-          "opp_pts": 69.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
-          "week": 8,
-          "pts": 44.79,
-          "opp_pts": 83.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2006",
-          "week": 12,
-          "pts": 98.07,
-          "opp_pts": 52.16,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
-          "week": 1,
-          "pts": 85.98,
-          "opp_pts": 127.66,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 75.0,
-          "opp_pts": 96.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 8,
-          "pts": 106.66,
-          "opp_pts": 44.52,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 10,
-          "pts": 98.64,
-          "opp_pts": 89.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 105.44,
-          "opp_pts": 110.08,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2009",
-          "week": 7,
-          "pts": 110.04,
-          "opp_pts": 59.74,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 3,
-          "pts": 88.54,
-          "opp_pts": 108.78,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 12,
-          "pts": 120.56,
-          "opp_pts": 53.26,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 16,
-          "pts": 138.96,
-          "opp_pts": 62.98,
-          "result": "W",
-          "is_playoffs": true,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2011",
-          "week": 7,
-          "pts": 63.9,
-          "opp_pts": 86.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2012",
-          "week": 9,
-          "pts": 84.78,
-          "opp_pts": 105.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2012",
-          "week": 16,
-          "pts": 78.48,
-          "opp_pts": 117.24,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2013",
-          "week": 6,
-          "pts": 110.88,
-          "opp_pts": 52.26,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2014",
-          "week": 3,
-          "pts": 92.2,
-          "opp_pts": 59.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2014",
-          "week": 12,
-          "pts": 80.8,
-          "opp_pts": 109.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2015",
-          "week": 6,
-          "pts": 93.9,
-          "opp_pts": 103.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2016",
-          "week": 4,
-          "pts": 96.28,
-          "opp_pts": 135.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2016",
-          "week": 13,
-          "pts": 69.94,
-          "opp_pts": 92.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2017",
-          "week": 5,
-          "pts": 100.1,
-          "opp_pts": 96.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2017",
-          "week": 14,
-          "pts": 106.24,
-          "opp_pts": 70.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2018",
-          "week": 5,
-          "pts": 108.5,
-          "opp_pts": 99.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2018",
-          "week": 14,
-          "pts": 53.6,
-          "opp_pts": 113.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2019",
-          "week": 2,
-          "pts": 77.5,
-          "opp_pts": 101.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2019",
-          "week": 11,
-          "pts": 82.44,
-          "opp_pts": 58.34,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2020",
-          "week": 8,
-          "pts": 60.76,
-          "opp_pts": 82.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2021",
-          "week": 4,
-          "pts": 96.32,
-          "opp_pts": 102.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2021",
-          "week": 13,
-          "pts": 100.2,
-          "opp_pts": 114.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2022",
-          "week": 6,
-          "pts": 113.76,
-          "opp_pts": 85.92,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2022",
-          "week": 15,
-          "pts": 138.76,
-          "opp_pts": 94.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2023",
-          "week": 7,
-          "pts": 101.9,
-          "opp_pts": 99.66,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2024",
-          "week": 8,
-          "pts": 83.64,
-          "opp_pts": 101.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2025",
-          "week": 8,
-          "pts": 154.44,
-          "opp_pts": 105.02,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         }
       ]
     },
-    "Scott": {
-      "W": 25,
-      "L": 32,
+    "Jakes Jugglers": {
+      "W": 1,
+      "L": 3,
       "T": 0,
-      "pts_for": 4622.32,
-      "pts_against": 4924.89,
+      "pts_for": 305.26,
+      "pts_against": 317.7,
       "games": [
         {
           "season": "2002",
@@ -38291,42 +37034,6 @@ const WSW_DATA = {
           "pts": 79.92,
           "opp_pts": 90.93,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2002",
-          "week": 3,
-          "pts": 49.4,
-          "opp_pts": 80.87,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2002",
-          "week": 4,
-          "pts": 64.08,
-          "opp_pts": 75.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2002",
-          "week": 5,
-          "pts": 56.57,
-          "opp_pts": 73.15,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2002",
-          "week": 9,
-          "pts": 63.42,
-          "opp_pts": 23.89,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
@@ -38340,92 +37047,11 @@ const WSW_DATA = {
           "opp_team": "Murphy's Marauders"
         },
         {
-          "season": "2002",
-          "week": 12,
-          "pts": 68.85,
-          "opp_pts": 90.21,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2002",
-          "week": 13,
-          "pts": 60.57,
-          "opp_pts": 83.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2002",
-          "week": 14,
-          "pts": 62.61,
-          "opp_pts": 88.09,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 2,
-          "pts": 75.21,
-          "opp_pts": 83.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 3,
-          "pts": 48.36,
-          "opp_pts": 53.17,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 4,
-          "pts": 62.96,
-          "opp_pts": 85.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
           "season": "2003",
           "week": 6,
           "pts": 58.49,
           "opp_pts": 74.92,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 9,
-          "pts": 83.21,
-          "opp_pts": 67.35,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 10,
-          "pts": 65.04,
-          "opp_pts": 90.92,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 11,
-          "pts": 79.86,
-          "opp_pts": 49.82,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphys Marauders"
         },
@@ -38437,377 +37063,329 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphys Marauders"
-        },
+        }
+      ]
+    }
+  },
+  "Radical Riptide|||Ric's Last Resort": {
+    "Radical Riptide": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 107.68,
+      "pts_against": 144.03,
+      "games": [
         {
-          "season": "2004",
-          "week": 8,
-          "pts": 75.87,
-          "opp_pts": 64.37,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2004",
-          "week": 9,
-          "pts": 65.48,
-          "opp_pts": 85.25,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2005",
-          "week": 2,
-          "pts": 75.28,
-          "opp_pts": 63.39,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2005",
-          "week": 7,
-          "pts": 60.48,
-          "opp_pts": 72.89,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2005",
-          "week": 11,
-          "pts": 54.55,
-          "opp_pts": 85.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2006",
-          "week": 3,
-          "pts": 69.14,
-          "opp_pts": 69.04,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2006",
-          "week": 8,
-          "pts": 83.2,
-          "opp_pts": 44.79,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2006",
-          "week": 12,
-          "pts": 52.16,
-          "opp_pts": 98.07,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2007",
+          "season": "2002",
           "week": 1,
-          "pts": 127.66,
-          "opp_pts": 85.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2007",
-          "week": 4,
-          "pts": 96.84,
-          "opp_pts": 75.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2007",
-          "week": 8,
-          "pts": 44.52,
-          "opp_pts": 106.66,
+          "pts": 43.93,
+          "opp_pts": 88.64,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "ric's last resort"
         },
         {
-          "season": "2007",
+          "season": "2002",
           "week": 10,
-          "pts": 89.28,
-          "opp_pts": 98.64,
+          "pts": 63.75,
+          "opp_pts": 55.39,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 144.03,
+      "pts_against": 107.68,
+      "games": [
+        {
+          "season": "2002",
+          "week": 1,
+          "pts": 88.64,
+          "opp_pts": 43.93,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        },
+        {
+          "season": "2002",
+          "week": 10,
+          "pts": 55.39,
+          "opp_pts": 63.75,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    }
+  },
+  "Coltrain Blue|||Roger": {
+    "Coltrain Blue": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 135.55,
+      "pts_against": 126.32,
+      "games": [
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 78.42,
+          "opp_pts": 65.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 57.13,
+          "opp_pts": 60.82,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        }
+      ]
+    },
+    "Roger": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 126.32,
+      "pts_against": 135.55,
+      "games": [
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 65.5,
+          "opp_pts": 78.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 60.82,
+          "opp_pts": 57.13,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Damon|||Ric's Last Resort": {
+    "Damon": {
+      "W": 2,
+      "L": 8,
+      "T": 0,
+      "pts_for": 689.97,
+      "pts_against": 854.32,
+      "games": [
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 43.82,
+          "opp_pts": 77.63,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 78.58,
+          "opp_pts": 76.63,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2004",
+          "week": 2,
+          "pts": 44.24,
+          "opp_pts": 82.55,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2004",
+          "week": 11,
+          "pts": 38.71,
+          "opp_pts": 58.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 4,
+          "pts": 51.71,
+          "opp_pts": 89.13,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 13,
+          "pts": 55.1,
+          "opp_pts": 72.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 9,
+          "pts": 59.11,
+          "opp_pts": 69.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2007",
-          "week": 13,
-          "pts": 110.08,
-          "opp_pts": 105.44,
-          "result": "W",
+          "week": 7,
+          "pts": 98.96,
+          "opp_pts": 109.26,
+          "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2009",
-          "week": 7,
-          "pts": 59.74,
-          "opp_pts": 110.04,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2010",
-          "week": 3,
-          "pts": 108.78,
-          "opp_pts": 88.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2010",
-          "week": 12,
-          "pts": 53.26,
-          "opp_pts": 120.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2010",
-          "week": 16,
-          "pts": 62.98,
-          "opp_pts": 138.96,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2011",
-          "week": 7,
-          "pts": 86.34,
-          "opp_pts": 63.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2012",
-          "week": 9,
-          "pts": 105.34,
-          "opp_pts": 84.78,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2012",
-          "week": 16,
-          "pts": 117.24,
-          "opp_pts": 78.48,
-          "result": "W",
-          "is_playoffs": true,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2013",
-          "week": 6,
-          "pts": 52.26,
-          "opp_pts": 110.88,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2014",
-          "week": 3,
-          "pts": 59.94,
-          "opp_pts": 92.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2014",
-          "week": 12,
-          "pts": 109.06,
-          "opp_pts": 80.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2015",
-          "week": 6,
-          "pts": 103.52,
-          "opp_pts": 93.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2016",
           "week": 4,
-          "pts": 135.7,
-          "opp_pts": 96.28,
+          "pts": 131.82,
+          "opp_pts": 110.46,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "Ric's Last Resort"
         },
         {
-          "season": "2016",
+          "season": "2009",
           "week": 13,
-          "pts": 92.16,
-          "opp_pts": 69.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2017",
-          "week": 5,
-          "pts": 96.6,
-          "opp_pts": 100.1,
+          "pts": 87.92,
+          "opp_pts": 107.52,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
+          "opp_team": "Ric's Last Resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 8,
+      "L": 2,
+      "T": 0,
+      "pts_for": 854.32,
+      "pts_against": 689.97,
+      "games": [
         {
-          "season": "2017",
-          "week": 14,
-          "pts": 70.84,
-          "opp_pts": 106.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2018",
-          "week": 5,
-          "pts": 99.94,
-          "opp_pts": 108.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2018",
-          "week": 14,
-          "pts": 113.14,
-          "opp_pts": 53.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2019",
+          "season": "2002",
           "week": 2,
-          "pts": 101.26,
-          "opp_pts": 77.5,
+          "pts": 77.63,
+          "opp_pts": 43.82,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre AvenGERs"
         },
         {
-          "season": "2019",
+          "season": "2002",
           "week": 11,
-          "pts": 58.34,
-          "opp_pts": 82.44,
+          "pts": 76.63,
+          "opp_pts": 78.58,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre AvenGERs"
         },
         {
-          "season": "2020",
-          "week": 8,
-          "pts": 82.64,
-          "opp_pts": 60.76,
+          "season": "2004",
+          "week": 2,
+          "pts": 82.55,
+          "opp_pts": 44.24,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre"
         },
         {
-          "season": "2021",
+          "season": "2004",
+          "week": 11,
+          "pts": 58.84,
+          "opp_pts": 38.71,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre"
+        },
+        {
+          "season": "2005",
           "week": 4,
-          "pts": 102.62,
-          "opp_pts": 96.32,
+          "pts": 89.13,
+          "opp_pts": 51.71,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSebreAvenGers"
         },
         {
-          "season": "2021",
+          "season": "2005",
           "week": 13,
-          "pts": 114.52,
-          "opp_pts": 100.2,
+          "pts": 72.62,
+          "opp_pts": 55.1,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSebreAvenGers"
         },
         {
-          "season": "2022",
-          "week": 6,
-          "pts": 85.92,
-          "opp_pts": 113.76,
-          "result": "L",
+          "season": "2006",
+          "week": 9,
+          "pts": 69.68,
+          "opp_pts": 59.11,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSebre-Avengers"
         },
         {
-          "season": "2022",
-          "week": 15,
-          "pts": 94.0,
-          "opp_pts": 138.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2023",
+          "season": "2007",
           "week": 7,
-          "pts": 99.66,
-          "opp_pts": 101.9,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2024",
-          "week": 8,
-          "pts": 101.56,
-          "opp_pts": 83.64,
+          "pts": 109.26,
+          "opp_pts": 98.96,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre AveNgers"
         },
         {
-          "season": "2025",
-          "week": 8,
-          "pts": 105.02,
-          "opp_pts": 154.44,
+          "season": "2009",
+          "week": 4,
+          "pts": 110.46,
+          "opp_pts": 131.82,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSEbre Avengers"
+        },
+        {
+          "season": "2009",
+          "week": 13,
+          "pts": 107.52,
+          "opp_pts": 87.92,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSEbre Avengers"
         }
       ]
     }
   },
   "Davidson|||Robert": {
     "Robert": {
-      "W": 20,
-      "L": 25,
+      "W": 21,
+      "L": 26,
       "T": 0,
-      "pts_for": 3995.77,
-      "pts_against": 4271.24,
+      "pts_for": 4131.01,
+      "pts_against": 4414.06,
       "games": [
         {
           "season": "2002",
@@ -38826,6 +37404,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 4,
+          "pts": 85.42,
+          "opp_pts": 62.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 11,
+          "pts": 49.82,
+          "opp_pts": 79.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
         },
         {
           "season": "2004",
@@ -39217,11 +37813,11 @@ const WSW_DATA = {
       ]
     },
     "Davidson": {
-      "W": 25,
-      "L": 20,
+      "W": 26,
+      "L": 21,
       "T": 0,
-      "pts_for": 4271.24,
-      "pts_against": 3995.77,
+      "pts_for": 4414.06,
+      "pts_against": 4131.01,
       "games": [
         {
           "season": "2002",
@@ -39240,6 +37836,24 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 4,
+          "pts": 62.96,
+          "opp_pts": 85.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 11,
+          "pts": 79.86,
+          "opp_pts": 49.82,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
         },
         {
           "season": "2004",
@@ -39627,6 +38241,1782 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": true,
           "opp_team": "Murphy's Marauders"
+        }
+      ]
+    }
+  },
+  "Jakes Jugglers|||Radical Riptide": {
+    "Radical Riptide": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 125.56,
+      "pts_against": 130.42,
+      "games": [
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 69.04,
+          "opp_pts": 52.03,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 56.52,
+          "opp_pts": 78.39,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        }
+      ]
+    },
+    "Jakes Jugglers": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 130.42,
+      "pts_against": 125.56,
+      "games": [
+        {
+          "season": "2002",
+          "week": 2,
+          "pts": 52.03,
+          "opp_pts": 69.04,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        },
+        {
+          "season": "2002",
+          "week": 11,
+          "pts": 78.39,
+          "opp_pts": 56.52,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    }
+  },
+  "Coltrain Blue|||Michael": {
+    "Coltrain Blue": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 155.71,
+      "pts_against": 130.41,
+      "games": [
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 82.48,
+          "opp_pts": 34.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 73.23,
+          "opp_pts": 96.13,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        }
+      ]
+    },
+    "Michael": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 130.41,
+      "pts_against": 155.71,
+      "games": [
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 34.28,
+          "opp_pts": 82.48,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 96.13,
+          "opp_pts": 73.23,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Dahmer's Cannibals|||Robert": {
+    "Robert": {
+      "W": 6,
+      "L": 2,
+      "T": 0,
+      "pts_for": 616.0,
+      "pts_against": 536.44,
+      "games": [
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 80.87,
+          "opp_pts": 49.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 90.21,
+          "opp_pts": 68.85,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 2,
+          "pts": 83.4,
+          "opp_pts": 75.21,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 9,
+          "pts": 67.35,
+          "opp_pts": 83.21,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 5,
+          "pts": 78.24,
+          "opp_pts": 52.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 14,
+          "pts": 78.1,
+          "opp_pts": 68.35,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 6,
+          "pts": 82.99,
+          "opp_pts": 66.83,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 7,
+          "pts": 54.84,
+          "opp_pts": 72.35,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 2,
+      "L": 6,
+      "T": 0,
+      "pts_for": 536.44,
+      "pts_against": 616.0,
+      "games": [
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 49.4,
+          "opp_pts": 80.87,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 68.85,
+          "opp_pts": 90.21,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 2,
+          "pts": 75.21,
+          "opp_pts": 83.4,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 9,
+          "pts": 83.21,
+          "opp_pts": 67.35,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2004",
+          "week": 5,
+          "pts": 52.24,
+          "opp_pts": 78.24,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2004",
+          "week": 14,
+          "pts": 68.35,
+          "opp_pts": 78.1,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2005",
+          "week": 6,
+          "pts": 66.83,
+          "opp_pts": 82.99,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2006",
+          "week": 7,
+          "pts": 72.35,
+          "opp_pts": 54.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        }
+      ]
+    }
+  },
+  "Davidson|||Radical Riptide": {
+    "Radical Riptide": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 98.47,
+      "pts_against": 143.22,
+      "games": [
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 56.59,
+          "opp_pts": 112.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 41.88,
+          "opp_pts": 30.86,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        }
+      ]
+    },
+    "Davidson": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 143.22,
+      "pts_against": 98.47,
+      "games": [
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 112.36,
+          "opp_pts": 56.59,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 30.86,
+          "opp_pts": 41.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    }
+  },
+  "Jakes Jugglers|||Ric's Last Resort": {
+    "Jakes Jugglers": {
+      "W": 0,
+      "L": 2,
+      "T": 0,
+      "pts_for": 121.72,
+      "pts_against": 225.03,
+      "games": [
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 92.44,
+          "opp_pts": 100.25,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 29.28,
+          "opp_pts": 124.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 2,
+      "L": 0,
+      "T": 0,
+      "pts_for": 225.03,
+      "pts_against": 121.72,
+      "games": [
+        {
+          "season": "2002",
+          "week": 3,
+          "pts": 100.25,
+          "opp_pts": 92.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2002",
+          "week": 12,
+          "pts": 124.78,
+          "opp_pts": 29.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        }
+      ]
+    }
+  },
+  "Coltrain Blue|||Robert": {
+    "Coltrain Blue": {
+      "W": 0,
+      "L": 2,
+      "T": 0,
+      "pts_for": 124.65,
+      "pts_against": 158.96,
+      "games": [
+        {
+          "season": "2002",
+          "week": 4,
+          "pts": 64.08,
+          "opp_pts": 75.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 60.57,
+          "opp_pts": 83.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        }
+      ]
+    },
+    "Robert": {
+      "W": 2,
+      "L": 0,
+      "T": 0,
+      "pts_for": 158.96,
+      "pts_against": 124.65,
+      "games": [
+        {
+          "season": "2002",
+          "week": 4,
+          "pts": 75.26,
+          "opp_pts": 64.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 83.7,
+          "opp_pts": 60.57,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Ric's Last Resort|||Roger": {
+    "Roger": {
+      "W": 5,
+      "L": 4,
+      "T": 0,
+      "pts_for": 715.95,
+      "pts_against": 718.04,
+      "games": [
+        {
+          "season": "2002",
+          "week": 4,
+          "pts": 93.65,
+          "opp_pts": 44.31,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 63.02,
+          "opp_pts": 66.05,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2004",
+          "week": 1,
+          "pts": 89.04,
+          "opp_pts": 85.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2004",
+          "week": 10,
+          "pts": 71.42,
+          "opp_pts": 69.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 6,
+          "pts": 79.81,
+          "opp_pts": 99.37,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 5,
+          "pts": 81.85,
+          "opp_pts": 55.87,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 14,
+          "pts": 80.08,
+          "opp_pts": 78.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 9,
+          "pts": 76.66,
+          "opp_pts": 109.9,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2009",
+          "week": 6,
+          "pts": 80.42,
+          "opp_pts": 109.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 4,
+      "L": 5,
+      "T": 0,
+      "pts_for": 718.04,
+      "pts_against": 715.95,
+      "games": [
+        {
+          "season": "2002",
+          "week": 4,
+          "pts": 44.31,
+          "opp_pts": 93.65,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 66.05,
+          "opp_pts": 63.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2004",
+          "week": 1,
+          "pts": 85.44,
+          "opp_pts": 89.04,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2004",
+          "week": 10,
+          "pts": 69.0,
+          "opp_pts": 71.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2005",
+          "week": 6,
+          "pts": 99.37,
+          "opp_pts": 79.81,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2006",
+          "week": 5,
+          "pts": 55.87,
+          "opp_pts": 81.85,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2006",
+          "week": 14,
+          "pts": 78.24,
+          "opp_pts": 80.08,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2007",
+          "week": 9,
+          "pts": 109.9,
+          "opp_pts": 76.66,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2009",
+          "week": 6,
+          "pts": 109.86,
+          "opp_pts": 80.42,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminator's"
+        }
+      ]
+    }
+  },
+  "Dahmer's Cannibals|||Radical Riptide": {
+    "Radical Riptide": {
+      "W": 0,
+      "L": 2,
+      "T": 0,
+      "pts_for": 101.04,
+      "pts_against": 174.46,
+      "games": [
+        {
+          "season": "2002",
+          "week": 4,
+          "pts": 37.03,
+          "opp_pts": 102.32,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 64.01,
+          "opp_pts": 72.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 2,
+      "L": 0,
+      "T": 0,
+      "pts_for": 174.46,
+      "pts_against": 101.04,
+      "games": [
+        {
+          "season": "2002",
+          "week": 4,
+          "pts": 102.32,
+          "opp_pts": 37.03,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 72.14,
+          "opp_pts": 64.01,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    }
+  },
+  "Davidson|||Jakes Jugglers": {
+    "Jakes Jugglers": {
+      "W": 0,
+      "L": 4,
+      "T": 0,
+      "pts_for": 246.9,
+      "pts_against": 365.44,
+      "games": [
+        {
+          "season": "2002",
+          "week": 4,
+          "pts": 42.38,
+          "opp_pts": 76.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 54.95,
+          "opp_pts": 116.91,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 2,
+          "pts": 72.62,
+          "opp_pts": 81.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2003",
+          "week": 9,
+          "pts": 76.95,
+          "opp_pts": 90.57,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        }
+      ]
+    },
+    "Davidson": {
+      "W": 4,
+      "L": 0,
+      "T": 0,
+      "pts_for": 365.44,
+      "pts_against": 246.9,
+      "games": [
+        {
+          "season": "2002",
+          "week": 4,
+          "pts": 76.18,
+          "opp_pts": 42.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2002",
+          "week": 13,
+          "pts": 116.91,
+          "opp_pts": 54.95,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2003",
+          "week": 2,
+          "pts": 81.78,
+          "opp_pts": 72.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        },
+        {
+          "season": "2003",
+          "week": 9,
+          "pts": 90.57,
+          "opp_pts": 76.95,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        }
+      ]
+    }
+  },
+  "Coltrain Blue|||Radical Riptide": {
+    "Coltrain Blue": {
+      "W": 2,
+      "L": 0,
+      "T": 0,
+      "pts_for": 154.57,
+      "pts_against": 91.01,
+      "games": [
+        {
+          "season": "2002",
+          "week": 5,
+          "pts": 94.0,
+          "opp_pts": 32.52,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        },
+        {
+          "season": "2002",
+          "week": 14,
+          "pts": 60.57,
+          "opp_pts": 58.49,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    },
+    "Radical Riptide": {
+      "W": 0,
+      "L": 2,
+      "T": 0,
+      "pts_for": 91.01,
+      "pts_against": 154.57,
+      "games": [
+        {
+          "season": "2002",
+          "week": 5,
+          "pts": 32.52,
+          "opp_pts": 94.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        },
+        {
+          "season": "2002",
+          "week": 14,
+          "pts": 58.49,
+          "opp_pts": 60.57,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Damon|||Robert": {
+    "Damon": {
+      "W": 14,
+      "L": 18,
+      "T": 0,
+      "pts_for": 3003.43,
+      "pts_against": 3187.2,
+      "games": [
+        {
+          "season": "2002",
+          "week": 5,
+          "pts": 56.57,
+          "opp_pts": 73.15,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2002",
+          "week": 14,
+          "pts": 62.61,
+          "opp_pts": 88.09,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 7,
+          "pts": 66.41,
+          "opp_pts": 73.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 14,
+          "pts": 79.8,
+          "opp_pts": 99.41,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2004",
+          "week": 9,
+          "pts": 65.48,
+          "opp_pts": 85.25,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2005",
+          "week": 9,
+          "pts": 47.1,
+          "opp_pts": 76.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2006",
+          "week": 6,
+          "pts": 71.88,
+          "opp_pts": 65.76,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 9,
+          "pts": 120.3,
+          "opp_pts": 127.58,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2009",
+          "week": 2,
+          "pts": 83.34,
+          "opp_pts": 139.24,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2009",
+          "week": 11,
+          "pts": 137.62,
+          "opp_pts": 108.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 9,
+          "pts": 64.96,
+          "opp_pts": 124.46,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2011",
+          "week": 6,
+          "pts": 80.42,
+          "opp_pts": 101.74,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2012",
+          "week": 8,
+          "pts": 74.58,
+          "opp_pts": 102.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2013",
+          "week": 4,
+          "pts": 127.98,
+          "opp_pts": 86.34,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2013",
+          "week": 13,
+          "pts": 121.0,
+          "opp_pts": 102.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2014",
+          "week": 7,
+          "pts": 96.26,
+          "opp_pts": 72.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2015",
+          "week": 2,
+          "pts": 99.5,
+          "opp_pts": 95.66,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2015",
+          "week": 11,
+          "pts": 90.06,
+          "opp_pts": 57.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2016",
+          "week": 7,
+          "pts": 109.64,
+          "opp_pts": 110.48,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2017",
+          "week": 9,
+          "pts": 85.3,
+          "opp_pts": 78.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2018",
+          "week": 9,
+          "pts": 118.46,
+          "opp_pts": 80.1,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2019",
+          "week": 9,
+          "pts": 93.24,
+          "opp_pts": 121.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2019",
+          "week": 16,
+          "pts": 110.46,
+          "opp_pts": 101.56,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2020",
+          "week": 2,
+          "pts": 125.28,
+          "opp_pts": 118.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2020",
+          "week": 11,
+          "pts": 91.24,
+          "opp_pts": 81.18,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2021",
+          "week": 7,
+          "pts": 115.08,
+          "opp_pts": 116.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2022",
+          "week": 1,
+          "pts": 111.5,
+          "opp_pts": 143.08,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2022",
+          "week": 10,
+          "pts": 84.64,
+          "opp_pts": 115.6,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2023",
+          "week": 8,
+          "pts": 111.16,
+          "opp_pts": 108.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2024",
+          "week": 7,
+          "pts": 82.78,
+          "opp_pts": 90.12,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2025",
+          "week": 4,
+          "pts": 141.66,
+          "opp_pts": 117.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2025",
+          "week": 13,
+          "pts": 77.12,
+          "opp_pts": 123.44,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        }
+      ]
+    },
+    "Robert": {
+      "W": 18,
+      "L": 14,
+      "T": 0,
+      "pts_for": 3187.2,
+      "pts_against": 3003.43,
+      "games": [
+        {
+          "season": "2002",
+          "week": 5,
+          "pts": 73.15,
+          "opp_pts": 56.57,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
+        },
+        {
+          "season": "2002",
+          "week": 14,
+          "pts": 88.09,
+          "opp_pts": 62.61,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
+        },
+        {
+          "season": "2003",
+          "week": 7,
+          "pts": 73.2,
+          "opp_pts": 66.41,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
+        },
+        {
+          "season": "2003",
+          "week": 14,
+          "pts": 99.41,
+          "opp_pts": 79.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
+        },
+        {
+          "season": "2004",
+          "week": 9,
+          "pts": 85.25,
+          "opp_pts": 65.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre"
+        },
+        {
+          "season": "2005",
+          "week": 9,
+          "pts": 76.26,
+          "opp_pts": 47.1,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebreAvenGers"
+        },
+        {
+          "season": "2006",
+          "week": 6,
+          "pts": 65.76,
+          "opp_pts": 71.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSebre-Avengers"
+        },
+        {
+          "season": "2007",
+          "week": 9,
+          "pts": 127.58,
+          "opp_pts": 120.3,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
+        },
+        {
+          "season": "2009",
+          "week": 2,
+          "pts": 139.24,
+          "opp_pts": 83.34,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSEbre Avengers"
+        },
+        {
+          "season": "2009",
+          "week": 11,
+          "pts": 108.56,
+          "opp_pts": 137.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSEbre Avengers"
+        },
+        {
+          "season": "2010",
+          "week": 9,
+          "pts": 124.46,
+          "opp_pts": 64.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2011",
+          "week": 6,
+          "pts": 101.74,
+          "opp_pts": 80.42,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2012",
+          "week": 8,
+          "pts": 102.06,
+          "opp_pts": 74.58,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2013",
+          "week": 4,
+          "pts": 86.34,
+          "opp_pts": 127.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2013",
+          "week": 13,
+          "pts": 102.32,
+          "opp_pts": 121.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2014",
+          "week": 7,
+          "pts": 72.8,
+          "opp_pts": 96.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2015",
+          "week": 2,
+          "pts": 95.66,
+          "opp_pts": 99.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2015",
+          "week": 11,
+          "pts": 57.98,
+          "opp_pts": 90.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2016",
+          "week": 7,
+          "pts": 110.48,
+          "opp_pts": 109.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2017",
+          "week": 9,
+          "pts": 78.62,
+          "opp_pts": 85.3,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2018",
+          "week": 9,
+          "pts": 80.1,
+          "opp_pts": 118.46,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2019",
+          "week": 9,
+          "pts": 121.96,
+          "opp_pts": 93.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2019",
+          "week": 16,
+          "pts": 101.56,
+          "opp_pts": 110.46,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2020",
+          "week": 2,
+          "pts": 118.0,
+          "opp_pts": 125.28,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2020",
+          "week": 11,
+          "pts": 81.18,
+          "opp_pts": 91.24,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2021",
+          "week": 7,
+          "pts": 116.36,
+          "opp_pts": 115.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2022",
+          "week": 1,
+          "pts": 143.08,
+          "opp_pts": 111.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2022",
+          "week": 10,
+          "pts": 115.6,
+          "opp_pts": 84.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2023",
+          "week": 8,
+          "pts": 108.96,
+          "opp_pts": 111.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2024",
+          "week": 7,
+          "pts": 90.12,
+          "opp_pts": 82.78,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2025",
+          "week": 4,
+          "pts": 117.88,
+          "opp_pts": 141.66,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2025",
+          "week": 13,
+          "pts": 123.44,
+          "opp_pts": 77.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        }
+      ]
+    }
+  },
+  "Dahmer's Cannibals|||Jakes Jugglers": {
+    "Jakes Jugglers": {
+      "W": 2,
+      "L": 2,
+      "T": 0,
+      "pts_for": 250.75,
+      "pts_against": 263.74,
+      "games": [
+        {
+          "season": "2002",
+          "week": 5,
+          "pts": 91.88,
+          "opp_pts": 103.04,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2002",
+          "week": 14,
+          "pts": 38.39,
+          "opp_pts": 52.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 5,
+          "pts": 66.62,
+          "opp_pts": 55.71,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        },
+        {
+          "season": "2003",
+          "week": 12,
+          "pts": 53.86,
+          "opp_pts": 52.63,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmers Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 2,
+      "L": 2,
+      "T": 0,
+      "pts_for": 263.74,
+      "pts_against": 250.75,
+      "games": [
+        {
+          "season": "2002",
+          "week": 5,
+          "pts": 103.04,
+          "opp_pts": 91.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2002",
+          "week": 14,
+          "pts": 52.36,
+          "opp_pts": 38.39,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2003",
+          "week": 5,
+          "pts": 55.71,
+          "opp_pts": 66.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        },
+        {
+          "season": "2003",
+          "week": 12,
+          "pts": 52.63,
+          "opp_pts": 53.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        }
+      ]
+    }
+  },
+  "Davidson|||Ric's Last Resort": {
+    "Davidson": {
+      "W": 1,
+      "L": 8,
+      "T": 0,
+      "pts_for": 644.63,
+      "pts_against": 835.12,
+      "games": [
+        {
+          "season": "2002",
+          "week": 5,
+          "pts": 69.62,
+          "opp_pts": 44.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2002",
+          "week": 14,
+          "pts": 56.2,
+          "opp_pts": 105.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2004",
+          "week": 8,
+          "pts": 37.74,
+          "opp_pts": 70.23,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 3,
+          "pts": 54.95,
+          "opp_pts": 85.55,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 12,
+          "pts": 47.91,
+          "opp_pts": 79.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 7,
+          "pts": 89.59,
+          "opp_pts": 102.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 3,
+          "pts": 90.36,
+          "opp_pts": 113.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 12,
+          "pts": 107.62,
+          "opp_pts": 130.08,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2009",
+          "week": 7,
+          "pts": 90.64,
+          "opp_pts": 103.32,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 8,
+      "L": 1,
+      "T": 0,
+      "pts_for": 835.12,
+      "pts_against": 644.63,
+      "games": [
+        {
+          "season": "2002",
+          "week": 5,
+          "pts": 44.5,
+          "opp_pts": 69.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2002",
+          "week": 14,
+          "pts": 105.96,
+          "opp_pts": 56.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2004",
+          "week": 8,
+          "pts": 70.23,
+          "opp_pts": 37.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2005",
+          "week": 3,
+          "pts": 85.55,
+          "opp_pts": 54.95,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2005",
+          "week": 12,
+          "pts": 79.68,
+          "opp_pts": 47.91,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2006",
+          "week": 7,
+          "pts": 102.18,
+          "opp_pts": 89.59,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 3,
+          "pts": 113.62,
+          "opp_pts": 90.36,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 12,
+          "pts": 130.08,
+          "opp_pts": 107.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2009",
+          "week": 7,
+          "pts": 103.32,
+          "opp_pts": 90.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        }
+      ]
+    }
+  },
+  "Coltrain Blue|||Jakes Jugglers": {
+    "Coltrain Blue": {
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "pts_for": 68.37,
+      "pts_against": 82.88,
+      "games": [
+        {
+          "season": "2002",
+          "week": 6,
+          "pts": 68.37,
+          "opp_pts": 82.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        }
+      ]
+    },
+    "Jakes Jugglers": {
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "pts_for": 82.88,
+      "pts_against": 68.37,
+      "games": [
+        {
+          "season": "2002",
+          "week": 6,
+          "pts": 82.88,
+          "opp_pts": 68.37,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Damon|||Radical Riptide": {
+    "Damon": {
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "pts_for": 59.62,
+      "pts_against": 42.59,
+      "games": [
+        {
+          "season": "2002",
+          "week": 6,
+          "pts": 59.62,
+          "opp_pts": 42.59,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    },
+    "Radical Riptide": {
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "pts_for": 42.59,
+      "pts_against": 59.62,
+      "games": [
+        {
+          "season": "2002",
+          "week": 6,
+          "pts": 42.59,
+          "opp_pts": 59.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
         }
       ]
     }
@@ -40443,6 +40833,356 @@ const WSW_DATA = {
       ]
     }
   },
+  "Michael|||Ric's Last Resort": {
+    "Michael": {
+      "W": 7,
+      "L": 3,
+      "T": 0,
+      "pts_for": 799.67,
+      "pts_against": 828.66,
+      "games": [
+        {
+          "season": "2002",
+          "week": 6,
+          "pts": 63.94,
+          "opp_pts": 86.66,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2004",
+          "week": 4,
+          "pts": 59.09,
+          "opp_pts": 57.59,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2004",
+          "week": 13,
+          "pts": 57.06,
+          "opp_pts": 93.33,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 1,
+          "pts": 54.78,
+          "opp_pts": 53.49,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 10,
+          "pts": 61.59,
+          "opp_pts": 83.27,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 8,
+          "pts": 99.59,
+          "opp_pts": 92.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 86.96,
+          "opp_pts": 79.82,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 99.52,
+          "opp_pts": 91.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2009",
+          "week": 3,
+          "pts": 86.58,
+          "opp_pts": 85.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2009",
+          "week": 12,
+          "pts": 130.56,
+          "opp_pts": 104.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 3,
+      "L": 7,
+      "T": 0,
+      "pts_for": 828.66,
+      "pts_against": 799.67,
+      "games": [
+        {
+          "season": "2002",
+          "week": 6,
+          "pts": 86.66,
+          "opp_pts": 63.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2004",
+          "week": 4,
+          "pts": 57.59,
+          "opp_pts": 59.09,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2004",
+          "week": 13,
+          "pts": 93.33,
+          "opp_pts": 57.06,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2005",
+          "week": 1,
+          "pts": 53.49,
+          "opp_pts": 54.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2005",
+          "week": 10,
+          "pts": 83.27,
+          "opp_pts": 61.59,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2006",
+          "week": 8,
+          "pts": 92.98,
+          "opp_pts": 99.59,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 79.82,
+          "opp_pts": 86.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 91.72,
+          "opp_pts": 99.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
+        },
+        {
+          "season": "2009",
+          "week": 3,
+          "pts": 85.72,
+          "opp_pts": 86.58,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2009",
+          "week": 12,
+          "pts": 104.08,
+          "opp_pts": 130.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        }
+      ]
+    }
+  },
+  "Coltrain Blue|||Davidson": {
+    "Coltrain Blue": {
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "pts_for": 77.4,
+      "pts_against": 99.68,
+      "games": [
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 77.4,
+          "opp_pts": 99.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        }
+      ]
+    },
+    "Davidson": {
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "pts_for": 99.68,
+      "pts_against": 77.4,
+      "games": [
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 99.68,
+          "opp_pts": 77.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Damon|||Jakes Jugglers": {
+    "Damon": {
+      "W": 1,
+      "L": 2,
+      "T": 0,
+      "pts_for": 184.72,
+      "pts_against": 178.54,
+      "games": [
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 44.65,
+          "opp_pts": 52.48,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2003",
+          "week": 1,
+          "pts": 77.01,
+          "opp_pts": 49.45,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        },
+        {
+          "season": "2003",
+          "week": 8,
+          "pts": 63.06,
+          "opp_pts": 76.61,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        }
+      ]
+    },
+    "Jakes Jugglers": {
+      "W": 2,
+      "L": 1,
+      "T": 0,
+      "pts_for": 178.54,
+      "pts_against": 184.72,
+      "games": [
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 52.48,
+          "opp_pts": 44.65,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGERs"
+        },
+        {
+          "season": "2003",
+          "week": 1,
+          "pts": 49.45,
+          "opp_pts": 77.01,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
+        },
+        {
+          "season": "2003",
+          "week": 8,
+          "pts": 76.61,
+          "opp_pts": 63.06,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LasEbreAvEngers"
+        }
+      ]
+    }
+  },
+  "Radical Riptide|||Roger": {
+    "Roger": {
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "pts_for": 80.18,
+      "pts_against": 34.86,
+      "games": [
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 80.18,
+          "opp_pts": 34.86,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    },
+    "Radical Riptide": {
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "pts_for": 34.86,
+      "pts_against": 80.18,
+      "games": [
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 34.86,
+          "opp_pts": 80.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        }
+      ]
+    }
+  },
   "Michael|||Robert": {
     "Michael": {
       "W": 19,
@@ -41165,13 +41905,291 @@ const WSW_DATA = {
       ]
     }
   },
-  "Damon|||Robert": {
-    "Robert": {
-      "W": 19,
-      "L": 19,
+  "Dahmer's Cannibals|||Ric's Last Resort": {
+    "Dahmer's Cannibals": {
+      "W": 4,
+      "L": 2,
       "T": 0,
-      "pts_for": 3610.08,
-      "pts_against": 3481.38,
+      "pts_for": 468.57,
+      "pts_against": 467.97,
+      "games": [
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 103.67,
+          "opp_pts": 79.47,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        },
+        {
+          "season": "2004",
+          "week": 3,
+          "pts": 62.46,
+          "opp_pts": 85.02,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2004",
+          "week": 12,
+          "pts": 104.26,
+          "opp_pts": 93.83,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 7,
+          "pts": 57.65,
+          "opp_pts": 79.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 4,
+          "pts": 55.85,
+          "opp_pts": 54.51,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 13,
+          "pts": 84.68,
+          "opp_pts": 75.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 2,
+      "L": 4,
+      "T": 0,
+      "pts_for": 467.97,
+      "pts_against": 468.57,
+      "games": [
+        {
+          "season": "2002",
+          "week": 7,
+          "pts": 79.47,
+          "opp_pts": 103.67,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 3,
+          "pts": 85.02,
+          "opp_pts": 62.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2004",
+          "week": 12,
+          "pts": 93.83,
+          "opp_pts": 104.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 7,
+          "pts": 79.54,
+          "opp_pts": 57.65,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 4,
+          "pts": 54.51,
+          "opp_pts": 55.85,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 13,
+          "pts": 75.6,
+          "opp_pts": 84.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    }
+  },
+  "Coltrain Blue|||Dahmer's Cannibals": {
+    "Coltrain Blue": {
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "pts_for": 97.59,
+      "pts_against": 41.43,
+      "games": [
+        {
+          "season": "2002",
+          "week": 8,
+          "pts": 97.59,
+          "opp_pts": 41.43,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "pts_for": 41.43,
+      "pts_against": 97.59,
+      "games": [
+        {
+          "season": "2002",
+          "week": 8,
+          "pts": 41.43,
+          "opp_pts": 97.59,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Jakes Jugglers|||Roger": {
+    "Roger": {
+      "W": 1,
+      "L": 2,
+      "T": 0,
+      "pts_for": 189.84,
+      "pts_against": 169.32,
+      "games": [
+        {
+          "season": "2002",
+          "week": 8,
+          "pts": 63.89,
+          "opp_pts": 64.73,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
+        },
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 42.2,
+          "opp_pts": 67.3,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 83.75,
+          "opp_pts": 37.29,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        }
+      ]
+    },
+    "Jakes Jugglers": {
+      "W": 2,
+      "L": 1,
+      "T": 0,
+      "pts_for": 169.32,
+      "pts_against": 189.84,
+      "games": [
+        {
+          "season": "2002",
+          "week": 8,
+          "pts": 64.73,
+          "opp_pts": 63.89,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 67.3,
+          "opp_pts": 42.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 37.29,
+          "opp_pts": 83.75,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        }
+      ]
+    }
+  },
+  "Michael|||Radical Riptide": {
+    "Michael": {
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "pts_for": 99.04,
+      "pts_against": 47.39,
+      "games": [
+        {
+          "season": "2002",
+          "week": 8,
+          "pts": 99.04,
+          "opp_pts": 47.39,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    },
+    "Radical Riptide": {
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "pts_for": 47.39,
+      "pts_against": 99.04,
+      "games": [
+        {
+          "season": "2002",
+          "week": 8,
+          "pts": 47.39,
+          "opp_pts": 99.04,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        }
+      ]
+    }
+  },
+  "Ric's Last Resort|||Robert": {
+    "Robert": {
+      "W": 4,
+      "L": 5,
+      "T": 0,
+      "pts_for": 669.37,
+      "pts_against": 662.61,
       "games": [
         {
           "season": "2002",
@@ -41181,24 +42199,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "ric's last resort"
-        },
-        {
-          "season": "2003",
-          "week": 7,
-          "pts": 73.2,
-          "opp_pts": 66.41,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
-        },
-        {
-          "season": "2003",
-          "week": 14,
-          "pts": 99.41,
-          "opp_pts": 79.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LasEbreAvEngers"
         },
         {
           "season": "2004",
@@ -41220,15 +42220,6 @@ const WSW_DATA = {
         },
         {
           "season": "2005",
-          "week": 9,
-          "pts": 76.26,
-          "opp_pts": 47.1,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2005",
           "week": 14,
           "pts": 82.26,
           "opp_pts": 38.69,
@@ -41244,15 +42235,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 6,
-          "pts": 65.76,
-          "opp_pts": 71.88,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSebre-Avengers"
         },
         {
           "season": "2006",
@@ -41273,24 +42255,6 @@ const WSW_DATA = {
           "opp_team": "Ric's Last Resort"
         },
         {
-          "season": "2007",
-          "week": 9,
-          "pts": 127.58,
-          "opp_pts": 120.3,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2009",
-          "week": 2,
-          "pts": 139.24,
-          "opp_pts": 83.34,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSEbre Avengers"
-        },
-        {
           "season": "2009",
           "week": 5,
           "pts": 90.42,
@@ -41301,228 +42265,21 @@ const WSW_DATA = {
         },
         {
           "season": "2009",
-          "week": 11,
-          "pts": 108.56,
-          "opp_pts": 137.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
           "week": 14,
           "pts": 90.8,
           "opp_pts": 52.28,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2010",
-          "week": 9,
-          "pts": 124.46,
-          "opp_pts": 64.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2011",
-          "week": 6,
-          "pts": 101.74,
-          "opp_pts": 80.42,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2012",
-          "week": 8,
-          "pts": 102.06,
-          "opp_pts": 74.58,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2013",
-          "week": 4,
-          "pts": 86.34,
-          "opp_pts": 127.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2013",
-          "week": 13,
-          "pts": 102.32,
-          "opp_pts": 121.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2014",
-          "week": 7,
-          "pts": 72.8,
-          "opp_pts": 96.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2015",
-          "week": 2,
-          "pts": 95.66,
-          "opp_pts": 99.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2015",
-          "week": 11,
-          "pts": 57.98,
-          "opp_pts": 90.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2016",
-          "week": 7,
-          "pts": 110.48,
-          "opp_pts": 109.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2017",
-          "week": 9,
-          "pts": 78.62,
-          "opp_pts": 85.3,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2018",
-          "week": 9,
-          "pts": 80.1,
-          "opp_pts": 118.46,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2019",
-          "week": 9,
-          "pts": 121.96,
-          "opp_pts": 93.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2019",
-          "week": 16,
-          "pts": 101.56,
-          "opp_pts": 110.46,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2020",
-          "week": 2,
-          "pts": 118.0,
-          "opp_pts": 125.28,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2020",
-          "week": 11,
-          "pts": 81.18,
-          "opp_pts": 91.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2021",
-          "week": 7,
-          "pts": 116.36,
-          "opp_pts": 115.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2022",
-          "week": 1,
-          "pts": 143.08,
-          "opp_pts": 111.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2022",
-          "week": 10,
-          "pts": 115.6,
-          "opp_pts": 84.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2023",
-          "week": 8,
-          "pts": 108.96,
-          "opp_pts": 111.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2024",
-          "week": 7,
-          "pts": 90.12,
-          "opp_pts": 82.78,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2025",
-          "week": 4,
-          "pts": 117.88,
-          "opp_pts": 141.66,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2025",
-          "week": 13,
-          "pts": 123.44,
-          "opp_pts": 77.12,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
         }
       ]
     },
-    "Damon": {
-      "W": 19,
-      "L": 19,
+    "Ric's Last Resort": {
+      "W": 5,
+      "L": 4,
       "T": 0,
-      "pts_for": 3481.38,
-      "pts_against": 3610.08,
+      "pts_for": 662.61,
+      "pts_against": 669.37,
       "games": [
         {
           "season": "2002",
@@ -41532,24 +42289,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 7,
-          "pts": 66.41,
-          "opp_pts": 73.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
-        },
-        {
-          "season": "2003",
-          "week": 14,
-          "pts": 79.8,
-          "opp_pts": 99.41,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphys Marauders"
         },
         {
           "season": "2004",
@@ -41566,15 +42305,6 @@ const WSW_DATA = {
           "pts": 67.57,
           "opp_pts": 64.33,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2005",
-          "week": 9,
-          "pts": 47.1,
-          "opp_pts": 76.26,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
@@ -41598,15 +42328,6 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 6,
-          "pts": 71.88,
-          "opp_pts": 65.76,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2006",
           "week": 10,
           "pts": 51.12,
           "opp_pts": 56.66,
@@ -41624,37 +42345,10 @@ const WSW_DATA = {
           "opp_team": "Murphy's Marauders"
         },
         {
-          "season": "2007",
-          "week": 9,
-          "pts": 120.3,
-          "opp_pts": 127.58,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2009",
-          "week": 2,
-          "pts": 83.34,
-          "opp_pts": 139.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
           "season": "2009",
           "week": 5,
           "pts": 102.1,
           "opp_pts": 90.42,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2009",
-          "week": 11,
-          "pts": 137.62,
-          "opp_pts": 108.56,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
@@ -41667,204 +42361,862 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
+        }
+      ]
+    }
+  },
+  "Coltrain Blue|||Ric's Last Resort": {
+    "Coltrain Blue": {
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "pts_for": 63.88,
+      "pts_against": 81.1,
+      "games": [
+        {
+          "season": "2002",
+          "week": 9,
+          "pts": 63.88,
+          "opp_pts": 81.1,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "ric's last resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "pts_for": 81.1,
+      "pts_against": 63.88,
+      "games": [
+        {
+          "season": "2002",
+          "week": 9,
+          "pts": 81.1,
+          "opp_pts": 63.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Coltrain Blue"
+        }
+      ]
+    }
+  },
+  "Jakes Jugglers|||Michael": {
+    "Michael": {
+      "W": 1,
+      "L": 2,
+      "T": 0,
+      "pts_for": 172.16,
+      "pts_against": 173.76,
+      "games": [
+        {
+          "season": "2002",
+          "week": 9,
+          "pts": 51.74,
+          "opp_pts": 67.04,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "jakesjugglers"
         },
         {
-          "season": "2010",
+          "season": "2003",
+          "week": 4,
+          "pts": 48.19,
+          "opp_pts": 64.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        },
+        {
+          "season": "2003",
+          "week": 11,
+          "pts": 72.23,
+          "opp_pts": 42.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        }
+      ]
+    },
+    "Jakes Jugglers": {
+      "W": 2,
+      "L": 1,
+      "T": 0,
+      "pts_for": 173.76,
+      "pts_against": 172.16,
+      "games": [
+        {
+          "season": "2002",
           "week": 9,
-          "pts": 64.96,
-          "opp_pts": 124.46,
+          "pts": 67.04,
+          "opp_pts": 51.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2003",
+          "week": 4,
+          "pts": 64.64,
+          "opp_pts": 48.19,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "DAMONs Demons"
+        },
+        {
+          "season": "2003",
+          "week": 11,
+          "pts": 42.08,
+          "opp_pts": 72.23,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "DAMONs Demons"
+        }
+      ]
+    }
+  },
+  "Radical Riptide|||Robert": {
+    "Robert": {
+      "W": 0,
+      "L": 1,
+      "T": 0,
+      "pts_for": 23.89,
+      "pts_against": 63.42,
+      "games": [
+        {
+          "season": "2002",
+          "week": 9,
+          "pts": 23.89,
+          "opp_pts": 63.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Radical Riptide"
+        }
+      ]
+    },
+    "Radical Riptide": {
+      "W": 1,
+      "L": 0,
+      "T": 0,
+      "pts_for": 63.42,
+      "pts_against": 23.89,
+      "games": [
+        {
+          "season": "2002",
+          "week": 9,
+          "pts": 63.42,
+          "opp_pts": 23.89,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        }
+      ]
+    }
+  },
+  "Robert|||Scott": {
+    "Scott": {
+      "W": 18,
+      "L": 17,
+      "T": 0,
+      "pts_for": 3056.77,
+      "pts_against": 3220.66,
+      "games": [
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 48.36,
+          "opp_pts": 53.17,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 65.04,
+          "opp_pts": 90.92,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphys Marauders"
+        },
+        {
+          "season": "2004",
+          "week": 8,
+          "pts": 75.87,
+          "opp_pts": 64.37,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2005",
+          "week": 7,
+          "pts": 60.48,
+          "opp_pts": 72.89,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
-          "season": "2011",
-          "week": 6,
-          "pts": 80.42,
-          "opp_pts": 101.74,
+          "season": "2006",
+          "week": 8,
+          "pts": 83.2,
+          "opp_pts": 44.79,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 96.84,
+          "opp_pts": 75.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 44.52,
+          "opp_pts": 106.66,
           "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 110.08,
+          "opp_pts": 105.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2009",
+          "week": 7,
+          "pts": 59.74,
+          "opp_pts": 110.04,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 3,
+          "pts": 108.78,
+          "opp_pts": 88.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 12,
+          "pts": 53.26,
+          "opp_pts": 120.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 16,
+          "pts": 62.98,
+          "opp_pts": 138.96,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2011",
+          "week": 7,
+          "pts": 86.34,
+          "opp_pts": 63.9,
+          "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2012",
-          "week": 8,
-          "pts": 74.58,
-          "opp_pts": 102.06,
+          "week": 9,
+          "pts": 105.34,
+          "opp_pts": 84.78,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2012",
+          "week": 16,
+          "pts": 117.24,
+          "opp_pts": 78.48,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2013",
+          "week": 6,
+          "pts": 52.26,
+          "opp_pts": 110.88,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
-          "season": "2013",
-          "week": 4,
-          "pts": 127.98,
-          "opp_pts": 86.34,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2013",
-          "week": 13,
-          "pts": 121.0,
-          "opp_pts": 102.32,
-          "result": "W",
+          "season": "2014",
+          "week": 3,
+          "pts": 59.94,
+          "opp_pts": 92.2,
+          "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2014",
-          "week": 7,
-          "pts": 96.26,
-          "opp_pts": 72.8,
+          "week": 12,
+          "pts": 109.06,
+          "opp_pts": 80.8,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2015",
-          "week": 2,
-          "pts": 99.5,
-          "opp_pts": 95.66,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2015",
-          "week": 11,
-          "pts": 90.06,
-          "opp_pts": 57.98,
+          "week": 6,
+          "pts": 103.52,
+          "opp_pts": 93.9,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2016",
-          "week": 7,
-          "pts": 109.64,
-          "opp_pts": 110.48,
+          "week": 4,
+          "pts": 135.7,
+          "opp_pts": 96.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2016",
+          "week": 13,
+          "pts": 92.16,
+          "opp_pts": 69.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2017",
+          "week": 5,
+          "pts": 96.6,
+          "opp_pts": 100.1,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2017",
-          "week": 9,
-          "pts": 85.3,
-          "opp_pts": 78.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2018",
-          "week": 9,
-          "pts": 118.46,
-          "opp_pts": 80.1,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2019",
-          "week": 9,
-          "pts": 93.24,
-          "opp_pts": 121.96,
+          "week": 14,
+          "pts": 70.84,
+          "opp_pts": 106.24,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
-          "season": "2019",
-          "week": 16,
-          "pts": 110.46,
-          "opp_pts": 101.56,
-          "result": "W",
-          "is_playoffs": true,
+          "season": "2018",
+          "week": 5,
+          "pts": 99.94,
+          "opp_pts": 108.5,
+          "result": "L",
+          "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
-          "season": "2020",
-          "week": 2,
-          "pts": 125.28,
-          "opp_pts": 118.0,
+          "season": "2018",
+          "week": 14,
+          "pts": 113.14,
+          "opp_pts": 53.6,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
-          "season": "2020",
+          "season": "2019",
+          "week": 2,
+          "pts": 101.26,
+          "opp_pts": 77.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2019",
           "week": 11,
-          "pts": 91.24,
-          "opp_pts": 81.18,
+          "pts": 58.34,
+          "opp_pts": 82.44,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2020",
+          "week": 8,
+          "pts": 82.64,
+          "opp_pts": 60.76,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2021",
-          "week": 7,
-          "pts": 115.08,
-          "opp_pts": 116.36,
+          "week": 4,
+          "pts": 102.62,
+          "opp_pts": 96.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2021",
+          "week": 13,
+          "pts": 114.52,
+          "opp_pts": 100.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2022",
+          "week": 6,
+          "pts": 85.92,
+          "opp_pts": 113.76,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2022",
-          "week": 1,
-          "pts": 111.5,
-          "opp_pts": 143.08,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2022",
-          "week": 10,
-          "pts": 84.64,
-          "opp_pts": 115.6,
+          "week": 15,
+          "pts": 94.0,
+          "opp_pts": 138.76,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2023",
-          "week": 8,
-          "pts": 111.16,
-          "opp_pts": 108.96,
-          "result": "W",
+          "week": 7,
+          "pts": 99.66,
+          "opp_pts": 101.9,
+          "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2024",
-          "week": 7,
-          "pts": 82.78,
-          "opp_pts": 90.12,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2025",
-          "week": 4,
-          "pts": 141.66,
-          "opp_pts": 117.88,
+          "week": 8,
+          "pts": 101.56,
+          "opp_pts": 83.64,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
         {
           "season": "2025",
-          "week": 13,
-          "pts": 77.12,
-          "opp_pts": 123.44,
+          "week": 8,
+          "pts": 105.02,
+          "opp_pts": 154.44,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
+        }
+      ]
+    },
+    "Robert": {
+      "W": 17,
+      "L": 18,
+      "T": 0,
+      "pts_for": 3220.66,
+      "pts_against": 3056.77,
+      "games": [
+        {
+          "season": "2003",
+          "week": 3,
+          "pts": 53.17,
+          "opp_pts": 48.36,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 10,
+          "pts": 90.92,
+          "opp_pts": 65.04,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2004",
+          "week": 8,
+          "pts": 64.37,
+          "opp_pts": 75.87,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2005",
+          "week": 7,
+          "pts": 72.89,
+          "opp_pts": 60.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 8,
+          "pts": 44.79,
+          "opp_pts": 83.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 75.0,
+          "opp_pts": 96.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 106.66,
+          "opp_pts": 44.52,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 105.44,
+          "opp_pts": 110.08,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2009",
+          "week": 7,
+          "pts": 110.04,
+          "opp_pts": 59.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 3,
+          "pts": 88.54,
+          "opp_pts": 108.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 12,
+          "pts": 120.56,
+          "opp_pts": 53.26,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 16,
+          "pts": 138.96,
+          "opp_pts": 62.98,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2011",
+          "week": 7,
+          "pts": 63.9,
+          "opp_pts": 86.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2012",
+          "week": 9,
+          "pts": 84.78,
+          "opp_pts": 105.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2012",
+          "week": 16,
+          "pts": 78.48,
+          "opp_pts": 117.24,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2013",
+          "week": 6,
+          "pts": 110.88,
+          "opp_pts": 52.26,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2014",
+          "week": 3,
+          "pts": 92.2,
+          "opp_pts": 59.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2014",
+          "week": 12,
+          "pts": 80.8,
+          "opp_pts": 109.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2015",
+          "week": 6,
+          "pts": 93.9,
+          "opp_pts": 103.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2016",
+          "week": 4,
+          "pts": 96.28,
+          "opp_pts": 135.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2016",
+          "week": 13,
+          "pts": 69.94,
+          "opp_pts": 92.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2017",
+          "week": 5,
+          "pts": 100.1,
+          "opp_pts": 96.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2017",
+          "week": 14,
+          "pts": 106.24,
+          "opp_pts": 70.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2018",
+          "week": 5,
+          "pts": 108.5,
+          "opp_pts": 99.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2018",
+          "week": 14,
+          "pts": 53.6,
+          "opp_pts": 113.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2019",
+          "week": 2,
+          "pts": 77.5,
+          "opp_pts": 101.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2019",
+          "week": 11,
+          "pts": 82.44,
+          "opp_pts": 58.34,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2020",
+          "week": 8,
+          "pts": 60.76,
+          "opp_pts": 82.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2021",
+          "week": 4,
+          "pts": 96.32,
+          "opp_pts": 102.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2021",
+          "week": 13,
+          "pts": 100.2,
+          "opp_pts": 114.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2022",
+          "week": 6,
+          "pts": 113.76,
+          "opp_pts": 85.92,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2022",
+          "week": 15,
+          "pts": 138.76,
+          "opp_pts": 94.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2023",
+          "week": 7,
+          "pts": 101.9,
+          "opp_pts": 99.66,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2024",
+          "week": 8,
+          "pts": 83.64,
+          "opp_pts": 101.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2025",
+          "week": 8,
+          "pts": 154.44,
+          "opp_pts": 105.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        }
+      ]
+    }
+  },
+  "Jakes Jugglers|||Scott": {
+    "Scott": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 137.7,
+      "pts_against": 112.74,
+      "games": [
+        {
+          "season": "2003",
+          "week": 7,
+          "pts": 72.74,
+          "opp_pts": 41.71,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        },
+        {
+          "season": "2003",
+          "week": 14,
+          "pts": 64.96,
+          "opp_pts": 71.03,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Jakes Jugglers"
+        }
+      ]
+    },
+    "Jakes Jugglers": {
+      "W": 1,
+      "L": 1,
+      "T": 0,
+      "pts_for": 112.74,
+      "pts_against": 137.7,
+      "games": [
+        {
+          "season": "2003",
+          "week": 7,
+          "pts": 41.71,
+          "opp_pts": 72.74,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
+        },
+        {
+          "season": "2003",
+          "week": 14,
+          "pts": 71.03,
+          "opp_pts": 64.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULLs Spoliators"
         }
       ]
     }
@@ -41921,134 +43273,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Patterson Prophets"
-        }
-      ]
-    }
-  },
-  "Dahmer's Cannibals|||Davidson": {
-    "Davidson": {
-      "W": 0,
-      "L": 6,
-      "T": 0,
-      "pts_for": 347.39,
-      "pts_against": 462.08,
-      "games": [
-        {
-          "season": "2004",
-          "week": 1,
-          "pts": 56.27,
-          "opp_pts": 71.43,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2004",
-          "week": 10,
-          "pts": 38.29,
-          "opp_pts": 96.73,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 5,
-          "pts": 69.02,
-          "opp_pts": 73.95,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 14,
-          "pts": 53.77,
-          "opp_pts": 67.53,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 1,
-          "pts": 47.0,
-          "opp_pts": 58.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 10,
-          "pts": 83.04,
-          "opp_pts": 93.6,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        }
-      ]
-    },
-    "Dahmer's Cannibals": {
-      "W": 6,
-      "L": 0,
-      "T": 0,
-      "pts_for": 462.08,
-      "pts_against": 347.39,
-      "games": [
-        {
-          "season": "2004",
-          "week": 1,
-          "pts": 71.43,
-          "opp_pts": 56.27,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2004",
-          "week": 10,
-          "pts": 96.73,
-          "opp_pts": 38.29,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2005",
-          "week": 5,
-          "pts": 73.95,
-          "opp_pts": 69.02,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2005",
-          "week": 14,
-          "pts": 67.53,
-          "opp_pts": 53.77,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Fighting Tigers"
-        },
-        {
-          "season": "2006",
-          "week": 1,
-          "pts": 58.84,
-          "opp_pts": 47.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2006",
-          "week": 10,
-          "pts": 93.6,
-          "opp_pts": 83.04,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
         }
       ]
     }
@@ -42723,123 +43947,13 @@ const WSW_DATA = {
       ]
     }
   },
-  "Dahmer's Cannibals|||Roger": {
-    "Roger": {
-      "W": 4,
-      "L": 1,
-      "T": 0,
-      "pts_for": 400.45,
-      "pts_against": 323.04,
-      "games": [
-        {
-          "season": "2004",
-          "week": 2,
-          "pts": 68.8,
-          "opp_pts": 77.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2004",
-          "week": 11,
-          "pts": 104.87,
-          "opp_pts": 51.92,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 2,
-          "pts": 74.62,
-          "opp_pts": 64.85,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 11,
-          "pts": 66.26,
-          "opp_pts": 60.99,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 6,
-          "pts": 85.9,
-          "opp_pts": 68.12,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        }
-      ]
-    },
-    "Dahmer's Cannibals": {
-      "W": 1,
-      "L": 4,
-      "T": 0,
-      "pts_for": 323.04,
-      "pts_against": 400.45,
-      "games": [
-        {
-          "season": "2004",
-          "week": 2,
-          "pts": 77.16,
-          "opp_pts": 68.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2004",
-          "week": 11,
-          "pts": 51.92,
-          "opp_pts": 104.87,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2005",
-          "week": 2,
-          "pts": 64.85,
-          "opp_pts": 74.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2005",
-          "week": 11,
-          "pts": 60.99,
-          "opp_pts": 66.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2006",
-          "week": 6,
-          "pts": 68.12,
-          "opp_pts": 85.9,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        }
-      ]
-    }
-  },
   "Patterson Prophets|||Scott": {
     "Scott": {
       "W": 1,
-      "L": 3,
+      "L": 1,
       "T": 0,
-      "pts_for": 267.82,
-      "pts_against": 260.65,
+      "pts_for": 166.55,
+      "pts_against": 129.62,
       "games": [
         {
           "season": "2004",
@@ -42852,27 +43966,9 @@ const WSW_DATA = {
         },
         {
           "season": "2004",
-          "week": 4,
-          "pts": 51.15,
-          "opp_pts": 70.45,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Patterson Prophets"
-        },
-        {
-          "season": "2004",
           "week": 12,
           "pts": 61.95,
           "opp_pts": 66.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Patterson Prophets"
-        },
-        {
-          "season": "2004",
-          "week": 13,
-          "pts": 50.12,
-          "opp_pts": 60.58,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Patterson Prophets"
@@ -42880,11 +43976,11 @@ const WSW_DATA = {
       ]
     },
     "Patterson Prophets": {
-      "W": 3,
+      "W": 1,
       "L": 1,
       "T": 0,
-      "pts_for": 260.65,
-      "pts_against": 267.82,
+      "pts_for": 129.62,
+      "pts_against": 166.55,
       "games": [
         {
           "season": "2004",
@@ -42897,30 +43993,12 @@ const WSW_DATA = {
         },
         {
           "season": "2004",
-          "week": 4,
-          "pts": 70.45,
-          "opp_pts": 51.15,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
-        },
-        {
-          "season": "2004",
           "week": 12,
           "pts": 66.76,
           "opp_pts": 61.95,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2004",
-          "week": 13,
-          "pts": 60.58,
-          "opp_pts": 50.12,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
         }
       ]
     }
@@ -43611,184 +44689,58 @@ const WSW_DATA = {
       ]
     }
   },
-  "Dahmer's Cannibals|||Damon": {
-    "Dahmer's Cannibals": {
-      "W": 6,
-      "L": 3,
+  "Damon|||Patterson Prophets": {
+    "Damon": {
+      "W": 0,
+      "L": 2,
       "T": 0,
-      "pts_for": 648.98,
-      "pts_against": 643.77,
+      "pts_for": 101.27,
+      "pts_against": 131.03,
       "games": [
         {
           "season": "2004",
-          "week": 3,
-          "pts": 62.46,
-          "opp_pts": 85.02,
+          "week": 4,
+          "pts": 51.15,
+          "opp_pts": 70.45,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
+          "opp_team": "Patterson Prophets"
         },
         {
           "season": "2004",
-          "week": 12,
-          "pts": 104.26,
-          "opp_pts": 93.83,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2005",
-          "week": 1,
-          "pts": 84.77,
-          "opp_pts": 83.53,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2005",
-          "week": 7,
-          "pts": 57.65,
-          "opp_pts": 79.54,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Rics Last Resort"
-        },
-        {
-          "season": "2005",
-          "week": 10,
-          "pts": 63.05,
-          "opp_pts": 62.49,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2006",
-          "week": 4,
-          "pts": 55.85,
-          "opp_pts": 54.51,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 5,
-          "pts": 54.97,
-          "opp_pts": 55.85,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSebre-Avengers"
-        },
-        {
-          "season": "2006",
           "week": 13,
-          "pts": 84.68,
-          "opp_pts": 75.6,
-          "result": "W",
+          "pts": 50.12,
+          "opp_pts": 60.58,
+          "result": "L",
           "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 14,
-          "pts": 81.29,
-          "opp_pts": 53.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebre-Avengers"
+          "opp_team": "Patterson Prophets"
         }
       ]
     },
-    "Damon": {
-      "W": 3,
-      "L": 6,
+    "Patterson Prophets": {
+      "W": 2,
+      "L": 0,
       "T": 0,
-      "pts_for": 643.77,
-      "pts_against": 648.98,
+      "pts_for": 131.03,
+      "pts_against": 101.27,
       "games": [
         {
           "season": "2004",
-          "week": 3,
-          "pts": 85.02,
-          "opp_pts": 62.46,
+          "week": 4,
+          "pts": 70.45,
+          "opp_pts": 51.15,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
+          "opp_team": "LaSeBre"
         },
         {
           "season": "2004",
-          "week": 12,
-          "pts": 93.83,
-          "opp_pts": 104.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 1,
-          "pts": 83.53,
-          "opp_pts": 84.77,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 7,
-          "pts": 79.54,
-          "opp_pts": 57.65,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 10,
-          "pts": 62.49,
-          "opp_pts": 63.05,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 4,
-          "pts": 54.51,
-          "opp_pts": 55.85,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 5,
-          "pts": 55.85,
-          "opp_pts": 54.97,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2006",
           "week": 13,
-          "pts": 75.6,
-          "opp_pts": 84.68,
-          "result": "L",
+          "pts": 60.58,
+          "opp_pts": 50.12,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 14,
-          "pts": 53.4,
-          "opp_pts": 81.29,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
+          "opp_team": "LaSeBre"
         }
       ]
     }
@@ -43959,105 +44911,13 @@ const WSW_DATA = {
       ]
     }
   },
-  "Dahmer's Cannibals|||Robert": {
-    "Dahmer's Cannibals": {
-      "W": 1,
-      "L": 3,
-      "T": 0,
-      "pts_for": 259.77,
-      "pts_against": 294.17,
-      "games": [
-        {
-          "season": "2004",
-          "week": 5,
-          "pts": 52.24,
-          "opp_pts": 78.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2004",
-          "week": 14,
-          "pts": 68.35,
-          "opp_pts": 78.1,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2005",
-          "week": 6,
-          "pts": 66.83,
-          "opp_pts": 82.99,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2006",
-          "week": 7,
-          "pts": 72.35,
-          "opp_pts": 54.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        }
-      ]
-    },
-    "Robert": {
-      "W": 3,
-      "L": 1,
-      "T": 0,
-      "pts_for": 294.17,
-      "pts_against": 259.77,
-      "games": [
-        {
-          "season": "2004",
-          "week": 5,
-          "pts": 78.24,
-          "opp_pts": 52.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2004",
-          "week": 14,
-          "pts": 78.1,
-          "opp_pts": 68.35,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 6,
-          "pts": 82.99,
-          "opp_pts": 66.83,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 7,
-          "pts": 54.84,
-          "opp_pts": 72.35,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        }
-      ]
-    }
-  },
-  "Chris|||Damon": {
+  "Chris|||Ric's Last Resort": {
     "Chris": {
-      "W": 19,
-      "L": 20,
+      "W": 3,
+      "L": 6,
       "T": 0,
-      "pts_for": 3533.01,
-      "pts_against": 3570.18,
+      "pts_for": 659.09,
+      "pts_against": 790.21,
       "games": [
         {
           "season": "2004",
@@ -44088,30 +44948,12 @@ const WSW_DATA = {
         },
         {
           "season": "2005",
-          "week": 3,
-          "pts": 85.39,
-          "opp_pts": 72.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSebreAvenGers"
-        },
-        {
-          "season": "2005",
           "week": 11,
           "pts": 95.18,
           "opp_pts": 44.4,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Rics Last Resort"
-        },
-        {
-          "season": "2005",
-          "week": 12,
-          "pts": 53.37,
-          "opp_pts": 58.92,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSebreAvenGers"
         },
         {
           "season": "2006",
@@ -44121,15 +44963,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2006",
-          "week": 8,
-          "pts": 62.22,
-          "opp_pts": 74.79,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSebre-Avengers"
         },
         {
           "season": "2006",
@@ -44151,15 +44984,6 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 8,
-          "pts": 116.12,
-          "opp_pts": 102.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
           "week": 14,
           "pts": 80.92,
           "opp_pts": 105.36,
@@ -44169,255 +44993,21 @@ const WSW_DATA = {
         },
         {
           "season": "2009",
-          "week": 5,
-          "pts": 108.64,
-          "opp_pts": 82.18,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
           "week": 8,
           "pts": 106.72,
           "opp_pts": 100.76,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2009",
-          "week": 14,
-          "pts": 86.98,
-          "opp_pts": 127.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
-          "week": 16,
-          "pts": 78.24,
-          "opp_pts": 84.68,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2010",
-          "week": 6,
-          "pts": 104.26,
-          "opp_pts": 64.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2011",
-          "week": 2,
-          "pts": 104.76,
-          "opp_pts": 84.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2011",
-          "week": 11,
-          "pts": 83.3,
-          "opp_pts": 91.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2012",
-          "week": 1,
-          "pts": 97.4,
-          "opp_pts": 79.12,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2012",
-          "week": 10,
-          "pts": 117.66,
-          "opp_pts": 57.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2013",
-          "week": 8,
-          "pts": 148.52,
-          "opp_pts": 82.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2014",
-          "week": 6,
-          "pts": 130.62,
-          "opp_pts": 99.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2015",
-          "week": 3,
-          "pts": 83.66,
-          "opp_pts": 108.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2015",
-          "week": 12,
-          "pts": 93.0,
-          "opp_pts": 164.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2016",
-          "week": 8,
-          "pts": 100.6,
-          "opp_pts": 57.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2017",
-          "week": 1,
-          "pts": 99.54,
-          "opp_pts": 84.52,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2017",
-          "week": 10,
-          "pts": 58.6,
-          "opp_pts": 114.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2018",
-          "week": 1,
-          "pts": 87.04,
-          "opp_pts": 108.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2018",
-          "week": 10,
-          "pts": 107.9,
-          "opp_pts": 111.8,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2019",
-          "week": 7,
-          "pts": 105.96,
-          "opp_pts": 84.86,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2020",
-          "week": 4,
-          "pts": 118.98,
-          "opp_pts": 96.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2020",
-          "week": 13,
-          "pts": 111.28,
-          "opp_pts": 92.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2021",
-          "week": 9,
-          "pts": 104.84,
-          "opp_pts": 105.18,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2022",
-          "week": 7,
-          "pts": 85.7,
-          "opp_pts": 83.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2023",
-          "week": 6,
-          "pts": 66.32,
-          "opp_pts": 91.8,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2023",
-          "week": 15,
-          "pts": 66.94,
-          "opp_pts": 125.48,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2024",
-          "week": 9,
-          "pts": 99.3,
-          "opp_pts": 65.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2025",
-          "week": 8,
-          "pts": 106.78,
-          "opp_pts": 121.78,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
         }
       ]
     },
-    "Damon": {
-      "W": 20,
-      "L": 19,
+    "Ric's Last Resort": {
+      "W": 6,
+      "L": 3,
       "T": 0,
-      "pts_for": 3570.18,
-      "pts_against": 3533.01,
+      "pts_for": 790.21,
+      "pts_against": 659.09,
       "games": [
         {
           "season": "2004",
@@ -44448,15 +45038,6 @@ const WSW_DATA = {
         },
         {
           "season": "2005",
-          "week": 3,
-          "pts": 72.8,
-          "opp_pts": 85.39,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2005",
           "week": 11,
           "pts": 44.4,
           "opp_pts": 95.18,
@@ -44465,28 +45046,10 @@ const WSW_DATA = {
           "opp_team": "Nector"
         },
         {
-          "season": "2005",
-          "week": 12,
-          "pts": 58.92,
-          "opp_pts": 53.37,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
           "season": "2006",
           "week": 3,
           "pts": 94.05,
           "opp_pts": 80.67,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2006",
-          "week": 8,
-          "pts": 74.79,
-          "opp_pts": 62.22,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Nector"
@@ -44511,15 +45074,6 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 8,
-          "pts": 102.24,
-          "opp_pts": 116.12,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2007",
           "week": 14,
           "pts": 105.36,
           "opp_pts": 80.92,
@@ -44529,397 +45083,17 @@ const WSW_DATA = {
         },
         {
           "season": "2009",
-          "week": 5,
-          "pts": 82.18,
-          "opp_pts": 108.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2009",
           "week": 8,
           "pts": 100.76,
           "opp_pts": 106.72,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "nector"
-        },
-        {
-          "season": "2009",
-          "week": 14,
-          "pts": 127.98,
-          "opp_pts": 86.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2009",
-          "week": 16,
-          "pts": 84.68,
-          "opp_pts": 78.24,
-          "result": "W",
-          "is_playoffs": true,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2010",
-          "week": 6,
-          "pts": 64.08,
-          "opp_pts": 104.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2011",
-          "week": 2,
-          "pts": 84.56,
-          "opp_pts": 104.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2011",
-          "week": 11,
-          "pts": 91.64,
-          "opp_pts": 83.3,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2012",
-          "week": 1,
-          "pts": 79.12,
-          "opp_pts": 97.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2012",
-          "week": 10,
-          "pts": 57.2,
-          "opp_pts": 117.66,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2013",
-          "week": 8,
-          "pts": 82.56,
-          "opp_pts": 148.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2014",
-          "week": 6,
-          "pts": 99.2,
-          "opp_pts": 130.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2015",
-          "week": 3,
-          "pts": 108.5,
-          "opp_pts": 83.66,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2015",
-          "week": 12,
-          "pts": 164.94,
-          "opp_pts": 93.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2016",
-          "week": 8,
-          "pts": 57.5,
-          "opp_pts": 100.6,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2017",
-          "week": 1,
-          "pts": 84.52,
-          "opp_pts": 99.54,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2017",
-          "week": 10,
-          "pts": 114.84,
-          "opp_pts": 58.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2018",
-          "week": 1,
-          "pts": 108.34,
-          "opp_pts": 87.04,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2018",
-          "week": 10,
-          "pts": 111.8,
-          "opp_pts": 107.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2019",
-          "week": 7,
-          "pts": 84.86,
-          "opp_pts": 105.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2020",
-          "week": 4,
-          "pts": 96.44,
-          "opp_pts": 118.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2020",
-          "week": 13,
-          "pts": 92.2,
-          "opp_pts": 111.28,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2021",
-          "week": 9,
-          "pts": 105.18,
-          "opp_pts": 104.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2022",
-          "week": 7,
-          "pts": 83.94,
-          "opp_pts": 85.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2023",
-          "week": 6,
-          "pts": 91.8,
-          "opp_pts": 66.32,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2023",
-          "week": 15,
-          "pts": 125.48,
-          "opp_pts": 66.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2024",
-          "week": 9,
-          "pts": 65.9,
-          "opp_pts": 99.3,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2025",
-          "week": 8,
-          "pts": 121.78,
-          "opp_pts": 106.78,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
         }
       ]
     }
   },
-  "Dahmer's Cannibals|||Scott": {
-    "Scott": {
-      "W": 6,
-      "L": 1,
-      "T": 0,
-      "pts_for": 541.1,
-      "pts_against": 453.67,
-      "games": [
-        {
-          "season": "2004",
-          "week": 6,
-          "pts": 97.35,
-          "opp_pts": 58.77,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2004",
-          "week": 7,
-          "pts": 77.91,
-          "opp_pts": 63.85,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 3,
-          "pts": 99.58,
-          "opp_pts": 64.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 8,
-          "pts": 65.12,
-          "opp_pts": 56.58,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 12,
-          "pts": 101.34,
-          "opp_pts": 77.61,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 8,
-          "pts": 37.33,
-          "opp_pts": 72.37,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        },
-        {
-          "season": "2006",
-          "week": 9,
-          "pts": 62.47,
-          "opp_pts": 59.85,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
-        }
-      ]
-    },
-    "Dahmer's Cannibals": {
-      "W": 1,
-      "L": 6,
-      "T": 0,
-      "pts_for": 453.67,
-      "pts_against": 541.1,
-      "games": [
-        {
-          "season": "2004",
-          "week": 6,
-          "pts": 58.77,
-          "opp_pts": 97.35,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2004",
-          "week": 7,
-          "pts": 63.85,
-          "opp_pts": 77.91,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
-        },
-        {
-          "season": "2005",
-          "week": 3,
-          "pts": 64.64,
-          "opp_pts": 99.58,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2005",
-          "week": 8,
-          "pts": 56.58,
-          "opp_pts": 65.12,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2005",
-          "week": 12,
-          "pts": 77.61,
-          "opp_pts": 101.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
-          "week": 8,
-          "pts": 72.37,
-          "opp_pts": 37.33,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
-          "week": 9,
-          "pts": 59.85,
-          "opp_pts": 62.47,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        }
-      ]
-    }
-  },
-  "Damon|||Patterson Prophets": {
+  "Patterson Prophets|||Ric's Last Resort": {
     "Patterson Prophets": {
       "W": 0,
       "L": 1,
@@ -44938,7 +45112,7 @@ const WSW_DATA = {
         }
       ]
     },
-    "Damon": {
+    "Ric's Last Resort": {
       "W": 1,
       "L": 0,
       "T": 0,
@@ -45645,26 +45819,17 @@ const WSW_DATA = {
   },
   "Chris|||Scott": {
     "Scott": {
-      "W": 17,
-      "L": 27,
+      "W": 15,
+      "L": 23,
       "T": 0,
-      "pts_for": 3936.31,
-      "pts_against": 4286.11,
+      "pts_for": 3559.67,
+      "pts_against": 3847.77,
       "games": [
         {
           "season": "2004",
           "week": 7,
           "pts": 44.11,
           "opp_pts": 86.31,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2004",
-          "week": 8,
-          "pts": 43.33,
-          "opp_pts": 71.59,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Nector"
@@ -45680,27 +45845,9 @@ const WSW_DATA = {
         },
         {
           "season": "2005",
-          "week": 5,
-          "pts": 56.71,
-          "opp_pts": 64.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2005",
           "week": 10,
           "pts": 63.92,
           "opp_pts": 47.43,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2005",
-          "week": 14,
-          "pts": 77.99,
-          "opp_pts": 61.06,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Nector"
@@ -45716,27 +45863,9 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 5,
-          "pts": 72.75,
-          "opp_pts": 55.03,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2006",
           "week": 10,
           "pts": 52.67,
           "opp_pts": 54.04,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2006",
-          "week": 14,
-          "pts": 34.46,
-          "opp_pts": 55.04,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Nector"
@@ -45756,15 +45885,6 @@ const WSW_DATA = {
           "pts": 103.42,
           "opp_pts": 87.94,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2007",
-          "week": 9,
-          "pts": 91.4,
-          "opp_pts": 131.2,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "Nector"
         },
@@ -46050,11 +46170,11 @@ const WSW_DATA = {
       ]
     },
     "Chris": {
-      "W": 27,
-      "L": 17,
+      "W": 23,
+      "L": 15,
       "T": 0,
-      "pts_for": 4286.11,
-      "pts_against": 3936.31,
+      "pts_for": 3847.77,
+      "pts_against": 3559.67,
       "games": [
         {
           "season": "2004",
@@ -46064,15 +46184,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2004",
-          "week": 8,
-          "pts": 71.59,
-          "opp_pts": 43.33,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre"
         },
         {
           "season": "2005",
@@ -46085,30 +46196,12 @@ const WSW_DATA = {
         },
         {
           "season": "2005",
-          "week": 5,
-          "pts": 64.42,
-          "opp_pts": 56.71,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2005",
           "week": 10,
           "pts": 47.43,
           "opp_pts": 63.92,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2005",
-          "week": 14,
-          "pts": 61.06,
-          "opp_pts": 77.99,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2006",
@@ -46121,30 +46214,12 @@ const WSW_DATA = {
         },
         {
           "season": "2006",
-          "week": 5,
-          "pts": 55.03,
-          "opp_pts": 72.75,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2006",
           "week": 10,
           "pts": 54.04,
           "opp_pts": 52.67,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2006",
-          "week": 14,
-          "pts": 55.04,
-          "opp_pts": 34.46,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2007",
@@ -46163,15 +46238,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 9,
-          "pts": 131.2,
-          "opp_pts": 91.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2007",
@@ -46493,112 +46559,580 @@ const WSW_DATA = {
       ]
     }
   },
-  "Dahmer's Cannibals|||Michael": {
-    "Michael": {
-      "W": 1,
-      "L": 4,
+  "Chris|||Damon": {
+    "Damon": {
+      "W": 14,
+      "L": 17,
       "T": 0,
-      "pts_for": 414.55,
-      "pts_against": 402.18,
+      "pts_for": 2823.3,
+      "pts_against": 2945.51,
       "games": [
         {
           "season": "2004",
           "week": 8,
-          "pts": 85.08,
-          "opp_pts": 102.07,
+          "pts": 43.33,
+          "opp_pts": 71.59,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
+          "opp_team": "Nector"
         },
         {
           "season": "2005",
-          "week": 4,
-          "pts": 100.73,
-          "opp_pts": 48.03,
+          "week": 3,
+          "pts": 72.8,
+          "opp_pts": 85.39,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2005",
+          "week": 12,
+          "pts": 58.92,
+          "opp_pts": 53.37,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Cannibals"
-        },
-        {
-          "season": "2005",
-          "week": 13,
-          "pts": 81.84,
-          "opp_pts": 82.82,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Cannibals"
+          "opp_team": "Nector"
         },
         {
           "season": "2006",
+          "week": 8,
+          "pts": 74.79,
+          "opp_pts": 62.22,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 102.24,
+          "opp_pts": 116.12,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2009",
+          "week": 5,
+          "pts": 82.18,
+          "opp_pts": 108.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2009",
+          "week": 14,
+          "pts": 127.98,
+          "opp_pts": 86.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2009",
+          "week": 16,
+          "pts": 84.68,
+          "opp_pts": 78.24,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2010",
+          "week": 6,
+          "pts": 64.08,
+          "opp_pts": 104.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2011",
+          "week": 2,
+          "pts": 84.56,
+          "opp_pts": 104.76,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2011",
+          "week": 11,
+          "pts": 91.64,
+          "opp_pts": 83.3,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2012",
+          "week": 1,
+          "pts": 79.12,
+          "opp_pts": 97.4,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2012",
+          "week": 10,
+          "pts": 57.2,
+          "opp_pts": 117.66,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2013",
+          "week": 8,
+          "pts": 82.56,
+          "opp_pts": 148.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2014",
+          "week": 6,
+          "pts": 99.2,
+          "opp_pts": 130.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2015",
           "week": 3,
-          "pts": 60.82,
-          "opp_pts": 70.31,
-          "result": "L",
+          "pts": 108.5,
+          "opp_pts": 83.66,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
+          "opp_team": "Nector"
         },
         {
-          "season": "2006",
+          "season": "2015",
           "week": 12,
-          "pts": 86.08,
-          "opp_pts": 98.95,
+          "pts": 164.94,
+          "opp_pts": 93.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2016",
+          "week": 8,
+          "pts": 57.5,
+          "opp_pts": 100.6,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Dahmer's Cannibals"
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2017",
+          "week": 1,
+          "pts": 84.52,
+          "opp_pts": 99.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2017",
+          "week": 10,
+          "pts": 114.84,
+          "opp_pts": 58.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2018",
+          "week": 1,
+          "pts": 108.34,
+          "opp_pts": 87.04,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2018",
+          "week": 10,
+          "pts": 111.8,
+          "opp_pts": 107.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2019",
+          "week": 7,
+          "pts": 84.86,
+          "opp_pts": 105.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2020",
+          "week": 4,
+          "pts": 96.44,
+          "opp_pts": 118.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2020",
+          "week": 13,
+          "pts": 92.2,
+          "opp_pts": 111.28,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2021",
+          "week": 9,
+          "pts": 105.18,
+          "opp_pts": 104.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2022",
+          "week": 7,
+          "pts": 83.94,
+          "opp_pts": 85.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2023",
+          "week": 6,
+          "pts": 91.8,
+          "opp_pts": 66.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2023",
+          "week": 15,
+          "pts": 125.48,
+          "opp_pts": 66.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2024",
+          "week": 9,
+          "pts": 65.9,
+          "opp_pts": 99.3,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2025",
+          "week": 8,
+          "pts": 121.78,
+          "opp_pts": 106.78,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
         }
       ]
     },
-    "Dahmer's Cannibals": {
-      "W": 4,
-      "L": 1,
+    "Chris": {
+      "W": 17,
+      "L": 14,
       "T": 0,
-      "pts_for": 402.18,
-      "pts_against": 414.55,
+      "pts_for": 2945.51,
+      "pts_against": 2823.3,
       "games": [
         {
           "season": "2004",
           "week": 8,
-          "pts": 102.07,
-          "opp_pts": 85.08,
+          "pts": 71.59,
+          "opp_pts": 43.33,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Damon's Demons"
+          "opp_team": "LaSeBre"
         },
         {
           "season": "2005",
-          "week": 4,
-          "pts": 48.03,
-          "opp_pts": 100.73,
+          "week": 3,
+          "pts": 85.39,
+          "opp_pts": 72.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebreAvenGers"
+        },
+        {
+          "season": "2005",
+          "week": 12,
+          "pts": 53.37,
+          "opp_pts": 58.92,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2005",
-          "week": 13,
-          "pts": 82.82,
-          "opp_pts": 81.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
+          "opp_team": "LaSebreAvenGers"
         },
         {
           "season": "2006",
+          "week": 8,
+          "pts": 62.22,
+          "opp_pts": 74.79,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSebre-Avengers"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 116.12,
+          "opp_pts": 102.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
+        },
+        {
+          "season": "2009",
+          "week": 5,
+          "pts": 108.64,
+          "opp_pts": 82.18,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSEbre Avengers"
+        },
+        {
+          "season": "2009",
+          "week": 14,
+          "pts": 86.98,
+          "opp_pts": 127.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSEbre Avengers"
+        },
+        {
+          "season": "2009",
+          "week": 16,
+          "pts": 78.24,
+          "opp_pts": 84.68,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "LaSEbre Avengers"
+        },
+        {
+          "season": "2010",
+          "week": 6,
+          "pts": 104.26,
+          "opp_pts": 64.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2011",
+          "week": 2,
+          "pts": 104.76,
+          "opp_pts": 84.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2011",
+          "week": 11,
+          "pts": 83.3,
+          "opp_pts": 91.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2012",
+          "week": 1,
+          "pts": 97.4,
+          "opp_pts": 79.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2012",
+          "week": 10,
+          "pts": 117.66,
+          "opp_pts": 57.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2013",
+          "week": 8,
+          "pts": 148.52,
+          "opp_pts": 82.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2014",
+          "week": 6,
+          "pts": 130.62,
+          "opp_pts": 99.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2015",
           "week": 3,
-          "pts": 70.31,
-          "opp_pts": 60.82,
-          "result": "W",
+          "pts": 83.66,
+          "opp_pts": 108.5,
+          "result": "L",
           "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
+          "opp_team": "LaSeBre AvenGers"
         },
         {
-          "season": "2006",
+          "season": "2015",
           "week": 12,
-          "pts": 98.95,
-          "opp_pts": 86.08,
+          "pts": 93.0,
+          "opp_pts": 164.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2016",
+          "week": 8,
+          "pts": 100.6,
+          "opp_pts": 57.5,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2017",
+          "week": 1,
+          "pts": 99.54,
+          "opp_pts": 84.52,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2017",
+          "week": 10,
+          "pts": 58.6,
+          "opp_pts": 114.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2018",
+          "week": 1,
+          "pts": 87.04,
+          "opp_pts": 108.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2018",
+          "week": 10,
+          "pts": 107.9,
+          "opp_pts": 111.8,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2019",
+          "week": 7,
+          "pts": 105.96,
+          "opp_pts": 84.86,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2020",
+          "week": 4,
+          "pts": 118.98,
+          "opp_pts": 96.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2020",
+          "week": 13,
+          "pts": 111.28,
+          "opp_pts": 92.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2021",
+          "week": 9,
+          "pts": 104.84,
+          "opp_pts": 105.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2022",
+          "week": 7,
+          "pts": 85.7,
+          "opp_pts": 83.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2023",
+          "week": 6,
+          "pts": 66.32,
+          "opp_pts": 91.8,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2023",
+          "week": 15,
+          "pts": 66.94,
+          "opp_pts": 125.48,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2024",
+          "week": 9,
+          "pts": 99.3,
+          "opp_pts": 65.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2025",
+          "week": 8,
+          "pts": 106.78,
+          "opp_pts": 121.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
         }
       ]
     }
@@ -46637,6 +47171,188 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Patterson Prophets"
+        }
+      ]
+    }
+  },
+  "Ric's Last Resort|||Scott": {
+    "Scott": {
+      "W": 2,
+      "L": 7,
+      "T": 0,
+      "pts_for": 650.49,
+      "pts_against": 787.83,
+      "games": [
+        {
+          "season": "2004",
+          "week": 9,
+          "pts": 76.18,
+          "opp_pts": 26.03,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2005",
+          "week": 9,
+          "pts": 58.62,
+          "opp_pts": 70.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 2,
+          "pts": 50.8,
+          "opp_pts": 102.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 11,
+          "pts": 52.93,
+          "opp_pts": 65.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 72.54,
+          "opp_pts": 109.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 51.72,
+          "opp_pts": 106.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 85.28,
+          "opp_pts": 93.32,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 87.86,
+          "opp_pts": 101.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2009",
+          "week": 9,
+          "pts": 114.56,
+          "opp_pts": 112.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 7,
+      "L": 2,
+      "T": 0,
+      "pts_for": 787.83,
+      "pts_against": 650.49,
+      "games": [
+        {
+          "season": "2004",
+          "week": 9,
+          "pts": 26.03,
+          "opp_pts": 76.18,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2005",
+          "week": 9,
+          "pts": 70.18,
+          "opp_pts": 58.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 2,
+          "pts": 102.52,
+          "opp_pts": 50.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 11,
+          "pts": 65.7,
+          "opp_pts": 52.93,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 109.68,
+          "opp_pts": 72.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 106.42,
+          "opp_pts": 51.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 93.32,
+          "opp_pts": 85.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 101.52,
+          "opp_pts": 87.86,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2009",
+          "week": 9,
+          "pts": 112.46,
+          "opp_pts": 114.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     }
@@ -47311,22 +48027,2714 @@ const WSW_DATA = {
       ]
     }
   },
-  "Brett|||Damon": {
+  "Brett|||Davidson": {
     "Brett": {
-      "W": 11,
+      "W": 12,
       "L": 15,
       "T": 0,
-      "pts_for": 2239.88,
-      "pts_against": 2468.82,
+      "pts_for": 2288.31,
+      "pts_against": 2416.22,
       "games": [
         {
-          "season": "2009",
+          "season": "2005",
           "week": 1,
-          "pts": 94.72,
-          "opp_pts": 73.48,
+          "pts": 48.64,
+          "opp_pts": 31.26,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2005",
+          "week": 10,
+          "pts": 60.78,
+          "opp_pts": 56.27,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Fighting Tigers"
+        },
+        {
+          "season": "2006",
+          "week": 9,
+          "pts": 65.29,
+          "opp_pts": 81.89,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 7,
+          "pts": 108.06,
+          "opp_pts": 62.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2009",
+          "week": 4,
+          "pts": 71.3,
+          "opp_pts": 79.76,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2009",
+          "week": 13,
+          "pts": 97.46,
+          "opp_pts": 93.22,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2010",
+          "week": 8,
+          "pts": 58.64,
+          "opp_pts": 72.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2011",
+          "week": 2,
+          "pts": 81.84,
+          "opp_pts": 76.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2011",
+          "week": 11,
+          "pts": 122.0,
+          "opp_pts": 24.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2012",
+          "week": 7,
+          "pts": 98.02,
+          "opp_pts": 81.18,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2013",
+          "week": 4,
+          "pts": 107.44,
+          "opp_pts": 100.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2013",
+          "week": 13,
+          "pts": 127.42,
+          "opp_pts": 88.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2014",
+          "week": 2,
+          "pts": 108.54,
+          "opp_pts": 82.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2014",
+          "week": 11,
+          "pts": 57.52,
+          "opp_pts": 90.82,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2016",
+          "week": 5,
+          "pts": 82.26,
+          "opp_pts": 91.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2016",
+          "week": 14,
+          "pts": 34.56,
+          "opp_pts": 61.4,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2017",
+          "week": 9,
+          "pts": 91.74,
+          "opp_pts": 119.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2018",
+          "week": 9,
+          "pts": 80.06,
+          "opp_pts": 116.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2019",
+          "week": 7,
+          "pts": 82.72,
+          "opp_pts": 92.02,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2020",
+          "week": 7,
+          "pts": 107.36,
+          "opp_pts": 70.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2021",
+          "week": 9,
+          "pts": 67.78,
+          "opp_pts": 64.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2022",
+          "week": 7,
+          "pts": 80.94,
+          "opp_pts": 108.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2023",
+          "week": 9,
+          "pts": 93.34,
+          "opp_pts": 123.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2024",
+          "week": 6,
+          "pts": 93.32,
+          "opp_pts": 124.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2024",
+          "week": 15,
+          "pts": 53.54,
+          "opp_pts": 142.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2025",
+          "week": 3,
+          "pts": 97.16,
+          "opp_pts": 125.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2025",
+          "week": 12,
+          "pts": 110.58,
+          "opp_pts": 152.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        }
+      ]
+    },
+    "Davidson": {
+      "W": 15,
+      "L": 12,
+      "T": 0,
+      "pts_for": 2416.22,
+      "pts_against": 2288.31,
+      "games": [
+        {
+          "season": "2005",
+          "week": 1,
+          "pts": 31.26,
+          "opp_pts": 48.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2005",
+          "week": 10,
+          "pts": 56.27,
+          "opp_pts": 60.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 9,
+          "pts": 81.89,
+          "opp_pts": 65.29,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 7,
+          "pts": 62.08,
+          "opp_pts": 108.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 4,
+          "pts": 79.76,
+          "opp_pts": 71.3,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 13,
+          "pts": 93.22,
+          "opp_pts": 97.46,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 8,
+          "pts": 72.98,
+          "opp_pts": 58.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 2,
+          "pts": 76.6,
+          "opp_pts": 81.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 11,
+          "pts": 24.2,
+          "opp_pts": 122.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 7,
+          "pts": 81.18,
+          "opp_pts": 98.02,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2013",
+          "week": 4,
+          "pts": 100.32,
+          "opp_pts": 107.44,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2013",
+          "week": 13,
+          "pts": 88.6,
+          "opp_pts": 127.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 2,
+          "pts": 82.94,
+          "opp_pts": 108.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 11,
+          "pts": 90.82,
+          "opp_pts": 57.52,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2016",
+          "week": 5,
+          "pts": 91.26,
+          "opp_pts": 82.26,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2016",
+          "week": 14,
+          "pts": 61.4,
+          "opp_pts": 34.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 9,
+          "pts": 119.36,
+          "opp_pts": 91.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 9,
+          "pts": 116.86,
+          "opp_pts": 80.06,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 7,
+          "pts": 92.02,
+          "opp_pts": 82.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 7,
+          "pts": 70.72,
+          "opp_pts": 107.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 9,
+          "pts": 64.88,
+          "opp_pts": 67.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 7,
+          "pts": 108.06,
+          "opp_pts": 80.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 9,
+          "pts": 123.96,
+          "opp_pts": 93.34,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 6,
+          "pts": 124.56,
+          "opp_pts": 93.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 15,
+          "pts": 142.64,
+          "opp_pts": 53.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 3,
+          "pts": 125.42,
+          "opp_pts": 97.16,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 12,
+          "pts": 152.96,
+          "opp_pts": 110.58,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        }
+      ]
+    }
+  },
+  "Brett|||Robert": {
+    "Brett": {
+      "W": 12,
+      "L": 21,
+      "T": 0,
+      "pts_for": 2930.01,
+      "pts_against": 3150.9,
+      "games": [
+        {
+          "season": "2005",
+          "week": 2,
+          "pts": 75.28,
+          "opp_pts": 63.39,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2005",
+          "week": 11,
+          "pts": 54.55,
+          "opp_pts": 85.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2006",
+          "week": 3,
+          "pts": 69.14,
+          "opp_pts": 69.04,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2006",
+          "week": 12,
+          "pts": 52.16,
+          "opp_pts": 98.07,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 127.66,
+          "opp_pts": 85.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 89.28,
+          "opp_pts": 98.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2009",
+          "week": 8,
+          "pts": 83.32,
+          "opp_pts": 129.46,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2009",
+          "week": 16,
+          "pts": 103.12,
+          "opp_pts": 115.88,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 5,
+          "pts": 79.64,
+          "opp_pts": 70.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2010",
+          "week": 14,
+          "pts": 116.92,
+          "opp_pts": 61.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2011",
+          "week": 4,
+          "pts": 100.56,
+          "opp_pts": 123.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2011",
+          "week": 13,
+          "pts": 98.06,
+          "opp_pts": 110.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2012",
+          "week": 1,
+          "pts": 80.62,
+          "opp_pts": 94.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2012",
+          "week": 10,
+          "pts": 78.44,
+          "opp_pts": 101.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2013",
+          "week": 5,
+          "pts": 79.32,
+          "opp_pts": 92.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2013",
+          "week": 14,
+          "pts": 65.8,
+          "opp_pts": 85.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2014",
+          "week": 8,
+          "pts": 116.88,
+          "opp_pts": 63.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2016",
+          "week": 8,
+          "pts": 119.4,
+          "opp_pts": 69.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2017",
+          "week": 6,
+          "pts": 113.94,
+          "opp_pts": 87.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2018",
+          "week": 6,
+          "pts": 83.02,
+          "opp_pts": 91.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2019",
+          "week": 1,
+          "pts": 65.84,
+          "opp_pts": 111.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2019",
+          "week": 10,
+          "pts": 65.32,
+          "opp_pts": 83.22,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2020",
+          "week": 4,
+          "pts": 70.4,
+          "opp_pts": 92.82,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2020",
+          "week": 13,
+          "pts": 71.2,
+          "opp_pts": 132.1,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2021",
+          "week": 5,
+          "pts": 99.38,
+          "opp_pts": 116.3,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2021",
+          "week": 14,
+          "pts": 88.8,
+          "opp_pts": 147.92,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2022",
+          "week": 3,
+          "pts": 72.9,
+          "opp_pts": 99.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2022",
+          "week": 12,
+          "pts": 108.2,
+          "opp_pts": 90.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2022",
+          "week": 17,
+          "pts": 83.1,
+          "opp_pts": 87.2,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2023",
+          "week": 3,
+          "pts": 121.64,
+          "opp_pts": 85.42,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2023",
+          "week": 12,
+          "pts": 70.16,
+          "opp_pts": 110.26,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2024",
+          "week": 9,
+          "pts": 101.02,
+          "opp_pts": 92.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2025",
+          "week": 7,
+          "pts": 124.94,
+          "opp_pts": 102.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        }
+      ]
+    },
+    "Robert": {
+      "W": 21,
+      "L": 12,
+      "T": 0,
+      "pts_for": 3150.9,
+      "pts_against": 2930.01,
+      "games": [
+        {
+          "season": "2005",
+          "week": 2,
+          "pts": 63.39,
+          "opp_pts": 75.28,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2005",
+          "week": 11,
+          "pts": 85.0,
+          "opp_pts": 54.55,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 3,
+          "pts": 69.04,
+          "opp_pts": 69.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 12,
+          "pts": 98.07,
+          "opp_pts": 52.16,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 85.98,
+          "opp_pts": 127.66,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 98.64,
+          "opp_pts": 89.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 8,
+          "pts": 129.46,
+          "opp_pts": 83.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 16,
+          "pts": 115.88,
+          "opp_pts": 103.12,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 5,
+          "pts": 70.62,
+          "opp_pts": 79.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 14,
+          "pts": 61.44,
+          "opp_pts": 116.92,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 4,
+          "pts": 123.72,
+          "opp_pts": 100.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 13,
+          "pts": 110.16,
+          "opp_pts": 98.06,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 1,
+          "pts": 94.84,
+          "opp_pts": 80.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 10,
+          "pts": 101.68,
+          "opp_pts": 78.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2013",
+          "week": 5,
+          "pts": 92.86,
+          "opp_pts": 79.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2013",
+          "week": 14,
+          "pts": 85.56,
+          "opp_pts": 65.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 8,
+          "pts": 63.98,
+          "opp_pts": 116.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2016",
+          "week": 8,
+          "pts": 69.2,
+          "opp_pts": 119.4,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 6,
+          "pts": 87.94,
+          "opp_pts": 113.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 6,
+          "pts": 91.36,
+          "opp_pts": 83.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 1,
+          "pts": 111.56,
+          "opp_pts": 65.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 10,
+          "pts": 83.22,
+          "opp_pts": 65.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 4,
+          "pts": 92.82,
+          "opp_pts": 70.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 13,
+          "pts": 132.1,
+          "opp_pts": 71.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 5,
+          "pts": 116.3,
+          "opp_pts": 99.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 14,
+          "pts": 147.92,
+          "opp_pts": 88.8,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 3,
+          "pts": 99.2,
+          "opp_pts": 72.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 12,
+          "pts": 90.9,
+          "opp_pts": 108.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 17,
+          "pts": 87.2,
+          "opp_pts": 83.1,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 3,
+          "pts": 85.42,
+          "opp_pts": 121.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 12,
+          "pts": 110.26,
+          "opp_pts": 70.16,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 9,
+          "pts": 92.2,
+          "opp_pts": 101.02,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 7,
+          "pts": 102.98,
+          "opp_pts": 124.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        }
+      ]
+    }
+  },
+  "Brett|||Dahmer's Cannibals": {
+    "Brett": {
+      "W": 2,
+      "L": 1,
+      "T": 0,
+      "pts_for": 238.25,
+      "pts_against": 214.62,
+      "games": [
+        {
+          "season": "2005",
+          "week": 3,
+          "pts": 99.58,
+          "opp_pts": 64.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2005",
+          "week": 12,
+          "pts": 101.34,
+          "opp_pts": 77.61,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Cannibals"
+        },
+        {
+          "season": "2006",
+          "week": 8,
+          "pts": 37.33,
+          "opp_pts": 72.37,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Dahmer's Cannibals"
+        }
+      ]
+    },
+    "Dahmer's Cannibals": {
+      "W": 1,
+      "L": 2,
+      "T": 0,
+      "pts_for": 214.62,
+      "pts_against": 238.25,
+      "games": [
+        {
+          "season": "2005",
+          "week": 3,
+          "pts": 64.64,
+          "opp_pts": 99.58,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2005",
+          "week": 12,
+          "pts": 77.61,
+          "opp_pts": 101.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 8,
+          "pts": 72.37,
+          "opp_pts": 37.33,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        }
+      ]
+    }
+  },
+  "Brett|||Scott": {
+    "Scott": {
+      "W": 23,
+      "L": 13,
+      "T": 0,
+      "pts_for": 3560.43,
+      "pts_against": 3392.9,
+      "games": [
+        {
+          "season": "2005",
+          "week": 4,
+          "pts": 81.71,
+          "opp_pts": 95.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2005",
+          "week": 13,
+          "pts": 74.63,
+          "opp_pts": 49.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 4,
+          "pts": 71.91,
+          "opp_pts": 80.73,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 13,
+          "pts": 30.62,
+          "opp_pts": 53.51,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 3,
+          "pts": 84.44,
+          "opp_pts": 125.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 6,
+          "pts": 133.88,
+          "opp_pts": 128.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 12,
+          "pts": 81.44,
+          "opp_pts": 116.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 3,
+          "pts": 75.18,
+          "opp_pts": 84.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 12,
+          "pts": 81.98,
+          "opp_pts": 99.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 1,
+          "pts": 89.92,
+          "opp_pts": 54.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 10,
+          "pts": 118.8,
+          "opp_pts": 106.36,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 6,
+          "pts": 113.36,
+          "opp_pts": 87.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 5,
+          "pts": 110.32,
+          "opp_pts": 82.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 14,
+          "pts": 113.02,
+          "opp_pts": 95.78,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2013",
+          "week": 8,
+          "pts": 100.24,
+          "opp_pts": 89.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 5,
+          "pts": 78.24,
+          "opp_pts": 108.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 14,
+          "pts": 109.84,
+          "opp_pts": 71.76,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2016",
+          "week": 9,
+          "pts": 122.52,
+          "opp_pts": 72.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 1,
+          "pts": 74.14,
+          "opp_pts": 64.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 10,
+          "pts": 89.24,
+          "opp_pts": 91.76,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 1,
+          "pts": 118.96,
+          "opp_pts": 73.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 10,
+          "pts": 155.56,
+          "opp_pts": 141.34,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 4,
+          "pts": 64.5,
+          "opp_pts": 122.48,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 13,
+          "pts": 58.64,
+          "opp_pts": 81.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 3,
+          "pts": 91.16,
+          "opp_pts": 87.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 12,
+          "pts": 115.72,
+          "opp_pts": 108.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 1,
+          "pts": 140.62,
+          "opp_pts": 128.06,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 10,
+          "pts": 100.84,
+          "opp_pts": 53.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 2,
+          "pts": 85.46,
+          "opp_pts": 139.46,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 11,
+          "pts": 106.0,
+          "opp_pts": 85.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 2,
+          "pts": 127.0,
+          "opp_pts": 90.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 11,
+          "pts": 93.28,
+          "opp_pts": 88.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 4,
+          "pts": 99.88,
+          "opp_pts": 105.76,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 13,
+          "pts": 107.16,
+          "opp_pts": 89.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 4,
+          "pts": 141.98,
+          "opp_pts": 118.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 13,
+          "pts": 118.24,
+          "opp_pts": 117.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        }
+      ]
+    },
+    "Brett": {
+      "W": 13,
+      "L": 23,
+      "T": 0,
+      "pts_for": 3392.9,
+      "pts_against": 3560.43,
+      "games": [
+        {
+          "season": "2005",
+          "week": 4,
+          "pts": 95.14,
+          "opp_pts": 81.71,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2005",
+          "week": 13,
+          "pts": 49.72,
+          "opp_pts": 74.63,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 4,
+          "pts": 80.73,
+          "opp_pts": 71.91,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2006",
+          "week": 13,
+          "pts": 53.51,
+          "opp_pts": 30.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 3,
+          "pts": 125.94,
+          "opp_pts": 84.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 6,
+          "pts": 128.12,
+          "opp_pts": 133.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 12,
+          "pts": 116.5,
+          "opp_pts": 81.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2009",
+          "week": 3,
+          "pts": 84.78,
+          "opp_pts": 75.18,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2009",
+          "week": 12,
+          "pts": 99.94,
+          "opp_pts": 81.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 1,
+          "pts": 54.98,
+          "opp_pts": 89.92,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2010",
+          "week": 10,
+          "pts": 106.36,
+          "opp_pts": 118.8,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2011",
+          "week": 6,
+          "pts": 87.88,
+          "opp_pts": 113.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2012",
+          "week": 5,
+          "pts": 82.54,
+          "opp_pts": 110.32,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2012",
+          "week": 14,
+          "pts": 95.78,
+          "opp_pts": 113.02,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2013",
+          "week": 8,
+          "pts": 89.44,
+          "opp_pts": 100.24,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2014",
+          "week": 5,
+          "pts": 108.52,
+          "opp_pts": 78.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2014",
+          "week": 14,
+          "pts": 71.76,
+          "opp_pts": 109.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2016",
+          "week": 9,
+          "pts": 72.84,
+          "opp_pts": 122.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2017",
+          "week": 1,
+          "pts": 64.98,
+          "opp_pts": 74.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2017",
+          "week": 10,
+          "pts": 91.76,
+          "opp_pts": 89.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2018",
+          "week": 1,
+          "pts": 73.54,
+          "opp_pts": 118.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2018",
+          "week": 10,
+          "pts": 141.34,
+          "opp_pts": 155.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2019",
+          "week": 4,
+          "pts": 122.48,
+          "opp_pts": 64.5,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2019",
+          "week": 13,
+          "pts": 81.7,
+          "opp_pts": 58.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2020",
+          "week": 3,
+          "pts": 87.28,
+          "opp_pts": 91.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2020",
+          "week": 12,
+          "pts": 108.88,
+          "opp_pts": 115.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2021",
+          "week": 1,
+          "pts": 128.06,
+          "opp_pts": 140.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2021",
+          "week": 10,
+          "pts": 53.9,
+          "opp_pts": 100.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2022",
+          "week": 2,
+          "pts": 139.46,
+          "opp_pts": 85.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2022",
+          "week": 11,
+          "pts": 85.5,
+          "opp_pts": 106.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2023",
+          "week": 2,
+          "pts": 90.28,
+          "opp_pts": 127.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2023",
+          "week": 11,
+          "pts": 88.74,
+          "opp_pts": 93.28,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2024",
+          "week": 4,
+          "pts": 105.76,
+          "opp_pts": 99.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2024",
+          "week": 13,
+          "pts": 89.12,
+          "opp_pts": 107.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2025",
+          "week": 4,
+          "pts": 118.0,
+          "opp_pts": 141.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2025",
+          "week": 13,
+          "pts": 117.64,
+          "opp_pts": 118.24,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        }
+      ]
+    }
+  },
+  "Brett|||Chris": {
+    "Chris": {
+      "W": 16,
+      "L": 12,
+      "T": 0,
+      "pts_for": 2706.79,
+      "pts_against": 2605.13,
+      "games": [
+        {
+          "season": "2005",
+          "week": 5,
+          "pts": 64.42,
+          "opp_pts": 56.71,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2005",
+          "week": 14,
+          "pts": 61.06,
+          "opp_pts": 77.99,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 5,
+          "pts": 55.03,
+          "opp_pts": 72.75,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 14,
+          "pts": 55.04,
+          "opp_pts": 34.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 9,
+          "pts": 131.2,
+          "opp_pts": 91.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 2,
+          "pts": 123.98,
+          "opp_pts": 126.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 11,
+          "pts": 87.2,
+          "opp_pts": 99.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 2,
+          "pts": 112.8,
+          "opp_pts": 104.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 11,
+          "pts": 112.38,
+          "opp_pts": 62.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 9,
+          "pts": 95.4,
+          "opp_pts": 92.3,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 2,
+          "pts": 76.9,
+          "opp_pts": 116.82,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 11,
+          "pts": 95.74,
+          "opp_pts": 78.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2013",
+          "week": 9,
+          "pts": 94.18,
+          "opp_pts": 136.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 7,
+          "pts": 90.52,
+          "opp_pts": 84.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2016",
+          "week": 1,
+          "pts": 123.0,
+          "opp_pts": 76.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2016",
+          "week": 10,
+          "pts": 116.22,
+          "opp_pts": 108.58,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 7,
+          "pts": 109.72,
+          "opp_pts": 81.76,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 7,
+          "pts": 127.54,
+          "opp_pts": 75.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 8,
+          "pts": 116.94,
+          "opp_pts": 93.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 8,
+          "pts": 60.56,
+          "opp_pts": 101.66,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 7,
+          "pts": 96.84,
+          "opp_pts": 82.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 9,
+          "pts": 109.72,
+          "opp_pts": 98.14,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 16,
+          "pts": 58.76,
+          "opp_pts": 81.8,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 8,
+          "pts": 88.3,
+          "opp_pts": 104.08,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 1,
+          "pts": 90.38,
+          "opp_pts": 101.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 10,
+          "pts": 105.64,
+          "opp_pts": 88.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 2,
+          "pts": 127.28,
+          "opp_pts": 153.38,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 11,
+          "pts": 120.04,
+          "opp_pts": 123.34,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        }
+      ]
+    },
+    "Brett": {
+      "W": 12,
+      "L": 16,
+      "T": 0,
+      "pts_for": 2605.13,
+      "pts_against": 2706.79,
+      "games": [
+        {
+          "season": "2005",
+          "week": 5,
+          "pts": 56.71,
+          "opp_pts": 64.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2005",
+          "week": 14,
+          "pts": 77.99,
+          "opp_pts": 61.06,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2006",
+          "week": 5,
+          "pts": 72.75,
+          "opp_pts": 55.03,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2006",
+          "week": 14,
+          "pts": 34.46,
+          "opp_pts": 55.04,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2007",
+          "week": 9,
+          "pts": 91.4,
+          "opp_pts": 131.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2009",
+          "week": 2,
+          "pts": 126.94,
+          "opp_pts": 123.98,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2009",
+          "week": 11,
+          "pts": 99.68,
+          "opp_pts": 87.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2010",
+          "week": 2,
+          "pts": 104.08,
+          "opp_pts": 112.8,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2010",
+          "week": 11,
+          "pts": 62.46,
+          "opp_pts": 112.38,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2011",
+          "week": 9,
+          "pts": 92.3,
+          "opp_pts": 95.4,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "nector"
+        },
+        {
+          "season": "2012",
+          "week": 2,
+          "pts": 116.82,
+          "opp_pts": 76.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2012",
+          "week": 11,
+          "pts": 78.38,
+          "opp_pts": 95.74,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2013",
+          "week": 9,
+          "pts": 136.16,
+          "opp_pts": 94.18,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2014",
+          "week": 7,
+          "pts": 84.4,
+          "opp_pts": 90.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2016",
+          "week": 1,
+          "pts": 76.84,
+          "opp_pts": 123.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2016",
+          "week": 10,
+          "pts": 108.58,
+          "opp_pts": 116.22,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2017",
+          "week": 7,
+          "pts": 81.76,
+          "opp_pts": 109.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2018",
+          "week": 7,
+          "pts": 75.2,
+          "opp_pts": 127.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2019",
+          "week": 8,
+          "pts": 93.48,
+          "opp_pts": 116.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2020",
+          "week": 8,
+          "pts": 101.66,
+          "opp_pts": 60.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2021",
+          "week": 7,
+          "pts": 82.62,
+          "opp_pts": 96.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2022",
+          "week": 9,
+          "pts": 98.14,
+          "opp_pts": 109.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2022",
+          "week": 16,
+          "pts": 81.8,
+          "opp_pts": 58.76,
+          "result": "W",
+          "is_playoffs": true,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2023",
+          "week": 8,
+          "pts": 104.08,
+          "opp_pts": 88.3,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2024",
+          "week": 1,
+          "pts": 101.0,
+          "opp_pts": 90.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2024",
+          "week": 10,
+          "pts": 88.72,
+          "opp_pts": 105.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2025",
+          "week": 2,
+          "pts": 153.38,
+          "opp_pts": 127.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        },
+        {
+          "season": "2025",
+          "week": 11,
+          "pts": 123.34,
+          "opp_pts": 120.04,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
+        }
+      ]
+    }
+  },
+  "Brett|||Damon": {
+    "Damon": {
+      "W": 15,
+      "L": 14,
+      "T": 0,
+      "pts_for": 2599.3,
+      "pts_against": 2489.05,
+      "games": [
+        {
+          "season": "2005",
+          "week": 6,
+          "pts": 43.88,
+          "opp_pts": 71.97,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 2,
+          "pts": 53.74,
+          "opp_pts": 67.99,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 11,
+          "pts": 77.78,
+          "opp_pts": 55.77,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 59.4,
+          "opp_pts": 114.36,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 70.1,
+          "opp_pts": 102.12,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 7,
+          "pts": 92.32,
+          "opp_pts": 142.02,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 15,
+          "pts": 96.8,
+          "opp_pts": 105.82,
+          "result": "L",
+          "is_playoffs": true,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 7,
+          "pts": 88.86,
+          "opp_pts": 68.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 5,
+          "pts": 93.22,
+          "opp_pts": 93.66,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 14,
+          "pts": 140.7,
+          "opp_pts": 78.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 9,
+          "pts": 114.5,
+          "opp_pts": 100.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2013",
+          "week": 6,
+          "pts": 75.58,
+          "opp_pts": 98.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 9,
+          "pts": 91.06,
+          "opp_pts": 53.42,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2016",
+          "week": 6,
+          "pts": 113.7,
+          "opp_pts": 67.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 5,
+          "pts": 65.78,
+          "opp_pts": 92.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 14,
+          "pts": 88.24,
+          "opp_pts": 77.54,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 5,
+          "pts": 67.4,
+          "opp_pts": 105.12,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 14,
+          "pts": 79.18,
+          "opp_pts": 73.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 2,
+          "pts": 99.22,
+          "opp_pts": 98.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 11,
+          "pts": 95.84,
+          "opp_pts": 56.82,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 9,
+          "pts": 92.58,
+          "opp_pts": 55.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 4,
+          "pts": 97.72,
+          "opp_pts": 104.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 13,
+          "pts": 107.2,
+          "opp_pts": 93.84,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 6,
+          "pts": 68.46,
+          "opp_pts": 100.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 15,
+          "pts": 77.04,
+          "opp_pts": 80.4,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 4,
+          "pts": 86.64,
+          "opp_pts": 48.12,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 13,
+          "pts": 129.06,
+          "opp_pts": 71.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 8,
+          "pts": 119.0,
+          "opp_pts": 86.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 9,
+          "pts": 114.3,
+          "opp_pts": 124.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        }
+      ]
+    },
+    "Brett": {
+      "W": 14,
+      "L": 15,
+      "T": 0,
+      "pts_for": 2489.05,
+      "pts_against": 2599.3,
+      "games": [
+        {
+          "season": "2005",
+          "week": 6,
+          "pts": 71.97,
+          "opp_pts": 43.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebreAvenGers"
+        },
+        {
+          "season": "2006",
+          "week": 2,
+          "pts": 67.99,
+          "opp_pts": 53.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSebre-Avengers"
+        },
+        {
+          "season": "2006",
+          "week": 11,
+          "pts": 55.77,
+          "opp_pts": 77.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "LaSebre-Avengers"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 114.36,
+          "opp_pts": 59.4,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 102.12,
+          "opp_pts": 70.1,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
         },
         {
           "season": "2009",
@@ -47336,15 +50744,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
-          "week": 10,
-          "pts": 68.32,
-          "opp_pts": 100.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
         },
         {
           "season": "2009",
@@ -47554,28 +50953,572 @@ const WSW_DATA = {
           "opp_team": "LaSeBre AvenGers"
         }
       ]
-    },
-    "Damon": {
+    }
+  },
+  "Brett|||Roger": {
+    "Roger": {
       "W": 15,
-      "L": 11,
+      "L": 10,
       "T": 0,
-      "pts_for": 2468.82,
-      "pts_against": 2239.88,
+      "pts_for": 2301.66,
+      "pts_against": 2275.76,
       "games": [
         {
-          "season": "2009",
-          "week": 1,
-          "pts": 73.48,
-          "opp_pts": 94.72,
-          "result": "L",
+          "season": "2005",
+          "week": 7,
+          "pts": 51.13,
+          "opp_pts": 49.32,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 7,
+          "pts": 44.43,
+          "opp_pts": 44.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 104.56,
+          "opp_pts": 104.14,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 120.16,
+          "opp_pts": 94.88,
+          "result": "W",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2009",
+          "week": 9,
+          "pts": 86.88,
+          "opp_pts": 119.6,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2010",
+          "week": 9,
+          "pts": 82.5,
+          "opp_pts": 62.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 1,
+          "pts": 89.7,
+          "opp_pts": 108.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 10,
+          "pts": 108.7,
+          "opp_pts": 83.78,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 4,
+          "pts": 121.22,
+          "opp_pts": 117.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2012",
+          "week": 13,
+          "pts": 105.7,
+          "opp_pts": 101.68,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2013",
           "week": 7,
-          "pts": 92.32,
-          "opp_pts": 142.02,
+          "pts": 116.92,
+          "opp_pts": 86.26,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 1,
+          "pts": 89.88,
+          "opp_pts": 53.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 10,
+          "pts": 87.48,
+          "opp_pts": 97.64,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2016",
+          "week": 3,
+          "pts": 71.48,
+          "opp_pts": 110.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2016",
+          "week": 12,
+          "pts": 71.74,
+          "opp_pts": 73.8,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 8,
+          "pts": 94.52,
+          "opp_pts": 80.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 8,
+          "pts": 111.62,
+          "opp_pts": 118.6,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 6,
+          "pts": 72.92,
+          "opp_pts": 43.92,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 1,
+          "pts": 123.8,
+          "opp_pts": 87.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 10,
+          "pts": 59.28,
+          "opp_pts": 82.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2021",
+          "week": 8,
+          "pts": 70.6,
+          "opp_pts": 93.44,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 8,
+          "pts": 117.58,
+          "opp_pts": 84.58,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 7,
+          "pts": 137.68,
+          "opp_pts": 103.56,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 7,
+          "pts": 72.66,
+          "opp_pts": 129.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 8,
+          "pts": 88.52,
+          "opp_pts": 144.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        }
+      ]
+    },
+    "Brett": {
+      "W": 10,
+      "L": 15,
+      "T": 0,
+      "pts_for": 2275.76,
+      "pts_against": 2301.66,
+      "games": [
+        {
+          "season": "2005",
+          "week": 7,
+          "pts": 49.32,
+          "opp_pts": 51.13,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2006",
+          "week": 7,
+          "pts": 44.02,
+          "opp_pts": 44.43,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 104.14,
+          "opp_pts": 104.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 94.88,
+          "opp_pts": 120.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2009",
+          "week": 9,
+          "pts": 119.6,
+          "opp_pts": 86.88,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminator's"
+        },
+        {
+          "season": "2010",
+          "week": 9,
+          "pts": 62.88,
+          "opp_pts": 82.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2011",
+          "week": 1,
+          "pts": 108.06,
+          "opp_pts": 89.7,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2011",
+          "week": 10,
+          "pts": 83.78,
+          "opp_pts": 108.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2012",
+          "week": 4,
+          "pts": 117.6,
+          "opp_pts": 121.22,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2012",
+          "week": 13,
+          "pts": 101.68,
+          "opp_pts": 105.7,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2013",
+          "week": 7,
+          "pts": 86.26,
+          "opp_pts": 116.92,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2014",
+          "week": 1,
+          "pts": 53.02,
+          "opp_pts": 89.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2014",
+          "week": 10,
+          "pts": 97.64,
+          "opp_pts": 87.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2016",
+          "week": 3,
+          "pts": 110.5,
+          "opp_pts": 71.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2016",
+          "week": 12,
+          "pts": 73.8,
+          "opp_pts": 71.74,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2017",
+          "week": 8,
+          "pts": 80.2,
+          "opp_pts": 94.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2018",
+          "week": 8,
+          "pts": 118.6,
+          "opp_pts": 111.62,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2019",
+          "week": 6,
+          "pts": 43.92,
+          "opp_pts": 72.92,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2020",
+          "week": 1,
+          "pts": 87.6,
+          "opp_pts": 123.8,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2020",
+          "week": 10,
+          "pts": 82.52,
+          "opp_pts": 59.28,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2021",
+          "week": 8,
+          "pts": 93.44,
+          "opp_pts": 70.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2022",
+          "week": 8,
+          "pts": 84.58,
+          "opp_pts": 117.58,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2023",
+          "week": 7,
+          "pts": 103.56,
+          "opp_pts": 137.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2024",
+          "week": 7,
+          "pts": 129.2,
+          "opp_pts": 72.66,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2025",
+          "week": 8,
+          "pts": 144.96,
+          "opp_pts": 88.52,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        }
+      ]
+    }
+  },
+  "Brett|||Ric's Last Resort": {
+    "Brett": {
+      "W": 3,
+      "L": 2,
+      "T": 0,
+      "pts_for": 391.38,
+      "pts_against": 388.22,
+      "games": [
+        {
+          "season": "2005",
+          "week": 8,
+          "pts": 65.09,
+          "opp_pts": 49.05,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Rics Last Resort"
+        },
+        {
+          "season": "2006",
+          "week": 6,
+          "pts": 78.91,
+          "opp_pts": 75.45,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 84.34,
+          "opp_pts": 89.3,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2009",
+          "week": 1,
+          "pts": 94.72,
+          "opp_pts": 73.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2009",
+          "week": 10,
+          "pts": 68.32,
+          "opp_pts": 100.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        }
+      ]
+    },
+    "Ric's Last Resort": {
+      "W": 2,
+      "L": 3,
+      "T": 0,
+      "pts_for": 388.22,
+      "pts_against": 391.38,
+      "games": [
+        {
+          "season": "2005",
+          "week": 8,
+          "pts": 49.05,
+          "opp_pts": 65.09,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 6,
+          "pts": 75.45,
+          "opp_pts": 78.91,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 89.3,
+          "opp_pts": 84.34,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 1,
+          "pts": 73.48,
+          "opp_pts": 94.72,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
@@ -47588,210 +51531,635 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
+        }
+      ]
+    }
+  },
+  "Brett|||Michael": {
+    "Brett": {
+      "W": 17,
+      "L": 17,
+      "T": 0,
+      "pts_for": 3231.45,
+      "pts_against": 3162.46,
+      "games": [
+        {
+          "season": "2005",
+          "week": 9,
+          "pts": 78.67,
+          "opp_pts": 70.27,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2006",
+          "week": 1,
+          "pts": 29.81,
+          "opp_pts": 64.02,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
+        },
+        {
+          "season": "2006",
+          "week": 10,
+          "pts": 56.63,
+          "opp_pts": 80.31,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
+        },
+        {
+          "season": "2007",
+          "week": 5,
+          "pts": 109.8,
+          "opp_pts": 77.04,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
+        },
+        {
+          "season": "2007",
+          "week": 14,
+          "pts": 161.06,
+          "opp_pts": 89.16,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
         },
         {
           "season": "2009",
-          "week": 15,
-          "pts": 96.8,
-          "opp_pts": 105.82,
+          "week": 6,
+          "pts": 148.16,
+          "opp_pts": 94.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2010",
+          "week": 4,
+          "pts": 80.88,
+          "opp_pts": 56.22,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2010",
+          "week": 13,
+          "pts": 80.28,
+          "opp_pts": 93.04,
           "result": "L",
-          "is_playoffs": true,
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2011",
+          "week": 8,
+          "pts": 94.7,
+          "opp_pts": 73.0,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2012",
+          "week": 6,
+          "pts": 63.52,
+          "opp_pts": 103.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2013",
+          "week": 1,
+          "pts": 159.8,
+          "opp_pts": 125.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2013",
+          "week": 10,
+          "pts": 87.66,
+          "opp_pts": 103.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2014",
+          "week": 3,
+          "pts": 83.9,
+          "opp_pts": 87.88,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2014",
+          "week": 12,
+          "pts": 92.14,
+          "opp_pts": 92.16,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2016",
+          "week": 2,
+          "pts": 99.96,
+          "opp_pts": 76.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2016",
+          "week": 11,
+          "pts": 76.38,
+          "opp_pts": 113.14,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2017",
+          "week": 3,
+          "pts": 78.96,
+          "opp_pts": 111.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2017",
+          "week": 12,
+          "pts": 69.9,
+          "opp_pts": 84.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2018",
+          "week": 3,
+          "pts": 84.48,
+          "opp_pts": 119.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2018",
+          "week": 12,
+          "pts": 123.72,
+          "opp_pts": 90.64,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2019",
+          "week": 5,
+          "pts": 71.0,
+          "opp_pts": 63.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2019",
+          "week": 14,
+          "pts": 89.62,
+          "opp_pts": 71.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2020",
+          "week": 2,
+          "pts": 84.08,
+          "opp_pts": 118.74,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2020",
+          "week": 11,
+          "pts": 58.32,
+          "opp_pts": 92.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2021",
+          "week": 3,
+          "pts": 104.02,
+          "opp_pts": 99.24,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2021",
+          "week": 12,
+          "pts": 89.98,
+          "opp_pts": 100.9,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2022",
+          "week": 4,
+          "pts": 102.08,
+          "opp_pts": 106.38,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2022",
+          "week": 13,
+          "pts": 112.84,
+          "opp_pts": 102.16,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2023",
+          "week": 5,
+          "pts": 85.24,
+          "opp_pts": 99.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2023",
+          "week": 14,
+          "pts": 95.56,
+          "opp_pts": 85.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2024",
+          "week": 2,
+          "pts": 103.1,
+          "opp_pts": 81.04,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2024",
+          "week": 11,
+          "pts": 126.76,
+          "opp_pts": 128.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2025",
+          "week": 6,
+          "pts": 120.78,
+          "opp_pts": 96.22,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        },
+        {
+          "season": "2025",
+          "week": 15,
+          "pts": 127.66,
+          "opp_pts": 110.2,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Damon's Demons"
+        }
+      ]
+    },
+    "Michael": {
+      "W": 17,
+      "L": 17,
+      "T": 0,
+      "pts_for": 3162.46,
+      "pts_against": 3231.45,
+      "games": [
+        {
+          "season": "2005",
+          "week": 9,
+          "pts": 70.27,
+          "opp_pts": 78.67,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 1,
+          "pts": 64.02,
+          "opp_pts": 29.81,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2006",
+          "week": 10,
+          "pts": 80.31,
+          "opp_pts": 56.63,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 5,
+          "pts": 77.04,
+          "opp_pts": 109.8,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 14,
+          "pts": 89.16,
+          "opp_pts": 161.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2009",
+          "week": 6,
+          "pts": 94.24,
+          "opp_pts": 148.16,
+          "result": "L",
+          "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2010",
-          "week": 7,
-          "pts": 88.86,
-          "opp_pts": 68.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 5,
-          "pts": 93.22,
-          "opp_pts": 93.66,
+          "week": 4,
+          "pts": 56.22,
+          "opp_pts": 80.88,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
         },
         {
-          "season": "2011",
-          "week": 14,
-          "pts": 140.7,
-          "opp_pts": 78.94,
+          "season": "2010",
+          "week": 13,
+          "pts": 93.04,
+          "opp_pts": 80.28,
           "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2011",
+          "week": 8,
+          "pts": 73.0,
+          "opp_pts": 94.7,
+          "result": "L",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2012",
-          "week": 9,
-          "pts": 114.5,
-          "opp_pts": 100.44,
+          "week": 6,
+          "pts": 103.42,
+          "opp_pts": 63.52,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2013",
-          "week": 6,
-          "pts": 75.58,
-          "opp_pts": 98.88,
+          "week": 1,
+          "pts": 125.08,
+          "opp_pts": 159.8,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
         },
         {
+          "season": "2013",
+          "week": 10,
+          "pts": 103.72,
+          "opp_pts": 87.66,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
           "season": "2014",
-          "week": 9,
-          "pts": 91.06,
-          "opp_pts": 53.42,
+          "week": 3,
+          "pts": 87.88,
+          "opp_pts": 83.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2014",
+          "week": 12,
+          "pts": 92.16,
+          "opp_pts": 92.14,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
         },
         {
           "season": "2016",
-          "week": 6,
-          "pts": 113.7,
-          "opp_pts": 67.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 5,
-          "pts": 65.78,
-          "opp_pts": 92.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 14,
-          "pts": 88.24,
-          "opp_pts": 77.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 5,
-          "pts": 67.4,
-          "opp_pts": 105.12,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 14,
-          "pts": 79.18,
-          "opp_pts": 73.12,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
           "week": 2,
-          "pts": 99.22,
-          "opp_pts": 98.12,
+          "pts": 76.02,
+          "opp_pts": 99.96,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2016",
+          "week": 11,
+          "pts": 113.14,
+          "opp_pts": 76.38,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
         },
         {
+          "season": "2017",
+          "week": 3,
+          "pts": 111.52,
+          "opp_pts": 78.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2017",
+          "week": 12,
+          "pts": 84.06,
+          "opp_pts": 69.9,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 3,
+          "pts": 119.54,
+          "opp_pts": 84.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2018",
+          "week": 12,
+          "pts": 90.64,
+          "opp_pts": 123.72,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
           "season": "2019",
-          "week": 11,
-          "pts": 95.84,
-          "opp_pts": 56.82,
+          "week": 5,
+          "pts": 63.9,
+          "opp_pts": 71.0,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2019",
+          "week": 14,
+          "pts": 71.38,
+          "opp_pts": 89.62,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2020",
+          "week": 2,
+          "pts": 118.74,
+          "opp_pts": 84.08,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
         },
         {
           "season": "2020",
-          "week": 9,
-          "pts": 92.58,
-          "opp_pts": 55.4,
+          "week": 11,
+          "pts": 92.96,
+          "opp_pts": 58.32,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
         },
         {
           "season": "2021",
-          "week": 4,
-          "pts": 97.72,
-          "opp_pts": 104.86,
+          "week": 3,
+          "pts": 99.24,
+          "opp_pts": 104.02,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
         },
         {
           "season": "2021",
-          "week": 13,
-          "pts": 107.2,
-          "opp_pts": 93.84,
+          "week": 12,
+          "pts": 100.9,
+          "opp_pts": 89.98,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
         },
         {
           "season": "2022",
-          "week": 6,
-          "pts": 68.46,
-          "opp_pts": 100.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 15,
-          "pts": 77.04,
-          "opp_pts": 80.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
           "week": 4,
-          "pts": 86.64,
-          "opp_pts": 48.12,
+          "pts": 106.38,
+          "opp_pts": 102.08,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2022",
+          "week": 13,
+          "pts": 102.16,
+          "opp_pts": 112.84,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2023",
+          "week": 5,
+          "pts": 99.98,
+          "opp_pts": 85.24,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
         },
         {
           "season": "2023",
-          "week": 13,
-          "pts": 129.06,
-          "opp_pts": 71.24,
-          "result": "W",
+          "week": 14,
+          "pts": 85.94,
+          "opp_pts": 95.56,
+          "result": "L",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
         },
         {
           "season": "2024",
-          "week": 8,
-          "pts": 119.0,
-          "opp_pts": 86.64,
+          "week": 2,
+          "pts": 81.04,
+          "opp_pts": 103.1,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2024",
+          "week": 11,
+          "pts": 128.94,
+          "opp_pts": 126.76,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
         },
         {
           "season": "2025",
-          "week": 9,
-          "pts": 114.3,
-          "opp_pts": 124.2,
+          "week": 6,
+          "pts": 96.22,
+          "opp_pts": 120.78,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "BPs Muggin n Jugglin"
+        },
+        {
+          "season": "2025",
+          "week": 15,
+          "pts": 110.2,
+          "opp_pts": 127.66,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "BPs Muggin n Jugglin"
@@ -48071,447 +52439,13 @@ const WSW_DATA = {
       ]
     }
   },
-  "Brett|||Chris": {
-    "Chris": {
-      "W": 13,
-      "L": 10,
-      "T": 0,
-      "pts_for": 2340.04,
-      "pts_against": 2271.82,
-      "games": [
-        {
-          "season": "2009",
-          "week": 2,
-          "pts": 123.98,
-          "opp_pts": 126.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2009",
-          "week": 11,
-          "pts": 87.2,
-          "opp_pts": 99.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2010",
-          "week": 2,
-          "pts": 112.8,
-          "opp_pts": 104.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2010",
-          "week": 11,
-          "pts": 112.38,
-          "opp_pts": 62.46,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 9,
-          "pts": 95.4,
-          "opp_pts": 92.3,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 2,
-          "pts": 76.9,
-          "opp_pts": 116.82,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 11,
-          "pts": 95.74,
-          "opp_pts": 78.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 9,
-          "pts": 94.18,
-          "opp_pts": 136.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 7,
-          "pts": 90.52,
-          "opp_pts": 84.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2016",
-          "week": 1,
-          "pts": 123.0,
-          "opp_pts": 76.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2016",
-          "week": 10,
-          "pts": 116.22,
-          "opp_pts": 108.58,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 7,
-          "pts": 109.72,
-          "opp_pts": 81.76,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 7,
-          "pts": 127.54,
-          "opp_pts": 75.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 8,
-          "pts": 116.94,
-          "opp_pts": 93.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 8,
-          "pts": 60.56,
-          "opp_pts": 101.66,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 7,
-          "pts": 96.84,
-          "opp_pts": 82.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 9,
-          "pts": 109.72,
-          "opp_pts": 98.14,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 16,
-          "pts": 58.76,
-          "opp_pts": 81.8,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 8,
-          "pts": 88.3,
-          "opp_pts": 104.08,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 1,
-          "pts": 90.38,
-          "opp_pts": 101.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 10,
-          "pts": 105.64,
-          "opp_pts": 88.72,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 2,
-          "pts": 127.28,
-          "opp_pts": 153.38,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 11,
-          "pts": 120.04,
-          "opp_pts": 123.34,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        }
-      ]
-    },
-    "Brett": {
-      "W": 10,
-      "L": 13,
-      "T": 0,
-      "pts_for": 2271.82,
-      "pts_against": 2340.04,
-      "games": [
-        {
-          "season": "2009",
-          "week": 2,
-          "pts": 126.94,
-          "opp_pts": 123.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2009",
-          "week": 11,
-          "pts": 99.68,
-          "opp_pts": 87.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2010",
-          "week": 2,
-          "pts": 104.08,
-          "opp_pts": 112.8,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2010",
-          "week": 11,
-          "pts": 62.46,
-          "opp_pts": 112.38,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2011",
-          "week": 9,
-          "pts": 92.3,
-          "opp_pts": 95.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "nector"
-        },
-        {
-          "season": "2012",
-          "week": 2,
-          "pts": 116.82,
-          "opp_pts": 76.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2012",
-          "week": 11,
-          "pts": 78.38,
-          "opp_pts": 95.74,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2013",
-          "week": 9,
-          "pts": 136.16,
-          "opp_pts": 94.18,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2014",
-          "week": 7,
-          "pts": 84.4,
-          "opp_pts": 90.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2016",
-          "week": 1,
-          "pts": 76.84,
-          "opp_pts": 123.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2016",
-          "week": 10,
-          "pts": 108.58,
-          "opp_pts": 116.22,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2017",
-          "week": 7,
-          "pts": 81.76,
-          "opp_pts": 109.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2018",
-          "week": 7,
-          "pts": 75.2,
-          "opp_pts": 127.54,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2019",
-          "week": 8,
-          "pts": 93.48,
-          "opp_pts": 116.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2020",
-          "week": 8,
-          "pts": 101.66,
-          "opp_pts": 60.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2021",
-          "week": 7,
-          "pts": 82.62,
-          "opp_pts": 96.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2022",
-          "week": 9,
-          "pts": 98.14,
-          "opp_pts": 109.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2022",
-          "week": 16,
-          "pts": 81.8,
-          "opp_pts": 58.76,
-          "result": "W",
-          "is_playoffs": true,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2023",
-          "week": 8,
-          "pts": 104.08,
-          "opp_pts": 88.3,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2024",
-          "week": 1,
-          "pts": 101.0,
-          "opp_pts": 90.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2024",
-          "week": 10,
-          "pts": 88.72,
-          "opp_pts": 105.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2025",
-          "week": 2,
-          "pts": 153.38,
-          "opp_pts": 127.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2025",
-          "week": 11,
-          "pts": 123.34,
-          "opp_pts": 120.04,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        }
-      ]
-    }
-  },
-  "Damon|||cool brees": {
+  "Ric's Last Resort|||cool brees": {
     "cool brees": {
-      "W": 6,
-      "L": 6,
+      "W": 0,
+      "L": 2,
       "T": 0,
-      "pts_for": 1090.18,
-      "pts_against": 1014.94,
+      "pts_for": 163.76,
+      "pts_against": 204.74,
       "games": [
         {
           "season": "2009",
@@ -48524,111 +52458,21 @@ const WSW_DATA = {
         },
         {
           "season": "2009",
-          "week": 8,
-          "pts": 75.98,
-          "opp_pts": 81.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSEbre Avengers"
-        },
-        {
-          "season": "2009",
           "week": 11,
           "pts": 93.36,
           "opp_pts": 99.2,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2010",
-          "week": 1,
-          "pts": 66.38,
-          "opp_pts": 60.02,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2010",
-          "week": 10,
-          "pts": 125.98,
-          "opp_pts": 66.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2011",
-          "week": 9,
-          "pts": 77.48,
-          "opp_pts": 78.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2012",
-          "week": 7,
-          "pts": 93.2,
-          "opp_pts": 62.68,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2013",
-          "week": 1,
-          "pts": 116.68,
-          "opp_pts": 96.42,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2013",
-          "week": 10,
-          "pts": 105.28,
-          "opp_pts": 59.02,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2014",
-          "week": 5,
-          "pts": 83.64,
-          "opp_pts": 72.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2014",
-          "week": 14,
-          "pts": 90.4,
-          "opp_pts": 118.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
-        },
-        {
-          "season": "2015",
-          "week": 6,
-          "pts": 91.4,
-          "opp_pts": 114.46,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AvenGers"
         }
       ]
     },
-    "Damon": {
-      "W": 6,
-      "L": 6,
+    "Ric's Last Resort": {
+      "W": 2,
+      "L": 0,
       "T": 0,
-      "pts_for": 1014.94,
-      "pts_against": 1090.18,
+      "pts_for": 204.74,
+      "pts_against": 163.76,
       "games": [
         {
           "season": "2009",
@@ -48641,99 +52485,9 @@ const WSW_DATA = {
         },
         {
           "season": "2009",
-          "week": 8,
-          "pts": 81.36,
-          "opp_pts": 75.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2009",
           "week": 11,
           "pts": 99.2,
           "opp_pts": 93.36,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2010",
-          "week": 1,
-          "pts": 60.02,
-          "opp_pts": 66.38,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2010",
-          "week": 10,
-          "pts": 66.6,
-          "opp_pts": 125.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2011",
-          "week": 9,
-          "pts": 78.4,
-          "opp_pts": 77.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2012",
-          "week": 7,
-          "pts": 62.68,
-          "opp_pts": 93.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2013",
-          "week": 1,
-          "pts": 96.42,
-          "opp_pts": 116.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2013",
-          "week": 10,
-          "pts": 59.02,
-          "opp_pts": 105.28,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2014",
-          "week": 5,
-          "pts": 72.88,
-          "opp_pts": 83.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2014",
-          "week": 14,
-          "pts": 118.36,
-          "opp_pts": 90.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "cool brees"
-        },
-        {
-          "season": "2015",
-          "week": 6,
-          "pts": 114.46,
-          "opp_pts": 91.4,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "cool brees"
@@ -48991,548 +52745,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Nector"
-        }
-      ]
-    }
-  },
-  "Brett|||Scott": {
-    "Scott": {
-      "W": 21,
-      "L": 8,
-      "T": 0,
-      "pts_for": 3001.8,
-      "pts_against": 2743.24,
-      "games": [
-        {
-          "season": "2009",
-          "week": 3,
-          "pts": 75.18,
-          "opp_pts": 84.78,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2009",
-          "week": 12,
-          "pts": 81.98,
-          "opp_pts": 99.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2010",
-          "week": 1,
-          "pts": 89.92,
-          "opp_pts": 54.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2010",
-          "week": 10,
-          "pts": 118.8,
-          "opp_pts": 106.36,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 6,
-          "pts": 113.36,
-          "opp_pts": 87.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 5,
-          "pts": 110.32,
-          "opp_pts": 82.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 14,
-          "pts": 113.02,
-          "opp_pts": 95.78,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 8,
-          "pts": 100.24,
-          "opp_pts": 89.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 5,
-          "pts": 78.24,
-          "opp_pts": 108.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 14,
-          "pts": 109.84,
-          "opp_pts": 71.76,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2016",
-          "week": 9,
-          "pts": 122.52,
-          "opp_pts": 72.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 1,
-          "pts": 74.14,
-          "opp_pts": 64.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 10,
-          "pts": 89.24,
-          "opp_pts": 91.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 1,
-          "pts": 118.96,
-          "opp_pts": 73.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 10,
-          "pts": 155.56,
-          "opp_pts": 141.34,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 4,
-          "pts": 64.5,
-          "opp_pts": 122.48,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 13,
-          "pts": 58.64,
-          "opp_pts": 81.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 3,
-          "pts": 91.16,
-          "opp_pts": 87.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 12,
-          "pts": 115.72,
-          "opp_pts": 108.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 1,
-          "pts": 140.62,
-          "opp_pts": 128.06,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 10,
-          "pts": 100.84,
-          "opp_pts": 53.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 2,
-          "pts": 85.46,
-          "opp_pts": 139.46,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 11,
-          "pts": 106.0,
-          "opp_pts": 85.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 2,
-          "pts": 127.0,
-          "opp_pts": 90.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 11,
-          "pts": 93.28,
-          "opp_pts": 88.74,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 4,
-          "pts": 99.88,
-          "opp_pts": 105.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 13,
-          "pts": 107.16,
-          "opp_pts": 89.12,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 4,
-          "pts": 141.98,
-          "opp_pts": 118.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 13,
-          "pts": 118.24,
-          "opp_pts": 117.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        }
-      ]
-    },
-    "Brett": {
-      "W": 8,
-      "L": 21,
-      "T": 0,
-      "pts_for": 2743.24,
-      "pts_against": 3001.8,
-      "games": [
-        {
-          "season": "2009",
-          "week": 3,
-          "pts": 84.78,
-          "opp_pts": 75.18,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2009",
-          "week": 12,
-          "pts": 99.94,
-          "opp_pts": 81.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 1,
-          "pts": 54.98,
-          "opp_pts": 89.92,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2010",
-          "week": 10,
-          "pts": 106.36,
-          "opp_pts": 118.8,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2011",
-          "week": 6,
-          "pts": 87.88,
-          "opp_pts": 113.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2012",
-          "week": 5,
-          "pts": 82.54,
-          "opp_pts": 110.32,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2012",
-          "week": 14,
-          "pts": 95.78,
-          "opp_pts": 113.02,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2013",
-          "week": 8,
-          "pts": 89.44,
-          "opp_pts": 100.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2014",
-          "week": 5,
-          "pts": 108.52,
-          "opp_pts": 78.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2014",
-          "week": 14,
-          "pts": 71.76,
-          "opp_pts": 109.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2016",
-          "week": 9,
-          "pts": 72.84,
-          "opp_pts": 122.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2017",
-          "week": 1,
-          "pts": 64.98,
-          "opp_pts": 74.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2017",
-          "week": 10,
-          "pts": 91.76,
-          "opp_pts": 89.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2018",
-          "week": 1,
-          "pts": 73.54,
-          "opp_pts": 118.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2018",
-          "week": 10,
-          "pts": 141.34,
-          "opp_pts": 155.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2019",
-          "week": 4,
-          "pts": 122.48,
-          "opp_pts": 64.5,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2019",
-          "week": 13,
-          "pts": 81.7,
-          "opp_pts": 58.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2020",
-          "week": 3,
-          "pts": 87.28,
-          "opp_pts": 91.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2020",
-          "week": 12,
-          "pts": 108.88,
-          "opp_pts": 115.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2021",
-          "week": 1,
-          "pts": 128.06,
-          "opp_pts": 140.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2021",
-          "week": 10,
-          "pts": 53.9,
-          "opp_pts": 100.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2022",
-          "week": 2,
-          "pts": 139.46,
-          "opp_pts": 85.46,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2022",
-          "week": 11,
-          "pts": 85.5,
-          "opp_pts": 106.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2023",
-          "week": 2,
-          "pts": 90.28,
-          "opp_pts": 127.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2023",
-          "week": 11,
-          "pts": 88.74,
-          "opp_pts": 93.28,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2024",
-          "week": 4,
-          "pts": 105.76,
-          "opp_pts": 99.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2024",
-          "week": 13,
-          "pts": 89.12,
-          "opp_pts": 107.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2025",
-          "week": 4,
-          "pts": 118.0,
-          "opp_pts": 141.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2025",
-          "week": 13,
-          "pts": 117.64,
-          "opp_pts": 118.24,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         }
       ]
     }
@@ -49845,440 +53057,6 @@ const WSW_DATA = {
       ]
     }
   },
-  "Brett|||Davidson": {
-    "Brett": {
-      "W": 9,
-      "L": 14,
-      "T": 0,
-      "pts_for": 2005.54,
-      "pts_against": 2184.72,
-      "games": [
-        {
-          "season": "2009",
-          "week": 4,
-          "pts": 71.3,
-          "opp_pts": 79.76,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2009",
-          "week": 13,
-          "pts": 97.46,
-          "opp_pts": 93.22,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2010",
-          "week": 8,
-          "pts": 58.64,
-          "opp_pts": 72.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2011",
-          "week": 2,
-          "pts": 81.84,
-          "opp_pts": 76.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2011",
-          "week": 11,
-          "pts": 122.0,
-          "opp_pts": 24.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2012",
-          "week": 7,
-          "pts": 98.02,
-          "opp_pts": 81.18,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2013",
-          "week": 4,
-          "pts": 107.44,
-          "opp_pts": 100.32,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2013",
-          "week": 13,
-          "pts": 127.42,
-          "opp_pts": 88.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2014",
-          "week": 2,
-          "pts": 108.54,
-          "opp_pts": 82.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2014",
-          "week": 11,
-          "pts": 57.52,
-          "opp_pts": 90.82,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2016",
-          "week": 5,
-          "pts": 82.26,
-          "opp_pts": 91.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2016",
-          "week": 14,
-          "pts": 34.56,
-          "opp_pts": 61.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2017",
-          "week": 9,
-          "pts": 91.74,
-          "opp_pts": 119.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2018",
-          "week": 9,
-          "pts": 80.06,
-          "opp_pts": 116.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2019",
-          "week": 7,
-          "pts": 82.72,
-          "opp_pts": 92.02,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2020",
-          "week": 7,
-          "pts": 107.36,
-          "opp_pts": 70.72,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2021",
-          "week": 9,
-          "pts": 67.78,
-          "opp_pts": 64.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2022",
-          "week": 7,
-          "pts": 80.94,
-          "opp_pts": 108.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2023",
-          "week": 9,
-          "pts": 93.34,
-          "opp_pts": 123.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2024",
-          "week": 6,
-          "pts": 93.32,
-          "opp_pts": 124.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2024",
-          "week": 15,
-          "pts": 53.54,
-          "opp_pts": 142.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2025",
-          "week": 3,
-          "pts": 97.16,
-          "opp_pts": 125.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2025",
-          "week": 12,
-          "pts": 110.58,
-          "opp_pts": 152.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        }
-      ]
-    },
-    "Davidson": {
-      "W": 14,
-      "L": 9,
-      "T": 0,
-      "pts_for": 2184.72,
-      "pts_against": 2005.54,
-      "games": [
-        {
-          "season": "2009",
-          "week": 4,
-          "pts": 79.76,
-          "opp_pts": 71.3,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2009",
-          "week": 13,
-          "pts": 93.22,
-          "opp_pts": 97.46,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2010",
-          "week": 8,
-          "pts": 72.98,
-          "opp_pts": 58.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 2,
-          "pts": 76.6,
-          "opp_pts": 81.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 11,
-          "pts": 24.2,
-          "opp_pts": 122.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 7,
-          "pts": 81.18,
-          "opp_pts": 98.02,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 4,
-          "pts": 100.32,
-          "opp_pts": 107.44,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 13,
-          "pts": 88.6,
-          "opp_pts": 127.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 2,
-          "pts": 82.94,
-          "opp_pts": 108.54,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 11,
-          "pts": 90.82,
-          "opp_pts": 57.52,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2016",
-          "week": 5,
-          "pts": 91.26,
-          "opp_pts": 82.26,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2016",
-          "week": 14,
-          "pts": 61.4,
-          "opp_pts": 34.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 9,
-          "pts": 119.36,
-          "opp_pts": 91.74,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 9,
-          "pts": 116.86,
-          "opp_pts": 80.06,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 7,
-          "pts": 92.02,
-          "opp_pts": 82.72,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 7,
-          "pts": 70.72,
-          "opp_pts": 107.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 9,
-          "pts": 64.88,
-          "opp_pts": 67.78,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 7,
-          "pts": 108.06,
-          "opp_pts": 80.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 9,
-          "pts": 123.96,
-          "opp_pts": 93.34,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 6,
-          "pts": 124.56,
-          "opp_pts": 93.32,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 15,
-          "pts": 142.64,
-          "opp_pts": 53.54,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 3,
-          "pts": 125.42,
-          "opp_pts": 97.16,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 12,
-          "pts": 152.96,
-          "opp_pts": 110.58,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        }
-      ]
-    }
-  },
   "Brett|||cool brees": {
     "Brett": {
       "W": 3,
@@ -50439,548 +53217,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
-        }
-      ]
-    }
-  },
-  "Brett|||Michael": {
-    "Brett": {
-      "W": 14,
-      "L": 15,
-      "T": 0,
-      "pts_for": 2795.48,
-      "pts_against": 2781.66,
-      "games": [
-        {
-          "season": "2009",
-          "week": 6,
-          "pts": 148.16,
-          "opp_pts": 94.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2010",
-          "week": 4,
-          "pts": 80.88,
-          "opp_pts": 56.22,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2010",
-          "week": 13,
-          "pts": 80.28,
-          "opp_pts": 93.04,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2011",
-          "week": 8,
-          "pts": 94.7,
-          "opp_pts": 73.0,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2012",
-          "week": 6,
-          "pts": 63.52,
-          "opp_pts": 103.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2013",
-          "week": 1,
-          "pts": 159.8,
-          "opp_pts": 125.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2013",
-          "week": 10,
-          "pts": 87.66,
-          "opp_pts": 103.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2014",
-          "week": 3,
-          "pts": 83.9,
-          "opp_pts": 87.88,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2014",
-          "week": 12,
-          "pts": 92.14,
-          "opp_pts": 92.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2016",
-          "week": 2,
-          "pts": 99.96,
-          "opp_pts": 76.02,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2016",
-          "week": 11,
-          "pts": 76.38,
-          "opp_pts": 113.14,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2017",
-          "week": 3,
-          "pts": 78.96,
-          "opp_pts": 111.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2017",
-          "week": 12,
-          "pts": 69.9,
-          "opp_pts": 84.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2018",
-          "week": 3,
-          "pts": 84.48,
-          "opp_pts": 119.54,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2018",
-          "week": 12,
-          "pts": 123.72,
-          "opp_pts": 90.64,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2019",
-          "week": 5,
-          "pts": 71.0,
-          "opp_pts": 63.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2019",
-          "week": 14,
-          "pts": 89.62,
-          "opp_pts": 71.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2020",
-          "week": 2,
-          "pts": 84.08,
-          "opp_pts": 118.74,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2020",
-          "week": 11,
-          "pts": 58.32,
-          "opp_pts": 92.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2021",
-          "week": 3,
-          "pts": 104.02,
-          "opp_pts": 99.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2021",
-          "week": 12,
-          "pts": 89.98,
-          "opp_pts": 100.9,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2022",
-          "week": 4,
-          "pts": 102.08,
-          "opp_pts": 106.38,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2022",
-          "week": 13,
-          "pts": 112.84,
-          "opp_pts": 102.16,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2023",
-          "week": 5,
-          "pts": 85.24,
-          "opp_pts": 99.98,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2023",
-          "week": 14,
-          "pts": 95.56,
-          "opp_pts": 85.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2024",
-          "week": 2,
-          "pts": 103.1,
-          "opp_pts": 81.04,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2024",
-          "week": 11,
-          "pts": 126.76,
-          "opp_pts": 128.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2025",
-          "week": 6,
-          "pts": 120.78,
-          "opp_pts": 96.22,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        },
-        {
-          "season": "2025",
-          "week": 15,
-          "pts": 127.66,
-          "opp_pts": 110.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Damon's Demons"
-        }
-      ]
-    },
-    "Michael": {
-      "W": 15,
-      "L": 14,
-      "T": 0,
-      "pts_for": 2781.66,
-      "pts_against": 2795.48,
-      "games": [
-        {
-          "season": "2009",
-          "week": 6,
-          "pts": 94.24,
-          "opp_pts": 148.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2010",
-          "week": 4,
-          "pts": 56.22,
-          "opp_pts": 80.88,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2010",
-          "week": 13,
-          "pts": 93.04,
-          "opp_pts": 80.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 8,
-          "pts": 73.0,
-          "opp_pts": 94.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 6,
-          "pts": 103.42,
-          "opp_pts": 63.52,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 1,
-          "pts": 125.08,
-          "opp_pts": 159.8,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 10,
-          "pts": 103.72,
-          "opp_pts": 87.66,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 3,
-          "pts": 87.88,
-          "opp_pts": 83.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 12,
-          "pts": 92.16,
-          "opp_pts": 92.14,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2016",
-          "week": 2,
-          "pts": 76.02,
-          "opp_pts": 99.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2016",
-          "week": 11,
-          "pts": 113.14,
-          "opp_pts": 76.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 3,
-          "pts": 111.52,
-          "opp_pts": 78.96,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 12,
-          "pts": 84.06,
-          "opp_pts": 69.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 3,
-          "pts": 119.54,
-          "opp_pts": 84.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 12,
-          "pts": 90.64,
-          "opp_pts": 123.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 5,
-          "pts": 63.9,
-          "opp_pts": 71.0,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 14,
-          "pts": 71.38,
-          "opp_pts": 89.62,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 2,
-          "pts": 118.74,
-          "opp_pts": 84.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 11,
-          "pts": 92.96,
-          "opp_pts": 58.32,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 3,
-          "pts": 99.24,
-          "opp_pts": 104.02,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 12,
-          "pts": 100.9,
-          "opp_pts": 89.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 4,
-          "pts": 106.38,
-          "opp_pts": 102.08,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 13,
-          "pts": 102.16,
-          "opp_pts": 112.84,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 5,
-          "pts": 99.98,
-          "opp_pts": 85.24,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 14,
-          "pts": 85.94,
-          "opp_pts": 95.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 2,
-          "pts": 81.04,
-          "opp_pts": 103.1,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 11,
-          "pts": 128.94,
-          "opp_pts": 126.76,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 6,
-          "pts": 96.22,
-          "opp_pts": 120.78,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 15,
-          "pts": 110.2,
-          "opp_pts": 127.66,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
         }
       ]
     }
@@ -51385,906 +53621,202 @@ const WSW_DATA = {
       ]
     }
   },
-  "Brett|||Robert": {
-    "Brett": {
-      "W": 9,
-      "L": 18,
+  "Damon|||cool brees": {
+    "cool brees": {
+      "W": 6,
+      "L": 4,
       "T": 0,
-      "pts_for": 2461.94,
-      "pts_against": 2650.78,
+      "pts_for": 926.42,
+      "pts_against": 810.2,
       "games": [
         {
           "season": "2009",
           "week": 8,
-          "pts": 83.32,
-          "opp_pts": 129.46,
+          "pts": 75.98,
+          "opp_pts": 81.36,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2009",
-          "week": 16,
-          "pts": 103.12,
-          "opp_pts": 115.88,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSEbre Avengers"
         },
         {
           "season": "2010",
-          "week": 5,
-          "pts": 79.64,
-          "opp_pts": 70.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2010",
-          "week": 14,
-          "pts": 116.92,
-          "opp_pts": 61.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2011",
-          "week": 4,
-          "pts": 100.56,
-          "opp_pts": 123.72,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2011",
-          "week": 13,
-          "pts": 98.06,
-          "opp_pts": 110.16,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2012",
           "week": 1,
-          "pts": 80.62,
-          "opp_pts": 94.84,
+          "pts": 66.38,
+          "opp_pts": 60.02,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2010",
+          "week": 10,
+          "pts": 125.98,
+          "opp_pts": 66.6,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2011",
+          "week": 9,
+          "pts": 77.48,
+          "opp_pts": 78.4,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre AvenGers"
         },
         {
           "season": "2012",
+          "week": 7,
+          "pts": 93.2,
+          "opp_pts": 62.68,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2013",
+          "week": 1,
+          "pts": 116.68,
+          "opp_pts": 96.42,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AvenGers"
+        },
+        {
+          "season": "2013",
           "week": 10,
-          "pts": 78.44,
-          "opp_pts": 101.68,
-          "result": "L",
+          "pts": 105.28,
+          "opp_pts": 59.02,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2013",
-          "week": 5,
-          "pts": 79.32,
-          "opp_pts": 92.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2013",
-          "week": 14,
-          "pts": 65.8,
-          "opp_pts": 85.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre AvenGers"
         },
         {
           "season": "2014",
-          "week": 8,
-          "pts": 116.88,
-          "opp_pts": 63.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2016",
-          "week": 8,
-          "pts": 119.4,
-          "opp_pts": 69.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2017",
-          "week": 6,
-          "pts": 113.94,
-          "opp_pts": 87.94,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2018",
-          "week": 6,
-          "pts": 83.02,
-          "opp_pts": 91.36,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2019",
-          "week": 1,
-          "pts": 65.84,
-          "opp_pts": 111.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2019",
-          "week": 10,
-          "pts": 65.32,
-          "opp_pts": 83.22,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2020",
-          "week": 4,
-          "pts": 70.4,
-          "opp_pts": 92.82,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2020",
-          "week": 13,
-          "pts": 71.2,
-          "opp_pts": 132.1,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2021",
           "week": 5,
-          "pts": 99.38,
-          "opp_pts": 116.3,
-          "result": "L",
+          "pts": 83.64,
+          "opp_pts": 72.88,
+          "result": "W",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre AvenGers"
         },
         {
-          "season": "2021",
+          "season": "2014",
           "week": 14,
-          "pts": 88.8,
-          "opp_pts": 147.92,
+          "pts": 90.4,
+          "opp_pts": 118.36,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre AvenGers"
         },
         {
-          "season": "2022",
-          "week": 3,
-          "pts": 72.9,
-          "opp_pts": 99.2,
+          "season": "2015",
+          "week": 6,
+          "pts": 91.4,
+          "opp_pts": 114.46,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2022",
-          "week": 12,
-          "pts": 108.2,
-          "opp_pts": 90.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2022",
-          "week": 17,
-          "pts": 83.1,
-          "opp_pts": 87.2,
-          "result": "L",
-          "is_playoffs": true,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2023",
-          "week": 3,
-          "pts": 121.64,
-          "opp_pts": 85.42,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2023",
-          "week": 12,
-          "pts": 70.16,
-          "opp_pts": 110.26,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2024",
-          "week": 9,
-          "pts": 101.02,
-          "opp_pts": 92.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2025",
-          "week": 7,
-          "pts": 124.94,
-          "opp_pts": 102.98,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
+          "opp_team": "LaSeBre AvenGers"
         }
       ]
     },
-    "Robert": {
-      "W": 18,
-      "L": 9,
+    "Damon": {
+      "W": 4,
+      "L": 6,
       "T": 0,
-      "pts_for": 2650.78,
-      "pts_against": 2461.94,
+      "pts_for": 810.2,
+      "pts_against": 926.42,
       "games": [
         {
           "season": "2009",
           "week": 8,
-          "pts": 129.46,
-          "opp_pts": 83.32,
+          "pts": 81.36,
+          "opp_pts": 75.98,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2009",
-          "week": 16,
-          "pts": 115.88,
-          "opp_pts": 103.12,
-          "result": "W",
-          "is_playoffs": true,
-          "opp_team": "The Runnin' Rebels"
+          "opp_team": "cool brees"
         },
         {
           "season": "2010",
+          "week": 1,
+          "pts": 60.02,
+          "opp_pts": 66.38,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "cool brees"
+        },
+        {
+          "season": "2010",
+          "week": 10,
+          "pts": 66.6,
+          "opp_pts": 125.98,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "cool brees"
+        },
+        {
+          "season": "2011",
+          "week": 9,
+          "pts": 78.4,
+          "opp_pts": 77.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "cool brees"
+        },
+        {
+          "season": "2012",
+          "week": 7,
+          "pts": 62.68,
+          "opp_pts": 93.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "cool brees"
+        },
+        {
+          "season": "2013",
+          "week": 1,
+          "pts": 96.42,
+          "opp_pts": 116.68,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "cool brees"
+        },
+        {
+          "season": "2013",
+          "week": 10,
+          "pts": 59.02,
+          "opp_pts": 105.28,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "cool brees"
+        },
+        {
+          "season": "2014",
           "week": 5,
-          "pts": 70.62,
-          "opp_pts": 79.64,
+          "pts": 72.88,
+          "opp_pts": 83.64,
           "result": "L",
           "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
+          "opp_team": "cool brees"
         },
         {
-          "season": "2010",
+          "season": "2014",
           "week": 14,
-          "pts": 61.44,
-          "opp_pts": 116.92,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 4,
-          "pts": 123.72,
-          "opp_pts": 100.56,
+          "pts": 118.36,
+          "opp_pts": 90.4,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
+          "opp_team": "cool brees"
         },
         {
-          "season": "2011",
-          "week": 13,
-          "pts": 110.16,
-          "opp_pts": 98.06,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 1,
-          "pts": 94.84,
-          "opp_pts": 80.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 10,
-          "pts": 101.68,
-          "opp_pts": 78.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 5,
-          "pts": 92.86,
-          "opp_pts": 79.32,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 14,
-          "pts": 85.56,
-          "opp_pts": 65.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 8,
-          "pts": 63.98,
-          "opp_pts": 116.88,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2016",
-          "week": 8,
-          "pts": 69.2,
-          "opp_pts": 119.4,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
+          "season": "2015",
           "week": 6,
-          "pts": 87.94,
-          "opp_pts": 113.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 6,
-          "pts": 91.36,
-          "opp_pts": 83.02,
+          "pts": 114.46,
+          "opp_pts": 91.4,
           "result": "W",
           "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 1,
-          "pts": 111.56,
-          "opp_pts": 65.84,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 10,
-          "pts": 83.22,
-          "opp_pts": 65.32,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 4,
-          "pts": 92.82,
-          "opp_pts": 70.4,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 13,
-          "pts": 132.1,
-          "opp_pts": 71.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 5,
-          "pts": 116.3,
-          "opp_pts": 99.38,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 14,
-          "pts": 147.92,
-          "opp_pts": 88.8,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 3,
-          "pts": 99.2,
-          "opp_pts": 72.9,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 12,
-          "pts": 90.9,
-          "opp_pts": 108.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 17,
-          "pts": 87.2,
-          "opp_pts": 83.1,
-          "result": "W",
-          "is_playoffs": true,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 3,
-          "pts": 85.42,
-          "opp_pts": 121.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 12,
-          "pts": 110.26,
-          "opp_pts": 70.16,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 9,
-          "pts": 92.2,
-          "opp_pts": 101.02,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 7,
-          "pts": 102.98,
-          "opp_pts": 124.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        }
-      ]
-    }
-  },
-  "Brett|||Roger": {
-    "Brett": {
-      "W": 10,
-      "L": 11,
-      "T": 0,
-      "pts_for": 1983.4,
-      "pts_against": 1981.38,
-      "games": [
-        {
-          "season": "2009",
-          "week": 9,
-          "pts": 119.6,
-          "opp_pts": 86.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminator's"
-        },
-        {
-          "season": "2010",
-          "week": 9,
-          "pts": 62.88,
-          "opp_pts": 82.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2011",
-          "week": 1,
-          "pts": 108.06,
-          "opp_pts": 89.7,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2011",
-          "week": 10,
-          "pts": 83.78,
-          "opp_pts": 108.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2012",
-          "week": 4,
-          "pts": 117.6,
-          "opp_pts": 121.22,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2012",
-          "week": 13,
-          "pts": 101.68,
-          "opp_pts": 105.7,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2013",
-          "week": 7,
-          "pts": 86.26,
-          "opp_pts": 116.92,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2014",
-          "week": 1,
-          "pts": 53.02,
-          "opp_pts": 89.88,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2014",
-          "week": 10,
-          "pts": 97.64,
-          "opp_pts": 87.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2016",
-          "week": 3,
-          "pts": 110.5,
-          "opp_pts": 71.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2016",
-          "week": 12,
-          "pts": 73.8,
-          "opp_pts": 71.74,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2017",
-          "week": 8,
-          "pts": 80.2,
-          "opp_pts": 94.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2018",
-          "week": 8,
-          "pts": 118.6,
-          "opp_pts": 111.62,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2019",
-          "week": 6,
-          "pts": 43.92,
-          "opp_pts": 72.92,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2020",
-          "week": 1,
-          "pts": 87.6,
-          "opp_pts": 123.8,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2020",
-          "week": 10,
-          "pts": 82.52,
-          "opp_pts": 59.28,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2021",
-          "week": 8,
-          "pts": 93.44,
-          "opp_pts": 70.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2022",
-          "week": 8,
-          "pts": 84.58,
-          "opp_pts": 117.58,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2023",
-          "week": 7,
-          "pts": 103.56,
-          "opp_pts": 137.68,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2024",
-          "week": 7,
-          "pts": 129.2,
-          "opp_pts": 72.66,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2025",
-          "week": 8,
-          "pts": 144.96,
-          "opp_pts": 88.52,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        }
-      ]
-    },
-    "Roger": {
-      "W": 11,
-      "L": 10,
-      "T": 0,
-      "pts_for": 1981.38,
-      "pts_against": 1983.4,
-      "games": [
-        {
-          "season": "2009",
-          "week": 9,
-          "pts": 86.88,
-          "opp_pts": 119.6,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2010",
-          "week": 9,
-          "pts": 82.5,
-          "opp_pts": 62.88,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 1,
-          "pts": 89.7,
-          "opp_pts": 108.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2011",
-          "week": 10,
-          "pts": 108.7,
-          "opp_pts": 83.78,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 4,
-          "pts": 121.22,
-          "opp_pts": 117.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2012",
-          "week": 13,
-          "pts": 105.7,
-          "opp_pts": 101.68,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2013",
-          "week": 7,
-          "pts": 116.92,
-          "opp_pts": 86.26,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 1,
-          "pts": 89.88,
-          "opp_pts": 53.02,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2014",
-          "week": 10,
-          "pts": 87.48,
-          "opp_pts": 97.64,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2016",
-          "week": 3,
-          "pts": 71.48,
-          "opp_pts": 110.5,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2016",
-          "week": 12,
-          "pts": 71.74,
-          "opp_pts": 73.8,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2017",
-          "week": 8,
-          "pts": 94.52,
-          "opp_pts": 80.2,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2018",
-          "week": 8,
-          "pts": 111.62,
-          "opp_pts": 118.6,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2019",
-          "week": 6,
-          "pts": 72.92,
-          "opp_pts": 43.92,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 1,
-          "pts": 123.8,
-          "opp_pts": 87.6,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2020",
-          "week": 10,
-          "pts": 59.28,
-          "opp_pts": 82.52,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2021",
-          "week": 8,
-          "pts": 70.6,
-          "opp_pts": 93.44,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2022",
-          "week": 8,
-          "pts": 117.58,
-          "opp_pts": 84.58,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2023",
-          "week": 7,
-          "pts": 137.68,
-          "opp_pts": 103.56,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2024",
-          "week": 7,
-          "pts": 72.66,
-          "opp_pts": 129.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
-        },
-        {
-          "season": "2025",
-          "week": 8,
-          "pts": 88.52,
-          "opp_pts": 144.96,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "BPs Muggin n Jugglin"
+          "opp_team": "cool brees"
         }
       ]
     }
@@ -60162,14 +61694,13 @@ const WSW_DATA = {
 },
   managers: {
   "Scott": {
-    "W": 268,
-    "L": 269,
+    "W": 185,
+    "L": 170,
     "T": 0,
-    "pts_for": 44876.19,
+    "pts_for": 32371.4,
     "championships": 6,
     "seasons": [
       "2001",
-      "2002",
       "2003",
       "2004",
       "2005",
@@ -60264,11 +61795,11 @@ const WSW_DATA = {
     "playoff_apps": 12
   },
   "Damon": {
-    "W": 206,
-    "L": 201,
+    "W": 159,
+    "L": 192,
     "T": 0,
-    "pts_for": 36032.14,
-    "championships": 2,
+    "pts_for": 30636.31,
+    "championships": 1,
     "seasons": [
       "2001",
       "2002",
@@ -60298,14 +61829,15 @@ const WSW_DATA = {
     "playoff_apps": 10
   },
   "Davidson": {
-    "W": 144,
-    "L": 193,
+    "W": 150,
+    "L": 201,
     "T": 0,
-    "pts_for": 29372.6,
+    "pts_for": 30336.18,
     "championships": 3,
     "seasons": [
       "2001",
       "2002",
+      "2003",
       "2004",
       "2005",
       "2006",
@@ -60329,6 +61861,33 @@ const WSW_DATA = {
       "2025"
     ],
     "playoff_apps": 10
+  },
+  "Dahmer's Cannibals": {
+    "W": 47,
+    "L": 37,
+    "T": 0,
+    "pts_for": 6043.86,
+    "championships": 0,
+    "seasons": [
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006"
+    ],
+    "playoff_apps": 0
+  },
+  "Coltrain Blue": {
+    "W": 7,
+    "L": 7,
+    "T": 0,
+    "pts_for": 1007.38,
+    "championships": 0,
+    "seasons": [
+      "2002"
+    ],
+    "playoff_apps": 0
   },
   "Robert": {
     "W": 189,
@@ -60362,6 +61921,45 @@ const WSW_DATA = {
       "2025"
     ],
     "playoff_apps": 18
+  },
+  "Jakes Jugglers": {
+    "W": 12,
+    "L": 16,
+    "T": 0,
+    "pts_for": 1772.29,
+    "championships": 0,
+    "seasons": [
+      "2002",
+      "2003"
+    ],
+    "playoff_apps": 0
+  },
+  "Radical Riptide": {
+    "W": 4,
+    "L": 10,
+    "T": 0,
+    "pts_for": 712.02,
+    "championships": 0,
+    "seasons": [
+      "2002"
+    ],
+    "playoff_apps": 0
+  },
+  "Ric's Last Resort": {
+    "W": 52,
+    "L": 32,
+    "T": 0,
+    "pts_for": 7053.21,
+    "championships": 1,
+    "seasons": [
+      "2002",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2009"
+    ],
+    "playoff_apps": 0
   },
   "Patterson Prophets": {
     "W": 6,
@@ -60405,26 +62003,16 @@ const WSW_DATA = {
     ],
     "playoff_apps": 18
   },
-  "Dahmer's Cannibals": {
-    "W": 22,
-    "L": 20,
-    "T": 0,
-    "pts_for": 2992.66,
-    "championships": 0,
-    "seasons": [
-      "2004",
-      "2005",
-      "2006"
-    ],
-    "playoff_apps": 0
-  },
   "Brett": {
-    "W": 93,
-    "L": 140,
+    "W": 117,
+    "L": 158,
     "T": 0,
-    "pts_for": 21309.92,
+    "pts_for": 24650.86,
     "championships": 0,
     "seasons": [
+      "2005",
+      "2006",
+      "2007",
       "2009",
       "2010",
       "2011",
@@ -60593,7 +62181,7 @@ const WSW_DATA = {
           "pick": 6,
           "round": 1,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Jeff Garcia",
           "position": "QB",
@@ -60606,7 +62194,7 @@ const WSW_DATA = {
           "pick": 7,
           "round": 2,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Edgerrin James",
           "position": "RB",
@@ -60749,7 +62337,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 3,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Titans",
           "position": "DEF",
@@ -60762,7 +62350,7 @@ const WSW_DATA = {
           "pick": 19,
           "round": 4,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Mike Anderson",
           "position": "RB",
@@ -60905,7 +62493,7 @@ const WSW_DATA = {
           "pick": 30,
           "round": 5,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Mike Hollis",
           "position": "K",
@@ -60918,7 +62506,7 @@ const WSW_DATA = {
           "pick": 31,
           "round": 6,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Tim Brown",
           "position": "WR",
@@ -61061,7 +62649,7 @@ const WSW_DATA = {
           "pick": 42,
           "round": 7,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Jimmy Smith",
           "position": "WR",
@@ -61074,7 +62662,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 8,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Muhsin Muhammad",
           "position": "WR",
@@ -61217,7 +62805,7 @@ const WSW_DATA = {
           "pick": 54,
           "round": 9,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Jay Riemersma",
           "position": "TE",
@@ -61230,7 +62818,7 @@ const WSW_DATA = {
           "pick": 55,
           "round": 10,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Trent Green",
           "position": "QB",
@@ -61373,7 +62961,7 @@ const WSW_DATA = {
           "pick": 66,
           "round": 11,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Broncos",
           "position": "DEF",
@@ -61386,7 +62974,7 @@ const WSW_DATA = {
           "pick": 67,
           "round": 12,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "James Stewart",
           "position": "RB",
@@ -61529,7 +63117,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 13,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Olindo Mare",
           "position": "K",
@@ -61542,7 +63130,7 @@ const WSW_DATA = {
           "pick": 79,
           "round": 14,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Jeff Graham",
           "position": "WR",
@@ -61685,7 +63273,7 @@ const WSW_DATA = {
           "pick": 90,
           "round": 15,
           "team_key": "57.l.203701.t.6",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Curtis Conway",
           "position": "WR",
@@ -61696,9 +63284,9 @@ const WSW_DATA = {
       ],
       "by_manager": {
         "Scott": {
-          "total_value": 95,
-          "picks": 30,
-          "avg_value": 3.17
+          "total_value": 113,
+          "picks": 15,
+          "avg_value": 7.53
         },
         "Roger": {
           "total_value": -37,
@@ -61719,6 +63307,11 @@ const WSW_DATA = {
           "total_value": 88,
           "picks": 15,
           "avg_value": 5.87
+        },
+        "Dahmer's Cannibals": {
+          "total_value": -18,
+          "picks": 15,
+          "avg_value": -1.2
         }
       }
     },
@@ -61729,7 +63322,7 @@ const WSW_DATA = {
           "pick": 1,
           "round": 1,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Kurt Warner",
           "position": "QB",
@@ -61742,7 +63335,7 @@ const WSW_DATA = {
           "pick": 2,
           "round": 1,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Marshall Faulk",
           "position": "RB",
@@ -61755,7 +63348,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Tim Couch",
           "position": "QB",
@@ -61781,7 +63374,7 @@ const WSW_DATA = {
           "pick": 5,
           "round": 1,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Peyton Manning",
           "position": "QB",
@@ -61794,7 +63387,7 @@ const WSW_DATA = {
           "pick": 6,
           "round": 1,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Ahman Green",
           "position": "RB",
@@ -61846,7 +63439,7 @@ const WSW_DATA = {
           "pick": 10,
           "round": 1,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Terrell Owens",
           "position": "WR",
@@ -61859,7 +63452,7 @@ const WSW_DATA = {
           "pick": 11,
           "round": 2,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Ricky Williams",
           "position": "RB",
@@ -61911,7 +63504,7 @@ const WSW_DATA = {
           "pick": 15,
           "round": 2,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Edgerrin James",
           "position": "RB",
@@ -61924,7 +63517,7 @@ const WSW_DATA = {
           "pick": 16,
           "round": 2,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Marvin Harrison",
           "position": "WR",
@@ -61950,7 +63543,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Torry Holt",
           "position": "WR",
@@ -61963,7 +63556,7 @@ const WSW_DATA = {
           "pick": 19,
           "round": 2,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Stephen Davis",
           "position": "RB",
@@ -61976,7 +63569,7 @@ const WSW_DATA = {
           "pick": 20,
           "round": 2,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "David Boston",
           "position": "WR",
@@ -61989,7 +63582,7 @@ const WSW_DATA = {
           "pick": 21,
           "round": 3,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Eddie George",
           "position": "RB",
@@ -62002,7 +63595,7 @@ const WSW_DATA = {
           "pick": 22,
           "round": 3,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Rich Gannon",
           "position": "QB",
@@ -62015,7 +63608,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Tim Brown",
           "position": "WR",
@@ -62041,7 +63634,7 @@ const WSW_DATA = {
           "pick": 25,
           "round": 3,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Anthony Thomas",
           "position": "RB",
@@ -62054,7 +63647,7 @@ const WSW_DATA = {
           "pick": 26,
           "round": 3,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Donovan McNabb",
           "position": "QB",
@@ -62106,7 +63699,7 @@ const WSW_DATA = {
           "pick": 30,
           "round": 3,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Brian Griese",
           "position": "QB",
@@ -62119,7 +63712,7 @@ const WSW_DATA = {
           "pick": 31,
           "round": 4,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Jimmy Smith",
           "position": "WR",
@@ -62171,7 +63764,7 @@ const WSW_DATA = {
           "pick": 35,
           "round": 4,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Isaac Bruce",
           "position": "WR",
@@ -62184,7 +63777,7 @@ const WSW_DATA = {
           "pick": 36,
           "round": 4,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Garrison Hearst",
           "position": "RB",
@@ -62210,7 +63803,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Kevin Johnson",
           "position": "WR",
@@ -62223,7 +63816,7 @@ const WSW_DATA = {
           "pick": 39,
           "round": 4,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Tony Gonzalez",
           "position": "TE",
@@ -62236,7 +63829,7 @@ const WSW_DATA = {
           "pick": 40,
           "round": 4,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Jerome Bettis",
           "position": "RB",
@@ -62249,7 +63842,7 @@ const WSW_DATA = {
           "pick": 41,
           "round": 5,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Jerry Rice",
           "position": "WR",
@@ -62262,7 +63855,7 @@ const WSW_DATA = {
           "pick": 42,
           "round": 5,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Keyshawn Johnson",
           "position": "WR",
@@ -62275,7 +63868,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Antowain Smith",
           "position": "RB",
@@ -62301,7 +63894,7 @@ const WSW_DATA = {
           "pick": 45,
           "round": 5,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Bubba Franks",
           "position": "TE",
@@ -62314,7 +63907,7 @@ const WSW_DATA = {
           "pick": 46,
           "round": 5,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Terry Glenn",
           "position": "WR",
@@ -62366,7 +63959,7 @@ const WSW_DATA = {
           "pick": 50,
           "round": 5,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Mike Vanderjagt",
           "position": "K",
@@ -62379,7 +63972,7 @@ const WSW_DATA = {
           "pick": 51,
           "round": 6,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Rams",
           "position": "DEF",
@@ -62431,7 +64024,7 @@ const WSW_DATA = {
           "pick": 55,
           "round": 6,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Buccaneers",
           "position": "DEF",
@@ -62444,7 +64037,7 @@ const WSW_DATA = {
           "pick": 56,
           "round": 6,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Steelers",
           "position": "DEF",
@@ -62470,7 +64063,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Michael Pittman",
           "position": "RB",
@@ -62483,7 +64076,7 @@ const WSW_DATA = {
           "pick": 59,
           "round": 6,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Chris Chambers",
           "position": "WR",
@@ -62496,7 +64089,7 @@ const WSW_DATA = {
           "pick": 60,
           "round": 6,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Jeremy Shockey",
           "position": "TE",
@@ -62509,7 +64102,7 @@ const WSW_DATA = {
           "pick": 61,
           "round": 7,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Donte' Stallworth",
           "position": "WR",
@@ -62522,7 +64115,7 @@ const WSW_DATA = {
           "pick": 62,
           "round": 7,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "James Thrash",
           "position": "WR",
@@ -62535,7 +64128,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Cameron Cleeland",
           "position": "TE",
@@ -62561,7 +64154,7 @@ const WSW_DATA = {
           "pick": 65,
           "round": 7,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "J.J. Stokes",
           "position": "WR",
@@ -62574,7 +64167,7 @@ const WSW_DATA = {
           "pick": 66,
           "round": 7,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Amani Toomer",
           "position": "WR",
@@ -62626,7 +64219,7 @@ const WSW_DATA = {
           "pick": 70,
           "round": 7,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Olandis Gary",
           "position": "RB",
@@ -62639,7 +64232,7 @@ const WSW_DATA = {
           "pick": 71,
           "round": 8,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Warrick Dunn",
           "position": "RB",
@@ -62691,7 +64284,7 @@ const WSW_DATA = {
           "pick": 75,
           "round": 8,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Freddie Jones",
           "position": "TE",
@@ -62704,7 +64297,7 @@ const WSW_DATA = {
           "pick": 76,
           "round": 8,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Bill Gramatica",
           "position": "K",
@@ -62730,7 +64323,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Sebastian Janikowski",
           "position": "K",
@@ -62743,7 +64336,7 @@ const WSW_DATA = {
           "pick": 79,
           "round": 8,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Jeff Wilkins",
           "position": "K",
@@ -62756,7 +64349,7 @@ const WSW_DATA = {
           "pick": 80,
           "round": 8,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Jason Elam",
           "position": "K",
@@ -62769,7 +64362,7 @@ const WSW_DATA = {
           "pick": 81,
           "round": 9,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Commanders",
           "position": "DEF",
@@ -62782,7 +64375,7 @@ const WSW_DATA = {
           "pick": 82,
           "round": 9,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Duce Staley",
           "position": "RB",
@@ -62795,7 +64388,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Bears",
           "position": "DEF",
@@ -62821,7 +64414,7 @@ const WSW_DATA = {
           "pick": 85,
           "round": 9,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Antonio Freeman",
           "position": "WR",
@@ -62834,7 +64427,7 @@ const WSW_DATA = {
           "pick": 86,
           "round": 9,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Olindo Mare",
           "position": "K",
@@ -62886,7 +64479,7 @@ const WSW_DATA = {
           "pick": 90,
           "round": 9,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Tom Brady",
           "position": "QB",
@@ -62899,7 +64492,7 @@ const WSW_DATA = {
           "pick": 91,
           "round": 10,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Marty Booker",
           "position": "WR",
@@ -62951,7 +64544,7 @@ const WSW_DATA = {
           "pick": 95,
           "round": 10,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Michael Vick",
           "position": "QB",
@@ -62964,7 +64557,7 @@ const WSW_DATA = {
           "pick": 96,
           "round": 10,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "David Terrell",
           "position": "WR",
@@ -62990,7 +64583,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Boo Williams",
           "position": "TE",
@@ -63003,7 +64596,7 @@ const WSW_DATA = {
           "pick": 99,
           "round": 10,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Jay Fiedler",
           "position": "QB",
@@ -63016,7 +64609,7 @@ const WSW_DATA = {
           "pick": 100,
           "round": 10,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Charlie Garner",
           "position": "RB",
@@ -63029,7 +64622,7 @@ const WSW_DATA = {
           "pick": 101,
           "round": 11,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Derrick Alexander",
           "position": "WR",
@@ -63042,7 +64635,7 @@ const WSW_DATA = {
           "pick": 102,
           "round": 11,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Hines Ward",
           "position": "WR",
@@ -63055,7 +64648,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Todd Peterson",
           "position": "K",
@@ -63081,7 +64674,7 @@ const WSW_DATA = {
           "pick": 105,
           "round": 11,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Tiki Barber",
           "position": "RB",
@@ -63094,7 +64687,7 @@ const WSW_DATA = {
           "pick": 106,
           "round": 11,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Muhsin Muhammad",
           "position": "WR",
@@ -63146,7 +64739,7 @@ const WSW_DATA = {
           "pick": 110,
           "round": 11,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Frank Wycheck",
           "position": "TE",
@@ -63159,7 +64752,7 @@ const WSW_DATA = {
           "pick": 111,
           "round": 12,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Joey Galloway",
           "position": "WR",
@@ -63211,7 +64804,7 @@ const WSW_DATA = {
           "pick": 115,
           "round": 12,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "James Stewart",
           "position": "RB",
@@ -63224,7 +64817,7 @@ const WSW_DATA = {
           "pick": 116,
           "round": 12,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Travis Henry",
           "position": "RB",
@@ -63250,7 +64843,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Browns",
           "position": "DEF",
@@ -63263,7 +64856,7 @@ const WSW_DATA = {
           "pick": 119,
           "round": 12,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Cowboys",
           "position": "DEF",
@@ -63276,7 +64869,7 @@ const WSW_DATA = {
           "pick": 120,
           "round": 12,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Jamal Lewis",
           "position": "RB",
@@ -63289,7 +64882,7 @@ const WSW_DATA = {
           "pick": 121,
           "round": 13,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Vinny Testaverde",
           "position": "QB",
@@ -63302,7 +64895,7 @@ const WSW_DATA = {
           "pick": 122,
           "round": 13,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Jacquez Green",
           "position": "WR",
@@ -63315,7 +64908,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Kerry Collins",
           "position": "QB",
@@ -63341,7 +64934,7 @@ const WSW_DATA = {
           "pick": 125,
           "round": 13,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Dolphins",
           "position": "DEF",
@@ -63354,7 +64947,7 @@ const WSW_DATA = {
           "pick": 126,
           "round": 13,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Bill Schroeder",
           "position": "WR",
@@ -63406,7 +64999,7 @@ const WSW_DATA = {
           "pick": 130,
           "round": 13,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Tony McGee",
           "position": "TE",
@@ -63419,7 +65012,7 @@ const WSW_DATA = {
           "pick": 131,
           "round": 14,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "Adam Vinatieri",
           "position": "K",
@@ -63471,7 +65064,7 @@ const WSW_DATA = {
           "pick": 135,
           "round": 14,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Tyrone Wheatley",
           "position": "RB",
@@ -63484,7 +65077,7 @@ const WSW_DATA = {
           "pick": 136,
           "round": 14,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Ryan Longwell",
           "position": "K",
@@ -63510,7 +65103,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Travis Taylor",
           "position": "WR",
@@ -63523,7 +65116,7 @@ const WSW_DATA = {
           "pick": 139,
           "round": 14,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Kevan Barlow",
           "position": "RB",
@@ -63536,7 +65129,7 @@ const WSW_DATA = {
           "pick": 140,
           "round": 14,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Az-Zahir Hakim",
           "position": "WR",
@@ -63549,7 +65142,7 @@ const WSW_DATA = {
           "pick": 141,
           "round": 15,
           "team_key": "49.l.19125.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre AvenGERs",
           "player_name": "Oronde Gadsden",
           "position": "WR",
@@ -63562,7 +65155,7 @@ const WSW_DATA = {
           "pick": 142,
           "round": 15,
           "team_key": "49.l.19125.t.9",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmer's Cannibals",
           "player_name": "Ernie Conwell",
           "position": "TE",
@@ -63575,7 +65168,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "49.l.19125.t.6",
-          "manager": "Scott",
+          "manager": "Radical Riptide",
           "team_name": "Radical Riptide",
           "player_name": "Eddie Kennison",
           "position": "WR",
@@ -63601,7 +65194,7 @@ const WSW_DATA = {
           "pick": 145,
           "round": 15,
           "team_key": "49.l.19125.t.7",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "jakesjugglers",
           "player_name": "Willie Jackson",
           "position": "WR",
@@ -63614,7 +65207,7 @@ const WSW_DATA = {
           "pick": 146,
           "round": 15,
           "team_key": "49.l.19125.t.1",
-          "manager": "Scott",
+          "manager": "Coltrain Blue",
           "team_name": "Coltrain Blue",
           "player_name": "Jake Plummer",
           "position": "QB",
@@ -63666,7 +65259,7 @@ const WSW_DATA = {
           "pick": 150,
           "round": 15,
           "team_key": "49.l.19125.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "ric's last resort",
           "player_name": "49ers",
           "position": "DEF",
@@ -63676,15 +65269,35 @@ const WSW_DATA = {
         }
       ],
       "by_manager": {
-        "Scott": {
-          "total_value": -333,
-          "picks": 75,
-          "avg_value": -4.44
+        "Damon": {
+          "total_value": -260,
+          "picks": 15,
+          "avg_value": -17.33
+        },
+        "Dahmer's Cannibals": {
+          "total_value": -19,
+          "picks": 15,
+          "avg_value": -1.27
+        },
+        "Radical Riptide": {
+          "total_value": -94,
+          "picks": 15,
+          "avg_value": -6.27
         },
         "Michael": {
           "total_value": -68,
           "picks": 15,
           "avg_value": -4.53
+        },
+        "Jakes Jugglers": {
+          "total_value": 43,
+          "picks": 15,
+          "avg_value": 2.87
+        },
+        "Coltrain Blue": {
+          "total_value": -3,
+          "picks": 15,
+          "avg_value": -0.2
         },
         "Roger": {
           "total_value": 119,
@@ -63701,7 +65314,7 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": -4.47
         },
-        "Damon": {
+        "Ric's Last Resort": {
           "total_value": 126,
           "picks": 15,
           "avg_value": 8.4
@@ -63715,7 +65328,7 @@ const WSW_DATA = {
           "pick": 1,
           "round": 1,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "LaDainian Tomlinson",
           "position": "RB",
@@ -63754,7 +65367,7 @@ const WSW_DATA = {
           "pick": 4,
           "round": 1,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Michael Vick",
           "position": "QB",
@@ -63780,7 +65393,7 @@ const WSW_DATA = {
           "pick": 6,
           "round": 1,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Marshall Faulk",
           "position": "RB",
@@ -63845,7 +65458,7 @@ const WSW_DATA = {
           "pick": 11,
           "round": 2,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Rich Gannon",
           "position": "QB",
@@ -63871,7 +65484,7 @@ const WSW_DATA = {
           "pick": 13,
           "round": 2,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Marvin Harrison",
           "position": "WR",
@@ -63910,7 +65523,7 @@ const WSW_DATA = {
           "pick": 16,
           "round": 2,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Aaron Brooks",
           "position": "QB",
@@ -63923,7 +65536,7 @@ const WSW_DATA = {
           "pick": 17,
           "round": 3,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Edgerrin James",
           "position": "RB",
@@ -63962,7 +65575,7 @@ const WSW_DATA = {
           "pick": 20,
           "round": 3,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Stephen Davis",
           "position": "RB",
@@ -63988,7 +65601,7 @@ const WSW_DATA = {
           "pick": 22,
           "round": 3,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Hines Ward",
           "position": "WR",
@@ -64053,7 +65666,7 @@ const WSW_DATA = {
           "pick": 27,
           "round": 4,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Fred Taylor",
           "position": "RB",
@@ -64079,7 +65692,7 @@ const WSW_DATA = {
           "pick": 29,
           "round": 4,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Eddie George",
           "position": "RB",
@@ -64118,7 +65731,7 @@ const WSW_DATA = {
           "pick": 32,
           "round": 4,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Torry Holt",
           "position": "WR",
@@ -64131,7 +65744,7 @@ const WSW_DATA = {
           "pick": 33,
           "round": 5,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Todd Heap",
           "position": "TE",
@@ -64170,7 +65783,7 @@ const WSW_DATA = {
           "pick": 36,
           "round": 5,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Jeremy Shockey",
           "position": "TE",
@@ -64196,7 +65809,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 5,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Bubba Franks",
           "position": "TE",
@@ -64261,7 +65874,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 6,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Jimmy Smith",
           "position": "WR",
@@ -64287,7 +65900,7 @@ const WSW_DATA = {
           "pick": 45,
           "round": 6,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Donald Driver",
           "position": "WR",
@@ -64326,7 +65939,7 @@ const WSW_DATA = {
           "pick": 48,
           "round": 6,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Corey Dillon",
           "position": "RB",
@@ -64339,7 +65952,7 @@ const WSW_DATA = {
           "pick": 49,
           "round": 7,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "David Boston",
           "position": "WR",
@@ -64378,7 +65991,7 @@ const WSW_DATA = {
           "pick": 52,
           "round": 7,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Dolphins",
           "position": "DEF",
@@ -64404,7 +66017,7 @@ const WSW_DATA = {
           "pick": 54,
           "round": 7,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Amani Toomer",
           "position": "WR",
@@ -64469,7 +66082,7 @@ const WSW_DATA = {
           "pick": 59,
           "round": 8,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Jerry Porter",
           "position": "WR",
@@ -64495,7 +66108,7 @@ const WSW_DATA = {
           "pick": 61,
           "round": 8,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Laveranues Coles",
           "position": "WR",
@@ -64534,7 +66147,7 @@ const WSW_DATA = {
           "pick": 64,
           "round": 8,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Brad Johnson",
           "position": "QB",
@@ -64547,7 +66160,7 @@ const WSW_DATA = {
           "pick": 65,
           "round": 9,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Saints",
           "position": "DEF",
@@ -64586,7 +66199,7 @@ const WSW_DATA = {
           "pick": 68,
           "round": 9,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Mike Vanderjagt",
           "position": "K",
@@ -64612,7 +66225,7 @@ const WSW_DATA = {
           "pick": 70,
           "round": 9,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Sebastian Janikowski",
           "position": "K",
@@ -64677,7 +66290,7 @@ const WSW_DATA = {
           "pick": 75,
           "round": 10,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Steelers",
           "position": "DEF",
@@ -64703,7 +66316,7 @@ const WSW_DATA = {
           "pick": 77,
           "round": 10,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Garrison Hearst",
           "position": "RB",
@@ -64742,7 +66355,7 @@ const WSW_DATA = {
           "pick": 80,
           "round": 10,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Jason Elam",
           "position": "K",
@@ -64755,7 +66368,7 @@ const WSW_DATA = {
           "pick": 81,
           "round": 11,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Chad Pennington",
           "position": "QB",
@@ -64794,7 +66407,7 @@ const WSW_DATA = {
           "pick": 84,
           "round": 11,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Tommy Maddox",
           "position": "QB",
@@ -64820,7 +66433,7 @@ const WSW_DATA = {
           "pick": 86,
           "round": 11,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Kerry Collins",
           "position": "QB",
@@ -64885,7 +66498,7 @@ const WSW_DATA = {
           "pick": 91,
           "round": 12,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Kevan Barlow",
           "position": "RB",
@@ -64911,7 +66524,7 @@ const WSW_DATA = {
           "pick": 93,
           "round": 12,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Troy Brown",
           "position": "WR",
@@ -64950,7 +66563,7 @@ const WSW_DATA = {
           "pick": 96,
           "round": 12,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Keenan McCardell",
           "position": "WR",
@@ -64963,7 +66576,7 @@ const WSW_DATA = {
           "pick": 97,
           "round": 13,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Darrell Jackson",
           "position": "WR",
@@ -65002,7 +66615,7 @@ const WSW_DATA = {
           "pick": 100,
           "round": 13,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "James Thrash",
           "position": "WR",
@@ -65028,7 +66641,7 @@ const WSW_DATA = {
           "pick": 102,
           "round": 13,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Antowain Smith",
           "position": "RB",
@@ -65093,7 +66706,7 @@ const WSW_DATA = {
           "pick": 107,
           "round": 14,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Brian Finneran",
           "position": "WR",
@@ -65119,7 +66732,7 @@ const WSW_DATA = {
           "pick": 109,
           "round": 14,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Titans",
           "position": "DEF",
@@ -65158,7 +66771,7 @@ const WSW_DATA = {
           "pick": 112,
           "round": 14,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Javon Walker",
           "position": "WR",
@@ -65171,7 +66784,7 @@ const WSW_DATA = {
           "pick": 113,
           "round": 15,
           "team_key": "79.l.151193.t.2",
-          "manager": "Scott",
+          "manager": "Davidson",
           "team_name": "The Fighting Tigers",
           "player_name": "Kevin Faulk",
           "position": "RB",
@@ -65210,7 +66823,7 @@ const WSW_DATA = {
           "pick": 116,
           "round": 15,
           "team_key": "79.l.151193.t.6",
-          "manager": "Scott",
+          "manager": "Jakes Jugglers",
           "team_name": "Jakes Jugglers",
           "player_name": "Quincy Morgan",
           "position": "WR",
@@ -65236,7 +66849,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 15,
           "team_key": "79.l.151193.t.8",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "Dahmers Cannibals",
           "player_name": "Emmitt Smith",
           "position": "RB",
@@ -65272,9 +66885,9 @@ const WSW_DATA = {
         }
       ],
       "by_manager": {
-        "Scott": {
+        "Davidson": {
           "total_value": 0,
-          "picks": 60,
+          "picks": 15,
           "avg_value": 0.0
         },
         "Michael": {
@@ -65282,7 +66895,22 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 0.0
         },
+        "Scott": {
+          "total_value": 0,
+          "picks": 15,
+          "avg_value": 0.0
+        },
+        "Jakes Jugglers": {
+          "total_value": 0,
+          "picks": 15,
+          "avg_value": 0.0
+        },
         "Robert": {
+          "total_value": 0,
+          "picks": 15,
+          "avg_value": 0.0
+        },
+        "Dahmer's Cannibals": {
           "total_value": 0,
           "picks": 15,
           "avg_value": 0.0
@@ -65306,7 +66934,7 @@ const WSW_DATA = {
           "pick": 1,
           "round": 1,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Priest Holmes",
           "position": "RB",
@@ -65332,7 +66960,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Clinton Portis",
           "position": "RB",
@@ -65384,7 +67012,7 @@ const WSW_DATA = {
           "pick": 7,
           "round": 1,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Marshall Faulk",
           "position": "RB",
@@ -65423,7 +67051,7 @@ const WSW_DATA = {
           "pick": 10,
           "round": 1,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Fred Taylor",
           "position": "RB",
@@ -65436,7 +67064,7 @@ const WSW_DATA = {
           "pick": 11,
           "round": 2,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Randy Moss",
           "position": "WR",
@@ -65475,7 +67103,7 @@ const WSW_DATA = {
           "pick": 14,
           "round": 2,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Peyton Manning",
           "position": "QB",
@@ -65527,7 +67155,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Stephen Davis",
           "position": "RB",
@@ -65553,7 +67181,7 @@ const WSW_DATA = {
           "pick": 20,
           "round": 2,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Terrell Owens",
           "position": "WR",
@@ -65566,7 +67194,7 @@ const WSW_DATA = {
           "pick": 21,
           "round": 3,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Steve McNair",
           "position": "QB",
@@ -65592,7 +67220,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Joe Horn",
           "position": "WR",
@@ -65644,7 +67272,7 @@ const WSW_DATA = {
           "pick": 27,
           "round": 3,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Brett Favre",
           "position": "QB",
@@ -65683,7 +67311,7 @@ const WSW_DATA = {
           "pick": 30,
           "round": 3,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Rudi Johnson",
           "position": "RB",
@@ -65696,7 +67324,7 @@ const WSW_DATA = {
           "pick": 31,
           "round": 4,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Donovan McNabb",
           "position": "QB",
@@ -65735,7 +67363,7 @@ const WSW_DATA = {
           "pick": 34,
           "round": 4,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Isaac Bruce",
           "position": "WR",
@@ -65787,7 +67415,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Steve Smith",
           "position": "WR",
@@ -65813,7 +67441,7 @@ const WSW_DATA = {
           "pick": 40,
           "round": 4,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Derrick Mason",
           "position": "WR",
@@ -65826,7 +67454,7 @@ const WSW_DATA = {
           "pick": 41,
           "round": 5,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Dolphins",
           "position": "DEF",
@@ -65852,7 +67480,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Darrell Jackson",
           "position": "WR",
@@ -65904,7 +67532,7 @@ const WSW_DATA = {
           "pick": 47,
           "round": 5,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Duce Staley",
           "position": "RB",
@@ -65943,7 +67571,7 @@ const WSW_DATA = {
           "pick": 50,
           "round": 5,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Andre Johnson",
           "position": "WR",
@@ -65956,7 +67584,7 @@ const WSW_DATA = {
           "pick": 51,
           "round": 6,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Todd Heap",
           "position": "TE",
@@ -65995,7 +67623,7 @@ const WSW_DATA = {
           "pick": 54,
           "round": 6,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Donald Driver",
           "position": "WR",
@@ -66047,7 +67675,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jeremy Shockey",
           "position": "TE",
@@ -66073,7 +67701,7 @@ const WSW_DATA = {
           "pick": 60,
           "round": 6,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Justin McCareins",
           "position": "WR",
@@ -66086,7 +67714,7 @@ const WSW_DATA = {
           "pick": 61,
           "round": 7,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Kevin Jones",
           "position": "RB",
@@ -66112,7 +67740,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Eagles",
           "position": "DEF",
@@ -66164,7 +67792,7 @@ const WSW_DATA = {
           "pick": 67,
           "round": 7,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Peter Warrick",
           "position": "WR",
@@ -66203,7 +67831,7 @@ const WSW_DATA = {
           "pick": 70,
           "round": 7,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Keyshawn Johnson",
           "position": "WR",
@@ -66216,7 +67844,7 @@ const WSW_DATA = {
           "pick": 71,
           "round": 8,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Buccaneers",
           "position": "DEF",
@@ -66255,7 +67883,7 @@ const WSW_DATA = {
           "pick": 74,
           "round": 8,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Keenan McCardell",
           "position": "WR",
@@ -66307,7 +67935,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Tom Brady",
           "position": "QB",
@@ -66333,7 +67961,7 @@ const WSW_DATA = {
           "pick": 80,
           "round": 8,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Alge Crumpler",
           "position": "TE",
@@ -66346,7 +67974,7 @@ const WSW_DATA = {
           "pick": 81,
           "round": 9,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Jeff Wilkins",
           "position": "K",
@@ -66372,7 +68000,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Curtis Martin",
           "position": "RB",
@@ -66424,7 +68052,7 @@ const WSW_DATA = {
           "pick": 87,
           "round": 9,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "T.J. Duckett",
           "position": "RB",
@@ -66463,7 +68091,7 @@ const WSW_DATA = {
           "pick": 90,
           "round": 9,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "David Akers",
           "position": "K",
@@ -66476,7 +68104,7 @@ const WSW_DATA = {
           "pick": 91,
           "round": 10,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Eddie George",
           "position": "RB",
@@ -66515,7 +68143,7 @@ const WSW_DATA = {
           "pick": 94,
           "round": 10,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Saints",
           "position": "DEF",
@@ -66567,7 +68195,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Marcus Robinson",
           "position": "WR",
@@ -66593,7 +68221,7 @@ const WSW_DATA = {
           "pick": 100,
           "round": 10,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Rod Gardner",
           "position": "WR",
@@ -66606,7 +68234,7 @@ const WSW_DATA = {
           "pick": 101,
           "round": 11,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Warrick Dunn",
           "position": "RB",
@@ -66632,7 +68260,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jake Delhomme",
           "position": "QB",
@@ -66684,7 +68312,7 @@ const WSW_DATA = {
           "pick": 107,
           "round": 11,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Bubba Franks",
           "position": "TE",
@@ -66723,7 +68351,7 @@ const WSW_DATA = {
           "pick": 110,
           "round": 11,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Randy McMichael",
           "position": "TE",
@@ -66736,7 +68364,7 @@ const WSW_DATA = {
           "pick": 111,
           "round": 12,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Deion Branch",
           "position": "WR",
@@ -66775,7 +68403,7 @@ const WSW_DATA = {
           "pick": 114,
           "round": 12,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "John Kasay",
           "position": "K",
@@ -66827,7 +68455,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Josh Brown",
           "position": "K",
@@ -66853,7 +68481,7 @@ const WSW_DATA = {
           "pick": 120,
           "round": 12,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Jake Plummer",
           "position": "QB",
@@ -66866,7 +68494,7 @@ const WSW_DATA = {
           "pick": 121,
           "round": 13,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Joey Galloway",
           "position": "WR",
@@ -66892,7 +68520,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jerry Rice",
           "position": "WR",
@@ -66944,7 +68572,7 @@ const WSW_DATA = {
           "pick": 127,
           "round": 13,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Eddie Kennison",
           "position": "WR",
@@ -66983,7 +68611,7 @@ const WSW_DATA = {
           "pick": 130,
           "round": 13,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Tommy Maddox",
           "position": "QB",
@@ -66996,7 +68624,7 @@ const WSW_DATA = {
           "pick": 131,
           "round": 14,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Quincy Morgan",
           "position": "WR",
@@ -67035,7 +68663,7 @@ const WSW_DATA = {
           "pick": 134,
           "round": 14,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Correll Buckhalter",
           "position": "RB",
@@ -67087,7 +68715,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Onterrio Smith",
           "position": "RB",
@@ -67113,7 +68741,7 @@ const WSW_DATA = {
           "pick": 140,
           "round": 14,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Troy Brown",
           "position": "WR",
@@ -67126,7 +68754,7 @@ const WSW_DATA = {
           "pick": 141,
           "round": 15,
           "team_key": "101.l.171143.t.4",
-          "manager": "Patterson Prophets",
+          "manager": null,
           "team_name": "Patterson Prophets",
           "player_name": "Moe Williams",
           "position": "RB",
@@ -67152,7 +68780,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "101.l.171143.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Julius Jones",
           "position": "RB",
@@ -67204,7 +68832,7 @@ const WSW_DATA = {
           "pick": 147,
           "round": 15,
           "team_key": "101.l.171143.t.2",
-          "manager": "Scott",
+          "manager": "Damon",
           "team_name": "LaSeBre",
           "player_name": "Dante Hall",
           "position": "WR",
@@ -67243,7 +68871,7 @@ const WSW_DATA = {
           "pick": 150,
           "round": 15,
           "team_key": "101.l.171143.t.10",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Titans",
           "position": "DEF",
@@ -67253,20 +68881,10 @@ const WSW_DATA = {
         }
       ],
       "by_manager": {
-        "Patterson Prophets": {
-          "total_value": -17,
-          "picks": 15,
-          "avg_value": -1.13
-        },
         "Davidson": {
           "total_value": 21,
           "picks": 15,
           "avg_value": 1.4
-        },
-        "Chris": {
-          "total_value": 99,
-          "picks": 15,
-          "avg_value": 6.6
         },
         "Dahmer's Cannibals": {
           "total_value": -92,
@@ -67283,17 +68901,22 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 23.27
         },
-        "Scott": {
-          "total_value": -197,
-          "picks": 30,
-          "avg_value": -6.57
+        "Damon": {
+          "total_value": -163,
+          "picks": 15,
+          "avg_value": -10.87
         },
         "Michael": {
           "total_value": -138,
           "picks": 15,
           "avg_value": -9.2
         },
-        "Damon": {
+        "Scott": {
+          "total_value": -34,
+          "picks": 15,
+          "avg_value": -2.27
+        },
+        "Ric's Last Resort": {
           "total_value": -31,
           "picks": 15,
           "avg_value": -2.07
@@ -67320,7 +68943,7 @@ const WSW_DATA = {
           "pick": 2,
           "round": 1,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "LaDainian Tomlinson",
           "position": "RB",
@@ -67333,7 +68956,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Shaun Alexander",
           "position": "RB",
@@ -67346,7 +68969,7 @@ const WSW_DATA = {
           "pick": 4,
           "round": 1,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Priest Holmes",
           "position": "RB",
@@ -67515,7 +69138,7 @@ const WSW_DATA = {
           "pick": 17,
           "round": 2,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Julius Jones",
           "position": "RB",
@@ -67528,7 +69151,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Donovan McNabb",
           "position": "QB",
@@ -67541,7 +69164,7 @@ const WSW_DATA = {
           "pick": 19,
           "round": 2,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Marvin Harrison",
           "position": "WR",
@@ -67580,7 +69203,7 @@ const WSW_DATA = {
           "pick": 22,
           "round": 3,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Terrell Owens",
           "position": "WR",
@@ -67593,7 +69216,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Clinton Portis",
           "position": "RB",
@@ -67606,7 +69229,7 @@ const WSW_DATA = {
           "pick": 24,
           "round": 3,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Javon Walker",
           "position": "WR",
@@ -67775,7 +69398,7 @@ const WSW_DATA = {
           "pick": 37,
           "round": 4,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Marc Bulger",
           "position": "QB",
@@ -67788,7 +69411,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Darrell Jackson",
           "position": "WR",
@@ -67801,7 +69424,7 @@ const WSW_DATA = {
           "pick": 39,
           "round": 4,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Ravens",
           "position": "DEF",
@@ -67840,7 +69463,7 @@ const WSW_DATA = {
           "pick": 42,
           "round": 5,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Michael Clayton",
           "position": "WR",
@@ -67853,7 +69476,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Drew Bennett",
           "position": "WR",
@@ -67866,7 +69489,7 @@ const WSW_DATA = {
           "pick": 44,
           "round": 5,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Nate Burleson",
           "position": "WR",
@@ -68035,7 +69658,7 @@ const WSW_DATA = {
           "pick": 57,
           "round": 6,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Cadillac Williams",
           "position": "RB",
@@ -68048,7 +69671,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Eric Moulds",
           "position": "WR",
@@ -68061,7 +69684,7 @@ const WSW_DATA = {
           "pick": 59,
           "round": 6,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Jake Delhomme",
           "position": "QB",
@@ -68100,7 +69723,7 @@ const WSW_DATA = {
           "pick": 62,
           "round": 7,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Cedric Benson",
           "position": "RB",
@@ -68113,7 +69736,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Jeremy Shockey",
           "position": "TE",
@@ -68126,7 +69749,7 @@ const WSW_DATA = {
           "pick": 64,
           "round": 7,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Mike Anderson",
           "position": "RB",
@@ -68295,7 +69918,7 @@ const WSW_DATA = {
           "pick": 77,
           "round": 8,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Plaxico Burress",
           "position": "WR",
@@ -68308,7 +69931,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Jason Elam",
           "position": "K",
@@ -68321,7 +69944,7 @@ const WSW_DATA = {
           "pick": 79,
           "round": 8,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Brandon Stokley",
           "position": "WR",
@@ -68360,7 +69983,7 @@ const WSW_DATA = {
           "pick": 82,
           "round": 9,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Alge Crumpler",
           "position": "TE",
@@ -68373,7 +69996,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Falcons",
           "position": "DEF",
@@ -68386,7 +70009,7 @@ const WSW_DATA = {
           "pick": 84,
           "round": 9,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Eddie Kennison",
           "position": "WR",
@@ -68555,7 +70178,7 @@ const WSW_DATA = {
           "pick": 97,
           "round": 10,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Patriots",
           "position": "DEF",
@@ -68568,7 +70191,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Aaron Brooks",
           "position": "QB",
@@ -68581,7 +70204,7 @@ const WSW_DATA = {
           "pick": 99,
           "round": 10,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "J.J. Arrington",
           "position": "RB",
@@ -68620,7 +70243,7 @@ const WSW_DATA = {
           "pick": 102,
           "round": 11,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Jake Plummer",
           "position": "QB",
@@ -68633,7 +70256,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Todd Heap",
           "position": "TE",
@@ -68646,7 +70269,7 @@ const WSW_DATA = {
           "pick": 104,
           "round": 11,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dallas Clark",
           "position": "TE",
@@ -68815,7 +70438,7 @@ const WSW_DATA = {
           "pick": 117,
           "round": 12,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Charles Rogers",
           "position": "WR",
@@ -68828,7 +70451,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Reuben Droughns",
           "position": "RB",
@@ -68841,7 +70464,7 @@ const WSW_DATA = {
           "pick": 119,
           "round": 12,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Ronald Curry",
           "position": "WR",
@@ -68880,7 +70503,7 @@ const WSW_DATA = {
           "pick": 122,
           "round": 13,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Troy Williamson",
           "position": "WR",
@@ -68893,7 +70516,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Matt Stover",
           "position": "K",
@@ -68906,7 +70529,7 @@ const WSW_DATA = {
           "pick": 124,
           "round": 13,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Stephen Davis",
           "position": "RB",
@@ -69075,7 +70698,7 @@ const WSW_DATA = {
           "pick": 137,
           "round": 14,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Byron Leftwich",
           "position": "QB",
@@ -69088,7 +70711,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Joey Galloway",
           "position": "WR",
@@ -69101,7 +70724,7 @@ const WSW_DATA = {
           "pick": 139,
           "round": 14,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Jeff Reed",
           "position": "K",
@@ -69140,7 +70763,7 @@ const WSW_DATA = {
           "pick": 142,
           "round": 15,
           "team_key": "125.l.3374.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Jerome Bettis",
           "position": "RB",
@@ -69153,7 +70776,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "125.l.3374.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Rics Last Resort",
           "player_name": "Justin McCareins",
           "position": "WR",
@@ -69166,7 +70789,7 @@ const WSW_DATA = {
           "pick": 144,
           "round": 15,
           "team_key": "125.l.3374.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jason Hanson",
           "position": "K",
@@ -69259,25 +70882,25 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 0.67
         },
-        "Scott": {
-          "total_value": 46,
-          "picks": 30,
-          "avg_value": 1.53
-        },
-        "Damon": {
-          "total_value": 253,
-          "picks": 30,
-          "avg_value": 8.43
-        },
-        "Chris": {
-          "total_value": -137,
+        "Brett": {
+          "total_value": -134,
           "picks": 15,
-          "avg_value": -9.13
+          "avg_value": -8.93
+        },
+        "Ric's Last Resort": {
+          "total_value": 169,
+          "picks": 15,
+          "avg_value": 11.27
         },
         "Robert": {
           "total_value": -9,
           "picks": 15,
           "avg_value": -0.6
+        },
+        "Damon": {
+          "total_value": 84,
+          "picks": 15,
+          "avg_value": 5.6
         },
         "Roger": {
           "total_value": 38,
@@ -69293,6 +70916,11 @@ const WSW_DATA = {
           "total_value": -305,
           "picks": 15,
           "avg_value": -20.33
+        },
+        "Scott": {
+          "total_value": 180,
+          "picks": 15,
+          "avg_value": 12.0
         }
       }
     },
@@ -69316,7 +70944,7 @@ const WSW_DATA = {
           "pick": 2,
           "round": 1,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Larry Johnson",
           "position": "RB",
@@ -69355,7 +70983,7 @@ const WSW_DATA = {
           "pick": 5,
           "round": 1,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ronnie Brown",
           "position": "RB",
@@ -69368,7 +70996,7 @@ const WSW_DATA = {
           "pick": 6,
           "round": 1,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Clinton Portis",
           "position": "RB",
@@ -69485,7 +71113,7 @@ const WSW_DATA = {
           "pick": 15,
           "round": 2,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Steve Smith",
           "position": "WR",
@@ -69498,7 +71126,7 @@ const WSW_DATA = {
           "pick": 16,
           "round": 2,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Larry Fitzgerald",
           "position": "WR",
@@ -69537,7 +71165,7 @@ const WSW_DATA = {
           "pick": 19,
           "round": 2,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Terrell Owens",
           "position": "WR",
@@ -69576,7 +71204,7 @@ const WSW_DATA = {
           "pick": 22,
           "round": 3,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Brian Westbrook",
           "position": "RB",
@@ -69615,7 +71243,7 @@ const WSW_DATA = {
           "pick": 25,
           "round": 3,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Willis McGahee",
           "position": "RB",
@@ -69628,7 +71256,7 @@ const WSW_DATA = {
           "pick": 26,
           "round": 3,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Hines Ward",
           "position": "WR",
@@ -69745,7 +71373,7 @@ const WSW_DATA = {
           "pick": 35,
           "round": 4,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Kevin Jones",
           "position": "RB",
@@ -69758,7 +71386,7 @@ const WSW_DATA = {
           "pick": 36,
           "round": 4,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Roy Williams",
           "position": "WR",
@@ -69797,7 +71425,7 @@ const WSW_DATA = {
           "pick": 39,
           "round": 4,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Eli Manning",
           "position": "QB",
@@ -69836,7 +71464,7 @@ const WSW_DATA = {
           "pick": 42,
           "round": 5,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Darrell Jackson",
           "position": "WR",
@@ -69875,7 +71503,7 @@ const WSW_DATA = {
           "pick": 45,
           "round": 5,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Donovan McNabb",
           "position": "QB",
@@ -69888,7 +71516,7 @@ const WSW_DATA = {
           "pick": 46,
           "round": 5,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Deuce McAllister",
           "position": "RB",
@@ -70005,7 +71633,7 @@ const WSW_DATA = {
           "pick": 55,
           "round": 6,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Panthers",
           "position": "DEF",
@@ -70018,7 +71646,7 @@ const WSW_DATA = {
           "pick": 56,
           "round": 6,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Javon Walker",
           "position": "WR",
@@ -70057,7 +71685,7 @@ const WSW_DATA = {
           "pick": 59,
           "round": 6,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Corey Dillon",
           "position": "RB",
@@ -70096,7 +71724,7 @@ const WSW_DATA = {
           "pick": 62,
           "round": 7,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Alge Crumpler",
           "position": "TE",
@@ -70135,7 +71763,7 @@ const WSW_DATA = {
           "pick": 65,
           "round": 7,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "DeShaun Foster",
           "position": "RB",
@@ -70148,7 +71776,7 @@ const WSW_DATA = {
           "pick": 66,
           "round": 7,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Drew Bledsoe",
           "position": "QB",
@@ -70265,7 +71893,7 @@ const WSW_DATA = {
           "pick": 75,
           "round": 8,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Terry Glenn",
           "position": "WR",
@@ -70278,7 +71906,7 @@ const WSW_DATA = {
           "pick": 76,
           "round": 8,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Laveranues Coles",
           "position": "WR",
@@ -70317,7 +71945,7 @@ const WSW_DATA = {
           "pick": 79,
           "round": 8,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Adam Vinatieri",
           "position": "K",
@@ -70356,7 +71984,7 @@ const WSW_DATA = {
           "pick": 82,
           "round": 9,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Reggie Brown",
           "position": "WR",
@@ -70395,7 +72023,7 @@ const WSW_DATA = {
           "pick": 85,
           "round": 9,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jamal Lewis",
           "position": "RB",
@@ -70408,7 +72036,7 @@ const WSW_DATA = {
           "pick": 86,
           "round": 9,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Chris Cooley",
           "position": "TE",
@@ -70525,7 +72153,7 @@ const WSW_DATA = {
           "pick": 95,
           "round": 10,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Keyshawn Johnson",
           "position": "WR",
@@ -70538,7 +72166,7 @@ const WSW_DATA = {
           "pick": 96,
           "round": 10,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Drew Bennett",
           "position": "WR",
@@ -70577,7 +72205,7 @@ const WSW_DATA = {
           "pick": 99,
           "round": 10,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Kurt Warner",
           "position": "QB",
@@ -70616,7 +72244,7 @@ const WSW_DATA = {
           "pick": 102,
           "round": 11,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Isaac Bruce",
           "position": "WR",
@@ -70655,7 +72283,7 @@ const WSW_DATA = {
           "pick": 105,
           "round": 11,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dominic Rhodes",
           "position": "RB",
@@ -70668,7 +72296,7 @@ const WSW_DATA = {
           "pick": 106,
           "round": 11,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Jake Plummer",
           "position": "QB",
@@ -70785,7 +72413,7 @@ const WSW_DATA = {
           "pick": 115,
           "round": 12,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Eric Moulds",
           "position": "WR",
@@ -70798,7 +72426,7 @@ const WSW_DATA = {
           "pick": 116,
           "round": 12,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Steve McNair",
           "position": "QB",
@@ -70837,7 +72465,7 @@ const WSW_DATA = {
           "pick": 119,
           "round": 12,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Ravens",
           "position": "DEF",
@@ -70876,7 +72504,7 @@ const WSW_DATA = {
           "pick": 122,
           "round": 13,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Chris Brown",
           "position": "RB",
@@ -70915,7 +72543,7 @@ const WSW_DATA = {
           "pick": 125,
           "round": 13,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Vernon Davis",
           "position": "TE",
@@ -70928,7 +72556,7 @@ const WSW_DATA = {
           "pick": 126,
           "round": 13,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Shayne Graham",
           "position": "K",
@@ -71045,7 +72673,7 @@ const WSW_DATA = {
           "pick": 135,
           "round": 14,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "LenDale White",
           "position": "RB",
@@ -71058,7 +72686,7 @@ const WSW_DATA = {
           "pick": 136,
           "round": 14,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Cowboys",
           "position": "DEF",
@@ -71097,7 +72725,7 @@ const WSW_DATA = {
           "pick": 139,
           "round": 14,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Ernest Wilford",
           "position": "WR",
@@ -71136,7 +72764,7 @@ const WSW_DATA = {
           "pick": 142,
           "round": 15,
           "team_key": "154.l.4680.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Dallas Clark",
           "position": "TE",
@@ -71175,7 +72803,7 @@ const WSW_DATA = {
           "pick": 145,
           "round": 15,
           "team_key": "154.l.4680.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Lawrence Tynes",
           "position": "K",
@@ -71188,7 +72816,7 @@ const WSW_DATA = {
           "pick": 146,
           "round": 15,
           "team_key": "154.l.4680.t.5",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Bengals",
           "position": "DEF",
@@ -71255,10 +72883,10 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": -13.47
         },
-        "Damon": {
-          "total_value": 30,
-          "picks": 30,
-          "avg_value": 1.0
+        "Ric's Last Resort": {
+          "total_value": 166,
+          "picks": 15,
+          "avg_value": 11.07
         },
         "Davidson": {
           "total_value": 6,
@@ -71266,14 +72894,14 @@ const WSW_DATA = {
           "avg_value": 0.4
         },
         "Scott": {
-          "total_value": -191,
-          "picks": 30,
-          "avg_value": -6.37
-        },
-        "Chris": {
-          "total_value": 113,
+          "total_value": -162,
           "picks": 15,
-          "avg_value": 7.53
+          "avg_value": -10.8
+        },
+        "Brett": {
+          "total_value": -29,
+          "picks": 15,
+          "avg_value": -1.93
         },
         "Roger": {
           "total_value": 189,
@@ -71284,6 +72912,11 @@ const WSW_DATA = {
           "total_value": -66,
           "picks": 15,
           "avg_value": -4.4
+        },
+        "Damon": {
+          "total_value": -136,
+          "picks": 15,
+          "avg_value": -9.07
         },
         "Dahmer's Cannibals": {
           "total_value": 121,
@@ -71299,7 +72932,7 @@ const WSW_DATA = {
           "pick": 1,
           "round": 1,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "LaDainian Tomlinson",
           "position": "RB",
@@ -71338,7 +72971,7 @@ const WSW_DATA = {
           "pick": 4,
           "round": 1,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Joseph Addai",
           "position": "RB",
@@ -71403,7 +73036,7 @@ const WSW_DATA = {
           "pick": 9,
           "round": 1,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Laurence Maroney",
           "position": "RB",
@@ -71442,7 +73075,7 @@ const WSW_DATA = {
           "pick": 12,
           "round": 2,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Peyton Manning",
           "position": "QB",
@@ -71507,7 +73140,7 @@ const WSW_DATA = {
           "pick": 17,
           "round": 2,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Brandon Jacobs",
           "position": "RB",
@@ -71546,7 +73179,7 @@ const WSW_DATA = {
           "pick": 20,
           "round": 2,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Tom Brady",
           "position": "QB",
@@ -71559,7 +73192,7 @@ const WSW_DATA = {
           "pick": 21,
           "round": 3,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Marvin Harrison",
           "position": "WR",
@@ -71598,7 +73231,7 @@ const WSW_DATA = {
           "pick": 24,
           "round": 3,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Terrell Owens",
           "position": "WR",
@@ -71663,7 +73296,7 @@ const WSW_DATA = {
           "pick": 29,
           "round": 3,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Clinton Portis",
           "position": "RB",
@@ -71702,7 +73335,7 @@ const WSW_DATA = {
           "pick": 32,
           "round": 4,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Larry Fitzgerald",
           "position": "WR",
@@ -71767,7 +73400,7 @@ const WSW_DATA = {
           "pick": 37,
           "round": 4,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Anquan Boldin",
           "position": "WR",
@@ -71806,7 +73439,7 @@ const WSW_DATA = {
           "pick": 40,
           "round": 4,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Marion Barber",
           "position": "RB",
@@ -71819,7 +73452,7 @@ const WSW_DATA = {
           "pick": 41,
           "round": 5,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Plaxico Burress",
           "position": "WR",
@@ -71858,7 +73491,7 @@ const WSW_DATA = {
           "pick": 44,
           "round": 5,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Javon Walker",
           "position": "WR",
@@ -71923,7 +73556,7 @@ const WSW_DATA = {
           "pick": 49,
           "round": 5,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Ronnie Brown",
           "position": "RB",
@@ -71962,7 +73595,7 @@ const WSW_DATA = {
           "pick": 52,
           "round": 6,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Deion Branch",
           "position": "WR",
@@ -72027,7 +73660,7 @@ const WSW_DATA = {
           "pick": 57,
           "round": 6,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Bears",
           "position": "DEF",
@@ -72066,7 +73699,7 @@ const WSW_DATA = {
           "pick": 60,
           "round": 6,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Patriots",
           "position": "DEF",
@@ -72079,7 +73712,7 @@ const WSW_DATA = {
           "pick": 61,
           "round": 7,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Santana Moss",
           "position": "WR",
@@ -72118,7 +73751,7 @@ const WSW_DATA = {
           "pick": 64,
           "round": 7,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Marshawn Lynch",
           "position": "RB",
@@ -72183,7 +73816,7 @@ const WSW_DATA = {
           "pick": 69,
           "round": 7,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Joey Galloway",
           "position": "WR",
@@ -72222,7 +73855,7 @@ const WSW_DATA = {
           "pick": 72,
           "round": 8,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Chris Chambers",
           "position": "WR",
@@ -72287,7 +73920,7 @@ const WSW_DATA = {
           "pick": 77,
           "round": 8,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Vernon Davis",
           "position": "TE",
@@ -72326,7 +73959,7 @@ const WSW_DATA = {
           "pick": 80,
           "round": 8,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Kellen Winslow",
           "position": "TE",
@@ -72339,7 +73972,7 @@ const WSW_DATA = {
           "pick": 81,
           "round": 9,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "LaMont Jordan",
           "position": "RB",
@@ -72378,7 +74011,7 @@ const WSW_DATA = {
           "pick": 84,
           "round": 9,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matt Leinart",
           "position": "QB",
@@ -72443,7 +74076,7 @@ const WSW_DATA = {
           "pick": 89,
           "round": 9,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Chris Cooley",
           "position": "TE",
@@ -72482,7 +74115,7 @@ const WSW_DATA = {
           "pick": 92,
           "round": 10,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Steelers",
           "position": "DEF",
@@ -72547,7 +74180,7 @@ const WSW_DATA = {
           "pick": 97,
           "round": 10,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jon Kitna",
           "position": "QB",
@@ -72586,7 +74219,7 @@ const WSW_DATA = {
           "pick": 100,
           "round": 10,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Shayne Graham",
           "position": "K",
@@ -72599,7 +74232,7 @@ const WSW_DATA = {
           "pick": 101,
           "round": 11,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Jay Cutler",
           "position": "QB",
@@ -72638,7 +74271,7 @@ const WSW_DATA = {
           "pick": 104,
           "round": 11,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kevin Curtis",
           "position": "WR",
@@ -72703,7 +74336,7 @@ const WSW_DATA = {
           "pick": 109,
           "round": 11,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Robbie Gould",
           "position": "K",
@@ -72742,7 +74375,7 @@ const WSW_DATA = {
           "pick": 112,
           "round": 12,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Anthony Gonzalez",
           "position": "WR",
@@ -72807,7 +74440,7 @@ const WSW_DATA = {
           "pick": 117,
           "round": 12,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Julius Jones",
           "position": "RB",
@@ -72846,7 +74479,7 @@ const WSW_DATA = {
           "pick": 120,
           "round": 12,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Chris Henry",
           "position": "WR",
@@ -72859,7 +74492,7 @@ const WSW_DATA = {
           "pick": 121,
           "round": 13,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Drew Bennett",
           "position": "WR",
@@ -72898,7 +74531,7 @@ const WSW_DATA = {
           "pick": 124,
           "round": 13,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kevin Jones",
           "position": "RB",
@@ -72963,7 +74596,7 @@ const WSW_DATA = {
           "pick": 129,
           "round": 13,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "L.J. Smith",
           "position": "TE",
@@ -73002,7 +74635,7 @@ const WSW_DATA = {
           "pick": 132,
           "round": 14,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "J.P. Losman",
           "position": "QB",
@@ -73067,7 +74700,7 @@ const WSW_DATA = {
           "pick": 137,
           "round": 14,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Brandon Marshall",
           "position": "WR",
@@ -73106,7 +74739,7 @@ const WSW_DATA = {
           "pick": 140,
           "round": 14,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Vernand Morency",
           "position": "RB",
@@ -73119,7 +74752,7 @@ const WSW_DATA = {
           "pick": 141,
           "round": 15,
           "team_key": "176.l.9584.t.7",
-          "manager": "Scott",
+          "manager": "Brett",
           "team_name": "The Runnin' Rebels",
           "player_name": "Dallas Clark",
           "position": "TE",
@@ -73158,7 +74791,7 @@ const WSW_DATA = {
           "pick": 144,
           "round": 15,
           "team_key": "176.l.9584.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jason Elam",
           "position": "K",
@@ -73223,7 +74856,7 @@ const WSW_DATA = {
           "pick": 149,
           "round": 15,
           "team_key": "176.l.9584.t.3",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Panthers",
           "position": "DEF",
@@ -73246,20 +74879,20 @@ const WSW_DATA = {
         }
       ],
       "by_manager": {
+        "Brett": {
+          "total_value": 60,
+          "picks": 15,
+          "avg_value": 4.0
+        },
         "Scott": {
-          "total_value": -167,
-          "picks": 45,
-          "avg_value": -3.71
+          "total_value": -227,
+          "picks": 30,
+          "avg_value": -7.57
         },
         "Damon": {
-          "total_value": -211,
-          "picks": 30,
-          "avg_value": -7.03
-        },
-        "Chris": {
-          "total_value": 137,
+          "total_value": -244,
           "picks": 15,
-          "avg_value": 9.13
+          "avg_value": -16.27
         },
         "Michael": {
           "total_value": 77,
@@ -73280,6 +74913,11 @@ const WSW_DATA = {
           "total_value": -51,
           "picks": 15,
           "avg_value": -3.4
+        },
+        "Ric's Last Resort": {
+          "total_value": 33,
+          "picks": 15,
+          "avg_value": 2.2
         }
       }
     },
@@ -73316,7 +74954,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Adrian Peterson",
           "position": "RB",
@@ -73342,7 +74980,7 @@ const WSW_DATA = {
           "pick": 5,
           "round": 1,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Maurice Jones-Drew",
           "position": "RB",
@@ -73407,7 +75045,7 @@ const WSW_DATA = {
           "pick": 10,
           "round": 1,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "DeAngelo Williams",
           "position": "RB",
@@ -73420,7 +75058,7 @@ const WSW_DATA = {
           "pick": 11,
           "round": 2,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Randy Moss",
           "position": "WR",
@@ -73485,7 +75123,7 @@ const WSW_DATA = {
           "pick": 16,
           "round": 2,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Frank Gore",
           "position": "RB",
@@ -73511,7 +75149,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Peyton Manning",
           "position": "QB",
@@ -73576,7 +75214,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Reggie Bush",
           "position": "RB",
@@ -73602,7 +75240,7 @@ const WSW_DATA = {
           "pick": 25,
           "round": 3,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Reggie Wayne",
           "position": "WR",
@@ -73667,7 +75305,7 @@ const WSW_DATA = {
           "pick": 30,
           "round": 3,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Roddy White",
           "position": "WR",
@@ -73680,7 +75318,7 @@ const WSW_DATA = {
           "pick": 31,
           "round": 4,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Pierre Thomas",
           "position": "RB",
@@ -73745,7 +75383,7 @@ const WSW_DATA = {
           "pick": 36,
           "round": 4,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "T.J. Houshmandzadeh",
           "position": "WR",
@@ -73771,7 +75409,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Roy Williams",
           "position": "WR",
@@ -73836,7 +75474,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Devin Hester",
           "position": "WR",
@@ -73862,7 +75500,7 @@ const WSW_DATA = {
           "pick": 45,
           "round": 5,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Jason Witten",
           "position": "TE",
@@ -73927,7 +75565,7 @@ const WSW_DATA = {
           "pick": 50,
           "round": 5,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Philip Rivers",
           "position": "QB",
@@ -73940,7 +75578,7 @@ const WSW_DATA = {
           "pick": 51,
           "round": 6,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Tony Gonzalez",
           "position": "TE",
@@ -74005,7 +75643,7 @@ const WSW_DATA = {
           "pick": 56,
           "round": 6,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Braylon Edwards",
           "position": "WR",
@@ -74031,7 +75669,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Lance Moore",
           "position": "WR",
@@ -74096,7 +75734,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Brent Celek",
           "position": "TE",
@@ -74122,7 +75760,7 @@ const WSW_DATA = {
           "pick": 65,
           "round": 7,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Matt Schaub",
           "position": "QB",
@@ -74187,7 +75825,7 @@ const WSW_DATA = {
           "pick": 70,
           "round": 7,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Darren McFadden",
           "position": "RB",
@@ -74200,7 +75838,7 @@ const WSW_DATA = {
           "pick": 71,
           "round": 8,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Lee Evans",
           "position": "WR",
@@ -74265,7 +75903,7 @@ const WSW_DATA = {
           "pick": 76,
           "round": 8,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Donnie Avery",
           "position": "WR",
@@ -74291,7 +75929,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Matt Ryan",
           "position": "QB",
@@ -74356,7 +75994,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Felix Jones",
           "position": "RB",
@@ -74382,7 +76020,7 @@ const WSW_DATA = {
           "pick": 85,
           "round": 9,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Tim Hightower",
           "position": "RB",
@@ -74447,7 +76085,7 @@ const WSW_DATA = {
           "pick": 90,
           "round": 9,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Rashard Mendenhall",
           "position": "RB",
@@ -74460,7 +76098,7 @@ const WSW_DATA = {
           "pick": 91,
           "round": 10,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Jerricho Cotchery",
           "position": "WR",
@@ -74525,7 +76163,7 @@ const WSW_DATA = {
           "pick": 96,
           "round": 10,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Donald Driver",
           "position": "WR",
@@ -74551,7 +76189,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Chris Henry",
           "position": "WR",
@@ -74616,7 +76254,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Steve Smith",
           "position": "WR",
@@ -74642,7 +76280,7 @@ const WSW_DATA = {
           "pick": 105,
           "round": 11,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Vikings",
           "position": "DEF",
@@ -74707,7 +76345,7 @@ const WSW_DATA = {
           "pick": 110,
           "round": 11,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Percy Harvin",
           "position": "WR",
@@ -74720,7 +76358,7 @@ const WSW_DATA = {
           "pick": 111,
           "round": 12,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Cedric Benson",
           "position": "RB",
@@ -74785,7 +76423,7 @@ const WSW_DATA = {
           "pick": 116,
           "round": 12,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Brett Favre",
           "position": "QB",
@@ -74811,7 +76449,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Cowboys",
           "position": "DEF",
@@ -74876,7 +76514,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Glen Coffee",
           "position": "RB",
@@ -74902,7 +76540,7 @@ const WSW_DATA = {
           "pick": 125,
           "round": 13,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "James Davis",
           "position": "RB",
@@ -74967,7 +76605,7 @@ const WSW_DATA = {
           "pick": 130,
           "round": 13,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Bears",
           "position": "DEF",
@@ -74980,7 +76618,7 @@ const WSW_DATA = {
           "pick": 131,
           "round": 14,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Jake Delhomme",
           "position": "QB",
@@ -75045,7 +76683,7 @@ const WSW_DATA = {
           "pick": 136,
           "round": 14,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Jamal Lewis",
           "position": "RB",
@@ -75071,7 +76709,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Earl Bennett",
           "position": "WR",
@@ -75136,7 +76774,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "223.l.823.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Mike Bell",
           "position": "RB",
@@ -75162,7 +76800,7 @@ const WSW_DATA = {
           "pick": 145,
           "round": 15,
           "team_key": "223.l.823.t.1",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Nick Folk",
           "position": "K",
@@ -75227,7 +76865,7 @@ const WSW_DATA = {
           "pick": 150,
           "round": 15,
           "team_key": "223.l.823.t.9",
-          "manager": "Damon",
+          "manager": "Ric's Last Resort",
           "team_name": "Ric's Last Resort",
           "player_name": "Josh Brown",
           "position": "K",
@@ -75243,24 +76881,14 @@ const WSW_DATA = {
           "avg_value": 1.2
         },
         "Damon": {
-          "total_value": 225,
-          "picks": 30,
-          "avg_value": 7.5
-        },
-        "cool brees": {
-          "total_value": -176,
+          "total_value": 127,
           "picks": 15,
-          "avg_value": -11.73
+          "avg_value": 8.47
         },
         "Scott": {
           "total_value": -227,
           "picks": 15,
           "avg_value": -15.13
-        },
-        "Chris": {
-          "total_value": 41,
-          "picks": 15,
-          "avg_value": 2.73
         },
         "Michael": {
           "total_value": -153,
@@ -75281,6 +76909,11 @@ const WSW_DATA = {
           "total_value": 95,
           "picks": 15,
           "avg_value": 6.33
+        },
+        "Ric's Last Resort": {
+          "total_value": 98,
+          "picks": 15,
+          "avg_value": 6.53
         }
       }
     },
@@ -75291,7 +76924,7 @@ const WSW_DATA = {
           "pick": 1,
           "round": 1,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Adrian Peterson",
           "position": "RB",
@@ -75317,7 +76950,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Drew Brees",
           "position": "QB",
@@ -75512,7 +77145,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Reggie Wayne",
           "position": "WR",
@@ -75538,7 +77171,7 @@ const WSW_DATA = {
           "pick": 20,
           "round": 2,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Calvin Johnson",
           "position": "WR",
@@ -75551,7 +77184,7 @@ const WSW_DATA = {
           "pick": 21,
           "round": 3,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Miles Austin",
           "position": "WR",
@@ -75577,7 +77210,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "DeSean Jackson",
           "position": "WR",
@@ -75772,7 +77405,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Knowshon Moreno",
           "position": "RB",
@@ -75798,7 +77431,7 @@ const WSW_DATA = {
           "pick": 40,
           "round": 4,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Arian Foster",
           "position": "RB",
@@ -75811,7 +77444,7 @@ const WSW_DATA = {
           "pick": 41,
           "round": 5,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Steve Smith",
           "position": "WR",
@@ -75837,7 +77470,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "C.J. Spiller",
           "position": "RB",
@@ -76032,7 +77665,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Michael Crabtree",
           "position": "WR",
@@ -76058,7 +77691,7 @@ const WSW_DATA = {
           "pick": 60,
           "round": 6,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Jahvid Best",
           "position": "RB",
@@ -76071,7 +77704,7 @@ const WSW_DATA = {
           "pick": 61,
           "round": 7,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Malcom Floyd",
           "position": "WR",
@@ -76097,7 +77730,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Visanthe Shiancoe",
           "position": "TE",
@@ -76292,7 +77925,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Beanie Wells",
           "position": "RB",
@@ -76318,7 +77951,7 @@ const WSW_DATA = {
           "pick": 80,
           "round": 8,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Brett Favre",
           "position": "QB",
@@ -76331,7 +77964,7 @@ const WSW_DATA = {
           "pick": 81,
           "round": 9,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Jerome Harrison",
           "position": "RB",
@@ -76357,7 +77990,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Felix Jones",
           "position": "RB",
@@ -76552,7 +78185,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Dez Bryant",
           "position": "WR",
@@ -76578,7 +78211,7 @@ const WSW_DATA = {
           "pick": 100,
           "round": 10,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Brent Celek",
           "position": "TE",
@@ -76591,7 +78224,7 @@ const WSW_DATA = {
           "pick": 101,
           "round": 11,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Steelers",
           "position": "DEF",
@@ -76617,7 +78250,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Ben Roethlisberger",
           "position": "QB",
@@ -76812,7 +78445,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Lawrence Tynes",
           "position": "K",
@@ -76838,7 +78471,7 @@ const WSW_DATA = {
           "pick": 120,
           "round": 12,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Carson Palmer",
           "position": "QB",
@@ -76851,7 +78484,7 @@ const WSW_DATA = {
           "pick": 121,
           "round": 13,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Mike Williams",
           "position": "WR",
@@ -76877,7 +78510,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Brandon LaFell",
           "position": "WR",
@@ -77072,7 +78705,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Cowboys",
           "position": "DEF",
@@ -77098,7 +78731,7 @@ const WSW_DATA = {
           "pick": 140,
           "round": 14,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Rob Bironas",
           "position": "K",
@@ -77111,7 +78744,7 @@ const WSW_DATA = {
           "pick": 141,
           "round": 15,
           "team_key": "242.l.230425.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Darren McFadden",
           "position": "RB",
@@ -77137,7 +78770,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "242.l.230425.t.1",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Lance Moore",
           "position": "WR",
@@ -77238,20 +78871,10 @@ const WSW_DATA = {
         }
       ],
       "by_manager": {
-        "Chris": {
-          "total_value": 188,
-          "picks": 15,
-          "avg_value": 12.53
-        },
         "Roger": {
           "total_value": 19,
           "picks": 15,
           "avg_value": 1.27
-        },
-        "cool brees": {
-          "total_value": -28,
-          "picks": 15,
-          "avg_value": -1.87
         },
         "Davidson": {
           "total_value": 36,
@@ -77323,7 +78946,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Rashard Mendenhall",
           "position": "RB",
@@ -77388,7 +79011,7 @@ const WSW_DATA = {
           "pick": 8,
           "round": 1,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Calvin Johnson",
           "position": "WR",
@@ -77453,7 +79076,7 @@ const WSW_DATA = {
           "pick": 13,
           "round": 2,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Arian Foster",
           "position": "RB",
@@ -77518,7 +79141,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Mike Wallace",
           "position": "WR",
@@ -77583,7 +79206,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Mario Manningham",
           "position": "WR",
@@ -77648,7 +79271,7 @@ const WSW_DATA = {
           "pick": 28,
           "round": 3,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Mike Williams",
           "position": "WR",
@@ -77713,7 +79336,7 @@ const WSW_DATA = {
           "pick": 33,
           "round": 4,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Brandon Marshall",
           "position": "WR",
@@ -77778,7 +79401,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Jahvid Best",
           "position": "RB",
@@ -77843,7 +79466,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Chad Johnson",
           "position": "WR",
@@ -77908,7 +79531,7 @@ const WSW_DATA = {
           "pick": 48,
           "round": 5,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Kenny Britt",
           "position": "WR",
@@ -77973,7 +79596,7 @@ const WSW_DATA = {
           "pick": 53,
           "round": 6,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Beanie Wells",
           "position": "RB",
@@ -78038,7 +79661,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Mike Sims-Walker",
           "position": "WR",
@@ -78103,7 +79726,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Ryan Grant",
           "position": "RB",
@@ -78168,7 +79791,7 @@ const WSW_DATA = {
           "pick": 68,
           "round": 7,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Dallas Clark",
           "position": "TE",
@@ -78233,7 +79856,7 @@ const WSW_DATA = {
           "pick": 73,
           "round": 8,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Steve Smith",
           "position": "WR",
@@ -78298,7 +79921,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Rob Gronkowski",
           "position": "TE",
@@ -78363,7 +79986,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Ben Roethlisberger",
           "position": "QB",
@@ -78428,7 +80051,7 @@ const WSW_DATA = {
           "pick": 88,
           "round": 9,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Ravens",
           "position": "DEF",
@@ -78493,7 +80116,7 @@ const WSW_DATA = {
           "pick": 93,
           "round": 10,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Eli Manning",
           "position": "QB",
@@ -78558,7 +80181,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Sam Bradford",
           "position": "QB",
@@ -78623,7 +80246,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Mason Crosby",
           "position": "K",
@@ -78688,7 +80311,7 @@ const WSW_DATA = {
           "pick": 108,
           "round": 11,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Matthew Stafford",
           "position": "QB",
@@ -78753,7 +80376,7 @@ const WSW_DATA = {
           "pick": 113,
           "round": 12,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "James Starks",
           "position": "RB",
@@ -78818,7 +80441,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Peyton Hillis",
           "position": "RB",
@@ -78883,7 +80506,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Saints",
           "position": "DEF",
@@ -78948,7 +80571,7 @@ const WSW_DATA = {
           "pick": 128,
           "round": 13,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Darren McFadden",
           "position": "RB",
@@ -79013,7 +80636,7 @@ const WSW_DATA = {
           "pick": 133,
           "round": 14,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Ben Tate",
           "position": "RB",
@@ -79078,7 +80701,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Stevan Ridley",
           "position": "RB",
@@ -79143,7 +80766,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "257.l.76417.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Titus Young",
           "position": "WR",
@@ -79208,7 +80831,7 @@ const WSW_DATA = {
           "pick": 148,
           "round": 15,
           "team_key": "257.l.76417.t.4",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "nector",
           "player_name": "Garrett Hartley",
           "position": "K",
@@ -79254,11 +80877,6 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": -8.0
         },
-        "cool brees": {
-          "total_value": -219,
-          "picks": 15,
-          "avg_value": -14.6
-        },
         "Roger": {
           "total_value": -109,
           "picks": 15,
@@ -79279,11 +80897,6 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 3.07
         },
-        "Chris": {
-          "total_value": 109,
-          "picks": 15,
-          "avg_value": 7.27
-        },
         "Michael": {
           "total_value": 145,
           "picks": 15,
@@ -79303,7 +80916,7 @@ const WSW_DATA = {
           "pick": 1,
           "round": 1,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Ray Rice",
           "position": "RB",
@@ -79329,7 +80942,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Calvin Johnson",
           "position": "WR",
@@ -79524,7 +81137,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Adrian Peterson",
           "position": "RB",
@@ -79550,7 +81163,7 @@ const WSW_DATA = {
           "pick": 20,
           "round": 2,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Doug Martin",
           "position": "RB",
@@ -79563,7 +81176,7 @@ const WSW_DATA = {
           "pick": 21,
           "round": 3,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Brandon Lloyd",
           "position": "WR",
@@ -79589,7 +81202,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Hakeem Nicks",
           "position": "WR",
@@ -79784,7 +81397,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Eric Decker",
           "position": "WR",
@@ -79810,7 +81423,7 @@ const WSW_DATA = {
           "pick": 40,
           "round": 4,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "DeSean Jackson",
           "position": "WR",
@@ -79823,7 +81436,7 @@ const WSW_DATA = {
           "pick": 41,
           "round": 5,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Pierre Garcon",
           "position": "WR",
@@ -79849,7 +81462,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dwayne Bowe",
           "position": "WR",
@@ -80044,7 +81657,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Willis McGahee",
           "position": "RB",
@@ -80070,7 +81683,7 @@ const WSW_DATA = {
           "pick": 60,
           "round": 6,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Rob Gronkowski",
           "position": "TE",
@@ -80083,7 +81696,7 @@ const WSW_DATA = {
           "pick": 61,
           "round": 7,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Philip Rivers",
           "position": "QB",
@@ -80109,7 +81722,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "BenJarvus Green-Ellis",
           "position": "RB",
@@ -80304,7 +81917,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Justin Blackmon",
           "position": "WR",
@@ -80330,7 +81943,7 @@ const WSW_DATA = {
           "pick": 80,
           "round": 8,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Marshawn Lynch",
           "position": "RB",
@@ -80343,7 +81956,7 @@ const WSW_DATA = {
           "pick": 81,
           "round": 9,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "David Wilson",
           "position": "RB",
@@ -80369,7 +81982,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matthew Stafford",
           "position": "QB",
@@ -80564,7 +82177,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matt Schaub",
           "position": "QB",
@@ -80590,7 +82203,7 @@ const WSW_DATA = {
           "pick": 100,
           "round": 10,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Laurent Robinson",
           "position": "WR",
@@ -80603,7 +82216,7 @@ const WSW_DATA = {
           "pick": 101,
           "round": 11,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Michael Floyd",
           "position": "WR",
@@ -80629,7 +82242,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Darren McFadden",
           "position": "RB",
@@ -80824,7 +82437,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Aaron Hernandez",
           "position": "TE",
@@ -80850,7 +82463,7 @@ const WSW_DATA = {
           "pick": 120,
           "round": 12,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Andy Dalton",
           "position": "QB",
@@ -80863,7 +82476,7 @@ const WSW_DATA = {
           "pick": 121,
           "round": 13,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Jason Hanson",
           "position": "K",
@@ -80889,7 +82502,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Rashard Mendenhall",
           "position": "RB",
@@ -81084,7 +82697,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jets",
           "position": "DEF",
@@ -81110,7 +82723,7 @@ const WSW_DATA = {
           "pick": 140,
           "round": 14,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Ben Tate",
           "position": "RB",
@@ -81123,7 +82736,7 @@ const WSW_DATA = {
           "pick": 141,
           "round": 15,
           "team_key": "273.l.74063.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Saints",
           "position": "DEF",
@@ -81149,7 +82762,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "273.l.74063.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Nate Kaeding",
           "position": "K",
@@ -81250,20 +82863,10 @@ const WSW_DATA = {
         }
       ],
       "by_manager": {
-        "cool brees": {
-          "total_value": -18,
-          "picks": 15,
-          "avg_value": -1.2
-        },
         "Seth": {
           "total_value": 52,
           "picks": 15,
           "avg_value": 3.47
-        },
-        "Chris": {
-          "total_value": -27,
-          "picks": 15,
-          "avg_value": -1.8
         },
         "Brett": {
           "total_value": -2,
@@ -81400,7 +83003,7 @@ const WSW_DATA = {
           "pick": 8,
           "round": 1,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Drew Brees",
           "position": "QB",
@@ -81426,7 +83029,7 @@ const WSW_DATA = {
           "pick": 10,
           "round": 1,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Brandon Marshall",
           "position": "WR",
@@ -81439,7 +83042,7 @@ const WSW_DATA = {
           "pick": 11,
           "round": 2,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Julio Jones",
           "position": "WR",
@@ -81465,7 +83068,7 @@ const WSW_DATA = {
           "pick": 13,
           "round": 2,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Chris Johnson",
           "position": "RB",
@@ -81660,7 +83263,7 @@ const WSW_DATA = {
           "pick": 28,
           "round": 3,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Reggie Wayne",
           "position": "WR",
@@ -81686,7 +83289,7 @@ const WSW_DATA = {
           "pick": 30,
           "round": 3,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Lamar Miller",
           "position": "RB",
@@ -81699,7 +83302,7 @@ const WSW_DATA = {
           "pick": 31,
           "round": 4,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Vernon Davis",
           "position": "TE",
@@ -81725,7 +83328,7 @@ const WSW_DATA = {
           "pick": 33,
           "round": 4,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Rob Gronkowski",
           "position": "TE",
@@ -81920,7 +83523,7 @@ const WSW_DATA = {
           "pick": 48,
           "round": 5,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Montee Ball",
           "position": "RB",
@@ -81946,7 +83549,7 @@ const WSW_DATA = {
           "pick": 50,
           "round": 5,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ahmad Bradshaw",
           "position": "RB",
@@ -81959,7 +83562,7 @@ const WSW_DATA = {
           "pick": 51,
           "round": 6,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Giovani Bernard",
           "position": "RB",
@@ -81985,7 +83588,7 @@ const WSW_DATA = {
           "pick": 53,
           "round": 6,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Marshawn Lynch",
           "position": "RB",
@@ -82180,7 +83783,7 @@ const WSW_DATA = {
           "pick": 68,
           "round": 7,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Miles Austin",
           "position": "WR",
@@ -82206,7 +83809,7 @@ const WSW_DATA = {
           "pick": 70,
           "round": 7,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matthew Stafford",
           "position": "QB",
@@ -82219,7 +83822,7 @@ const WSW_DATA = {
           "pick": 71,
           "round": 8,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Greg Jennings",
           "position": "WR",
@@ -82245,7 +83848,7 @@ const WSW_DATA = {
           "pick": 73,
           "round": 8,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Stevie Johnson",
           "position": "WR",
@@ -82440,7 +84043,7 @@ const WSW_DATA = {
           "pick": 88,
           "round": 9,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Justin Blackmon",
           "position": "WR",
@@ -82466,7 +84069,7 @@ const WSW_DATA = {
           "pick": 90,
           "round": 9,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Darren McFadden",
           "position": "RB",
@@ -82479,7 +84082,7 @@ const WSW_DATA = {
           "pick": 91,
           "round": 10,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Josh Gordon",
           "position": "WR",
@@ -82505,7 +84108,7 @@ const WSW_DATA = {
           "pick": 93,
           "round": 10,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Jared Cook",
           "position": "TE",
@@ -82700,7 +84303,7 @@ const WSW_DATA = {
           "pick": 108,
           "round": 11,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Bears",
           "position": "DEF",
@@ -82726,7 +84329,7 @@ const WSW_DATA = {
           "pick": 110,
           "round": 11,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Rueben Randle",
           "position": "WR",
@@ -82739,7 +84342,7 @@ const WSW_DATA = {
           "pick": 111,
           "round": 12,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Danny Amendola",
           "position": "WR",
@@ -82765,7 +84368,7 @@ const WSW_DATA = {
           "pick": 113,
           "round": 12,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Pierre Thomas",
           "position": "RB",
@@ -82960,7 +84563,7 @@ const WSW_DATA = {
           "pick": 128,
           "round": 13,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Randall Cobb",
           "position": "WR",
@@ -82986,7 +84589,7 @@ const WSW_DATA = {
           "pick": 130,
           "round": 13,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ben Roethlisberger",
           "position": "QB",
@@ -82999,7 +84602,7 @@ const WSW_DATA = {
           "pick": 131,
           "round": 14,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Steelers",
           "position": "DEF",
@@ -83025,7 +84628,7 @@ const WSW_DATA = {
           "pick": 133,
           "round": 14,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Justin Tucker",
           "position": "K",
@@ -83220,7 +84823,7 @@ const WSW_DATA = {
           "pick": 148,
           "round": 15,
           "team_key": "314.l.23327.t.4",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "E.J. Manuel",
           "position": "QB",
@@ -83246,7 +84849,7 @@ const WSW_DATA = {
           "pick": 150,
           "round": 15,
           "team_key": "314.l.23327.t.2",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dan Bailey",
           "position": "K",
@@ -83291,20 +84894,10 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 8.27
         },
-        "cool brees": {
-          "total_value": -185,
-          "picks": 15,
-          "avg_value": -12.33
-        },
         "Seth": {
           "total_value": 53,
           "picks": 15,
           "avg_value": 3.53
-        },
-        "Chris": {
-          "total_value": -1,
-          "picks": 15,
-          "avg_value": -0.07
         }
       }
     },
@@ -83367,7 +84960,7 @@ const WSW_DATA = {
           "pick": 5,
           "round": 1,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Drew Brees",
           "position": "QB",
@@ -83393,7 +84986,7 @@ const WSW_DATA = {
           "pick": 7,
           "round": 1,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matt Forte",
           "position": "RB",
@@ -83484,7 +85077,7 @@ const WSW_DATA = {
           "pick": 14,
           "round": 2,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Julio Jones",
           "position": "WR",
@@ -83510,7 +85103,7 @@ const WSW_DATA = {
           "pick": 16,
           "round": 2,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Larry Fitzgerald",
           "position": "WR",
@@ -83627,7 +85220,7 @@ const WSW_DATA = {
           "pick": 25,
           "round": 3,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Maurice Jones-Drew",
           "position": "RB",
@@ -83653,7 +85246,7 @@ const WSW_DATA = {
           "pick": 27,
           "round": 3,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Montee Ball",
           "position": "RB",
@@ -83770,7 +85363,7 @@ const WSW_DATA = {
           "pick": 36,
           "round": 4,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Marshawn Lynch",
           "position": "RB",
@@ -83809,7 +85402,7 @@ const WSW_DATA = {
           "pick": 39,
           "round": 4,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Giovani Bernard",
           "position": "RB",
@@ -83874,7 +85467,7 @@ const WSW_DATA = {
           "pick": 44,
           "round": 5,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Vernon Davis",
           "position": "TE",
@@ -83887,7 +85480,7 @@ const WSW_DATA = {
           "pick": 45,
           "round": 5,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Jeremy Maclin",
           "position": "WR",
@@ -83913,7 +85506,7 @@ const WSW_DATA = {
           "pick": 47,
           "round": 5,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Torrey Smith",
           "position": "WR",
@@ -84004,7 +85597,7 @@ const WSW_DATA = {
           "pick": 54,
           "round": 6,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Tom Brady",
           "position": "QB",
@@ -84030,7 +85623,7 @@ const WSW_DATA = {
           "pick": 56,
           "round": 6,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Bishop Sankey",
           "position": "RB",
@@ -84108,7 +85701,7 @@ const WSW_DATA = {
           "pick": 62,
           "round": 7,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Wes Welker",
           "position": "WR",
@@ -84147,7 +85740,7 @@ const WSW_DATA = {
           "pick": 65,
           "round": 7,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Tavon Austin",
           "position": "WR",
@@ -84264,7 +85857,7 @@ const WSW_DATA = {
           "pick": 74,
           "round": 8,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Fred Jackson",
           "position": "RB",
@@ -84290,7 +85883,7 @@ const WSW_DATA = {
           "pick": 76,
           "round": 8,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Kelvin Benjamin",
           "position": "WR",
@@ -84407,7 +86000,7 @@ const WSW_DATA = {
           "pick": 85,
           "round": 9,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Jason Witten",
           "position": "TE",
@@ -84433,7 +86026,7 @@ const WSW_DATA = {
           "pick": 87,
           "round": 9,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Reggie Wayne",
           "position": "WR",
@@ -84524,7 +86117,7 @@ const WSW_DATA = {
           "pick": 94,
           "round": 10,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Panthers",
           "position": "DEF",
@@ -84550,7 +86143,7 @@ const WSW_DATA = {
           "pick": 96,
           "round": 10,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Anquan Boldin",
           "position": "WR",
@@ -84589,7 +86182,7 @@ const WSW_DATA = {
           "pick": 99,
           "round": 10,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Colin Kaepernick",
           "position": "QB",
@@ -84667,7 +86260,7 @@ const WSW_DATA = {
           "pick": 105,
           "round": 11,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Andy Dalton",
           "position": "QB",
@@ -84693,7 +86286,7 @@ const WSW_DATA = {
           "pick": 107,
           "round": 11,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Randall Cobb",
           "position": "WR",
@@ -84810,7 +86403,7 @@ const WSW_DATA = {
           "pick": 116,
           "round": 12,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Joique Bell",
           "position": "RB",
@@ -84927,7 +86520,7 @@ const WSW_DATA = {
           "pick": 125,
           "round": 13,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Cardinals",
           "position": "DEF",
@@ -85070,7 +86663,7 @@ const WSW_DATA = {
           "pick": 136,
           "round": 14,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Nick Novak",
           "position": "K",
@@ -85109,7 +86702,7 @@ const WSW_DATA = {
           "pick": 139,
           "round": 14,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Devonta Freeman",
           "position": "RB",
@@ -85187,7 +86780,7 @@ const WSW_DATA = {
           "pick": 145,
           "round": 15,
           "team_key": "331.l.300395.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Texans",
           "position": "DEF",
@@ -85213,7 +86806,7 @@ const WSW_DATA = {
           "pick": 147,
           "round": 15,
           "team_key": "331.l.300395.t.3",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dan Bailey",
           "position": "K",
@@ -85282,20 +86875,10 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": -10.6
         },
-        "cool brees": {
-          "total_value": 118,
-          "picks": 15,
-          "avg_value": 7.87
-        },
         "Seth": {
           "total_value": -117,
           "picks": 15,
           "avg_value": -7.8
-        },
-        "Chris": {
-          "total_value": -58,
-          "picks": 15,
-          "avg_value": -3.87
         },
         "Brett": {
           "total_value": 10,
@@ -85334,7 +86917,7 @@ const WSW_DATA = {
           "pick": 2,
           "round": 1,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Marshawn Lynch",
           "position": "RB",
@@ -85360,7 +86943,7 @@ const WSW_DATA = {
           "pick": 4,
           "round": 1,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Eddie Lacy",
           "position": "RB",
@@ -85373,7 +86956,7 @@ const WSW_DATA = {
           "pick": 5,
           "round": 1,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Antonio Brown",
           "position": "WR",
@@ -85516,7 +87099,7 @@ const WSW_DATA = {
           "pick": 16,
           "round": 2,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "LeSean McCoy",
           "position": "RB",
@@ -85529,7 +87112,7 @@ const WSW_DATA = {
           "pick": 17,
           "round": 2,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Justin Forsett",
           "position": "RB",
@@ -85555,7 +87138,7 @@ const WSW_DATA = {
           "pick": 19,
           "round": 2,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Mark Ingram II",
           "position": "RB",
@@ -85594,7 +87177,7 @@ const WSW_DATA = {
           "pick": 22,
           "round": 3,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Peyton Manning",
           "position": "QB",
@@ -85620,7 +87203,7 @@ const WSW_DATA = {
           "pick": 24,
           "round": 3,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Lamar Miller",
           "position": "RB",
@@ -85633,7 +87216,7 @@ const WSW_DATA = {
           "pick": 25,
           "round": 3,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Tom Brady",
           "position": "QB",
@@ -85776,7 +87359,7 @@ const WSW_DATA = {
           "pick": 36,
           "round": 4,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Golden Tate",
           "position": "WR",
@@ -85789,7 +87372,7 @@ const WSW_DATA = {
           "pick": 37,
           "round": 4,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Doug Martin",
           "position": "RB",
@@ -85815,7 +87398,7 @@ const WSW_DATA = {
           "pick": 39,
           "round": 4,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Kenny Stills",
           "position": "WR",
@@ -85854,7 +87437,7 @@ const WSW_DATA = {
           "pick": 42,
           "round": 5,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "DeSean Jackson",
           "position": "WR",
@@ -85880,7 +87463,7 @@ const WSW_DATA = {
           "pick": 44,
           "round": 5,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Todd Gurley",
           "position": "RB",
@@ -85893,7 +87476,7 @@ const WSW_DATA = {
           "pick": 45,
           "round": 5,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "T.J. Yeldon",
           "position": "RB",
@@ -86036,7 +87619,7 @@ const WSW_DATA = {
           "pick": 56,
           "round": 6,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Cam Newton",
           "position": "QB",
@@ -86049,7 +87632,7 @@ const WSW_DATA = {
           "pick": 57,
           "round": 6,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matthew Stafford",
           "position": "QB",
@@ -86075,7 +87658,7 @@ const WSW_DATA = {
           "pick": 59,
           "round": 6,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Vincent Jackson",
           "position": "WR",
@@ -86114,7 +87697,7 @@ const WSW_DATA = {
           "pick": 62,
           "round": 7,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Joique Bell",
           "position": "RB",
@@ -86140,7 +87723,7 @@ const WSW_DATA = {
           "pick": 64,
           "round": 7,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Mike Evans",
           "position": "WR",
@@ -86153,7 +87736,7 @@ const WSW_DATA = {
           "pick": 65,
           "round": 7,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Steve Smith",
           "position": "WR",
@@ -86296,7 +87879,7 @@ const WSW_DATA = {
           "pick": 76,
           "round": 8,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Devonta Freeman",
           "position": "RB",
@@ -86309,7 +87892,7 @@ const WSW_DATA = {
           "pick": 77,
           "round": 8,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Sam Bradford",
           "position": "QB",
@@ -86335,7 +87918,7 @@ const WSW_DATA = {
           "pick": 79,
           "round": 8,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Jared Cook",
           "position": "TE",
@@ -86374,7 +87957,7 @@ const WSW_DATA = {
           "pick": 82,
           "round": 9,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Stevie Johnson",
           "position": "WR",
@@ -86400,7 +87983,7 @@ const WSW_DATA = {
           "pick": 84,
           "round": 9,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Randall Cobb",
           "position": "WR",
@@ -86413,7 +87996,7 @@ const WSW_DATA = {
           "pick": 85,
           "round": 9,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Darren McFadden",
           "position": "RB",
@@ -86556,7 +88139,7 @@ const WSW_DATA = {
           "pick": 96,
           "round": 10,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Eric Decker",
           "position": "WR",
@@ -86569,7 +88152,7 @@ const WSW_DATA = {
           "pick": 97,
           "round": 10,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dolphins",
           "position": "DEF",
@@ -86595,7 +88178,7 @@ const WSW_DATA = {
           "pick": 99,
           "round": 10,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Coby Fleener",
           "position": "TE",
@@ -86634,7 +88217,7 @@ const WSW_DATA = {
           "pick": 102,
           "round": 11,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Teddy Bridgewater",
           "position": "QB",
@@ -86660,7 +88243,7 @@ const WSW_DATA = {
           "pick": 104,
           "round": 11,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "DeVante Parker",
           "position": "WR",
@@ -86673,7 +88256,7 @@ const WSW_DATA = {
           "pick": 105,
           "round": 11,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Tyler Eifert",
           "position": "TE",
@@ -86816,7 +88399,7 @@ const WSW_DATA = {
           "pick": 116,
           "round": 12,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Rams",
           "position": "DEF",
@@ -86829,7 +88412,7 @@ const WSW_DATA = {
           "pick": 117,
           "round": 12,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Owen Daniels",
           "position": "TE",
@@ -86855,7 +88438,7 @@ const WSW_DATA = {
           "pick": 119,
           "round": 12,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Cody Latimer",
           "position": "WR",
@@ -86894,7 +88477,7 @@ const WSW_DATA = {
           "pick": 122,
           "round": 13,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Ryan Mathews",
           "position": "RB",
@@ -86920,7 +88503,7 @@ const WSW_DATA = {
           "pick": 124,
           "round": 13,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jordan Matthews",
           "position": "WR",
@@ -86933,7 +88516,7 @@ const WSW_DATA = {
           "pick": 125,
           "round": 13,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Torrey Smith",
           "position": "WR",
@@ -87076,7 +88659,7 @@ const WSW_DATA = {
           "pick": 136,
           "round": 14,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Isaiah Crowell",
           "position": "RB",
@@ -87089,7 +88672,7 @@ const WSW_DATA = {
           "pick": 137,
           "round": 14,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dan Bailey",
           "position": "K",
@@ -87115,7 +88698,7 @@ const WSW_DATA = {
           "pick": 139,
           "round": 14,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Mason Crosby",
           "position": "K",
@@ -87154,7 +88737,7 @@ const WSW_DATA = {
           "pick": 142,
           "round": 15,
           "team_key": "348.l.160440.t.2",
-          "manager": "cool brees",
+          "manager": null,
           "team_name": "cool brees",
           "player_name": "Colts",
           "position": "DEF",
@@ -87180,7 +88763,7 @@ const WSW_DATA = {
           "pick": 144,
           "round": 15,
           "team_key": "348.l.160440.t.8",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ronnie Hillman",
           "position": "RB",
@@ -87193,7 +88776,7 @@ const WSW_DATA = {
           "pick": 145,
           "round": 15,
           "team_key": "348.l.160440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Dan Carpenter",
           "position": "K",
@@ -87273,25 +88856,10 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 14.27
         },
-        "cool brees": {
-          "total_value": -352,
-          "picks": 15,
-          "avg_value": -23.47
-        },
         "Seth": {
           "total_value": -26,
           "picks": 15,
           "avg_value": -1.73
-        },
-        "Chris": {
-          "total_value": 206,
-          "picks": 15,
-          "avg_value": 13.73
-        },
-        "Keep Pounding": {
-          "total_value": 348,
-          "picks": 15,
-          "avg_value": 23.2
         },
         "Michael": {
           "total_value": -48,
@@ -87327,7 +88895,7 @@ const WSW_DATA = {
           "pick": 1,
           "round": 1,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Antonio Brown",
           "position": "WR",
@@ -87340,7 +88908,7 @@ const WSW_DATA = {
           "pick": 2,
           "round": 1,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Julio Jones",
           "position": "WR",
@@ -87561,7 +89129,7 @@ const WSW_DATA = {
           "pick": 19,
           "round": 2,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "T.Y. Hilton",
           "position": "WR",
@@ -87574,7 +89142,7 @@ const WSW_DATA = {
           "pick": 20,
           "round": 2,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Doug Martin",
           "position": "RB",
@@ -87587,7 +89155,7 @@ const WSW_DATA = {
           "pick": 21,
           "round": 3,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Todd Gurley",
           "position": "RB",
@@ -87600,7 +89168,7 @@ const WSW_DATA = {
           "pick": 22,
           "round": 3,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Mark Ingram II",
           "position": "RB",
@@ -87808,7 +89376,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Andrew Luck",
           "position": "QB",
@@ -87821,7 +89389,7 @@ const WSW_DATA = {
           "pick": 39,
           "round": 4,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Cam Newton",
           "position": "QB",
@@ -87834,7 +89402,7 @@ const WSW_DATA = {
           "pick": 40,
           "round": 4,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Melvin Gordon III",
           "position": "RB",
@@ -87847,7 +89415,7 @@ const WSW_DATA = {
           "pick": 41,
           "round": 5,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kelvin Benjamin",
           "position": "WR",
@@ -87860,7 +89428,7 @@ const WSW_DATA = {
           "pick": 42,
           "round": 5,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Jonathan Stewart",
           "position": "RB",
@@ -88081,7 +89649,7 @@ const WSW_DATA = {
           "pick": 59,
           "round": 6,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Devonta Freeman",
           "position": "RB",
@@ -88094,7 +89662,7 @@ const WSW_DATA = {
           "pick": 60,
           "round": 6,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jordan Matthews",
           "position": "WR",
@@ -88107,7 +89675,7 @@ const WSW_DATA = {
           "pick": 61,
           "round": 7,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Marvin Jones Jr.",
           "position": "WR",
@@ -88120,7 +89688,7 @@ const WSW_DATA = {
           "pick": 62,
           "round": 7,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "John Brown",
           "position": "WR",
@@ -88289,7 +89857,7 @@ const WSW_DATA = {
           "pick": 75,
           "round": 8,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Panthers",
           "position": "DEF",
@@ -88341,7 +89909,7 @@ const WSW_DATA = {
           "pick": 79,
           "round": 8,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Eric Decker",
           "position": "WR",
@@ -88354,7 +89922,7 @@ const WSW_DATA = {
           "pick": 80,
           "round": 8,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Charles Sims",
           "position": "RB",
@@ -88367,7 +89935,7 @@ const WSW_DATA = {
           "pick": 81,
           "round": 9,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ameer Abdullah",
           "position": "RB",
@@ -88380,7 +89948,7 @@ const WSW_DATA = {
           "pick": 82,
           "round": 9,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Zach Ertz",
           "position": "TE",
@@ -88601,7 +90169,7 @@ const WSW_DATA = {
           "pick": 99,
           "round": 10,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Texans",
           "position": "DEF",
@@ -88614,7 +90182,7 @@ const WSW_DATA = {
           "pick": 100,
           "round": 10,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Philip Rivers",
           "position": "QB",
@@ -88627,7 +90195,7 @@ const WSW_DATA = {
           "pick": 101,
           "round": 11,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jordan Reed",
           "position": "TE",
@@ -88640,7 +90208,7 @@ const WSW_DATA = {
           "pick": 102,
           "round": 11,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Vincent Jackson",
           "position": "WR",
@@ -88861,7 +90429,7 @@ const WSW_DATA = {
           "pick": 119,
           "round": 12,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Isaiah Crowell",
           "position": "RB",
@@ -88874,7 +90442,7 @@ const WSW_DATA = {
           "pick": 120,
           "round": 12,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jordy Nelson",
           "position": "WR",
@@ -88900,7 +90468,7 @@ const WSW_DATA = {
           "pick": 122,
           "round": 13,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Kevin White",
           "position": "WR",
@@ -89121,7 +90689,7 @@ const WSW_DATA = {
           "pick": 139,
           "round": 14,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Mike Wallace",
           "position": "WR",
@@ -89134,7 +90702,7 @@ const WSW_DATA = {
           "pick": 140,
           "round": 14,
           "team_key": "359.l.82593.t.6",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dan Bailey",
           "position": "K",
@@ -89160,7 +90728,7 @@ const WSW_DATA = {
           "pick": 142,
           "round": 15,
           "team_key": "359.l.82593.t.3",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Blair Walsh",
           "position": "K",
@@ -89274,16 +90842,6 @@ const WSW_DATA = {
         }
       ],
       "by_manager": {
-        "Chris": {
-          "total_value": 4,
-          "picks": 15,
-          "avg_value": 0.27
-        },
-        "Keep Pounding": {
-          "total_value": -24,
-          "picks": 15,
-          "avg_value": -1.6
-        },
         "Michael": {
           "total_value": -84,
           "picks": 15,
@@ -89424,7 +90982,7 @@ const WSW_DATA = {
           "pick": 8,
           "round": 1,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Amari Cooper",
           "position": "WR",
@@ -89437,7 +90995,7 @@ const WSW_DATA = {
           "pick": 9,
           "round": 1,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Brandin Cooks",
           "position": "WR",
@@ -89476,7 +91034,7 @@ const WSW_DATA = {
           "pick": 12,
           "round": 2,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Christian McCaffrey",
           "position": "RB",
@@ -89489,7 +91047,7 @@ const WSW_DATA = {
           "pick": 13,
           "round": 2,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Melvin Gordon III",
           "position": "RB",
@@ -89684,7 +91242,7 @@ const WSW_DATA = {
           "pick": 28,
           "round": 3,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Lamar Miller",
           "position": "RB",
@@ -89697,7 +91255,7 @@ const WSW_DATA = {
           "pick": 29,
           "round": 3,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Greg Olsen",
           "position": "TE",
@@ -89736,7 +91294,7 @@ const WSW_DATA = {
           "pick": 32,
           "round": 4,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Devonta Freeman",
           "position": "RB",
@@ -89749,7 +91307,7 @@ const WSW_DATA = {
           "pick": 33,
           "round": 4,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kareem Hunt",
           "position": "RB",
@@ -89944,7 +91502,7 @@ const WSW_DATA = {
           "pick": 48,
           "round": 5,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Larry Fitzgerald",
           "position": "WR",
@@ -89957,7 +91515,7 @@ const WSW_DATA = {
           "pick": 49,
           "round": 5,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Russell Wilson",
           "position": "QB",
@@ -89996,7 +91554,7 @@ const WSW_DATA = {
           "pick": 52,
           "round": 6,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Sammy Watkins",
           "position": "WR",
@@ -90009,7 +91567,7 @@ const WSW_DATA = {
           "pick": 53,
           "round": 6,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matt Ryan",
           "position": "QB",
@@ -90204,7 +91762,7 @@ const WSW_DATA = {
           "pick": 68,
           "round": 7,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Adrian Peterson",
           "position": "RB",
@@ -90217,7 +91775,7 @@ const WSW_DATA = {
           "pick": 69,
           "round": 7,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Tyrell Williams",
           "position": "WR",
@@ -90256,7 +91814,7 @@ const WSW_DATA = {
           "pick": 72,
           "round": 8,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Stefon Diggs",
           "position": "WR",
@@ -90269,7 +91827,7 @@ const WSW_DATA = {
           "pick": 73,
           "round": 8,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Eric Decker",
           "position": "WR",
@@ -90464,7 +92022,7 @@ const WSW_DATA = {
           "pick": 88,
           "round": 9,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jordan Reed",
           "position": "TE",
@@ -90477,7 +92035,7 @@ const WSW_DATA = {
           "pick": 89,
           "round": 9,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Rishard Matthews",
           "position": "WR",
@@ -90516,7 +92074,7 @@ const WSW_DATA = {
           "pick": 92,
           "round": 10,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Adam Thielen",
           "position": "WR",
@@ -90529,7 +92087,7 @@ const WSW_DATA = {
           "pick": 93,
           "round": 10,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jordy Nelson",
           "position": "WR",
@@ -90724,7 +92282,7 @@ const WSW_DATA = {
           "pick": 108,
           "round": 11,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Vikings",
           "position": "DEF",
@@ -90737,7 +92295,7 @@ const WSW_DATA = {
           "pick": 109,
           "round": 11,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Panthers",
           "position": "DEF",
@@ -90776,7 +92334,7 @@ const WSW_DATA = {
           "pick": 112,
           "round": 12,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Danny Woodhead",
           "position": "RB",
@@ -90789,7 +92347,7 @@ const WSW_DATA = {
           "pick": 113,
           "round": 12,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "John Brown",
           "position": "WR",
@@ -90984,7 +92542,7 @@ const WSW_DATA = {
           "pick": 128,
           "round": 13,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jordan Matthews",
           "position": "WR",
@@ -90997,7 +92555,7 @@ const WSW_DATA = {
           "pick": 129,
           "round": 13,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Matt Bryant",
           "position": "K",
@@ -91036,7 +92594,7 @@ const WSW_DATA = {
           "pick": 132,
           "round": 14,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "James White",
           "position": "RB",
@@ -91049,7 +92607,7 @@ const WSW_DATA = {
           "pick": 133,
           "round": 14,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Andrew Luck",
           "position": "QB",
@@ -91244,7 +92802,7 @@ const WSW_DATA = {
           "pick": 148,
           "round": 15,
           "team_key": "371.l.56440.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Sebastian Janikowski",
           "position": "K",
@@ -91257,7 +92815,7 @@ const WSW_DATA = {
           "pick": 149,
           "round": 15,
           "team_key": "371.l.56440.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Mitchell Trubisky",
           "position": "QB",
@@ -91315,16 +92873,6 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 0.87
         },
-        "Chris": {
-          "total_value": -146,
-          "picks": 15,
-          "avg_value": -9.73
-        },
-        "Keep Pounding": {
-          "total_value": 127,
-          "picks": 15,
-          "avg_value": 8.47
-        },
         "Michael": {
           "total_value": -55,
           "picks": 15,
@@ -91339,7 +92887,7 @@ const WSW_DATA = {
           "pick": 1,
           "round": 1,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Todd Gurley",
           "position": "RB",
@@ -91404,7 +92952,7 @@ const WSW_DATA = {
           "pick": 6,
           "round": 1,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Saquon Barkley",
           "position": "RB",
@@ -91521,7 +93069,7 @@ const WSW_DATA = {
           "pick": 15,
           "round": 2,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Julio Jones",
           "position": "WR",
@@ -91534,7 +93082,7 @@ const WSW_DATA = {
           "pick": 16,
           "round": 2,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kareem Hunt",
           "position": "RB",
@@ -91651,7 +93199,7 @@ const WSW_DATA = {
           "pick": 25,
           "round": 3,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Stefon Diggs",
           "position": "WR",
@@ -91664,7 +93212,7 @@ const WSW_DATA = {
           "pick": 26,
           "round": 3,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Rob Gronkowski",
           "position": "TE",
@@ -91781,7 +93329,7 @@ const WSW_DATA = {
           "pick": 35,
           "round": 4,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Adam Thielen",
           "position": "WR",
@@ -91794,7 +93342,7 @@ const WSW_DATA = {
           "pick": 36,
           "round": 4,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Demaryius Thomas",
           "position": "WR",
@@ -91885,7 +93433,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Carlos Hyde",
           "position": "RB",
@@ -91911,7 +93459,7 @@ const WSW_DATA = {
           "pick": 45,
           "round": 5,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Trey Burton",
           "position": "TE",
@@ -91924,7 +93472,7 @@ const WSW_DATA = {
           "pick": 46,
           "round": 5,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Cam Newton",
           "position": "QB",
@@ -92041,7 +93589,7 @@ const WSW_DATA = {
           "pick": 55,
           "round": 6,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Corey Davis",
           "position": "WR",
@@ -92171,7 +93719,7 @@ const WSW_DATA = {
           "pick": 65,
           "round": 7,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Alfred Morris",
           "position": "RB",
@@ -92184,7 +93732,7 @@ const WSW_DATA = {
           "pick": 66,
           "round": 7,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Isaiah Crowell",
           "position": "RB",
@@ -92301,7 +93849,7 @@ const WSW_DATA = {
           "pick": 75,
           "round": 8,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Jaguars",
           "position": "DEF",
@@ -92431,7 +93979,7 @@ const WSW_DATA = {
           "pick": 85,
           "round": 9,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Adrian Peterson",
           "position": "RB",
@@ -92444,7 +93992,7 @@ const WSW_DATA = {
           "pick": 86,
           "round": 9,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Stephen Gostkowski",
           "position": "K",
@@ -92561,7 +94109,7 @@ const WSW_DATA = {
           "pick": 95,
           "round": 10,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Jamison Crowder",
           "position": "WR",
@@ -92691,7 +94239,7 @@ const WSW_DATA = {
           "pick": 105,
           "round": 11,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Aaron Jones Sr.",
           "position": "RB",
@@ -92704,7 +94252,7 @@ const WSW_DATA = {
           "pick": 106,
           "round": 11,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Philip Rivers",
           "position": "QB",
@@ -92756,7 +94304,7 @@ const WSW_DATA = {
           "pick": 110,
           "round": 11,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Deshaun Watson",
           "position": "QB",
@@ -92821,7 +94369,7 @@ const WSW_DATA = {
           "pick": 115,
           "round": 12,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Jordan Reed",
           "position": "TE",
@@ -92834,7 +94382,7 @@ const WSW_DATA = {
           "pick": 116,
           "round": 12,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Josh Gordon",
           "position": "WR",
@@ -92951,7 +94499,7 @@ const WSW_DATA = {
           "pick": 125,
           "round": 13,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Texans",
           "position": "DEF",
@@ -92964,7 +94512,7 @@ const WSW_DATA = {
           "pick": 126,
           "round": 13,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Duke Johnson",
           "position": "RB",
@@ -93081,7 +94629,7 @@ const WSW_DATA = {
           "pick": 135,
           "round": 14,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Broncos",
           "position": "DEF",
@@ -93094,7 +94642,7 @@ const WSW_DATA = {
           "pick": 136,
           "round": 14,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Michael Gallup",
           "position": "WR",
@@ -93159,7 +94707,7 @@ const WSW_DATA = {
           "pick": 141,
           "round": 15,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Alex Smith",
           "position": "QB",
@@ -93211,7 +94759,7 @@ const WSW_DATA = {
           "pick": 145,
           "round": 15,
           "team_key": "380.l.59601.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jake Elliott",
           "position": "K",
@@ -93224,7 +94772,7 @@ const WSW_DATA = {
           "pick": 146,
           "round": 15,
           "team_key": "380.l.59601.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Mike Williams",
           "position": "WR",
@@ -93286,11 +94834,6 @@ const WSW_DATA = {
         }
       ],
       "by_manager": {
-        "Chris": {
-          "total_value": 144,
-          "picks": 15,
-          "avg_value": 9.6
-        },
         "Roger": {
           "total_value": -82,
           "picks": 15,
@@ -93310,11 +94853,6 @@ const WSW_DATA = {
           "total_value": -242,
           "picks": 15,
           "avg_value": -16.13
-        },
-        "Keep Pounding": {
-          "total_value": 98,
-          "picks": 15,
-          "avg_value": 6.53
         },
         "Michael": {
           "total_value": -89,
@@ -93358,7 +94896,7 @@ const WSW_DATA = {
           "pick": 2,
           "round": 1,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Christian McCaffrey",
           "position": "RB",
@@ -93371,7 +94909,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Ezekiel Elliott",
           "position": "RB",
@@ -93566,7 +95104,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Devonta Freeman",
           "position": "RB",
@@ -93579,7 +95117,7 @@ const WSW_DATA = {
           "pick": 19,
           "round": 2,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Adam Thielen",
           "position": "WR",
@@ -93618,7 +95156,7 @@ const WSW_DATA = {
           "pick": 22,
           "round": 3,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Derrick Henry",
           "position": "RB",
@@ -93631,7 +95169,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Brandin Cooks",
           "position": "WR",
@@ -93826,7 +95364,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Josh Jacobs",
           "position": "RB",
@@ -93839,7 +95377,7 @@ const WSW_DATA = {
           "pick": 39,
           "round": 4,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Evan Engram",
           "position": "TE",
@@ -93878,7 +95416,7 @@ const WSW_DATA = {
           "pick": 42,
           "round": 5,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "A.J. Green",
           "position": "WR",
@@ -93891,7 +95429,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Allen Robinson",
           "position": "WR",
@@ -94086,7 +95624,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Carson Wentz",
           "position": "QB",
@@ -94099,7 +95637,7 @@ const WSW_DATA = {
           "pick": 59,
           "round": 6,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jameis Winston",
           "position": "QB",
@@ -94138,7 +95676,7 @@ const WSW_DATA = {
           "pick": 62,
           "round": 7,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Austin Ekeler",
           "position": "RB",
@@ -94151,7 +95689,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Vance McDonald",
           "position": "TE",
@@ -94346,7 +95884,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Jaguars",
           "position": "DEF",
@@ -94359,7 +95897,7 @@ const WSW_DATA = {
           "pick": 79,
           "round": 8,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Rams",
           "position": "DEF",
@@ -94398,7 +95936,7 @@ const WSW_DATA = {
           "pick": 82,
           "round": 9,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Aaron Jones Sr.",
           "position": "RB",
@@ -94411,7 +95949,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Justin Tucker",
           "position": "K",
@@ -94606,7 +96144,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Russell Wilson",
           "position": "QB",
@@ -94619,7 +96157,7 @@ const WSW_DATA = {
           "pick": 99,
           "round": 10,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Josh Gordon",
           "position": "WR",
@@ -94658,7 +96196,7 @@ const WSW_DATA = {
           "pick": 102,
           "round": 11,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Emmanuel Sanders",
           "position": "WR",
@@ -94671,7 +96209,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Austin Hooper",
           "position": "TE",
@@ -94866,7 +96404,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Mark Andrews",
           "position": "TE",
@@ -94879,7 +96417,7 @@ const WSW_DATA = {
           "pick": 119,
           "round": 12,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Chris Godwin Jr.",
           "position": "WR",
@@ -94918,7 +96456,7 @@ const WSW_DATA = {
           "pick": 122,
           "round": 13,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kyler Murray",
           "position": "QB",
@@ -94931,7 +96469,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Sammy Watkins",
           "position": "WR",
@@ -95126,7 +96664,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Darwin Thompson",
           "position": "RB",
@@ -95139,7 +96677,7 @@ const WSW_DATA = {
           "pick": 139,
           "round": 14,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Tom Brady",
           "position": "QB",
@@ -95178,7 +96716,7 @@ const WSW_DATA = {
           "pick": 142,
           "round": 15,
           "team_key": "390.l.123814.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ben Roethlisberger",
           "position": "QB",
@@ -95191,7 +96729,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "390.l.123814.t.4",
-          "manager": "Keep Pounding",
+          "manager": null,
           "team_name": "Keep Pounding",
           "player_name": "Eagles",
           "position": "DEF",
@@ -95296,16 +96834,6 @@ const WSW_DATA = {
           "total_value": -43,
           "picks": 15,
           "avg_value": -2.87
-        },
-        "Chris": {
-          "total_value": 226,
-          "picks": 15,
-          "avg_value": 15.07
-        },
-        "Keep Pounding": {
-          "total_value": 72,
-          "picks": 15,
-          "avg_value": 4.8
         },
         "Michael": {
           "total_value": 25,
@@ -95455,7 +96983,7 @@ const WSW_DATA = {
           "pick": 9,
           "round": 1,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Clyde Edwards-Helaire",
           "position": "RB",
@@ -95494,7 +97022,7 @@ const WSW_DATA = {
           "pick": 12,
           "round": 2,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Joe Mixon",
           "position": "RB",
@@ -95715,7 +97243,7 @@ const WSW_DATA = {
           "pick": 29,
           "round": 3,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Cooper Kupp",
           "position": "WR",
@@ -95754,7 +97282,7 @@ const WSW_DATA = {
           "pick": 32,
           "round": 4,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Tyler Lockett",
           "position": "WR",
@@ -95975,7 +97503,7 @@ const WSW_DATA = {
           "pick": 49,
           "round": 5,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Austin Ekeler",
           "position": "RB",
@@ -96014,7 +97542,7 @@ const WSW_DATA = {
           "pick": 52,
           "round": 6,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dak Prescott",
           "position": "QB",
@@ -96235,7 +97763,7 @@ const WSW_DATA = {
           "pick": 69,
           "round": 7,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Aaron Jones Sr.",
           "position": "RB",
@@ -96274,7 +97802,7 @@ const WSW_DATA = {
           "pick": 72,
           "round": 8,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Hayden Hurst",
           "position": "TE",
@@ -96495,7 +98023,7 @@ const WSW_DATA = {
           "pick": 89,
           "round": 9,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Darius Slayton",
           "position": "WR",
@@ -96534,7 +98062,7 @@ const WSW_DATA = {
           "pick": 92,
           "round": 10,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Chris Godwin Jr.",
           "position": "WR",
@@ -96755,7 +98283,7 @@ const WSW_DATA = {
           "pick": 109,
           "round": 11,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Bills",
           "position": "DEF",
@@ -96794,7 +98322,7 @@ const WSW_DATA = {
           "pick": 112,
           "round": 12,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ben Roethlisberger",
           "position": "QB",
@@ -97015,7 +98543,7 @@ const WSW_DATA = {
           "pick": 129,
           "round": 13,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Greg Zuerlein",
           "position": "K",
@@ -97054,7 +98582,7 @@ const WSW_DATA = {
           "pick": 132,
           "round": 14,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Preston Williams",
           "position": "WR",
@@ -97275,7 +98803,7 @@ const WSW_DATA = {
           "pick": 149,
           "round": 15,
           "team_key": "399.l.189597.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Parris Campbell",
           "position": "WR",
@@ -97337,11 +98865,6 @@ const WSW_DATA = {
           "total_value": 16,
           "picks": 15,
           "avg_value": 1.07
-        },
-        "Chris": {
-          "total_value": -17,
-          "picks": 15,
-          "avg_value": -1.13
         },
         "Jack": {
           "total_value": 100,
@@ -97422,7 +98945,7 @@ const WSW_DATA = {
           "pick": 6,
           "round": 1,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jonathan Taylor",
           "position": "RB",
@@ -97539,7 +99062,7 @@ const WSW_DATA = {
           "pick": 15,
           "round": 2,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "DeAndre Hopkins",
           "position": "WR",
@@ -97682,7 +99205,7 @@ const WSW_DATA = {
           "pick": 26,
           "round": 3,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Austin Ekeler",
           "position": "RB",
@@ -97799,7 +99322,7 @@ const WSW_DATA = {
           "pick": 35,
           "round": 4,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Julio Jones",
           "position": "WR",
@@ -97942,7 +99465,7 @@ const WSW_DATA = {
           "pick": 46,
           "round": 5,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Aaron Jones Sr.",
           "position": "RB",
@@ -98059,7 +99582,7 @@ const WSW_DATA = {
           "pick": 55,
           "round": 6,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Justin Herbert",
           "position": "QB",
@@ -98202,7 +99725,7 @@ const WSW_DATA = {
           "pick": 66,
           "round": 7,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Logan Thomas",
           "position": "TE",
@@ -98319,7 +99842,7 @@ const WSW_DATA = {
           "pick": 75,
           "round": 8,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "AJ Dillon",
           "position": "RB",
@@ -98345,7 +99868,7 @@ const WSW_DATA = {
           "pick": 77,
           "round": 8,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Chris Godwin Jr.",
           "position": "WR",
@@ -98462,7 +99985,7 @@ const WSW_DATA = {
           "pick": 86,
           "round": 9,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Commanders",
           "position": "DEF",
@@ -98579,7 +100102,7 @@ const WSW_DATA = {
           "pick": 95,
           "round": 10,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Michael Carter",
           "position": "RB",
@@ -98722,7 +100245,7 @@ const WSW_DATA = {
           "pick": 106,
           "round": 11,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jakobi Meyers",
           "position": "WR",
@@ -98982,7 +100505,7 @@ const WSW_DATA = {
           "pick": 126,
           "round": 13,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Justin Fields",
           "position": "QB",
@@ -99099,7 +100622,7 @@ const WSW_DATA = {
           "pick": 135,
           "round": 14,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ty'Son Williams",
           "position": "RB",
@@ -99242,7 +100765,7 @@ const WSW_DATA = {
           "pick": 146,
           "round": 15,
           "team_key": "406.l.36892.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matt Gay",
           "position": "K",
@@ -99329,11 +100852,6 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": -3.73
         },
-        "Chris": {
-          "total_value": -7,
-          "picks": 15,
-          "avg_value": -0.47
-        },
         "Jack": {
           "total_value": 180,
           "picks": 15,
@@ -99389,7 +100907,7 @@ const WSW_DATA = {
           "pick": 3,
           "round": 1,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Derrick Henry",
           "position": "RB",
@@ -99584,7 +101102,7 @@ const WSW_DATA = {
           "pick": 18,
           "round": 2,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Aaron Jones Sr.",
           "position": "RB",
@@ -99649,7 +101167,7 @@ const WSW_DATA = {
           "pick": 23,
           "round": 3,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Mike Evans",
           "position": "WR",
@@ -99844,7 +101362,7 @@ const WSW_DATA = {
           "pick": 38,
           "round": 4,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Lamar Jackson",
           "position": "QB",
@@ -99909,7 +101427,7 @@ const WSW_DATA = {
           "pick": 43,
           "round": 5,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Chase Edmonds",
           "position": "RB",
@@ -100104,7 +101622,7 @@ const WSW_DATA = {
           "pick": 58,
           "round": 6,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "AJ Dillon",
           "position": "RB",
@@ -100169,7 +101687,7 @@ const WSW_DATA = {
           "pick": 63,
           "round": 7,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Darren Waller",
           "position": "TE",
@@ -100364,7 +101882,7 @@ const WSW_DATA = {
           "pick": 78,
           "round": 8,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Darnell Mooney",
           "position": "WR",
@@ -100429,7 +101947,7 @@ const WSW_DATA = {
           "pick": 83,
           "round": 9,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Tom Brady",
           "position": "QB",
@@ -100624,7 +102142,7 @@ const WSW_DATA = {
           "pick": 98,
           "round": 10,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Packers",
           "position": "DEF",
@@ -100689,7 +102207,7 @@ const WSW_DATA = {
           "pick": 103,
           "round": 11,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Allen Lazard",
           "position": "WR",
@@ -100884,7 +102402,7 @@ const WSW_DATA = {
           "pick": 118,
           "round": 12,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Gabe Davis",
           "position": "WR",
@@ -100949,7 +102467,7 @@ const WSW_DATA = {
           "pick": 123,
           "round": 13,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Isiah Pacheco",
           "position": "RB",
@@ -101144,7 +102662,7 @@ const WSW_DATA = {
           "pick": 138,
           "round": 14,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "James Robinson",
           "position": "RB",
@@ -101209,7 +102727,7 @@ const WSW_DATA = {
           "pick": 143,
           "round": 15,
           "team_key": "414.l.84791.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Matt Gay",
           "position": "K",
@@ -101319,11 +102837,6 @@ const WSW_DATA = {
           "total_value": 214,
           "picks": 15,
           "avg_value": 14.27
-        },
-        "Chris": {
-          "total_value": 34,
-          "picks": 15,
-          "avg_value": 2.27
         },
         "Jack": {
           "total_value": 71,
@@ -101486,7 +102999,7 @@ const WSW_DATA = {
           "pick": 10,
           "round": 1,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Derrick Henry",
           "position": "RB",
@@ -101499,7 +103012,7 @@ const WSW_DATA = {
           "pick": 11,
           "round": 2,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Josh Jacobs",
           "position": "RB",
@@ -101746,7 +103259,7 @@ const WSW_DATA = {
           "pick": 30,
           "round": 3,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dameon Pierce",
           "position": "RB",
@@ -101759,7 +103272,7 @@ const WSW_DATA = {
           "pick": 31,
           "round": 4,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "DJ Moore",
           "position": "WR",
@@ -102006,7 +103519,7 @@ const WSW_DATA = {
           "pick": 50,
           "round": 5,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Rachaad White",
           "position": "RB",
@@ -102019,7 +103532,7 @@ const WSW_DATA = {
           "pick": 51,
           "round": 6,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kyle Pitts Sr.",
           "position": "TE",
@@ -102266,7 +103779,7 @@ const WSW_DATA = {
           "pick": 70,
           "round": 7,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Brian Robinson",
           "position": "RB",
@@ -102279,7 +103792,7 @@ const WSW_DATA = {
           "pick": 71,
           "round": 8,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Trevor Lawrence",
           "position": "QB",
@@ -102526,7 +104039,7 @@ const WSW_DATA = {
           "pick": 90,
           "round": 9,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "49ers",
           "position": "DEF",
@@ -102539,7 +104052,7 @@ const WSW_DATA = {
           "pick": 91,
           "round": 10,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Calvin Ridley",
           "position": "WR",
@@ -102786,7 +104299,7 @@ const WSW_DATA = {
           "pick": 110,
           "round": 11,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Garrett Wilson",
           "position": "WR",
@@ -102799,7 +104312,7 @@ const WSW_DATA = {
           "pick": 111,
           "round": 12,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Justin Fields",
           "position": "QB",
@@ -103046,7 +104559,7 @@ const WSW_DATA = {
           "pick": 130,
           "round": 13,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Adam Thielen",
           "position": "WR",
@@ -103059,7 +104572,7 @@ const WSW_DATA = {
           "pick": 131,
           "round": 14,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Tyjae Spears",
           "position": "RB",
@@ -103306,7 +104819,7 @@ const WSW_DATA = {
           "pick": 150,
           "round": 15,
           "team_key": "423.l.16311.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jake Elliott",
           "position": "K",
@@ -103360,11 +104873,6 @@ const WSW_DATA = {
           "total_value": 75,
           "picks": 15,
           "avg_value": 5.0
-        },
-        "Chris": {
-          "total_value": 247,
-          "picks": 15,
-          "avg_value": 16.47
         }
       }
     },
@@ -103453,7 +104961,7 @@ const WSW_DATA = {
           "pick": 7,
           "round": 1,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Bijan Robinson",
           "position": "RB",
@@ -103544,7 +105052,7 @@ const WSW_DATA = {
           "pick": 14,
           "round": 2,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kenneth Walker III",
           "position": "RB",
@@ -103713,7 +105221,7 @@ const WSW_DATA = {
           "pick": 27,
           "round": 3,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Rachaad White",
           "position": "RB",
@@ -103804,7 +105312,7 @@ const WSW_DATA = {
           "pick": 34,
           "round": 4,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Amari Cooper",
           "position": "WR",
@@ -103973,7 +105481,7 @@ const WSW_DATA = {
           "pick": 47,
           "round": 5,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "James Conner",
           "position": "RB",
@@ -104064,7 +105572,7 @@ const WSW_DATA = {
           "pick": 54,
           "round": 6,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Terry McLaurin",
           "position": "WR",
@@ -104233,7 +105741,7 @@ const WSW_DATA = {
           "pick": 67,
           "round": 7,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Evan Engram",
           "position": "TE",
@@ -104324,7 +105832,7 @@ const WSW_DATA = {
           "pick": 74,
           "round": 8,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Kyler Murray",
           "position": "QB",
@@ -104480,7 +105988,7 @@ const WSW_DATA = {
           "pick": 86,
           "round": 9,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jonathon Brooks",
           "position": "RB",
@@ -104493,7 +106001,7 @@ const WSW_DATA = {
           "pick": 87,
           "round": 9,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Garrett Wilson",
           "position": "WR",
@@ -104584,7 +106092,7 @@ const WSW_DATA = {
           "pick": 94,
           "round": 10,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Anthony Richardson Sr.",
           "position": "QB",
@@ -104753,7 +106261,7 @@ const WSW_DATA = {
           "pick": 107,
           "round": 11,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Puka Nacua",
           "position": "WR",
@@ -105013,7 +106521,7 @@ const WSW_DATA = {
           "pick": 127,
           "round": 13,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Chuba Hubbard",
           "position": "RB",
@@ -105104,7 +106612,7 @@ const WSW_DATA = {
           "pick": 134,
           "round": 14,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Jake Elliott",
           "position": "K",
@@ -105273,7 +106781,7 @@ const WSW_DATA = {
           "pick": 147,
           "round": 15,
           "team_key": "449.l.58247.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Texans",
           "position": "DEF",
@@ -105352,11 +106860,6 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": -17.07
         },
-        "Chris": {
-          "total_value": 153,
-          "picks": 15,
-          "avg_value": 10.2
-        },
         "Jack": {
           "total_value": 109,
           "picks": 15,
@@ -105420,7 +106923,7 @@ const WSW_DATA = {
           "pick": 4,
           "round": 1,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Christian McCaffrey",
           "position": "RB",
@@ -105589,7 +107092,7 @@ const WSW_DATA = {
           "pick": 17,
           "round": 2,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Omarion Hampton",
           "position": "RB",
@@ -105680,7 +107183,7 @@ const WSW_DATA = {
           "pick": 24,
           "round": 3,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "James Conner",
           "position": "RB",
@@ -105849,7 +107352,7 @@ const WSW_DATA = {
           "pick": 37,
           "round": 4,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Tetairoa McMillan",
           "position": "WR",
@@ -105940,7 +107443,7 @@ const WSW_DATA = {
           "pick": 44,
           "round": 5,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Courtland Sutton",
           "position": "WR",
@@ -106109,7 +107612,7 @@ const WSW_DATA = {
           "pick": 57,
           "round": 6,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Ricky Pearsall",
           "position": "WR",
@@ -106200,7 +107703,7 @@ const WSW_DATA = {
           "pick": 64,
           "round": 7,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Garrett Wilson",
           "position": "WR",
@@ -106369,7 +107872,7 @@ const WSW_DATA = {
           "pick": 77,
           "round": 8,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Dak Prescott",
           "position": "QB",
@@ -106460,7 +107963,7 @@ const WSW_DATA = {
           "pick": 84,
           "round": 9,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Broncos",
           "position": "DEF",
@@ -106629,7 +108132,7 @@ const WSW_DATA = {
           "pick": 97,
           "round": 10,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Puka Nacua",
           "position": "WR",
@@ -106720,7 +108223,7 @@ const WSW_DATA = {
           "pick": 104,
           "round": 11,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Nick Chubb",
           "position": "RB",
@@ -106889,7 +108392,7 @@ const WSW_DATA = {
           "pick": 117,
           "round": 12,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Bucky Irving",
           "position": "RB",
@@ -106980,7 +108483,7 @@ const WSW_DATA = {
           "pick": 124,
           "round": 13,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Tyler Warren",
           "position": "TE",
@@ -107149,7 +108652,7 @@ const WSW_DATA = {
           "pick": 137,
           "round": 14,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Trey Benson",
           "position": "RB",
@@ -107240,7 +108743,7 @@ const WSW_DATA = {
           "pick": 144,
           "round": 15,
           "team_key": "461.l.14807.t.7",
-          "manager": "Chris",
+          "manager": null,
           "team_name": "Nector",
           "player_name": "Evan McPherson",
           "position": "K",
@@ -107343,11 +108846,6 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 6.47
         },
-        "Chris": {
-          "total_value": -17,
-          "picks": 15,
-          "avg_value": -1.13
-        },
         "Jack": {
           "total_value": 50,
           "picks": 15,
@@ -107383,16 +108881,16 @@ const WSW_DATA = {
   },
   "manager_rankings": [
     {
-      "manager": "Keep Pounding",
-      "seasons_drafted": 5,
-      "avg_value_per_pick": 8.28,
+      "manager": "Ric's Last Resort",
+      "seasons_drafted": 6,
+      "avg_value_per_pick": 6.23,
       "best_season": {
-        "season": "2015",
-        "avg_value": 23.2
+        "season": "2005",
+        "avg_value": 11.27
       },
       "worst_season": {
-        "season": "2016",
-        "avg_value": -1.6
+        "season": "2004",
+        "avg_value": -2.07
       }
     },
     {
@@ -107409,32 +108907,6 @@ const WSW_DATA = {
       }
     },
     {
-      "manager": "Chris",
-      "seasons_drafted": 21,
-      "avg_value_per_pick": 4.1,
-      "best_season": {
-        "season": "2023",
-        "avg_value": 16.47
-      },
-      "worst_season": {
-        "season": "2017",
-        "avg_value": -9.73
-      }
-    },
-    {
-      "manager": "Dahmer's Cannibals",
-      "seasons_drafted": 3,
-      "avg_value_per_pick": 2.96,
-      "best_season": {
-        "season": "2006",
-        "avg_value": 8.07
-      },
-      "worst_season": {
-        "season": "2004",
-        "avg_value": -6.13
-      }
-    },
-    {
       "manager": "Roger",
       "seasons_drafted": 24,
       "avg_value_per_pick": 2.45,
@@ -107445,6 +108917,19 @@ const WSW_DATA = {
       "worst_season": {
         "season": "2025",
         "avg_value": -13.33
+      }
+    },
+    {
+      "manager": "Jakes Jugglers",
+      "seasons_drafted": 2,
+      "avg_value_per_pick": 1.44,
+      "best_season": {
+        "season": "2002",
+        "avg_value": 2.87
+      },
+      "worst_season": {
+        "season": "2003",
+        "avg_value": 0.0
       }
     },
     {
@@ -107461,9 +108946,22 @@ const WSW_DATA = {
       }
     },
     {
+      "manager": "Dahmer's Cannibals",
+      "seasons_drafted": 6,
+      "avg_value_per_pick": 1.07,
+      "best_season": {
+        "season": "2006",
+        "avg_value": 8.07
+      },
+      "worst_season": {
+        "season": "2004",
+        "avg_value": -6.13
+      }
+    },
+    {
       "manager": "Davidson",
-      "seasons_drafted": 23,
-      "avg_value_per_pick": 0.95,
+      "seasons_drafted": 24,
+      "avg_value_per_pick": 0.91,
       "best_season": {
         "season": "2017",
         "avg_value": 24.0
@@ -107487,6 +108985,19 @@ const WSW_DATA = {
       }
     },
     {
+      "manager": "Coltrain Blue",
+      "seasons_drafted": 1,
+      "avg_value_per_pick": -0.2,
+      "best_season": {
+        "season": "2002",
+        "avg_value": -0.2
+      },
+      "worst_season": {
+        "season": "2002",
+        "avg_value": -0.2
+      }
+    },
+    {
       "manager": "Michael",
       "seasons_drafted": 24,
       "avg_value_per_pick": -0.23,
@@ -107500,35 +109011,9 @@ const WSW_DATA = {
       }
     },
     {
-      "manager": "Patterson Prophets",
-      "seasons_drafted": 1,
-      "avg_value_per_pick": -1.13,
-      "best_season": {
-        "season": "2004",
-        "avg_value": -1.13
-      },
-      "worst_season": {
-        "season": "2004",
-        "avg_value": -1.13
-      }
-    },
-    {
-      "manager": "Damon",
-      "seasons_drafted": 24,
-      "avg_value_per_pick": -1.62,
-      "best_season": {
-        "season": "2011",
-        "avg_value": 8.53
-      },
-      "worst_season": {
-        "season": "2017",
-        "avg_value": -19.47
-      }
-    },
-    {
       "manager": "Brett",
-      "seasons_drafted": 16,
-      "avg_value_per_pick": -2.11,
+      "seasons_drafted": 19,
+      "avg_value_per_pick": -2.14,
       "best_season": {
         "season": "2017",
         "avg_value": 8.4
@@ -107539,12 +109024,25 @@ const WSW_DATA = {
       }
     },
     {
-      "manager": "Scott",
+      "manager": "Damon",
       "seasons_drafted": 24,
-      "avg_value_per_pick": -4.65,
+      "avg_value_per_pick": -3.94,
       "best_season": {
-        "season": "2022",
-        "avg_value": 5.33
+        "season": "2011",
+        "avg_value": 8.53
+      },
+      "worst_season": {
+        "season": "2017",
+        "avg_value": -19.47
+      }
+    },
+    {
+      "manager": "Scott",
+      "seasons_drafted": 23,
+      "avg_value_per_pick": -4.19,
+      "best_season": {
+        "season": "2005",
+        "avg_value": 12.0
       },
       "worst_season": {
         "season": "2019",
@@ -107552,16 +109050,16 @@ const WSW_DATA = {
       }
     },
     {
-      "manager": "cool brees",
-      "seasons_drafted": 7,
-      "avg_value_per_pick": -8.19,
+      "manager": "Radical Riptide",
+      "seasons_drafted": 1,
+      "avg_value_per_pick": -6.27,
       "best_season": {
-        "season": "2014",
-        "avg_value": 7.87
+        "season": "2002",
+        "avg_value": -6.27
       },
       "worst_season": {
-        "season": "2015",
-        "avg_value": -23.47
+        "season": "2002",
+        "avg_value": -6.27
       }
     }
   ],
@@ -107688,7 +109186,7 @@ const WSW_DATA = {
       "pick": 139,
       "round": 14,
       "team_key": "390.l.123814.t.7",
-      "manager": "Chris",
+      "manager": null,
       "team_name": "Nector",
       "player_name": "Tom Brady",
       "position": "QB",
@@ -107701,7 +109199,7 @@ const WSW_DATA = {
       "pick": 141,
       "round": 15,
       "team_key": "242.l.230425.t.6",
-      "manager": "Chris",
+      "manager": null,
       "team_name": "nector",
       "player_name": "Darren McFadden",
       "position": "RB",
@@ -107846,7 +109344,7 @@ const WSW_DATA = {
       "pick": 1,
       "round": 1,
       "team_key": "49.l.19125.t.2",
-      "manager": "Scott",
+      "manager": "Damon",
       "team_name": "LaSeBre AvenGERs",
       "player_name": "Kurt Warner",
       "position": "QB",
@@ -107973,12 +109471,6 @@ const WSW_DATA = {
       "avg_value": 23.27
     },
     {
-      "season": "2015",
-      "manager": "Keep Pounding",
-      "total_value": 348,
-      "avg_value": 23.2
-    },
-    {
       "season": "2016",
       "manager": "Davidson",
       "total_value": 286,
@@ -107991,34 +109483,40 @@ const WSW_DATA = {
       "avg_value": 18.2
     },
     {
-      "season": "2005",
-      "manager": "Damon",
-      "total_value": 253,
-      "avg_value": 8.43
-    },
-    {
-      "season": "2023",
-      "manager": "Chris",
-      "total_value": 247,
-      "avg_value": 16.47
-    },
-    {
-      "season": "2019",
-      "manager": "Chris",
-      "total_value": 226,
-      "avg_value": 15.07
-    },
-    {
-      "season": "2009",
-      "manager": "Damon",
-      "total_value": 225,
-      "avg_value": 7.5
-    },
-    {
       "season": "2002",
       "manager": "Davidson",
       "total_value": 223,
       "avg_value": 14.87
+    },
+    {
+      "season": "2013",
+      "manager": "Michael",
+      "total_value": 219,
+      "avg_value": 14.6
+    },
+    {
+      "season": "2009",
+      "manager": "Robert",
+      "total_value": 214,
+      "avg_value": 14.27
+    },
+    {
+      "season": "2015",
+      "manager": "Roger",
+      "total_value": 214,
+      "avg_value": 14.27
+    },
+    {
+      "season": "2022",
+      "manager": "Seth",
+      "total_value": 214,
+      "avg_value": 14.27
+    },
+    {
+      "season": "2025",
+      "manager": "Michael",
+      "total_value": 206,
+      "avg_value": 13.73
     }
   ],
   "worst_draft_classes": [
@@ -108033,18 +109531,6 @@ const WSW_DATA = {
       "manager": "Scott",
       "total_value": -373,
       "avg_value": -24.87
-    },
-    {
-      "season": "2015",
-      "manager": "cool brees",
-      "total_value": -352,
-      "avg_value": -23.47
-    },
-    {
-      "season": "2002",
-      "manager": "Scott",
-      "total_value": -333,
-      "avg_value": -4.44
     },
     {
       "season": "2005",
@@ -108065,10 +109551,22 @@ const WSW_DATA = {
       "avg_value": -17.87
     },
     {
+      "season": "2002",
+      "manager": "Damon",
+      "total_value": -260,
+      "avg_value": -17.33
+    },
+    {
       "season": "2024",
       "manager": "Seth",
       "total_value": -256,
       "avg_value": -17.07
+    },
+    {
+      "season": "2007",
+      "manager": "Damon",
+      "total_value": -244,
+      "avg_value": -16.27
     },
     {
       "season": "2018",
