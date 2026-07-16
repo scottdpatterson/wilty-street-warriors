@@ -449,11 +449,18 @@ function displayName(name) {
   return NAME_MAP[name] || name;
 }
 
-// Managers excluded from public leaderboards/rankings (privacy). Their games
-// still count in season standings, matchups, and head-to-head.
-const HIDDEN_FROM_LEADERBOARD = new Set(["cool brees"]);
+// Managers excluded from leaderboards/rankings. Their games still count
+// toward opponents' win %, points, etc. — only their own name/row is hidden.
+// "cool brees" is hidden for privacy but stays pickable in H2H/Rivals; the
+// three placeholder team-names below are hidden everywhere a manager can be
+// selected too, since they're not tracked real people.
+const HIDDEN_FROM_LEADERBOARD = new Set(["cool brees", "Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets"]);
+const HIDDEN_FROM_SELECTION = new Set(["Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets"]);
 function visibleManagers(managers) {
   return Object.fromEntries(Object.entries(managers).filter(([name]) => !HIDDEN_FROM_LEADERBOARD.has(name)));
+}
+function selectableManagers() {
+  return sortedManagers().filter(m => !HIDDEN_FROM_SELECTION.has(m));
 }
 
 // ── page nav ──────────────────────────────────────────────────────────────────
@@ -597,7 +604,7 @@ function buildAllTime() {
 
 // ── H2H ───────────────────────────────────────────────────────────────────────
 function populateH2HSelects() {
-  const managers = sortedManagers();
+  const managers = selectableManagers();
   ['h2h-m1', 'h2h-m2'].forEach(id => {
     const sel = document.getElementById(id);
     managers.forEach(m => {
@@ -666,7 +673,7 @@ function renderH2H() {
 
 // ── RIVALS ────────────────────────────────────────────────────────────────────
 function populateRivalsSelect() {
-  const managers = sortedManagers();
+  const managers = selectableManagers();
   const sel = document.getElementById('rivals-manager');
   managers.forEach(m => {
     const opt = document.createElement('option');
@@ -682,7 +689,7 @@ function renderRivals() {
   if (!manager) return;
 
   const rows = [];
-  sortedManagers().forEach(opp => {
+  selectableManagers().forEach(opp => {
     if (opp === manager) return;
     const pair = [manager, opp].sort().join('|||');
     const data = WSW_DATA.h2h[pair];
@@ -766,7 +773,7 @@ function populateMatchupFilters() {
   const muSeason = document.getElementById('mu-season');
   seasons.forEach(s => { muSeason.innerHTML += `<option value="${s}">${s}</option>`; });
 
-  const managers = sortedManagers();
+  const managers = selectableManagers();
   const muManager = document.getElementById('mu-manager');
   managers.forEach(m => { muManager.innerHTML += `<option value="${m}">${displayName(m)}</option>`; });
 }
