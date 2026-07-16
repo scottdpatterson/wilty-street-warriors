@@ -203,7 +203,9 @@
   .placing-card .placing-name { font-family: 'Oswald', sans-serif; font-size: 16px; font-weight: 600; }
   .placing-card .placing-avg { font-size: 12px; color: var(--muted); }
   .placing-card .placing-avg strong { color: var(--gold); font-family: 'Roboto Mono', monospace; }
-  .hist { display: flex; align-items: flex-end; gap: 4px; height: 90px; }
+  .hist-row { display: flex; gap: 8px; }
+  .hist-axis { display: flex; flex-direction: column; justify-content: space-between; height: 90px; padding-bottom: 20px; font-size: 9px; color: var(--muted); font-family: 'Roboto Mono', monospace; text-align: right; }
+  .hist { flex: 1; display: flex; align-items: flex-end; gap: 4px; height: 90px; border-left: 1px solid var(--border); padding-left: 8px; }
   .hist-col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
   .hist-count { font-size: 10px; color: var(--muted); margin-bottom: 3px; font-family: 'Roboto Mono', monospace; }
   .hist-bar { width: 100%; background: var(--gold); border-radius: 2px 2px 0 0; min-height: 2px; transition: height .3s; }
@@ -394,6 +396,15 @@
   <h1>Draft Grades</h1>
   <p class="subtitle">Every pick ranked against the points it actually scored that season. A late pick that outscores early picks is a steal; an early pick that busts is, well, a bust.</p>
 
+  <div class="section" style="background:var(--card); border:1px solid var(--border); border-radius:8px; padding:18px 20px;">
+    <h2 style="margin-top:0;">How This Is Measured</h2>
+    <p style="margin-bottom:10px;">Every player drafted that season (skill positions only — QB/RB/WR/TE; DEF/K are excluded, their scoring rules have changed too much over the years for a fair year-to-year comparison) gets ranked by the fantasy points they actually scored: the league's #1 overall scorer that season is <strong>Points Rank 1</strong>, the #2 scorer is <strong>Points Rank 2</strong>, and so on — regardless of position.</p>
+    <p style="margin-bottom:10px;"><strong>Pick Value = Draft Pick Number &minus; Points Rank.</strong></p>
+    <p style="margin-bottom:10px;">Example: you take a player with the 50th overall pick, and he finishes the season as the 10th-highest scorer in the league. Value = 50 &minus; 10 = <strong style="color:var(--gold);">+40</strong> — a steal, since he outproduced players taken way ahead of him. Flip it around: you take a player 1st overall and he finishes as the 100th-highest scorer. Value = 1 &minus; 100 = <strong style="color:#E05050;">&minus;99</strong> — about as bad a bust as it gets.</p>
+    <p style="margin-bottom:10px;">A manager's <strong>Draft Class Value</strong> for one season is just the sum of every pick's value that draft. <strong>Avg Value/Pick</strong> (the All-Time Draft Rankings number) sums that across every draft a manager has been in and divides by their total picks — so it rewards showing up with a good draft year after year, not one lucky class.</p>
+    <p style="margin-bottom:0;"><strong>Best/Worst Draft</strong> below is a manager's single best/worst season by Draft Class Value. <strong>Biggest Steals/Busts</strong> are individual picks, not whole drafts. <strong>Best &amp; Worst Draft Classes Ever</strong> ranks single-season Draft Class Value across every manager and year.</p>
+  </div>
+
   <div class="stat-grid" id="draft-summary-stats"></div>
 
   <div class="section">
@@ -514,6 +525,10 @@ const HIDDEN_FROM_SELECTION = new Set(["Keep Pounding", "Dahmer's Cannibals", "P
 // All-Time and Draft additionally drop Radical Riptide / Jakes Jugglers /
 // Ric's Last Resort, but the Dashboard's own tables keep showing them.
 const HIDDEN_FROM_ALLTIME_DRAFT = new Set([...HIDDEN_FROM_LEADERBOARD, ...HIDDEN_FROM_SELECTION]);
+// The 10 current, still-in-the-league managers -- matches CURRENT_MANAGERS in
+// build_db.py (same set used for Awards/Placing History).
+const CURRENT_MANAGERS = new Set(["Scott", "Roger", "Robert", "Chris", "Davidson",
+  "Damon", "Seth", "Michael", "Jack", "Brett"]);
 function visibleManagers(managers) {
   return Object.fromEntries(Object.entries(managers).filter(([name]) => !HIDDEN_FROM_LEADERBOARD.has(name)));
 }
@@ -569,7 +584,7 @@ function buildDashboard() {
   // summary stats
   const mostWins = Object.entries(managers).sort((a,b) => b[1].W - a[1].W)[0];
   const mostChamps = Object.entries(managers).sort((a,b) => b[1].championships - a[1].championships)[0];
-  const bestPct = Object.entries(managers).sort((a,b) => {
+  const bestPct = Object.entries(managers).filter(([name]) => CURRENT_MANAGERS.has(name)).sort((a,b) => {
     const ga = a[1].W + a[1].L + a[1].T, gb = b[1].W + b[1].L + b[1].T;
     const pa = ga ? (a[1].W + a[1].T*0.5)/ga : 0, pb = gb ? (b[1].W + b[1].T*0.5)/gb : 0;
     return pb - pa;
@@ -1017,10 +1032,17 @@ function buildPlacing() {
 
   const grid = document.getElementById('placing-grid');
   grid.innerHTML = '';
+
+  // Same y-axis scale on every card so bar heights are comparable across
+  // managers, not just within one manager's own chart.
+  const globalMax = Math.max(1, ...rows.flatMap(r => r.counts));
+  const axisTicks = [];
+  for (let t = globalMax; t >= 0; t--) axisTicks.push(t);
+  const axisHtml = axisTicks.map(t => `<div class="hist-axis-tick">${t}</div>`).join('');
+
   rows.forEach(r => {
-    const maxCount = Math.max(...r.counts, 1);
     const cols = r.counts.map((c, i) => {
-      const heightPct = c ? Math.max((c / maxCount) * 100, 6) : 0;
+      const heightPct = c ? Math.max((c / globalMax) * 100, 4) : 0;
       return `<div class="hist-col">
         <div class="hist-count">${c || ''}</div>
         <div class="hist-bar ${c ? '' : 'zero'}" style="height:${heightPct}%"></div>
@@ -1034,7 +1056,10 @@ function buildPlacing() {
         <span class="placing-name">${displayName(r.manager)}</span>
         <span class="placing-avg">avg <strong>${r.avg_placing}</strong></span>
       </div>
-      <div class="hist">${cols}</div>`;
+      <div class="hist-row">
+        <div class="hist-axis">${axisHtml}</div>
+        <div class="hist">${cols}</div>
+      </div>`;
     grid.appendChild(card);
   });
 }
