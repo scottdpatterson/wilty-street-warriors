@@ -93,7 +93,11 @@
   .table-wrap { background: var(--card); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; margin-bottom: 28px; }
   table { width: 100%; border-collapse: collapse; }
   thead tr { background: var(--dark3); }
-  th { padding: 10px 14px; text-align: left; font-size: 11px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.8px; }
+  th { padding: 10px 14px; text-align: left; font-size: 11px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.8px; cursor: pointer; user-select: none; white-space: nowrap; }
+  th:hover { color: var(--text); }
+  th.sort-asc::after, th.sort-desc::after { margin-left: 5px; font-size: 9px; color: var(--gold); }
+  th.sort-asc::after { content: '\25B2'; }
+  th.sort-desc::after { content: '\25BC'; }
   td { padding: 10px 14px; border-top: 1px solid var(--border); font-size: 13px; }
   tr:hover td { background: rgba(255,255,255,.02); }
   .num { font-family: 'Roboto Mono', monospace; font-size: 13px; }
@@ -1029,6 +1033,60 @@ function buildPlacing() {
   });
 }
 
+// ── SORTABLE TABLES ───────────────────────────────────────────────────────────
+// Event-delegated so it works on tables rebuilt dynamically (Rivals, Matchups,
+// Draft) without needing to re-attach listeners after every render.
+function extractSortValue(text) {
+  text = text.trim();
+  if (text === '' || text === '—') return null;
+  const withoutTrophies = text.replace(/🏆/g, '');
+  if (withoutTrophies.trim() === '' && text.includes('🏆')) {
+    return (text.match(/🏆/g) || []).length;
+  }
+  const cleaned = text.replace(/[,%+]/g, '');
+  if (/^-?\d+(\.\d+)?$/.test(cleaned)) return parseFloat(cleaned);
+  return text.toLowerCase();
+}
+
+function compareSortValues(a, b) {
+  if (typeof a === 'number' && typeof b === 'number') return a - b;
+  return String(a).localeCompare(String(b));
+}
+
+function initSortableTables() {
+  document.addEventListener('click', e => {
+    const th = e.target.closest('th');
+    if (!th) return;
+    const table = th.closest('table');
+    if (!table) return;
+    const tbody = table.querySelector('tbody');
+    if (!tbody || !tbody.rows.length) return;
+
+    const headerRow = th.parentElement;
+    const colIndex = Array.from(headerRow.children).indexOf(th);
+    const isSameCol = table.dataset.sortCol == colIndex;
+    const dir = isSameCol && table.dataset.sortDir === 'asc' ? 'desc' : 'asc';
+    table.dataset.sortCol = colIndex;
+    table.dataset.sortDir = dir;
+
+    const rows = Array.from(tbody.rows);
+    rows.sort((r1, r2) => {
+      const v1 = extractSortValue(r1.children[colIndex] ? r1.children[colIndex].textContent : '');
+      const v2 = extractSortValue(r2.children[colIndex] ? r2.children[colIndex].textContent : '');
+      // Nulls (—, blank) always sort last, regardless of direction.
+      if (v1 === null && v2 === null) return 0;
+      if (v1 === null) return 1;
+      if (v2 === null) return -1;
+      const cmp = compareSortValues(v1, v2);
+      return dir === 'asc' ? cmp : -cmp;
+    });
+    rows.forEach(r => tbody.appendChild(r));
+
+    headerRow.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+    th.classList.add(dir === 'asc' ? 'sort-asc' : 'sort-desc');
+  });
+}
+
 // ── INIT ──────────────────────────────────────────────────────────────────────
 window.addEventListener('DOMContentLoaded', () => {
   if (typeof WSW_DATA === 'undefined') {
@@ -1045,6 +1103,7 @@ window.addEventListener('DOMContentLoaded', () => {
   buildDraft();
   buildAwards();
   buildPlacing();
+  initSortableTables();
 });
 </script>
 </body>
