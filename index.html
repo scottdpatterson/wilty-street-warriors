@@ -563,7 +563,7 @@ function buildDashboard() {
   const seasons = WSW_DATA.seasons;
   const seasonKeys = Object.keys(seasons).sort();
   const totalMatchups = WSW_DATA.matchups.filter(m => !m.is_consolation).length;
-  const managers = visibleManagers(WSW_DATA.managers);
+  const managers = Object.fromEntries(Object.entries(WSW_DATA.managers).filter(([name]) => CURRENT_MANAGERS.has(name)));
 
   // hero tagline
   document.getElementById('hero-tagline').textContent =
@@ -658,7 +658,7 @@ function buildAllTime() {
       <td class="num loss">${s.L}</td>
       <td class="num">${s.T}</td>
       <td class="num">${pct(s.W, s.L, s.T)}</td>
-      <td class="num">${s.pts_for.toLocaleString()}</td>
+      <td class="num">${Math.round(s.pts_for).toLocaleString()}</td>
       <td class="num">${ppg}</td>
       <td>${champs}</td>
       <td class="num">${s.playoff_apps}</td>
@@ -676,7 +676,7 @@ function buildAllTime() {
       <div class="bar-label">${displayName(name)}</div>
       <div class="bar-outer">
         <div class="bar-inner" style="width:${pct}%">
-          <span class="bar-val">${s.pts_for.toLocaleString()}</span>
+          <span class="bar-val">${Math.round(s.pts_for).toLocaleString()}</span>
         </div>
       </div>
     </div>`;
@@ -685,7 +685,7 @@ function buildAllTime() {
 
 // ── H2H ───────────────────────────────────────────────────────────────────────
 function populateH2HSelects() {
-  const managers = selectableManagers();
+  const managers = selectableManagers().filter(m => m !== 'cool brees');
   ['h2h-m1', 'h2h-m2'].forEach(id => {
     const sel = document.getElementById(id);
     managers.forEach(m => {
