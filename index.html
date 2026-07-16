@@ -506,12 +506,19 @@ function displayName(name) {
 // Managers excluded from leaderboards/rankings. Their games still count
 // toward opponents' win %, points, etc. — only their own name/row is hidden.
 // "cool brees" is hidden for privacy but stays pickable in H2H/Rivals; the
-// three placeholder team-names below are hidden everywhere a manager can be
+// placeholder team-names below are hidden everywhere a manager can be
 // selected too, since they're not tracked real people.
 const HIDDEN_FROM_LEADERBOARD = new Set(["cool brees", "Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets"]);
-const HIDDEN_FROM_SELECTION = new Set(["Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets"]);
+const HIDDEN_FROM_SELECTION = new Set(["Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets",
+  "Radical Riptide", "Jakes Jugglers", "Ric's Last Resort"]);
+// All-Time and Draft additionally drop Radical Riptide / Jakes Jugglers /
+// Ric's Last Resort, but the Dashboard's own tables keep showing them.
+const HIDDEN_FROM_ALLTIME_DRAFT = new Set([...HIDDEN_FROM_LEADERBOARD, ...HIDDEN_FROM_SELECTION]);
 function visibleManagers(managers) {
   return Object.fromEntries(Object.entries(managers).filter(([name]) => !HIDDEN_FROM_LEADERBOARD.has(name)));
+}
+function visibleManagersAllTime(managers) {
+  return Object.fromEntries(Object.entries(managers).filter(([name]) => !HIDDEN_FROM_ALLTIME_DRAFT.has(name)));
 }
 function selectableManagers() {
   return sortedManagers().filter(m => !HIDDEN_FROM_SELECTION.has(m));
@@ -545,7 +552,7 @@ function buildDashboard() {
 
   // hero tagline
   document.getElementById('hero-tagline').textContent =
-    `${seasonKeys.length} Seasons · ${totalMatchups} Games · ${Object.keys(managers).length} Managers`;
+    `${seasonKeys.length} Seasons · ${totalMatchups} Games`;
 
   // trophy row
   const trophyRow = document.getElementById('trophy-row');
@@ -572,7 +579,6 @@ function buildDashboard() {
   const stats = [
     { label: "Seasons", value: seasonKeys.length, sub: `${seasonKeys[0]}–${seasonKeys[seasonKeys.length-1]}` },
     { label: "Total Games", value: totalMatchups, sub: "regular + playoffs" },
-    { label: "Managers", value: Object.keys(managers).length, sub: "tracked" },
     { label: "Win Leader", value: mostWins[1].W, sub: displayName(mostWins[0]) },
     { label: "% Win Leader", value: pct(bestPct[1].W, bestPct[1].L, bestPct[1].T), sub: displayName(bestPct[0]) },
     { label: "Most Titles", value: mostChamps[1].championships + ' 🏆', sub: displayName(mostChamps[0]) },
@@ -616,7 +622,7 @@ function buildDashboard() {
 
 // ── ALL-TIME ──────────────────────────────────────────────────────────────────
 function buildAllTime() {
-  const managers = visibleManagers(WSW_DATA.managers);
+  const managers = visibleManagersAllTime(WSW_DATA.managers);
   const sorted = Object.entries(managers).sort((a,b) => {
     const ga = a[1].W + a[1].L + a[1].T;
     const gb = b[1].W + b[1].L + b[1].T;
@@ -895,11 +901,11 @@ function buildDraft() {
   const draft = WSW_DATA.draft;
   if (!draft || !draft.manager_rankings) return;
 
-  const rankings = draft.manager_rankings.filter(r => !HIDDEN_FROM_LEADERBOARD.has(r.manager));
-  const steals = draft.biggest_steals.filter(p => !HIDDEN_FROM_LEADERBOARD.has(p.manager));
-  const busts = draft.biggest_busts.filter(p => !HIDDEN_FROM_LEADERBOARD.has(p.manager));
-  const bestClasses = draft.best_draft_classes.filter(c => !HIDDEN_FROM_LEADERBOARD.has(c.manager));
-  const worstClasses = draft.worst_draft_classes.filter(c => !HIDDEN_FROM_LEADERBOARD.has(c.manager));
+  const rankings = draft.manager_rankings.filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
+  const steals = draft.biggest_steals.filter(p => !HIDDEN_FROM_ALLTIME_DRAFT.has(p.manager));
+  const busts = draft.biggest_busts.filter(p => !HIDDEN_FROM_ALLTIME_DRAFT.has(p.manager));
+  const bestClasses = draft.best_draft_classes.filter(c => !HIDDEN_FROM_ALLTIME_DRAFT.has(c.manager));
+  const worstClasses = draft.worst_draft_classes.filter(c => !HIDDEN_FROM_ALLTIME_DRAFT.has(c.manager));
 
   const bestDrafter = rankings[0];
   const worstDrafter = rankings[rankings.length - 1];
