@@ -227,7 +227,6 @@
   <div class="nav-tabs">
     <div class="nav-tab active" onclick="showPage('dashboard')">Dashboard</div>
     <div class="nav-tab" onclick="showPage('alltime')">All-Time</div>
-    <div class="nav-tab" onclick="showPage('h2h')">Rivals</div>
     <div class="nav-tab" onclick="showPage('rivals')">Head-to-Head</div>
     <div class="nav-tab" onclick="showPage('seasons')">Seasons</div>
     <div class="nav-tab" onclick="showPage('matchups')">Matchups</div>
@@ -296,26 +295,6 @@
 </div>
 
 <!-- ══════════════════════════════════════════════════ HEAD-TO-HEAD -->
-<div id="page-h2h" class="page">
-  <h1>Rivals</h1>
-  <p class="subtitle">All-time matchup records between any two managers</p>
-
-  <div class="filter-row">
-    <div>
-      <label>Manager 1</label><br>
-      <select id="h2h-m1" onchange="renderH2H()"><option value="">— select —</option></select>
-    </div>
-    <div>
-      <label>Manager 2</label><br>
-      <select id="h2h-m2" onchange="renderH2H()"><option value="">— select —</option></select>
-    </div>
-  </div>
-
-  <div id="h2h-result-area"></div>
-  <div id="h2h-games-area"></div>
-</div>
-
-<!-- ══════════════════════════════════════════════════ RIVALS -->
 <div id="page-rivals" class="page">
   <h1>Head-to-Head</h1>
   <p class="subtitle">Pick a manager to see their record against everyone else, ranked by win %</p>
@@ -367,6 +346,12 @@
       <label>Manager</label><br>
       <select id="mu-manager" onchange="renderMatchups()">
         <option value="">All Managers</option>
+      </select>
+    </div>
+    <div>
+      <label>Opponent</label><br>
+      <select id="mu-opponent" onchange="renderMatchups()">
+        <option value="">All Opponents</option>
       </select>
     </div>
     <div>
@@ -826,75 +811,6 @@ function buildAllTime() {
   });
 }
 
-// ── H2H ───────────────────────────────────────────────────────────────────────
-function populateH2HSelects() {
-  const managers = selectableManagers().filter(m => m !== 'cool brees');
-  ['h2h-m1', 'h2h-m2'].forEach(id => {
-    const sel = document.getElementById(id);
-    managers.forEach(m => {
-      const opt = document.createElement('option');
-      opt.value = m; opt.textContent = displayName(m);
-      sel.appendChild(opt);
-    });
-  });
-}
-
-function renderH2H() {
-  const m1 = document.getElementById('h2h-m1').value;
-  const m2 = document.getElementById('h2h-m2').value;
-  const resultArea = document.getElementById('h2h-result-area');
-  const gamesArea  = document.getElementById('h2h-games-area');
-  resultArea.innerHTML = ''; gamesArea.innerHTML = '';
-  if (!m1 || !m2 || m1 === m2) return;
-
-  const pair = [m1, m2].sort().join('|||');
-  const data = WSW_DATA.h2h[pair];
-  if (!data) {
-    resultArea.innerHTML = '<p style="color:var(--muted)">No matchups found between these managers.</p>';
-    return;
-  }
-
-  const d1 = data[m1] || {W:0,L:0,T:0,pts_for:0,pts_against:0,games:[]};
-  const d2 = data[m2] || {W:0,L:0,T:0,pts_for:0,pts_against:0,games:[]};
-
-  const leading1 = d1.W > d2.W ? 'leading' : d1.W < d2.W ? 'trailing' : 'tied';
-  const leading2 = d2.W > d1.W ? 'leading' : d2.W < d1.W ? 'trailing' : 'tied';
-  const g = d1.W + d1.L + d1.T;
-  const ppg1 = g ? (d1.pts_for/g).toFixed(1) : 0;
-  const ppg2 = g ? (d2.pts_for/g).toFixed(1) : 0;
-
-  resultArea.innerHTML = `
-    <div class="h2h-result">
-      <div class="h2h-side ${leading1}">
-        <div class="manager-name">${displayName(m1)}</div>
-        <div class="big-record">${d1.W}–${d1.L}</div>
-        <div class="pts">${d1.pts_for.toFixed(1)} pts · ${ppg1} ppg</div>
-      </div>
-      <div class="h2h-vs">vs</div>
-      <div class="h2h-side ${leading2}">
-        <div class="manager-name">${displayName(m2)}</div>
-        <div class="big-record">${d2.W}–${d2.L}</div>
-        <div class="pts">${d2.pts_for.toFixed(1)} pts · ${ppg2} ppg</div>
-      </div>
-    </div>`;
-
-  // game log for m1
-  const games = (d1.games || []).sort((a,b) => a.season.localeCompare(b.season) || a.week - b.week);
-  if (games.length) {
-    gamesArea.innerHTML = `<h2 style="margin-bottom:12px;">Game Log</h2><div class="timeline" id="h2h-timeline"></div>`;
-    const timeline = document.getElementById('h2h-timeline');
-    games.forEach(g => {
-      timeline.innerHTML += `<div class="timeline-game">
-        <span class="badge ${g.result}">${g.result}</span>
-        <span class="season-wk">${g.season} Wk${g.week}</span>
-        <span class="score">${g.pts.toFixed(1)} – ${g.opp_pts.toFixed(1)}</span>
-        <span style="color:var(--muted)">vs ${g.opp_team}</span>
-        ${g.is_playoffs ? '<span class="playoff-tag">PLAYOFFS</span>' : ''}
-      </div>`;
-    });
-  }
-}
-
 // ── RIVALS ────────────────────────────────────────────────────────────────────
 function populateRivalsSelect() {
   const managers = selectableManagers();
@@ -1006,17 +922,22 @@ function populateMatchupFilters() {
   const managers = selectableManagers();
   const muManager = document.getElementById('mu-manager');
   managers.forEach(m => { muManager.innerHTML += `<option value="${m}">${displayName(m)}</option>`; });
+
+  const muOpponent = document.getElementById('mu-opponent');
+  managers.forEach(m => { muOpponent.innerHTML += `<option value="${m}">${displayName(m)}</option>`; });
 }
 
 function renderMatchups() {
-  const season  = document.getElementById('mu-season').value;
-  const manager = document.getElementById('mu-manager').value;
-  const type    = document.getElementById('mu-type').value;
-  const result  = document.getElementById('mu-result').value;
+  const season   = document.getElementById('mu-season').value;
+  const manager  = document.getElementById('mu-manager').value;
+  const opponent = document.getElementById('mu-opponent').value;
+  const type     = document.getElementById('mu-type').value;
+  const result   = document.getElementById('mu-result').value;
 
   let games = WSW_DATA.matchups.filter(m => !m.is_consolation);
-  if (season)  games = games.filter(m => m.season === season);
-  if (manager) games = games.filter(m => m.t0_manager === manager || m.t1_manager === manager);
+  if (season)   games = games.filter(m => m.season === season);
+  if (manager)  games = games.filter(m => m.t0_manager === manager || m.t1_manager === manager);
+  if (opponent) games = games.filter(m => m.t0_manager === opponent || m.t1_manager === opponent);
   if (type === 'regular')  games = games.filter(m => !m.is_playoffs);
   if (type === 'playoffs') games = games.filter(m => m.is_playoffs);
   if (result && manager) {
@@ -1404,7 +1325,6 @@ window.addEventListener('DOMContentLoaded', () => {
   buildDashboard();
   buildHighlights();
   buildAllTime();
-  populateH2HSelects();
   populateRivalsSelect();
   buildSeasons();
   populateMatchupFilters();
