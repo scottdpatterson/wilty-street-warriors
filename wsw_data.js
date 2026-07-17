@@ -109797,14 +109797,14 @@ const WSW_DATA = {
     "crown_points": 100
   },
   {
-    "manager": "Jack",
+    "manager": "Brett",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
     "crown_points": 60
   },
   {
-    "manager": "Brett",
+    "manager": "Jack",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
@@ -110009,91 +110009,104 @@ const WSW_DATA = {
     "total_value": 38221.5,
     "pickups": 628,
     "seasons": 24,
-    "avg_value_per_season": 1592.6
+    "avg_value_per_season": 1592.6,
+    "total_points_pct": 114.5
   },
   {
     "manager": "Michael",
     "total_value": 35582.3,
     "pickups": 558,
     "seasons": 24,
-    "avg_value_per_season": 1482.6
+    "avg_value_per_season": 1482.6,
+    "total_points_pct": 116.1
   },
   {
     "manager": "Damon",
     "total_value": 35323.7,
     "pickups": 599,
     "seasons": 24,
-    "avg_value_per_season": 1471.8
+    "avg_value_per_season": 1471.8,
+    "total_points_pct": 110.1
   },
   {
     "manager": "Robert",
     "total_value": 32332.0,
     "pickups": 533,
     "seasons": 23,
-    "avg_value_per_season": 1405.7
+    "avg_value_per_season": 1405.7,
+    "total_points_pct": 98.8
   },
   {
     "manager": "Dahmer's Cannibals",
     "total_value": 7957.2,
     "pickups": 144,
     "seasons": 6,
-    "avg_value_per_season": 1326.2
+    "avg_value_per_season": 1326.2,
+    "total_points_pct": 131.7
   },
   {
     "manager": "Roger",
     "total_value": 28966.8,
     "pickups": 478,
     "seasons": 24,
-    "avg_value_per_season": 1207.0
+    "avg_value_per_season": 1207.0,
+    "total_points_pct": 85.9
   },
   {
     "manager": "Seth",
     "total_value": 18840.4,
     "pickups": 281,
     "seasons": 16,
-    "avg_value_per_season": 1177.5
+    "avg_value_per_season": 1177.5,
+    "total_points_pct": 76.4
   },
   {
     "manager": "Davidson",
     "total_value": 27500.7,
     "pickups": 444,
     "seasons": 24,
-    "avg_value_per_season": 1145.9
+    "avg_value_per_season": 1145.9,
+    "total_points_pct": 90.7
   },
   {
     "manager": "Jack",
     "total_value": 5657.1,
     "pickups": 81,
     "seasons": 6,
-    "avg_value_per_season": 942.9
+    "avg_value_per_season": 942.9,
+    "total_points_pct": 57.6
   },
   {
     "manager": "Brett",
     "total_value": 17199.8,
     "pickups": 247,
     "seasons": 19,
-    "avg_value_per_season": 905.3
+    "avg_value_per_season": 905.3,
+    "total_points_pct": 69.8
   },
   {
     "manager": "Ric's Last Resort",
     "total_value": 4378.1,
     "pickups": 67,
     "seasons": 6,
-    "avg_value_per_season": 729.7
+    "avg_value_per_season": 729.7,
+    "total_points_pct": 62.1
   },
   {
     "manager": "Radical Riptide",
     "total_value": 611.0,
     "pickups": 8,
     "seasons": 1,
-    "avg_value_per_season": 611.0
+    "avg_value_per_season": 611.0,
+    "total_points_pct": 85.8
   },
   {
     "manager": "Jakes Jugglers",
     "total_value": 326.7,
     "pickups": 28,
     "seasons": 2,
-    "avg_value_per_season": 163.4
+    "avg_value_per_season": 163.4,
+    "total_points_pct": 18.4
   }
 ],
   trades: [
@@ -110104,6 +110117,12 @@ const WSW_DATA = {
     "manager_b": "Damon",
     "value_a_received": 39.33,
     "value_b_received": 57.73,
+    "players_a_received": [
+      "Antonio Freeman"
+    ],
+    "players_b_received": [
+      "Joe Horn"
+    ],
     "net_a": -18.4,
     "net_b": 18.4
   },
@@ -110114,6 +110133,12 @@ const WSW_DATA = {
     "manager_b": "Davidson",
     "value_a_received": 65.34,
     "value_b_received": 120.55,
+    "players_a_received": [
+      "Randy Moss"
+    ],
+    "players_b_received": [
+      "Michael Vick"
+    ],
     "net_a": -55.21,
     "net_b": 55.21
   },
@@ -110124,6 +110149,12 @@ const WSW_DATA = {
     "manager_b": "Michael",
     "value_a_received": 24.79,
     "value_b_received": 117.08,
+    "players_a_received": [
+      "David Boston"
+    ],
+    "players_b_received": [
+      "Mark Brunell"
+    ],
     "net_a": -92.29,
     "net_b": 92.29
   },
@@ -110134,6 +110165,12 @@ const WSW_DATA = {
     "manager_b": "Scott",
     "value_a_received": 31.94,
     "value_b_received": 10.15,
+    "players_a_received": [
+      "Tyrone Wheatley"
+    ],
+    "players_b_received": [
+      "Cameron Cleeland"
+    ],
     "net_a": 21.79,
     "net_b": -21.79
   },
@@ -110144,6 +110181,14 @@ const WSW_DATA = {
     "manager_b": "Roger",
     "value_a_received": 0.0,
     "value_b_received": 0.0,
+    "players_a_received": [
+      "Marc Bulger",
+      "Jerry Rice"
+    ],
+    "players_b_received": [
+      "Rich Gannon",
+      "Darrell Jackson"
+    ],
     "net_a": 0.0,
     "net_b": -0.0
   },
@@ -110154,6 +110199,12 @@ const WSW_DATA = {
     "manager_b": "Michael",
     "value_a_received": 0.0,
     "value_b_received": 0.0,
+    "players_a_received": [
+      "John Kasay"
+    ],
+    "players_b_received": [
+      "Kevin Johnson"
+    ],
     "net_a": 0.0,
     "net_b": -0.0
   },
@@ -110164,6 +110215,13 @@ const WSW_DATA = {
     "manager_b": "Scott",
     "value_a_received": 0.0,
     "value_b_received": 0.0,
+    "players_a_received": [
+      "Peerless Price"
+    ],
+    "players_b_received": [
+      "Donald Driver",
+      "Olandis Gary"
+    ],
     "net_a": 0.0,
     "net_b": -0.0
   },
@@ -110174,6 +110232,12 @@ const WSW_DATA = {
     "manager_b": "Damon",
     "value_a_received": 35.95,
     "value_b_received": 128.44,
+    "players_a_received": [
+      "Tyrone Wheatley"
+    ],
+    "players_b_received": [
+      "Adam Vinatieri"
+    ],
     "net_a": -92.49,
     "net_b": 92.49
   },
@@ -110184,6 +110248,13 @@ const WSW_DATA = {
     "manager_b": "Davidson",
     "value_a_received": 50.33,
     "value_b_received": 112.8,
+    "players_a_received": [
+      "Antonio Gates"
+    ],
+    "players_b_received": [
+      "Ronnie Brown",
+      "Jake Plummer"
+    ],
     "net_a": -62.47,
     "net_b": 62.47
   },
@@ -110194,6 +110265,12 @@ const WSW_DATA = {
     "manager_b": "Brett",
     "value_a_received": 42.28,
     "value_b_received": 56.62,
+    "players_a_received": [
+      "Fred Taylor"
+    ],
+    "players_b_received": [
+      "Roy Williams"
+    ],
     "net_a": -14.34,
     "net_b": 14.34
   },
@@ -110204,6 +110281,12 @@ const WSW_DATA = {
     "manager_b": "Damon",
     "value_a_received": 50.47,
     "value_b_received": 38.89,
+    "players_a_received": [
+      "Steve Smith"
+    ],
+    "players_b_received": [
+      "Terry Glenn"
+    ],
     "net_a": 11.58,
     "net_b": -11.58
   },
@@ -110214,6 +110297,12 @@ const WSW_DATA = {
     "manager_b": "Brett",
     "value_a_received": 49.4,
     "value_b_received": 38.33,
+    "players_a_received": [
+      "Edgerrin James"
+    ],
+    "players_b_received": [
+      "Clinton Portis"
+    ],
     "net_a": 11.07,
     "net_b": -11.07
   },
@@ -110224,6 +110313,16 @@ const WSW_DATA = {
     "manager_b": "Brett",
     "value_a_received": 155.39,
     "value_b_received": 162.69,
+    "players_a_received": [
+      "Steve Smith",
+      "Clinton Portis",
+      "Hines Ward"
+    ],
+    "players_b_received": [
+      "Jake Delhomme",
+      "Edgerrin James",
+      "Kellen Winslow"
+    ],
     "net_a": -7.3,
     "net_b": 7.3
   },
@@ -110234,6 +110333,12 @@ const WSW_DATA = {
     "manager_b": "Davidson",
     "value_a_received": 39.09,
     "value_b_received": 86.88,
+    "players_a_received": [
+      "L.J. Smith"
+    ],
+    "players_b_received": [
+      "Broncos"
+    ],
     "net_a": -47.79,
     "net_b": 47.79
   },
@@ -110244,6 +110349,12 @@ const WSW_DATA = {
     "manager_b": "Davidson",
     "value_a_received": 72.9,
     "value_b_received": 92.08,
+    "players_a_received": [
+      "Anquan Boldin"
+    ],
+    "players_b_received": [
+      "Antonio Gates"
+    ],
     "net_a": -19.18,
     "net_b": 19.18
   },
@@ -110254,6 +110365,12 @@ const WSW_DATA = {
     "manager_b": "Davidson",
     "value_a_received": 34.65,
     "value_b_received": 128.04,
+    "players_a_received": [
+      "Randy Moss"
+    ],
+    "players_b_received": [
+      "Eli Manning"
+    ],
     "net_a": -93.39,
     "net_b": 93.39
   },
@@ -110264,6 +110381,12 @@ const WSW_DATA = {
     "manager_b": "Scott",
     "value_a_received": 135.56,
     "value_b_received": 103.39,
+    "players_a_received": [
+      "Alfred Morris"
+    ],
+    "players_b_received": [
+      "Andre Johnson"
+    ],
     "net_a": 32.17,
     "net_b": -32.17
   },
@@ -110274,6 +110397,16 @@ const WSW_DATA = {
     "manager_b": "Davidson",
     "value_a_received": 185.25,
     "value_b_received": 218.85,
+    "players_a_received": [
+      "Jimmy Graham",
+      "Josh Brown",
+      "Seahawks"
+    ],
+    "players_b_received": [
+      "Rashad Jennings",
+      "T.Y. Hilton",
+      "Frank Gore"
+    ],
     "net_a": -33.6,
     "net_b": 33.6
   },
@@ -110284,6 +110417,12 @@ const WSW_DATA = {
     "manager_b": "Roger",
     "value_a_received": 176.95,
     "value_b_received": 83.02,
+    "players_a_received": [
+      "Aaron Rodgers"
+    ],
+    "players_b_received": [
+      "Lamar Miller"
+    ],
     "net_a": 93.93,
     "net_b": -93.93
   },
@@ -110294,6 +110433,12 @@ const WSW_DATA = {
     "manager_b": "Michael",
     "value_a_received": 100.0,
     "value_b_received": 182.57,
+    "players_a_received": [
+      "Jordan Howard"
+    ],
+    "players_b_received": [
+      "Kirk Cousins"
+    ],
     "net_a": -82.57,
     "net_b": 82.57
   },
@@ -110304,6 +110449,12 @@ const WSW_DATA = {
     "manager_b": "Seth",
     "value_a_received": 105.32,
     "value_b_received": 64.42,
+    "players_a_received": [
+      "Kenyan Drake"
+    ],
+    "players_b_received": [
+      "Jordy Nelson"
+    ],
     "net_a": 40.9,
     "net_b": -40.9
   },
@@ -110314,6 +110465,12 @@ const WSW_DATA = {
     "manager_b": "Damon",
     "value_a_received": 54.68,
     "value_b_received": 124.15,
+    "players_a_received": [
+      "Rashaad Penny"
+    ],
+    "players_b_received": [
+      "DJ Chark"
+    ],
     "net_a": -69.47,
     "net_b": 69.47
   },
@@ -110324,6 +110481,12 @@ const WSW_DATA = {
     "manager_b": "Seth",
     "value_a_received": 79.59,
     "value_b_received": 94.78,
+    "players_a_received": [
+      "Tarik Cohen"
+    ],
+    "players_b_received": [
+      "Tyrell Williams"
+    ],
     "net_a": -15.19,
     "net_b": 15.19
   },
@@ -110334,6 +110497,12 @@ const WSW_DATA = {
     "manager_b": "Seth",
     "value_a_received": 36.31,
     "value_b_received": 55.84,
+    "players_a_received": [
+      "Zach Ertz"
+    ],
+    "players_b_received": [
+      "Odell Beckham Jr."
+    ],
     "net_a": -19.53,
     "net_b": 19.53
   },
@@ -110344,6 +110513,13 @@ const WSW_DATA = {
     "manager_b": "Michael",
     "value_a_received": 147.25,
     "value_b_received": 372.99,
+    "players_a_received": [
+      "Stefon Diggs"
+    ],
+    "players_b_received": [
+      "Keenan Allen",
+      "Patrick Mahomes"
+    ],
     "net_a": -225.74,
     "net_b": 225.74
   },
@@ -110354,6 +110530,12 @@ const WSW_DATA = {
     "manager_b": "Jack",
     "value_a_received": 54.02,
     "value_b_received": 41.38,
+    "players_a_received": [
+      "Courtland Sutton"
+    ],
+    "players_b_received": [
+      "Trey McBride"
+    ],
     "net_a": 12.64,
     "net_b": -12.64
   }
