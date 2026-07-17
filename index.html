@@ -226,7 +226,6 @@
   <div class="nav-brand">WSW <span>League</span></div>
   <div class="nav-tabs">
     <div class="nav-tab active" onclick="showPage('dashboard')">Dashboard</div>
-    <div class="nav-tab" onclick="showPage('alltime')">All-Time</div>
     <div class="nav-tab" onclick="showPage('rivals')">Head-to-Head</div>
     <div class="nav-tab" onclick="showPage('seasons')">Seasons</div>
     <div class="nav-tab" onclick="showPage('matchups')">Matchups</div>
@@ -256,10 +255,15 @@
     <h2>All-Time Wins Leaders</h2>
     <div class="table-wrap">
       <table id="wins-table">
-        <thead><tr><th>#</th><th>Manager</th><th>W</th><th>L</th><th>Win %</th><th>Pts/Game</th><th>🏆</th><th>Seasons</th></tr></thead>
+        <thead><tr><th>#</th><th>Manager</th><th>W</th><th>L</th><th>T</th><th>Win%</th><th>Pts For</th><th>Pts/Game</th><th>Pts Against</th><th>Against/Game</th><th>🏆</th><th>Playoff Apps</th><th>Seasons</th></tr></thead>
         <tbody></tbody>
       </table>
     </div>
+  </div>
+
+  <div class="section">
+    <h2>Points Scored Leaders</h2>
+    <div class="bar-chart" id="pts-chart"></div>
   </div>
 
   <div class="section">
@@ -270,27 +274,6 @@
         <tbody></tbody>
       </table>
     </div>
-  </div>
-</div>
-
-<!-- ══════════════════════════════════════════════════ ALL-TIME -->
-<div id="page-alltime" class="page">
-  <h1>All-Time Records</h1>
-  <p class="subtitle">Regular season + playoff results across all available seasons</p>
-
-  <div class="section">
-    <h2>Career Standings</h2>
-    <div class="table-wrap">
-      <table id="career-table">
-        <thead><tr><th>#</th><th>Manager</th><th>W</th><th>L</th><th>T</th><th>Win%</th><th>Pts For</th><th>Pts/Game</th><th>Pts Against</th><th>Against/Game</th><th>🏆</th><th>Playoff Apps</th><th>Seasons</th></tr></thead>
-        <tbody></tbody>
-      </table>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>Points Scored Leaders</h2>
-    <div class="bar-chart" id="pts-chart"></div>
   </div>
 </div>
 
@@ -597,19 +580,13 @@ function displayName(name) {
 const HIDDEN_FROM_LEADERBOARD = new Set(["cool brees", "Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets"]);
 const HIDDEN_FROM_SELECTION = new Set(["Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets",
   "Radical Riptide", "Jakes Jugglers", "Ric's Last Resort"]);
-// All-Time and Draft additionally drop Radical Riptide / Jakes Jugglers /
-// Ric's Last Resort, but the Dashboard's own tables keep showing them.
+// Draft additionally drops Radical Riptide / Jakes Jugglers / Ric's Last
+// Resort, but the Dashboard's own tables keep showing them.
 const HIDDEN_FROM_ALLTIME_DRAFT = new Set([...HIDDEN_FROM_LEADERBOARD, ...HIDDEN_FROM_SELECTION]);
 // The 10 current, still-in-the-league managers -- matches CURRENT_MANAGERS in
 // build_db.py (same set used for Awards/Placing History).
 const CURRENT_MANAGERS = new Set(["Scott", "Roger", "Robert", "Chris", "Davidson",
   "Damon", "Seth", "Michael", "Jack", "Brett"]);
-function visibleManagers(managers) {
-  return Object.fromEntries(Object.entries(managers).filter(([name]) => !HIDDEN_FROM_LEADERBOARD.has(name)));
-}
-function visibleManagersAllTime(managers) {
-  return Object.fromEntries(Object.entries(managers).filter(([name]) => !HIDDEN_FROM_ALLTIME_DRAFT.has(name)));
-}
 function selectableManagers() {
   return sortedManagers().filter(m => !HIDDEN_FROM_SELECTION.has(m));
 }
@@ -691,17 +668,39 @@ function buildDashboard() {
   sorted.forEach(([name, s], i) => {
     const g = s.W + s.L + s.T;
     const ppg = g ? (s.pts_for / g).toFixed(1) : '—';
+    const papg = g ? (s.pts_against / g).toFixed(1) : '—';
     const champs = s.championships > 0 ? '🏆'.repeat(s.championships) : '—';
     winsBody.innerHTML += `<tr>
       <td class="rank">${i+1}</td>
       <td><strong>${displayName(name)}</strong></td>
       <td class="num win">${s.W}</td>
       <td class="num loss">${s.L}</td>
+      <td class="num">${s.T}</td>
       <td class="num">${pct(s.W, s.L, s.T)}</td>
+      <td class="num">${Math.round(s.pts_for).toLocaleString()}</td>
       <td class="num">${ppg}</td>
+      <td class="num">${Math.round(s.pts_against).toLocaleString()}</td>
+      <td class="num">${papg}</td>
       <td>${champs}</td>
+      <td class="num">${s.playoff_apps}</td>
       <td class="num">${s.seasons.length}</td>
     </tr>`;
+  });
+
+  // points scored bar chart
+  const ptsSorted = Object.entries(managers).sort((a,b) => b[1].pts_for - a[1].pts_for);
+  const maxPts = ptsSorted[0][1].pts_for;
+  const chart = document.getElementById('pts-chart');
+  ptsSorted.forEach(([name, s]) => {
+    const barPct = (s.pts_for / maxPts * 100).toFixed(1);
+    chart.innerHTML += `<div class="bar-row">
+      <div class="bar-label">${displayName(name)}</div>
+      <div class="bar-outer">
+        <div class="bar-inner" style="width:${barPct}%">
+          <span class="bar-val">${Math.round(s.pts_for).toLocaleString()}</span>
+        </div>
+      </div>
+    </div>`;
   });
 
   // champs table
@@ -764,57 +763,6 @@ function buildHighlights() {
 
   cards.forEach(c => {
     grid.innerHTML += `<div class="stat-card"><div class="label">${c.label}</div><div class="value">${c.value}</div><div class="sub">${c.sub}</div></div>`;
-  });
-}
-
-// ── ALL-TIME ──────────────────────────────────────────────────────────────────
-function buildAllTime() {
-  const managers = visibleManagersAllTime(WSW_DATA.managers);
-  const sorted = Object.entries(managers).sort((a,b) => {
-    const ga = a[1].W + a[1].L + a[1].T;
-    const gb = b[1].W + b[1].L + b[1].T;
-    const wa = ga ? (a[1].W + a[1].T*0.5)/ga : 0;
-    const wb = gb ? (b[1].W + b[1].T*0.5)/gb : 0;
-    return wb - wa;
-  });
-
-  const tbody = document.querySelector('#career-table tbody');
-  sorted.forEach(([name, s], i) => {
-    const g = s.W + s.L + s.T;
-    const ppg = g ? (s.pts_for / g).toFixed(1) : '—';
-    const papg = g ? (s.pts_against / g).toFixed(1) : '—';
-    const champs = s.championships > 0 ? '🏆'.repeat(s.championships) : '—';
-    tbody.innerHTML += `<tr>
-      <td class="rank">${i+1}</td>
-      <td><strong>${displayName(name)}</strong></td>
-      <td class="num win">${s.W}</td>
-      <td class="num loss">${s.L}</td>
-      <td class="num">${s.T}</td>
-      <td class="num">${pct(s.W, s.L, s.T)}</td>
-      <td class="num">${Math.round(s.pts_for).toLocaleString()}</td>
-      <td class="num">${ppg}</td>
-      <td class="num">${Math.round(s.pts_against).toLocaleString()}</td>
-      <td class="num">${papg}</td>
-      <td>${champs}</td>
-      <td class="num">${s.playoff_apps}</td>
-      <td class="num">${s.seasons.length}</td>
-    </tr>`;
-  });
-
-  // bar chart
-  const ptsSorted = Object.entries(managers).sort((a,b) => b[1].pts_for - a[1].pts_for);
-  const maxPts = ptsSorted[0][1].pts_for;
-  const chart = document.getElementById('pts-chart');
-  ptsSorted.forEach(([name, s]) => {
-    const pct = (s.pts_for / maxPts * 100).toFixed(1);
-    chart.innerHTML += `<div class="bar-row">
-      <div class="bar-label">${displayName(name)}</div>
-      <div class="bar-outer">
-        <div class="bar-inner" style="width:${pct}%">
-          <span class="bar-val">${Math.round(s.pts_for).toLocaleString()}</span>
-        </div>
-      </div>
-    </div>`;
   });
 }
 
@@ -1331,7 +1279,6 @@ window.addEventListener('DOMContentLoaded', () => {
   }
   buildDashboard();
   buildHighlights();
-  buildAllTime();
   populateRivalsSelect();
   buildSeasons();
   populateMatchupFilters();
