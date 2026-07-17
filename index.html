@@ -654,6 +654,14 @@ function buildHighlights() {
     }
   }
 
+  if (WSW_DATA.awardRankings && WSW_DATA.awardRankings.length) {
+    const maxLasebre = Math.max(...WSW_DATA.awardRankings.map(r => r.lasebre));
+    if (maxLasebre > 0) {
+      const winners = WSW_DATA.awardRankings.filter(r => r.lasebre === maxLasebre).map(r => displayName(r.manager)).join(' & ');
+      cards.push({ label: "Most LaSeBre Awards", value: maxLasebre, sub: winners });
+    }
+  }
+
   const placing = WSW_DATA.placingHistory;
   if (placing && placing.length) {
     const mostConsistent = placing[0];
@@ -661,11 +669,17 @@ function buildHighlights() {
     cards.push({ label: "Best Placement Every Season", value: mostConsistent.avg_placing, sub: `${displayName(mostConsistent.manager)} · avg placing` });
     cards.push({ label: "Worst Placement Every Season", value: leastConsistent.avg_placing, sub: `${displayName(leastConsistent.manager)} · avg placing` });
 
-    const mostAt = idx => placing.reduce((best, r) => (!best || r.counts[idx] > best.counts[idx]) ? r : best, null);
+    // Returns everyone tied at the max count for a given placing, not just
+    // the first one found, since ties are common with small counts.
+    const mostAt = idx => {
+      const max = Math.max(...placing.map(r => r.counts[idx]));
+      return { max, managers: placing.filter(r => r.counts[idx] === max).map(r => r.manager) };
+    };
     const p2 = mostAt(1), p3 = mostAt(2), p10 = mostAt(9);
-    if (p2 && p2.counts[1] > 0) cards.push({ label: "Most 2nd Place Finishes", value: p2.counts[1], sub: displayName(p2.manager) });
-    if (p3 && p3.counts[2] > 0) cards.push({ label: "Most 3rd Place Finishes", value: p3.counts[2], sub: displayName(p3.manager) });
-    if (p10 && p10.counts[9] > 0) cards.push({ label: "Most 10th Place Finishes", value: p10.counts[9], sub: `${displayName(p10.manager)} · wooden spoon` });
+    const names = ms => ms.map(displayName).join(' & ');
+    if (p2.max > 0) cards.push({ label: "Most 2nd Place Finishes", value: p2.max, sub: names(p2.managers) });
+    if (p3.max > 0) cards.push({ label: "Most 3rd Place Finishes", value: p3.max, sub: names(p3.managers) });
+    if (p10.max > 0) cards.push({ label: "Most 10th Place Finishes", value: p10.max, sub: `${names(p10.managers)} · wooden spoon` });
   }
 
   cards.forEach(c => {
@@ -874,7 +888,10 @@ function showSeasonDetail(yr) {
   const tbody = document.querySelector('#season-standings-table tbody');
   tbody.innerHTML = '';
   if (s.no_data) {
-    tbody.innerHTML = `<tr><td colspan="6" style="color:var(--muted); text-align:center; padding:20px;">No detailed records available for this season — champion confirmed from league history, full standings/matchups weren't tracked on Yahoo.</td></tr>`;
+    const note = (s.standings || []).length
+      ? 'Only the champion and runner-up are on record for this season (from league history) — full 1-10 standings and matchups weren\'t tracked on Yahoo.'
+      : 'No detailed records available for this season — champion confirmed from league history, full standings/matchups weren\'t tracked on Yahoo.';
+    tbody.innerHTML = `<tr><td colspan="6" style="color:var(--muted); text-align:center; padding:12px;">${note}</td></tr>`;
   }
   (s.standings || []).forEach((row, i) => {
     tbody.innerHTML += `<tr>

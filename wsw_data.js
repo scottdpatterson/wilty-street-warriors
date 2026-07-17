@@ -263,7 +263,7 @@ const WSW_DATA = {
         "rank": 2,
         "name": "Nector",
         "team_id": "8",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -326,7 +326,7 @@ const WSW_DATA = {
         "rank": 9,
         "name": "Patterson Prophets",
         "team_id": "4",
-        "manager": null,
+        "manager": "Patterson Prophets",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -389,7 +389,7 @@ const WSW_DATA = {
         "rank": 5,
         "name": "Nector",
         "team_id": "2",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -506,7 +506,7 @@ const WSW_DATA = {
         "rank": 7,
         "name": "Nector",
         "team_id": "2",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -587,7 +587,7 @@ const WSW_DATA = {
         "rank": 5,
         "name": "Nector",
         "team_id": "4",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -677,7 +677,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "nector",
         "team_id": "1",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -713,7 +713,7 @@ const WSW_DATA = {
         "rank": 8,
         "name": "cool brees",
         "team_id": "4",
-        "manager": null,
+        "manager": "cool brees",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -767,7 +767,7 @@ const WSW_DATA = {
         "rank": 3,
         "name": "nector",
         "team_id": "6",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -776,7 +776,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "cool brees",
         "team_id": "1",
-        "manager": null,
+        "manager": "cool brees",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -848,7 +848,7 @@ const WSW_DATA = {
         "rank": 1,
         "name": "nector",
         "team_id": "4",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -866,7 +866,7 @@ const WSW_DATA = {
         "rank": 3,
         "name": "cool brees",
         "team_id": "2",
-        "manager": null,
+        "manager": "cool brees",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -992,7 +992,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1010,7 +1010,7 @@ const WSW_DATA = {
         "rank": 8,
         "name": "cool brees",
         "team_id": "4",
-        "manager": null,
+        "manager": "cool brees",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1055,7 +1055,7 @@ const WSW_DATA = {
         "rank": 2,
         "name": "cool brees",
         "team_id": "4",
-        "manager": null,
+        "manager": "cool brees",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1091,7 +1091,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "Nector",
         "team_id": "2",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1172,7 +1172,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "Nector",
         "team_id": "3",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1190,7 +1190,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "cool brees",
         "team_id": "2",
-        "manager": null,
+        "manager": "cool brees",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1253,7 +1253,7 @@ const WSW_DATA = {
         "rank": 2,
         "name": "Keep Pounding",
         "team_id": "4",
-        "manager": null,
+        "manager": "Keep Pounding",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1289,7 +1289,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "Nector",
         "team_id": "8",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1325,7 +1325,7 @@ const WSW_DATA = {
         "rank": 10,
         "name": "cool brees",
         "team_id": "2",
-        "manager": null,
+        "manager": "cool brees",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1352,7 +1352,7 @@ const WSW_DATA = {
         "rank": 2,
         "name": "Nector",
         "team_id": "6",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1415,7 +1415,7 @@ const WSW_DATA = {
         "rank": 9,
         "name": "Keep Pounding",
         "team_id": "3",
-        "manager": null,
+        "manager": "Keep Pounding",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1442,7 +1442,7 @@ const WSW_DATA = {
         "rank": 1,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1523,7 +1523,7 @@ const WSW_DATA = {
         "rank": 10,
         "name": "Keep Pounding",
         "team_id": "4",
-        "manager": null,
+        "manager": "Keep Pounding",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1568,7 +1568,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "Keep Pounding",
         "team_id": "4",
-        "manager": null,
+        "manager": "Keep Pounding",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1586,7 +1586,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1640,7 +1640,7 @@ const WSW_DATA = {
         "rank": 1,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1712,7 +1712,7 @@ const WSW_DATA = {
         "rank": 9,
         "name": "Keep Pounding",
         "team_id": "4",
-        "manager": null,
+        "manager": "Keep Pounding",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1784,7 +1784,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1865,7 +1865,7 @@ const WSW_DATA = {
         "rank": 4,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -1955,7 +1955,7 @@ const WSW_DATA = {
         "rank": 3,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -2099,7 +2099,7 @@ const WSW_DATA = {
         "rank": 8,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -2171,7 +2171,7 @@ const WSW_DATA = {
         "rank": 5,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -2279,7 +2279,7 @@ const WSW_DATA = {
         "rank": 6,
         "name": "Nector",
         "team_id": "7",
-        "manager": null,
+        "manager": "Chris",
         "wins": null,
         "losses": null,
         "points_for": null
@@ -2328,7 +2328,18 @@ const WSW_DATA = {
     "name": "1999",
     "champion": "Scott",
     "champion_team": "SKULL's Spoliators",
-    "standings": [],
+    "standings": [
+      {
+        "rank": 1,
+        "name": "SKULL's Spoliators",
+        "manager": "Scott"
+      },
+      {
+        "rank": 2,
+        "name": "The Dahminators",
+        "manager": "Roger"
+      }
+    ],
     "no_data": true
   },
   "2000": {
@@ -2336,7 +2347,18 @@ const WSW_DATA = {
     "name": "2000",
     "champion": "Roger",
     "champion_team": "The Dahminators",
-    "standings": [],
+    "standings": [
+      {
+        "rank": 1,
+        "name": "The Dahminators",
+        "manager": "Roger"
+      },
+      {
+        "rank": 2,
+        "name": "SKULL's Spoliators",
+        "manager": "Scott"
+      }
+    ],
     "no_data": true
   },
   "2008": {
@@ -2344,7 +2366,18 @@ const WSW_DATA = {
     "name": "2008",
     "champion": "Roger",
     "champion_team": "The Dahminators",
-    "standings": [],
+    "standings": [
+      {
+        "rank": 1,
+        "name": "The Dahminators",
+        "manager": "Roger"
+      },
+      {
+        "rank": 2,
+        "name": "Nector",
+        "manager": "Chris"
+      }
+    ],
     "no_data": true
   }
 },
@@ -109529,6 +109562,44 @@ const WSW_DATA = {
 ],
   placingHistory: [
   {
+    "manager": "Roger",
+    "counts": [
+      6,
+      3,
+      4,
+      3,
+      1,
+      2,
+      5,
+      3,
+      0,
+      0
+    ],
+    "avg_placing": 4.1,
+    "best": 1,
+    "worst": 8,
+    "seasons": 27
+  },
+  {
+    "manager": "Chris",
+    "counts": [
+      3,
+      3,
+      2,
+      3,
+      3,
+      6,
+      1,
+      1,
+      0,
+      0
+    ],
+    "avg_placing": 4.2,
+    "best": 1,
+    "worst": 8,
+    "seasons": 22
+  },
+  {
     "manager": "Robert",
     "counts": [
       4,
@@ -109548,29 +109619,10 @@ const WSW_DATA = {
     "seasons": 23
   },
   {
-    "manager": "Roger",
-    "counts": [
-      4,
-      2,
-      4,
-      3,
-      1,
-      2,
-      5,
-      3,
-      0,
-      0
-    ],
-    "avg_placing": 4.5,
-    "best": 1,
-    "worst": 8,
-    "seasons": 24
-  },
-  {
     "manager": "Scott",
     "counts": [
-      6,
-      3,
+      7,
+      4,
       2,
       0,
       4,
@@ -109580,10 +109632,10 @@ const WSW_DATA = {
       1,
       3
     ],
-    "avg_placing": 4.8,
+    "avg_placing": 4.6,
     "best": 1,
     "worst": 10,
-    "seasons": 25
+    "seasons": 27
   },
   {
     "manager": "Jack",
