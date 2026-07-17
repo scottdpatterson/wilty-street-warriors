@@ -247,8 +247,6 @@
     <div class="trophy-row" id="trophy-row"></div>
   </div>
 
-  <div class="stat-grid" id="summary-stats"></div>
-
   <div class="section">
     <h2>League Highlights</h2>
     <p class="subtitle" style="margin-bottom:12px;">A snapshot from each tab — see that tab for the full picture.</p>
@@ -285,7 +283,7 @@
     <h2>Career Standings</h2>
     <div class="table-wrap">
       <table id="career-table">
-        <thead><tr><th>#</th><th>Manager</th><th>W</th><th>L</th><th>T</th><th>Win%</th><th>Pts For</th><th>Pts/Game</th><th>🏆</th><th>Playoff Apps</th><th>Seasons</th></tr></thead>
+        <thead><tr><th>#</th><th>Manager</th><th>W</th><th>L</th><th>T</th><th>Win%</th><th>Pts For</th><th>Pts/Game</th><th>Pts Against</th><th>Against/Game</th><th>🏆</th><th>Playoff Apps</th><th>Seasons</th></tr></thead>
         <tbody></tbody>
       </table>
     </div>
@@ -459,6 +457,19 @@
           <tbody></tbody>
         </table>
       </div>
+    </div>
+  </div>
+
+  <div id="draft-class-detail" style="display:none; margin-top:28px;">
+    <div class="section-header">
+      <h2 id="draft-class-detail-title"></h2>
+      <span style="font-size:12px; color:var(--muted); cursor:pointer;" onclick="document.getElementById('draft-class-detail').style.display='none'">✕ close</span>
+    </div>
+    <div class="table-wrap">
+      <table id="draft-class-detail-table">
+        <thead><tr><th>Round</th><th>Pick</th><th>Player</th><th>Pos</th><th>Points</th><th>Pts Rank</th><th>Value</th></tr></thead>
+        <tbody></tbody>
+      </table>
     </div>
   </div>
 </div>
@@ -655,7 +666,7 @@ function buildDashboard() {
     { label: "% Win Leader", value: pct(bestPct[1].W, bestPct[1].L, bestPct[1].T), sub: displayName(bestPct[0]) },
     { label: "Most Titles", value: mostChamps[1].championships + ' 🏆', sub: displayName(mostChamps[0]) },
   ];
-  const grid = document.getElementById('summary-stats');
+  const grid = document.getElementById('highlights-stats');
   stats.forEach(s => {
     grid.innerHTML += `<div class="stat-card"><div class="label">${s.label}</div><div class="value">${s.value}</div><div class="sub">${s.sub}</div></div>`;
   });
@@ -696,7 +707,8 @@ function buildDashboard() {
 function buildHighlights() {
   const grid = document.getElementById('highlights-stats');
   if (!grid) return;
-  grid.innerHTML = '';
+  // buildDashboard() already populated this grid with the core stats and
+  // does its own clear; this function only appends to it.
   const cards = [];
 
   if (WSW_DATA.draft && WSW_DATA.draft.manager_rankings) {
@@ -756,6 +768,7 @@ function buildAllTime() {
   sorted.forEach(([name, s], i) => {
     const g = s.W + s.L + s.T;
     const ppg = g ? (s.pts_for / g).toFixed(1) : '—';
+    const papg = g ? (s.pts_against / g).toFixed(1) : '—';
     const champs = s.championships > 0 ? '🏆'.repeat(s.championships) : '—';
     tbody.innerHTML += `<tr>
       <td class="rank">${i+1}</td>
@@ -766,6 +779,8 @@ function buildAllTime() {
       <td class="num">${pct(s.W, s.L, s.T)}</td>
       <td class="num">${Math.round(s.pts_for).toLocaleString()}</td>
       <td class="num">${ppg}</td>
+      <td class="num">${Math.round(s.pts_against).toLocaleString()}</td>
+      <td class="num">${papg}</td>
       <td>${champs}</td>
       <td class="num">${s.playoff_apps}</td>
       <td class="num">${s.seasons.length}</td>
@@ -1093,14 +1108,37 @@ function buildDraft() {
   const bcBody = document.querySelector('#draft-best-classes-table tbody');
   bcBody.innerHTML = '';
   bestClasses.forEach(c => {
-    bcBody.innerHTML += `<tr><td>${c.season}</td><td>${displayName(c.manager)}</td><td class="num" style="color:var(--green)">+${c.total_value}</td></tr>`;
+    bcBody.innerHTML += `<tr class="draft-class-link" onclick="showDraftClass('${c.season}','${c.manager}')" style="cursor:pointer;"><td><a href="javascript:void(0)">${c.season}</a></td><td>${displayName(c.manager)}</td><td class="num" style="color:var(--green)">+${c.total_value}</td></tr>`;
   });
 
   const wcBody = document.querySelector('#draft-worst-classes-table tbody');
   wcBody.innerHTML = '';
   worstClasses.forEach(c => {
-    wcBody.innerHTML += `<tr><td>${c.season}</td><td>${displayName(c.manager)}</td><td class="num" style="color:var(--red)">${c.total_value}</td></tr>`;
+    wcBody.innerHTML += `<tr class="draft-class-link" onclick="showDraftClass('${c.season}','${c.manager}')" style="cursor:pointer;"><td><a href="javascript:void(0)">${c.season}</a></td><td>${displayName(c.manager)}</td><td class="num" style="color:var(--red)">${c.total_value}</td></tr>`;
   });
+}
+
+function showDraftClass(season, manager) {
+  const seasonData = WSW_DATA.draft && WSW_DATA.draft.seasons ? WSW_DATA.draft.seasons[season] : null;
+  if (!seasonData) return;
+  const picks = seasonData.picks.filter(p => p.manager === manager).sort((a, b) => a.pick - b.pick);
+  document.getElementById('draft-class-detail-title').textContent = `${season} — ${displayName(manager)}'s Draft Class`;
+  const tbody = document.querySelector('#draft-class-detail-table tbody');
+  tbody.innerHTML = '';
+  picks.forEach(p => {
+    tbody.innerHTML += `<tr>
+      <td>${p.round}</td>
+      <td class="num">${p.pick}</td>
+      <td><strong>${p.player_name || '—'}</strong></td>
+      <td>${p.position || '—'}</td>
+      <td class="num">${p.points}</td>
+      <td class="num">${p.points_rank}</td>
+      <td class="num" style="color:${p.value >= 0 ? 'var(--green)' : 'var(--red)'}">${p.value >= 0 ? '+' : ''}${p.value}</td>
+    </tr>`;
+  });
+  const detail = document.getElementById('draft-class-detail');
+  detail.style.display = 'block';
+  detail.scrollIntoView({behavior: 'smooth'});
 }
 
 // ── AWARDS ────────────────────────────────────────────────────────────────────

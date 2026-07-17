@@ -12,54 +12,60 @@ const WSW_DATA = {
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1061.01,
+        "points_against": 1000.92
       },
       {
         "rank": 2,
         "name": "lasebre avengers",
         "team_id": "5",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1061.04,
+        "points_against": 947.86
       },
       {
         "rank": 3,
         "name": "Headhunter's R us",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 913.93,
+        "points_against": 967.22
       },
       {
         "rank": 4,
         "name": "Dahmer's Cannibals",
         "team_id": "6",
         "manager": "Dahmer's Cannibals",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1030.99,
+        "points_against": 879.71
       },
       {
         "rank": 5,
         "name": "The Dahminators",
         "team_id": "2",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 943.14,
+        "points_against": 1051.8500000000001
       },
       {
         "rank": 6,
         "name": "Fighting Tigers",
         "team_id": "4",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 875.38,
+        "points_against": 1037.93
       }
     ],
     "no_data": false
@@ -75,90 +81,100 @@ const WSW_DATA = {
         "name": "Fighting Tigers",
         "team_id": "8",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1042.32,
+        "points_against": 897.9500000000002
       },
       {
         "rank": 2,
         "name": "Murphy's Marauders",
         "team_id": "5",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1036.75,
+        "points_against": 979.8
       },
       {
         "rank": 3,
         "name": "Dahmer's Cannibals",
         "team_id": "9",
         "manager": "Dahmer's Cannibals",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1056.22,
+        "points_against": 981.2900000000001
       },
       {
         "rank": 4,
         "name": "ric's last resort",
         "team_id": "10",
         "manager": "Ric's Last Resort",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1124.92,
+        "points_against": 936.6300000000001
       },
       {
         "rank": 5,
         "name": "Coltrain Blue",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1007.38,
+        "points_against": 938.8200000000002
       },
       {
         "rank": 6,
         "name": "jakesjugglers",
         "team_id": "7",
         "manager": "Jakes Jugglers",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 927.67,
+        "points_against": 1065.25
       },
       {
         "rank": 7,
         "name": "The Dahminators",
         "team_id": "3",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 950.86,
+        "points_against": 949.37
       },
       {
         "rank": 8,
         "name": "Damon's Demons",
         "team_id": "4",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1032.58,
+        "points_against": 947.72
       },
       {
         "rank": 9,
         "name": "Radical Riptide",
         "team_id": "6",
         "manager": "Radical Riptide",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 712.02,
+        "points_against": 1009.4300000000001
       },
       {
         "rank": 10,
         "name": "LaSeBre AvenGERs",
         "team_id": "2",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 2,
+        "losses": 12,
+        "points_for": 806.94,
+        "points_against": 991.4000000000001
       }
     ],
     "no_data": false
@@ -174,72 +190,80 @@ const WSW_DATA = {
         "name": "The Dahminators",
         "team_id": "7",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 994.09,
+        "points_against": 951.98
       },
       {
         "rank": 2,
         "name": "SKULLs Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 985.26,
+        "points_against": 922.7199999999999
       },
       {
         "rank": 3,
         "name": "Dahmers Cannibals",
         "team_id": "8",
         "manager": "Dahmer's Cannibals",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 963.99,
+        "points_against": 974.1000000000001
       },
       {
         "rank": 4,
         "name": "Murphys Marauders",
         "team_id": "4",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1069.95,
+        "points_against": 942.97
       },
       {
         "rank": 5,
         "name": "LasEbreAvEngers",
         "team_id": "5",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 910.62,
+        "points_against": 925.7899999999998
       },
       {
         "rank": 6,
         "name": "DAMONs Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 826.66,
+        "points_against": 880.96
       },
       {
         "rank": 7,
         "name": "Jakes Jugglers",
         "team_id": "6",
         "manager": "Jakes Jugglers",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 844.62,
+        "points_against": 985.0100000000001
       },
       {
         "rank": 8,
         "name": "The Fighting Tigers",
         "team_id": "2",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 963.58,
+        "points_against": 975.2400000000001
       }
     ],
     "no_data": false
@@ -255,90 +279,100 @@ const WSW_DATA = {
         "name": "The Dahminators",
         "team_id": "6",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1168.03,
+        "points_against": 1006.2999999999998
       },
       {
         "rank": 2,
         "name": "Nector",
         "team_id": "8",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1119.17,
+        "points_against": 1050.0900000000001
       },
       {
         "rank": 3,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 941.34,
+        "points_against": 966.3200000000002
       },
       {
         "rank": 4,
         "name": "Ric's Last Resort",
         "team_id": "10",
         "manager": "Ric's Last Resort",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1008.78,
+        "points_against": 860.41
       },
       {
         "rank": 5,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1003.47,
+        "points_against": 1015.0999999999999
       },
       {
         "rank": 6,
         "name": "Murphy's Marauders",
         "team_id": "9",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 869.78,
+        "points_against": 951.62
       },
       {
         "rank": 7,
         "name": "Dahmer's Cannibals",
         "team_id": "7",
         "manager": "Dahmer's Cannibals",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1050.94,
+        "points_against": 1085.35
       },
       {
         "rank": 8,
         "name": "The Fighting Tigers",
         "team_id": "5",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 952.95,
+        "points_against": 949.0000000000001
       },
       {
         "rank": 9,
         "name": "Patterson Prophets",
         "team_id": "4",
         "manager": "Patterson Prophets",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 927.43,
+        "points_against": 995.73
       },
       {
         "rank": 10,
         "name": "LaSeBre",
         "team_id": "2",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 3,
+        "losses": 11,
+        "points_for": 850.44,
+        "points_against": 1012.4100000000002
       }
     ],
     "no_data": false
@@ -354,90 +388,100 @@ const WSW_DATA = {
         "name": "Rics Last Resort",
         "team_id": "9",
         "manager": "Ric's Last Resort",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1015.33,
+        "points_against": 874.8500000000001
       },
       {
         "rank": 2,
         "name": "Murphy's Marauders",
         "team_id": "8",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 3,
+        "points_for": 1039.24,
+        "points_against": 789.6700000000001
       },
       {
         "rank": 3,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 966.29,
+        "points_against": 839.4099999999999
       },
       {
         "rank": 4,
         "name": "The Runnin' Rebels",
         "team_id": "5",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 984.78,
+        "points_against": 874.3199999999999
       },
       {
         "rank": 5,
         "name": "Nector",
         "team_id": "2",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 869.11,
+        "points_against": 933.04
       },
       {
         "rank": 6,
         "name": "Cannibals",
         "team_id": "10",
         "manager": "Dahmer's Cannibals",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 912.75,
+        "points_against": 1083.73
       },
       {
         "rank": 7,
         "name": "The Dahminators",
         "team_id": "4",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 957.7,
+        "points_against": 913.38
       },
       {
         "rank": 8,
         "name": "Damon's Demons",
         "team_id": "6",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 958.42,
+        "points_against": 1010.8499999999999
       },
       {
         "rank": 9,
         "name": "Fighting Tigers",
         "team_id": "7",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 3,
+        "losses": 11,
+        "points_for": 810.84,
+        "points_against": 951.77
       },
       {
         "rank": 10,
         "name": "LaSebreAvenGers",
         "team_id": "3",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 2,
+        "losses": 12,
+        "points_for": 814.38,
+        "points_against": 1057.8200000000002
       }
     ],
     "no_data": false
@@ -453,90 +497,100 @@ const WSW_DATA = {
         "name": "The Dahminators",
         "team_id": "4",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 996.07,
+        "points_against": 845.8599999999999
       },
       {
         "rank": 2,
         "name": "Ric's Last Resort",
         "team_id": "3",
         "manager": "Ric's Last Resort",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1119.4,
+        "points_against": 987.38
       },
       {
         "rank": 3,
         "name": "Damon's Digglers",
         "team_id": "7",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1009.43,
+        "points_against": 917.5200000000001
       },
       {
         "rank": 4,
         "name": "Dahmer's Cannibals",
         "team_id": "10",
         "manager": "Dahmer's Cannibals",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 3,
+        "points_for": 1028.97,
+        "points_against": 865.0
       },
       {
         "rank": 5,
         "name": "LaSebre-Avengers",
         "team_id": "8",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 863.35,
+        "points_against": 916.7899999999998
       },
       {
         "rank": 6,
         "name": "The Fighting Tigers",
         "team_id": "6",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 949.71,
+        "points_against": 972.06
       },
       {
         "rank": 7,
         "name": "Nector",
         "team_id": "2",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 909.86,
+        "points_against": 963.3100000000001
       },
       {
         "rank": 8,
         "name": "The Runnin' Rebels",
         "team_id": "5",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 798.5,
+        "points_against": 929.6999999999999
       },
       {
         "rank": 9,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 817.39,
+        "points_against": 895.29
       },
       {
         "rank": 10,
         "name": "Murphy's Marauders",
         "team_id": "9",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 3,
+        "losses": 11,
+        "points_for": 845.78,
+        "points_against": 1045.5500000000002
       }
     ],
     "no_data": false
@@ -552,90 +606,100 @@ const WSW_DATA = {
         "name": "SKULL's  Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1364.72,
+        "points_against": 1216.04
       },
       {
         "rank": 2,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1391.68,
+        "points_against": 1294.42
       },
       {
         "rank": 3,
         "name": "Ric's Last Resort",
         "team_id": "3",
         "manager": "Ric's Last Resort",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 3,
+        "points_for": 1417.06,
+        "points_against": 1197.8
       },
       {
         "rank": 4,
         "name": "The Runnin' Rebels",
         "team_id": "7",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1557.66,
+        "points_against": 1287.38
       },
       {
         "rank": 5,
         "name": "Nector",
         "team_id": "4",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1387.2,
+        "points_against": 1412.8
       },
       {
         "rank": 6,
         "name": "Murphy's Marauders",
         "team_id": "5",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1417.9,
+        "points_against": 1397.4399999999998
       },
       {
         "rank": 7,
         "name": "SKULL's Spoliators",
         "team_id": "10",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1104.56,
+        "points_against": 1286.3600000000001
       },
       {
         "rank": 8,
         "name": "Damon's Digglers",
         "team_id": "9",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1280.18,
+        "points_against": 1382.7399999999998
       },
       {
         "rank": 9,
         "name": "The Fighting Tigers",
         "team_id": "2",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 3,
+        "losses": 11,
+        "points_for": 1157.12,
+        "points_against": 1355.1000000000001
       },
       {
         "rank": 10,
         "name": "LaSeBre AveNgers",
         "team_id": "6",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 2,
+        "losses": 12,
+        "points_for": 1131.0,
+        "points_against": 1378.9999999999998
       }
     ],
     "no_data": false
@@ -651,90 +715,100 @@ const WSW_DATA = {
         "name": "Murphy's Marauders",
         "team_id": "7",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1617.76,
+        "points_against": 1280.76
       },
       {
         "rank": 2,
         "name": "The Runnin' Rebels",
         "team_id": "3",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 3,
+        "points_for": 1466.86,
+        "points_against": 1299.1
       },
       {
         "rank": 3,
         "name": "LaSEbre Avengers",
         "team_id": "6",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1376.58,
+        "points_against": 1413.92
       },
       {
         "rank": 4,
         "name": "nector",
         "team_id": "1",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1382.44,
+        "points_against": 1380.74
       },
       {
         "rank": 5,
         "name": "Ric's Last Resort",
         "team_id": "9",
         "manager": "Ric's Last Resort",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1367.72,
+        "points_against": 1337.2399999999998
       },
       {
         "rank": 6,
         "name": "The Dahminator's",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1288.98,
+        "points_against": 1371.3600000000001
       },
       {
         "rank": 7,
         "name": "Damon's Demons",
         "team_id": "5",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1313.18,
+        "points_against": 1359.7
       },
       {
         "rank": 8,
         "name": "cool brees",
         "team_id": "4",
         "manager": "cool brees",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1349.38,
+        "points_against": 1393.8600000000001
       },
       {
         "rank": 9,
         "name": "The Fighting Tigers",
         "team_id": "10",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1179.5,
+        "points_against": 1283.7800000000002
       },
       {
         "rank": 10,
         "name": "SKULL's Spoliators",
         "team_id": "2",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 3,
+        "losses": 11,
+        "points_for": 1185.52,
+        "points_against": 1407.4600000000003
       }
     ],
     "no_data": false
@@ -750,90 +824,100 @@ const WSW_DATA = {
         "name": "Murphy's Marauders",
         "team_id": "9",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1431.44,
+        "points_against": 1232.8
       },
       {
         "rank": 2,
         "name": "SKULL's Spoliators",
         "team_id": "5",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1297.4,
+        "points_against": 1182.84
       },
       {
         "rank": 3,
         "name": "nector",
         "team_id": "6",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 3,
+        "points_for": 1470.42,
+        "points_against": 1288.46
       },
       {
         "rank": 4,
         "name": "cool brees",
         "team_id": "1",
         "manager": "cool brees",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1366.2,
+        "points_against": 1272.5600000000002
       },
       {
         "rank": 5,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1376.4,
+        "points_against": 1405.7400000000002
       },
       {
         "rank": 6,
         "name": "The Dahminators",
         "team_id": "4",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1176.16,
+        "points_against": 1375.7800000000002
       },
       {
         "rank": 7,
         "name": "LaSeBre AvenGers",
         "team_id": "2",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1173.78,
+        "points_against": 1272.62
       },
       {
         "rank": 8,
         "name": "Damon's Demons",
         "team_id": "8",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1326.7,
+        "points_against": 1298.08
       },
       {
         "rank": 9,
         "name": "The Fighting Tigers",
         "team_id": "3",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1154.04,
+        "points_against": 1332.9799999999998
       },
       {
         "rank": 10,
         "name": "The Runnin' Rebels",
         "team_id": "7",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1130.12,
+        "points_against": 1240.8
       }
     ],
     "no_data": false
@@ -849,90 +933,100 @@ const WSW_DATA = {
         "name": "nector",
         "team_id": "4",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1487.1,
+        "points_against": 1289.12
       },
       {
         "rank": 2,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1495.86,
+        "points_against": 1371.6
       },
       {
         "rank": 3,
         "name": "cool brees",
         "team_id": "2",
         "manager": "cool brees",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1311.9,
+        "points_against": 1309.4599999999998
       },
       {
         "rank": 4,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1401.74,
+        "points_against": 1267.3600000000001
       },
       {
         "rank": 5,
         "name": "The Runnin' Rebels",
         "team_id": "7",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1295.06,
+        "points_against": 1339.0800000000002
       },
       {
         "rank": 6,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1347.18,
+        "points_against": 1409.3200000000002
       },
       {
         "rank": 7,
         "name": "Murphy's Marauders",
         "team_id": "8",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1430.0,
+        "points_against": 1506.2999999999997
       },
       {
         "rank": 8,
         "name": "The Dahminators",
         "team_id": "5",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1433.58,
+        "points_against": 1419.72
       },
       {
         "rank": 9,
         "name": "LaSeBre AvenGers",
         "team_id": "9",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1245.8,
+        "points_against": 1337.92
       },
       {
         "rank": 10,
         "name": "The Fighting Tigers",
         "team_id": "6",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1159.42,
+        "points_against": 1357.7600000000002
       }
     ],
     "no_data": false
@@ -948,90 +1042,100 @@ const WSW_DATA = {
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1402.14,
+        "points_against": 1314.9199999999998
       },
       {
         "rank": 2,
         "name": "Murphy's Marauders",
         "team_id": "10",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1400.9,
+        "points_against": 1318.0600000000004
       },
       {
         "rank": 3,
         "name": "The Dahminators",
         "team_id": "9",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1448.52,
+        "points_against": 1359.38
       },
       {
         "rank": 4,
         "name": "The Pinetree Mafia",
         "team_id": "8",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1451.46,
+        "points_against": 1276.4
       },
       {
         "rank": 5,
         "name": "The Fighting Tigers",
         "team_id": "3",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1266.68,
+        "points_against": 1339.52
       },
       {
         "rank": 6,
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1374.38,
+        "points_against": 1406.0800000000002
       },
       {
         "rank": 7,
         "name": "Damon's Demons",
         "team_id": "2",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1303.54,
+        "points_against": 1258.16
       },
       {
         "rank": 8,
         "name": "cool brees",
         "team_id": "4",
         "manager": "cool brees",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1463.5,
+        "points_against": 1360.48
       },
       {
         "rank": 9,
         "name": "LaSeBre AvenGers",
         "team_id": "5",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1147.54,
+        "points_against": 1417.8400000000004
       },
       {
         "rank": 10,
         "name": "The Runnin' Rebels",
         "team_id": "6",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 2,
+        "losses": 12,
+        "points_for": 1243.12,
+        "points_against": 1450.94
       }
     ],
     "no_data": false
@@ -1047,90 +1151,100 @@ const WSW_DATA = {
         "name": "The Pinetree Mafia",
         "team_id": "5",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1605.64,
+        "points_against": 1375.0
       },
       {
         "rank": 2,
         "name": "cool brees",
         "team_id": "4",
         "manager": "cool brees",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 3,
+        "points_for": 1437.18,
+        "points_against": 1231.44
       },
       {
         "rank": 3,
         "name": "The Dahminators",
         "team_id": "10",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1395.14,
+        "points_against": 1439.7600000000002
       },
       {
         "rank": 4,
         "name": "The Fighting Tigers",
         "team_id": "6",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1245.42,
+        "points_against": 1134.4
       },
       {
         "rank": 5,
         "name": "LaSeBre AvenGers",
         "team_id": "8",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1391.56,
+        "points_against": 1453.6799999999998
       },
       {
         "rank": 6,
         "name": "Nector",
         "team_id": "2",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1533.14,
+        "points_against": 1386.1599999999999
       },
       {
         "rank": 7,
         "name": "Murphy's Marauders",
         "team_id": "7",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1223.36,
+        "points_against": 1418.3799999999999
       },
       {
         "rank": 8,
         "name": "The Runnin' Rebels",
         "team_id": "9",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1385.58,
+        "points_against": 1367.1999999999998
       },
       {
         "rank": 9,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1295.32,
+        "points_against": 1441.7800000000002
       },
       {
         "rank": 10,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1165.08,
+        "points_against": 1429.6200000000001
       }
     ],
     "no_data": false
@@ -1146,90 +1260,100 @@ const WSW_DATA = {
         "name": "The Fighting Tigers",
         "team_id": "7",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1392.1,
+        "points_against": 1373.7
       },
       {
         "rank": 2,
         "name": "The Pinetree Mafia",
         "team_id": "9",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1368.56,
+        "points_against": 1404.0800000000002
       },
       {
         "rank": 3,
         "name": "Damon's Demons",
         "team_id": "8",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 3,
+        "points_for": 1484.14,
+        "points_against": 1374.1200000000001
       },
       {
         "rank": 4,
         "name": "Nector",
         "team_id": "3",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1433.12,
+        "points_against": 1402.08
       },
       {
         "rank": 5,
         "name": "LaSeBre AvenGers",
         "team_id": "5",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1430.26,
+        "points_against": 1432.7
       },
       {
         "rank": 6,
         "name": "cool brees",
         "team_id": "2",
         "manager": "cool brees",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1322.76,
+        "points_against": 1324.08
       },
       {
         "rank": 7,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1442.44,
+        "points_against": 1388.4399999999998
       },
       {
         "rank": 8,
         "name": "The Dahminators",
         "team_id": "10",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1235.92,
+        "points_against": 1335.52
       },
       {
         "rank": 9,
         "name": "Murphy's Marauders",
         "team_id": "4",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1251.24,
+        "points_against": 1289.72
       },
       {
         "rank": 10,
         "name": "The Runnin' Rebels",
         "team_id": "6",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1185.26,
+        "points_against": 1221.36
       }
     ],
     "no_data": false
@@ -1245,90 +1369,100 @@ const WSW_DATA = {
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1330.92,
+        "points_against": 1300.44
       },
       {
         "rank": 2,
         "name": "Keep Pounding",
         "team_id": "4",
         "manager": "Keep Pounding",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1436.4,
+        "points_against": 1308.0
       },
       {
         "rank": 3,
         "name": "The Dahminators",
         "team_id": "10",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1491.12,
+        "points_against": 1360.9999999999998
       },
       {
         "rank": 4,
         "name": "LaSeBre AvenGers",
         "team_id": "6",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 12,
+        "losses": 2,
+        "points_for": 1531.14,
+        "points_against": 1227.02
       },
       {
         "rank": 5,
         "name": "Murphy's Marauders",
         "team_id": "7",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1279.94,
+        "points_against": 1471.7000000000003
       },
       {
         "rank": 6,
         "name": "Nector",
         "team_id": "8",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1260.42,
+        "points_against": 1422.52
       },
       {
         "rank": 7,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1285.76,
+        "points_against": 1252.44
       },
       {
         "rank": 8,
         "name": "The Pinetree Mafia",
         "team_id": "5",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1291.2,
+        "points_against": 1254.7400000000002
       },
       {
         "rank": 9,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1199.28,
+        "points_against": 1376.0399999999997
       },
       {
         "rank": 10,
         "name": "cool brees",
         "team_id": "2",
         "manager": "cool brees",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1181.76,
+        "points_against": 1314.04
       }
     ],
     "no_data": false
@@ -1344,90 +1478,100 @@ const WSW_DATA = {
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 3,
+        "points_for": 1486.0,
+        "points_against": 1240.76
       },
       {
         "rank": 2,
         "name": "Nector",
         "team_id": "6",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1482.26,
+        "points_against": 1299.1399999999999
       },
       {
         "rank": 3,
         "name": "The Pinetree Mafia",
         "team_id": "9",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1383.24,
+        "points_against": 1374.26
       },
       {
         "rank": 4,
         "name": "The Dahminators",
         "team_id": "7",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1312.94,
+        "points_against": 1359.2199999999998
       },
       {
         "rank": 5,
         "name": "Murphy's Marauders",
         "team_id": "5",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1377.02,
+        "points_against": 1412.84
       },
       {
         "rank": 6,
         "name": "LaSeBre AvenGers",
         "team_id": "4",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1290.18,
+        "points_against": 1347.84
       },
       {
         "rank": 7,
         "name": "BPs Muggin n Jugglin",
         "team_id": "10",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1178.08,
+        "points_against": 1295.66
       },
       {
         "rank": 8,
         "name": "Damon's Demons",
         "team_id": "2",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1338.3,
+        "points_against": 1288.0
       },
       {
         "rank": 9,
         "name": "Keep Pounding",
         "team_id": "3",
         "manager": "Keep Pounding",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1303.8,
+        "points_against": 1385.9399999999998
       },
       {
         "rank": 10,
         "name": "The Fighting Tigers",
         "team_id": "8",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1242.76,
+        "points_against": 1390.9199999999998
       }
     ],
     "no_data": false
@@ -1443,90 +1587,100 @@ const WSW_DATA = {
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1352.76,
+        "points_against": 1282.94
       },
       {
         "rank": 2,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1469.72,
+        "points_against": 1358.1200000000001
       },
       {
         "rank": 3,
         "name": "LaSeBre AvenGers",
         "team_id": "5",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1278.54,
+        "points_against": 1157.24
       },
       {
         "rank": 4,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1366.04,
+        "points_against": 1276.04
       },
       {
         "rank": 5,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1356.34,
+        "points_against": 1254.8
       },
       {
         "rank": 6,
         "name": "Murphy's Marauders",
         "team_id": "6",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1345.74,
+        "points_against": 1292.32
       },
       {
         "rank": 7,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1201.08,
+        "points_against": 1364.2400000000002
       },
       {
         "rank": 8,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1172.16,
+        "points_against": 1366.5600000000002
       },
       {
         "rank": 9,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1155.42,
+        "points_against": 1293.18
       },
       {
         "rank": 10,
         "name": "Keep Pounding",
         "team_id": "4",
         "manager": "Keep Pounding",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1264.62,
+        "points_against": 1316.98
       }
     ],
     "no_data": false
@@ -1542,90 +1696,100 @@ const WSW_DATA = {
         "name": "LaSeBre AvenGers",
         "team_id": "5",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1506.76,
+        "points_against": 1381.4
       },
       {
         "rank": 2,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1505.58,
+        "points_against": 1346.1
       },
       {
         "rank": 3,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1609.74,
+        "points_against": 1534.1399999999999
       },
       {
         "rank": 4,
         "name": "Keep Pounding",
         "team_id": "4",
         "manager": "Keep Pounding",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1450.36,
+        "points_against": 1396.68
       },
       {
         "rank": 5,
         "name": "Murphy's Marauders",
         "team_id": "6",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1335.28,
+        "points_against": 1458.02
       },
       {
         "rank": 6,
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1517.46,
+        "points_against": 1432.1999999999998
       },
       {
         "rank": 7,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1555.94,
+        "points_against": 1539.6800000000003
       },
       {
         "rank": 8,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 7,
+        "points_for": 1418.92,
+        "points_against": 1470.88
       },
       {
         "rank": 9,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1256.9,
+        "points_against": 1423.3400000000001
       },
       {
         "rank": 10,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1320.46,
+        "points_against": 1494.96
       }
     ],
     "no_data": false
@@ -1641,90 +1805,100 @@ const WSW_DATA = {
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1658.3,
+        "points_against": 1427.76
       },
       {
         "rank": 2,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 12,
+        "losses": 2,
+        "points_for": 1530.76,
+        "points_against": 1250.6399999999996
       },
       {
         "rank": 3,
         "name": "LaSeBre AvenGers",
         "team_id": "5",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1331.68,
+        "points_against": 1282.14
       },
       {
         "rank": 4,
         "name": "Murphy's Marauders",
         "team_id": "6",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1426.4,
+        "points_against": 1250.1800000000003
       },
       {
         "rank": 5,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1287.96,
+        "points_against": 1378.6599999999999
       },
       {
         "rank": 6,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1269.44,
+        "points_against": 1232.6399999999999
       },
       {
         "rank": 7,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1119.94,
+        "points_against": 1192.5600000000004
       },
       {
         "rank": 8,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1213.5,
+        "points_against": 1382.6999999999998
       },
       {
         "rank": 9,
         "name": "Keep Pounding",
         "team_id": "4",
         "manager": "Keep Pounding",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1335.2,
+        "points_against": 1531.9199999999998
       },
       {
         "rank": 10,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 3,
+        "losses": 11,
+        "points_for": 1116.58,
+        "points_against": 1360.5600000000002
       }
     ],
     "no_data": false
@@ -1740,90 +1914,100 @@ const WSW_DATA = {
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1447.92,
+        "points_against": 1326.56
       },
       {
         "rank": 2,
         "name": "Murphy\u2019s Mad Hatters",
         "team_id": "4",
         "manager": "Jack",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 5,
+        "points_for": 1557.12,
+        "points_against": 1454.8
       },
       {
         "rank": 3,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1540.34,
+        "points_against": 1467.2599999999998
       },
       {
         "rank": 4,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1541.5,
+        "points_against": 1410.6599999999999
       },
       {
         "rank": 5,
         "name": "Murphy's Marauders",
         "team_id": "6",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1340.24,
+        "points_against": 1373.58
       },
       {
         "rank": 6,
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 8,
+        "points_for": 1353.96,
+        "points_against": 1397.1200000000001
       },
       {
         "rank": 7,
         "name": "LaSeBre AvenGers",
         "team_id": "5",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1405.9,
+        "points_against": 1431.3999999999999
       },
       {
         "rank": 8,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 6,
+        "points_for": 1378.38,
+        "points_against": 1354.64
       },
       {
         "rank": 9,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 9,
+        "points_for": 1204.62,
+        "points_against": 1313.1599999999999
       },
       {
         "rank": 10,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 10,
+        "points_for": 1292.12,
+        "points_against": 1532.92
       }
     ],
     "no_data": false
@@ -1839,90 +2023,100 @@ const WSW_DATA = {
         "name": "Murphy's Marauders",
         "team_id": "5",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 11,
+        "losses": 4,
+        "points_for": 1526.72,
+        "points_against": 1449.1399999999999
       },
       {
         "rank": 2,
         "name": "Murphy\u2019s Mad Hatters",
         "team_id": "6",
         "manager": "Jack",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 5,
+        "points_for": 1515.06,
+        "points_against": 1484.96
       },
       {
         "rank": 3,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1522.6,
+        "points_against": 1359.8400000000001
       },
       {
         "rank": 4,
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1732.68,
+        "points_against": 1475.46
       },
       {
         "rank": 5,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1371.12,
+        "points_against": 1472.62
       },
       {
         "rank": 6,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 8,
+        "points_for": 1483.98,
+        "points_against": 1444.8200000000002
       },
       {
         "rank": 7,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1443.8,
+        "points_against": 1436.66
       },
       {
         "rank": 8,
         "name": "LaSeBre AvenGers",
         "team_id": "4",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1454.14,
+        "points_against": 1439.3600000000001
       },
       {
         "rank": 9,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 10,
+        "points_for": 1373.26,
+        "points_against": 1577.2800000000002
       },
       {
         "rank": 10,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 1,
+        "losses": 14,
+        "points_for": 1300.42,
+        "points_against": 1583.64
       }
     ],
     "no_data": false
@@ -1938,90 +2132,100 @@ const WSW_DATA = {
         "name": "Murphy's Marauders",
         "team_id": "5",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1606.82,
+        "points_against": 1450.2199999999998
       },
       {
         "rank": 2,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1442.82,
+        "points_against": 1427.6200000000001
       },
       {
         "rank": 3,
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1467.98,
+        "points_against": 1466.3799999999997
       },
       {
         "rank": 4,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1431.72,
+        "points_against": 1439.4799999999998
       },
       {
         "rank": 5,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1404.7,
+        "points_against": 1515.58
       },
       {
         "rank": 6,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1387.28,
+        "points_against": 1312.3799999999999
       },
       {
         "rank": 7,
         "name": "Murphy\u2019s Mad Hatters",
         "team_id": "6",
         "manager": "Jack",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 8,
+        "points_for": 1543.7,
+        "points_against": 1551.94
       },
       {
         "rank": 8,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1393.06,
+        "points_against": 1271.4600000000003
       },
       {
         "rank": 9,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 9,
+        "points_for": 1305.02,
+        "points_against": 1372.48
       },
       {
         "rank": 10,
         "name": "LaSeBre AvenGers",
         "team_id": "4",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 11,
+        "points_for": 1335.7,
+        "points_against": 1511.2600000000002
       }
     ],
     "no_data": false
@@ -2037,90 +2241,100 @@ const WSW_DATA = {
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 5,
+        "points_for": 1626.48,
+        "points_against": 1508.5400000000002
       },
       {
         "rank": 2,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 12,
+        "losses": 3,
+        "points_for": 1544.1,
+        "points_against": 1325.58
       },
       {
         "rank": 3,
         "name": "Murphy's Marauders",
         "team_id": "5",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1487.66,
+        "points_against": 1441.3800000000003
       },
       {
         "rank": 4,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1476.46,
+        "points_against": 1376.24
       },
       {
         "rank": 5,
         "name": "Murphy\u2019s Mad Hatters",
         "team_id": "6",
         "manager": "Jack",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 6,
+        "losses": 9,
+        "points_for": 1502.56,
+        "points_against": 1544.4000000000003
       },
       {
         "rank": 6,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 10,
+        "points_for": 1461.78,
+        "points_against": 1458.8
       },
       {
         "rank": 7,
         "name": "LaSeBre AvenGers",
         "team_id": "4",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1405.16,
+        "points_against": 1405.8
       },
       {
         "rank": 8,
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 8,
+        "points_for": 1426.54,
+        "points_against": 1449.68
       },
       {
         "rank": 9,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 10,
+        "points_for": 1322.08,
+        "points_against": 1453.94
       },
       {
         "rank": 10,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 11,
+        "points_for": 1242.8,
+        "points_against": 1531.2600000000002
       }
     ],
     "no_data": false
@@ -2136,90 +2350,100 @@ const WSW_DATA = {
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 5,
+        "points_for": 1652.98,
+        "points_against": 1497.6799999999998
       },
       {
         "rank": 2,
         "name": "Murphy's Marauders",
         "team_id": "5",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1553.1,
+        "points_against": 1425.3600000000001
       },
       {
         "rank": 3,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1593.96,
+        "points_against": 1407.76
       },
       {
         "rank": 4,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1493.64,
+        "points_against": 1568.08
       },
       {
         "rank": 5,
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1451.08,
+        "points_against": 1478.9799999999998
       },
       {
         "rank": 6,
         "name": "LaSeBre AvenGers",
         "team_id": "4",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 8,
+        "points_for": 1272.86,
+        "points_against": 1403.5399999999997
       },
       {
         "rank": 7,
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1476.86,
+        "points_against": 1377.8799999999999
       },
       {
         "rank": 8,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 8,
+        "points_for": 1435.08,
+        "points_against": 1536.8600000000001
       },
       {
         "rank": 9,
         "name": "Murphy\u2019s Mad Hatters",
         "team_id": "6",
         "manager": "Jack",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 10,
+        "points_for": 1477.5,
+        "points_against": 1583.9199999999998
       },
       {
         "rank": 10,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 4,
+        "losses": 11,
+        "points_for": 1353.1,
+        "points_against": 1480.1
       }
     ],
     "no_data": false
@@ -2235,90 +2459,100 @@ const WSW_DATA = {
         "name": "SKULL's Spoliators",
         "team_id": "1",
         "manager": "Scott",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1862.4,
+        "points_against": 1843.84
       },
       {
         "rank": 2,
         "name": "The Fighting Tigers",
         "team_id": "9",
         "manager": "Davidson",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 10,
+        "losses": 5,
+        "points_for": 1885.62,
+        "points_against": 1701.3200000000004
       },
       {
         "rank": 3,
         "name": "The Dahminators",
         "team_id": "8",
         "manager": "Roger",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1887.56,
+        "points_against": 1702.4800000000005
       },
       {
         "rank": 4,
         "name": "Murphy's Marauders",
         "team_id": "5",
         "manager": "Robert",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 9,
+        "losses": 6,
+        "points_for": 1821.96,
+        "points_against": 1748.7
       },
       {
         "rank": 5,
         "name": "Murphy\u2019s Mad Hatters",
         "team_id": "6",
         "manager": "Jack",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1857.24,
+        "points_against": 1789.9199999999996
       },
       {
         "rank": 6,
         "name": "Nector",
         "team_id": "7",
         "manager": "Chris",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 2002.34,
+        "points_against": 1846.9999999999998
       },
       {
         "rank": 7,
         "name": "BPs Muggin n Jugglin",
         "team_id": "2",
         "manager": "Brett",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 8,
+        "losses": 7,
+        "points_for": 1757.6,
+        "points_against": 1788.72
       },
       {
         "rank": 8,
         "name": "LaSeBre AvenGers",
         "team_id": "4",
         "manager": "Michael",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 7,
+        "losses": 8,
+        "points_for": 1681.98,
+        "points_against": 1870.1599999999999
       },
       {
         "rank": 9,
         "name": "The Pinetree Mafia",
         "team_id": "10",
         "manager": "Seth",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 5,
+        "losses": 10,
+        "points_for": 1687.2,
+        "points_against": 1881.1999999999998
       },
       {
         "rank": 10,
         "name": "Damon's Demons",
         "team_id": "3",
         "manager": "Damon",
-        "wins": null,
-        "losses": null,
-        "points_for": null
+        "wins": 2,
+        "losses": 13,
+        "points_for": 1613.7,
+        "points_against": 1884.26
       }
     ],
     "no_data": false
@@ -61619,6 +61853,7 @@ const WSW_DATA = {
     "L": 187,
     "T": 0,
     "pts_for": 33378.78,
+    "pts_against": 33273.82,
     "championships": 7,
     "seasons": [
       "2001",
@@ -61654,6 +61889,7 @@ const WSW_DATA = {
     "L": 168,
     "T": 0,
     "pts_for": 33729.15,
+    "pts_against": 33029.0,
     "championships": 6,
     "seasons": [
       "2001",
@@ -61689,6 +61925,7 @@ const WSW_DATA = {
     "L": 182,
     "T": 0,
     "pts_for": 32081.54,
+    "pts_against": 31828.45,
     "championships": 1,
     "seasons": [
       "2001",
@@ -61724,6 +61961,7 @@ const WSW_DATA = {
     "L": 199,
     "T": 0,
     "pts_for": 30636.31,
+    "pts_against": 32024.29,
     "championships": 1,
     "seasons": [
       "2001",
@@ -61759,6 +61997,7 @@ const WSW_DATA = {
     "L": 208,
     "T": 0,
     "pts_for": 30336.18,
+    "pts_against": 31747.33,
     "championships": 3,
     "seasons": [
       "2001",
@@ -61794,6 +62033,7 @@ const WSW_DATA = {
     "L": 37,
     "T": 0,
     "pts_for": 6043.86,
+    "pts_against": 5869.18,
     "championships": 0,
     "seasons": [
       "2001",
@@ -61810,6 +62050,7 @@ const WSW_DATA = {
     "L": 167,
     "T": 0,
     "pts_for": 32735.38,
+    "pts_against": 31723.79,
     "championships": 4,
     "seasons": [
       "2002",
@@ -61844,6 +62085,7 @@ const WSW_DATA = {
     "L": 16,
     "T": 0,
     "pts_for": 1772.29,
+    "pts_against": 2050.26,
     "championships": 0,
     "seasons": [
       "2002",
@@ -61856,6 +62098,7 @@ const WSW_DATA = {
     "L": 10,
     "T": 0,
     "pts_for": 712.02,
+    "pts_against": 1009.43,
     "championships": 0,
     "seasons": [
       "2002"
@@ -61867,6 +62110,7 @@ const WSW_DATA = {
     "L": 32,
     "T": 0,
     "pts_for": 7053.21,
+    "pts_against": 6194.31,
     "championships": 1,
     "seasons": [
       "2002",
@@ -61883,6 +62127,7 @@ const WSW_DATA = {
     "L": 8,
     "T": 0,
     "pts_for": 927.43,
+    "pts_against": 995.73,
     "championships": 0,
     "seasons": [
       "2004"
@@ -61894,6 +62139,7 @@ const WSW_DATA = {
     "L": 153,
     "T": 0,
     "pts_for": 31476.88,
+    "pts_against": 30239.18,
     "championships": 3,
     "seasons": [
       "2004",
@@ -61926,6 +62172,7 @@ const WSW_DATA = {
     "L": 166,
     "T": 0,
     "pts_for": 24650.86,
+    "pts_against": 25819.78,
     "championships": 0,
     "seasons": [
       "2005",
@@ -61956,6 +62203,7 @@ const WSW_DATA = {
     "L": 49,
     "T": 0,
     "pts_for": 9939.72,
+    "pts_against": 9821.18,
     "championships": 0,
     "seasons": [
       "2009",
@@ -61973,6 +62221,7 @@ const WSW_DATA = {
     "L": 119,
     "T": 0,
     "pts_for": 24649.84,
+    "pts_against": 24211.08,
     "championships": 1,
     "seasons": [
       "2010",
@@ -61999,6 +62248,7 @@ const WSW_DATA = {
     "L": 44,
     "T": 0,
     "pts_for": 7118.6,
+    "pts_against": 7329.74,
     "championships": 0,
     "seasons": [
       "2015",
@@ -62014,6 +62264,7 @@ const WSW_DATA = {
     "L": 46,
     "T": 0,
     "pts_for": 9818.22,
+    "pts_against": 9893.72,
     "championships": 0,
     "seasons": [
       "2020",
@@ -109546,14 +109797,14 @@ const WSW_DATA = {
     "crown_points": 100
   },
   {
-    "manager": "Brett",
+    "manager": "Jack",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
     "crown_points": 60
   },
   {
-    "manager": "Jack",
+    "manager": "Brett",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
