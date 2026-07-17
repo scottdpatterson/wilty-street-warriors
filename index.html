@@ -678,9 +678,16 @@ function buildDashboard() {
     grid.innerHTML += `<div class="stat-card"><div class="label">${s.label}</div><div class="value">${s.value}</div><div class="sub">${s.sub}</div></div>`;
   });
 
-  // wins table
+  // wins table -- defaults to Win % (click the W column header to sort by
+  // raw wins instead; the sortable-table system handles that on click).
   const winsBody = document.querySelector('#wins-table tbody');
-  const sorted = Object.entries(managers).sort((a,b) => b[1].W - a[1].W);
+  const sorted = Object.entries(managers).sort((a,b) => {
+    const ga = a[1].W + a[1].L + a[1].T;
+    const gb = b[1].W + b[1].L + b[1].T;
+    const wa = ga ? (a[1].W + a[1].T*0.5)/ga : 0;
+    const wb = gb ? (b[1].W + b[1].T*0.5)/gb : 0;
+    return wb - wa;
+  });
   sorted.forEach(([name, s], i) => {
     const g = s.W + s.L + s.T;
     const ppg = g ? (s.pts_for / g).toFixed(1) : '—';
