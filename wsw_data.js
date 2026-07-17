@@ -109546,14 +109546,14 @@ const WSW_DATA = {
     "crown_points": 100
   },
   {
-    "manager": "Jack",
+    "manager": "Brett",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
     "crown_points": 60
   },
   {
-    "manager": "Brett",
+    "manager": "Jack",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
@@ -109750,6 +109750,361 @@ const WSW_DATA = {
     "best": 2,
     "worst": 10,
     "seasons": 19
+  }
+],
+  freeAgentRankings: [
+  {
+    "manager": "Scott",
+    "total_value": 38221.5,
+    "pickups": 628,
+    "seasons": 24,
+    "avg_value_per_season": 1592.6
+  },
+  {
+    "manager": "Michael",
+    "total_value": 35582.3,
+    "pickups": 558,
+    "seasons": 24,
+    "avg_value_per_season": 1482.6
+  },
+  {
+    "manager": "Damon",
+    "total_value": 35323.7,
+    "pickups": 599,
+    "seasons": 24,
+    "avg_value_per_season": 1471.8
+  },
+  {
+    "manager": "Robert",
+    "total_value": 32332.0,
+    "pickups": 533,
+    "seasons": 23,
+    "avg_value_per_season": 1405.7
+  },
+  {
+    "manager": "Dahmer's Cannibals",
+    "total_value": 7957.2,
+    "pickups": 144,
+    "seasons": 6,
+    "avg_value_per_season": 1326.2
+  },
+  {
+    "manager": "Roger",
+    "total_value": 28966.8,
+    "pickups": 478,
+    "seasons": 24,
+    "avg_value_per_season": 1207.0
+  },
+  {
+    "manager": "Seth",
+    "total_value": 18840.4,
+    "pickups": 281,
+    "seasons": 16,
+    "avg_value_per_season": 1177.5
+  },
+  {
+    "manager": "Davidson",
+    "total_value": 27500.7,
+    "pickups": 444,
+    "seasons": 24,
+    "avg_value_per_season": 1145.9
+  },
+  {
+    "manager": "Jack",
+    "total_value": 5657.1,
+    "pickups": 81,
+    "seasons": 6,
+    "avg_value_per_season": 942.9
+  },
+  {
+    "manager": "Brett",
+    "total_value": 17199.8,
+    "pickups": 247,
+    "seasons": 19,
+    "avg_value_per_season": 905.3
+  },
+  {
+    "manager": "Ric's Last Resort",
+    "total_value": 4378.1,
+    "pickups": 67,
+    "seasons": 6,
+    "avg_value_per_season": 729.7
+  },
+  {
+    "manager": "Radical Riptide",
+    "total_value": 611.0,
+    "pickups": 8,
+    "seasons": 1,
+    "avg_value_per_season": 611.0
+  },
+  {
+    "manager": "Jakes Jugglers",
+    "total_value": 326.7,
+    "pickups": 28,
+    "seasons": 2,
+    "avg_value_per_season": 163.4
+  }
+],
+  trades: [
+  {
+    "season": "2001",
+    "week": 9,
+    "manager_a": "Michael",
+    "manager_b": "Damon",
+    "value_a_received": 39.33,
+    "value_b_received": 57.73,
+    "net_a": -18.4,
+    "net_b": 18.4
+  },
+  {
+    "season": "2002",
+    "week": 8,
+    "manager_a": "Scott",
+    "manager_b": "Davidson",
+    "value_a_received": 65.34,
+    "value_b_received": 120.55,
+    "net_a": -55.21,
+    "net_b": 55.21
+  },
+  {
+    "season": "2002",
+    "week": 5,
+    "manager_a": "Jakes Jugglers",
+    "manager_b": "Michael",
+    "value_a_received": 24.79,
+    "value_b_received": 117.08,
+    "net_a": -92.29,
+    "net_b": 92.29
+  },
+  {
+    "season": "2002",
+    "week": 3,
+    "manager_a": "Radical Riptide",
+    "manager_b": "Scott",
+    "value_a_received": 31.94,
+    "value_b_received": 10.15,
+    "net_a": 21.79,
+    "net_b": -21.79
+  },
+  {
+    "season": "2003",
+    "week": 7,
+    "manager_a": "Dahmer's Cannibals",
+    "manager_b": "Roger",
+    "value_a_received": 0.0,
+    "value_b_received": 0.0,
+    "net_a": 0.0,
+    "net_b": -0.0
+  },
+  {
+    "season": "2003",
+    "week": 7,
+    "manager_a": "Robert",
+    "manager_b": "Michael",
+    "value_a_received": 0.0,
+    "value_b_received": 0.0,
+    "net_a": 0.0,
+    "net_b": -0.0
+  },
+  {
+    "season": "2003",
+    "week": 2,
+    "manager_a": "Jakes Jugglers",
+    "manager_b": "Scott",
+    "value_a_received": 0.0,
+    "value_b_received": 0.0,
+    "net_a": 0.0,
+    "net_b": -0.0
+  },
+  {
+    "season": "2004",
+    "week": 4,
+    "manager_a": "Robert",
+    "manager_b": "Damon",
+    "value_a_received": 35.95,
+    "value_b_received": 128.44,
+    "net_a": -92.49,
+    "net_b": 92.49
+  },
+  {
+    "season": "2005",
+    "week": 10,
+    "manager_a": "Roger",
+    "manager_b": "Davidson",
+    "value_a_received": 50.33,
+    "value_b_received": 112.8,
+    "net_a": -62.47,
+    "net_b": 62.47
+  },
+  {
+    "season": "2005",
+    "week": 6,
+    "manager_a": "Scott",
+    "manager_b": "Brett",
+    "value_a_received": 42.28,
+    "value_b_received": 56.62,
+    "net_a": -14.34,
+    "net_b": 14.34
+  },
+  {
+    "season": "2006",
+    "week": 10,
+    "manager_a": "Brett",
+    "manager_b": "Damon",
+    "value_a_received": 50.47,
+    "value_b_received": 38.89,
+    "net_a": 11.58,
+    "net_b": -11.58
+  },
+  {
+    "season": "2006",
+    "week": 9,
+    "manager_a": "Damon",
+    "manager_b": "Brett",
+    "value_a_received": 49.4,
+    "value_b_received": 38.33,
+    "net_a": 11.07,
+    "net_b": -11.07
+  },
+  {
+    "season": "2006",
+    "week": 8,
+    "manager_a": "Damon",
+    "manager_b": "Brett",
+    "value_a_received": 155.39,
+    "value_b_received": 162.69,
+    "net_a": -7.3,
+    "net_b": 7.3
+  },
+  {
+    "season": "2006",
+    "week": 7,
+    "manager_a": "Roger",
+    "manager_b": "Davidson",
+    "value_a_received": 39.09,
+    "value_b_received": 86.88,
+    "net_a": -47.79,
+    "net_b": 47.79
+  },
+  {
+    "season": "2009",
+    "week": 8,
+    "manager_a": "Roger",
+    "manager_b": "Davidson",
+    "value_a_received": 72.9,
+    "value_b_received": 92.08,
+    "net_a": -19.18,
+    "net_b": 19.18
+  },
+  {
+    "season": "2010",
+    "week": 9,
+    "manager_a": "Roger",
+    "manager_b": "Davidson",
+    "value_a_received": 34.65,
+    "value_b_received": 128.04,
+    "net_a": -93.39,
+    "net_b": 93.39
+  },
+  {
+    "season": "2012",
+    "week": 8,
+    "manager_a": "Damon",
+    "manager_b": "Scott",
+    "value_a_received": 135.56,
+    "value_b_received": 103.39,
+    "net_a": 32.17,
+    "net_b": -32.17
+  },
+  {
+    "season": "2015",
+    "week": 9,
+    "manager_a": "Roger",
+    "manager_b": "Davidson",
+    "value_a_received": 185.25,
+    "value_b_received": 218.85,
+    "net_a": -33.6,
+    "net_b": 33.6
+  },
+  {
+    "season": "2018",
+    "week": 8,
+    "manager_a": "Scott",
+    "manager_b": "Roger",
+    "value_a_received": 176.95,
+    "value_b_received": 83.02,
+    "net_a": 93.93,
+    "net_b": -93.93
+  },
+  {
+    "season": "2018",
+    "week": 7,
+    "manager_a": "Scott",
+    "manager_b": "Michael",
+    "value_a_received": 100.0,
+    "value_b_received": 182.57,
+    "net_a": -82.57,
+    "net_b": 82.57
+  },
+  {
+    "season": "2018",
+    "week": 6,
+    "manager_a": "Brett",
+    "manager_b": "Seth",
+    "value_a_received": 105.32,
+    "value_b_received": 64.42,
+    "net_a": 40.9,
+    "net_b": -40.9
+  },
+  {
+    "season": "2019",
+    "week": 4,
+    "manager_a": "Robert",
+    "manager_b": "Damon",
+    "value_a_received": 54.68,
+    "value_b_received": 124.15,
+    "net_a": -69.47,
+    "net_b": 69.47
+  },
+  {
+    "season": "2019",
+    "week": 2,
+    "manager_a": "Brett",
+    "manager_b": "Seth",
+    "value_a_received": 79.59,
+    "value_b_received": 94.78,
+    "net_a": -15.19,
+    "net_b": 15.19
+  },
+  {
+    "season": "2020",
+    "week": 3,
+    "manager_a": "Damon",
+    "manager_b": "Seth",
+    "value_a_received": 36.31,
+    "value_b_received": 55.84,
+    "net_a": -19.53,
+    "net_b": 19.53
+  },
+  {
+    "season": "2022",
+    "week": 6,
+    "manager_a": "Jack",
+    "manager_b": "Michael",
+    "value_a_received": 147.25,
+    "value_b_received": 372.99,
+    "net_a": -225.74,
+    "net_b": 225.74
+  },
+  {
+    "season": "2023",
+    "week": 11,
+    "manager_a": "Robert",
+    "manager_b": "Jack",
+    "value_a_received": 54.02,
+    "value_b_received": 41.38,
+    "net_a": 12.64,
+    "net_b": -12.64
   }
 ],
 };

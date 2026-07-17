@@ -234,6 +234,8 @@
     <div class="nav-tab" onclick="showPage('draft')">Draft</div>
     <div class="nav-tab" onclick="showPage('awards')">Awards</div>
     <div class="nav-tab" onclick="showPage('placing')">Placing</div>
+    <div class="nav-tab" onclick="showPage('freeagents')">Free Agent</div>
+    <div class="nav-tab" onclick="showPage('trades')">Trades</div>
   </div>
 </nav>
 
@@ -492,6 +494,58 @@
   <div class="section">
     <h2>Placing Distribution</h2>
     <div class="placing-grid" id="placing-grid"></div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════ FREE AGENTS -->
+<div id="page-freeagents" class="page">
+  <h1>Free Agent Grades</h1>
+  <p class="subtitle">Every waiver/free-agent pickup graded by the points that player scored while actually on your roster.</p>
+
+  <div class="section" style="background:var(--card); border:1px solid var(--border); border-radius:8px; padding:18px 20px;">
+    <h2 style="margin-top:0;">How This Is Measured</h2>
+    <p style="margin-bottom:0;">Each pickup's value is that player's season-total points, prorated by the fraction of the season you actually held them (pickup week through the next time you dropped them, or season end). This is an approximation, not a week-by-week total — full weekly tracking wasn't practical to fetch for every transaction across 24 seasons, so a full season's production is scaled down to the portion of the season you rostered them. <strong>Avg Value/Season</strong> rewards managers who found value on the wire consistently, not just in one big year.</p>
+  </div>
+
+  <div class="table-wrap">
+    <table id="fa-table">
+      <thead><tr><th>#</th><th>Manager</th><th>Avg Value/Season</th><th>Total Value</th><th>Pickups</th><th>Seasons</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════ TRADES -->
+<div id="page-trades" class="page">
+  <h1>Trade Grades</h1>
+  <p class="subtitle">Every trade compared side-by-side: points scored by what each manager received vs. what they gave up.</p>
+
+  <div class="section" style="background:var(--card); border:1px solid var(--border); border-radius:8px; padding:18px 20px;">
+    <h2 style="margin-top:0;">How This Is Measured</h2>
+    <p style="margin-bottom:0;">Same prorated-points approach as Free Agent Grades, applied to both sides of a trade from the trade date forward. <strong>Best Trade</strong> is the one that helped both managers the most — the trade maximizing the <em>smaller</em> of the two sides' value received, i.e. nobody left empty-handed. <strong>Worst Trade</strong> is the most lopsided — the biggest gap between what each side got.</p>
+  </div>
+
+  <div class="stat-grid" id="trades-summary-stats"></div>
+
+  <div class="section">
+    <h2>All-Time Trade Value</h2>
+    <p class="subtitle" style="margin-bottom:12px;">Net value gained across every trade a manager has made (value received minus value given up).</p>
+    <div class="table-wrap">
+      <table id="trade-value-table">
+        <thead><tr><th>#</th><th>Manager</th><th>Net Value</th><th>Trades</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Every Trade</h2>
+    <div class="table-wrap">
+      <table id="trades-table">
+        <thead><tr><th>Season</th><th>Week</th><th>Manager</th><th>Value Received</th><th>Net</th><th>Manager</th><th>Value Received</th><th>Net</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
   </div>
 </div>
 
@@ -1119,6 +1173,94 @@ function buildPlacing() {
   });
 }
 
+// ── FREE AGENTS ───────────────────────────────────────────────────────────────
+function buildFreeAgents() {
+  const rows = (WSW_DATA.freeAgentRankings || []).filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
+  const body = document.querySelector('#fa-table tbody');
+  if (!body) return;
+  body.innerHTML = '';
+  rows.forEach((r, i) => {
+    body.innerHTML += `<tr>
+      <td class="rank">${i + 1}</td>
+      <td><strong>${displayName(r.manager)}</strong></td>
+      <td class="num" style="color:var(--gold); font-weight:600;">${r.avg_value_per_season}</td>
+      <td class="num">${r.total_value.toLocaleString()}</td>
+      <td class="num">${r.pickups}</td>
+      <td class="num">${r.seasons}</td>
+    </tr>`;
+  });
+}
+
+// ── TRADES ────────────────────────────────────────────────────────────────────
+function buildTrades() {
+  const trades = WSW_DATA.trades || [];
+  if (!trades.length) return;
+
+  const eligible = t => !HIDDEN_FROM_ALLTIME_DRAFT.has(t.manager_a) && !HIDDEN_FROM_ALLTIME_DRAFT.has(t.manager_b);
+  const shown = trades.filter(eligible);
+
+  const best = shown.reduce((b, t) => {
+    const worseSide = Math.min(t.value_a_received, t.value_b_received);
+    return (!b || worseSide > Math.min(b.value_a_received, b.value_b_received)) ? t : b;
+  }, null);
+  const worst = shown.reduce((w, t) => {
+    const gap = Math.abs(t.value_a_received - t.value_b_received);
+    return (!w || gap > Math.abs(w.value_a_received - w.value_b_received)) ? t : w;
+  }, null);
+
+  const stats = [];
+  if (best) stats.push({ label: "Best Trade (Win-Win)", value: `${displayName(best.manager_a)} & ${displayName(best.manager_b)}`,
+    sub: `${best.season} Wk${best.week} · ${best.value_a_received} / ${best.value_b_received} pts` });
+  if (worst) stats.push({ label: "Worst Trade (Lopsided)", value: `${displayName(worst.manager_a)} vs ${displayName(worst.manager_b)}`,
+    sub: `${worst.season} Wk${worst.week} · ${worst.value_a_received} / ${worst.value_b_received} pts` });
+  stats.push({ label: "Total Trades", value: shown.length, sub: "across 24 seasons" });
+
+  const statGrid = document.getElementById('trades-summary-stats');
+  statGrid.innerHTML = '';
+  stats.forEach(s => {
+    statGrid.innerHTML += `<div class="stat-card"><div class="label">${s.label}</div><div class="value" style="font-size:22px;">${s.value}</div><div class="sub">${s.sub}</div></div>`;
+  });
+
+  // All-time net trade value per manager
+  const net = {};
+  shown.forEach(t => {
+    net[t.manager_a] = net[t.manager_a] || { value: 0, trades: 0 };
+    net[t.manager_a].value += t.net_a;
+    net[t.manager_a].trades += 1;
+    net[t.manager_b] = net[t.manager_b] || { value: 0, trades: 0 };
+    net[t.manager_b].value += t.net_b;
+    net[t.manager_b].trades += 1;
+  });
+  const netRows = Object.entries(net).map(([m, v]) => ({ manager: m, value: Math.round(v.value * 10) / 10, trades: v.trades }))
+    .sort((a, b) => b.value - a.value);
+  const netBody = document.querySelector('#trade-value-table tbody');
+  netBody.innerHTML = '';
+  netRows.forEach((r, i) => {
+    netBody.innerHTML += `<tr>
+      <td class="rank">${i + 1}</td>
+      <td><strong>${displayName(r.manager)}</strong></td>
+      <td class="num" style="color:${r.value >= 0 ? 'var(--gold)' : '#E05050'}; font-weight:600;">${r.value >= 0 ? '+' : ''}${r.value}</td>
+      <td class="num">${r.trades}</td>
+    </tr>`;
+  });
+
+  // Full trade log
+  const tbody = document.querySelector('#trades-table tbody');
+  tbody.innerHTML = '';
+  shown.slice().sort((a, b) => b.season.localeCompare(a.season) || b.week - a.week).forEach(t => {
+    tbody.innerHTML += `<tr>
+      <td>${t.season}</td>
+      <td class="num">${t.week}</td>
+      <td><strong>${displayName(t.manager_a)}</strong></td>
+      <td class="num">${t.value_a_received}</td>
+      <td class="num" style="color:${t.net_a >= 0 ? 'var(--gold)' : '#E05050'}">${t.net_a >= 0 ? '+' : ''}${t.net_a}</td>
+      <td><strong>${displayName(t.manager_b)}</strong></td>
+      <td class="num">${t.value_b_received}</td>
+      <td class="num" style="color:${t.net_b >= 0 ? 'var(--gold)' : '#E05050'}">${t.net_b >= 0 ? '+' : ''}${t.net_b}</td>
+    </tr>`;
+  });
+}
+
 // ── SORTABLE TABLES ───────────────────────────────────────────────────────────
 // Event-delegated so it works on tables rebuilt dynamically (Rivals, Matchups,
 // Draft) without needing to re-attach listeners after every render.
@@ -1190,6 +1332,8 @@ window.addEventListener('DOMContentLoaded', () => {
   buildDraft();
   buildAwards();
   buildPlacing();
+  buildFreeAgents();
+  buildTrades();
   initSortableTables();
 });
 </script>
