@@ -281,16 +281,16 @@
 <!-- ══════════════════════════════════════════════════ HEAD-TO-HEAD -->
 <div id="page-rivals" class="page">
   <h1>Head-to-Head</h1>
-  <p class="subtitle">Pick a manager to see their record against everyone else, ranked by win %</p>
+  <p class="subtitle">Each row's record against that column's manager. Green = winning record in that matchup, red = losing, default = even. Fear Index = how many other managers this manager has a winning record against.</p>
 
-  <div class="filter-row">
-    <div>
-      <label>Manager</label><br>
-      <select id="rivals-manager" onchange="renderRivals()"><option value="">— select —</option></select>
+  <div class="section">
+    <div class="table-wrap scroll-x">
+      <table id="h2h-matrix-table">
+        <thead><tr></tr></thead>
+        <tbody></tbody>
+      </table>
     </div>
   </div>
-
-  <div id="rivals-result-area"></div>
 </div>
 
 <!-- ══════════════════════════════════════════════════ SEASONS -->
@@ -813,6 +813,16 @@ function buildHighlights() {
     if (p10.max > 0) cards.push({ label: "Most 10th Place Finishes", value: p10.max, sub: `${names(p10.managers)} · wooden spoon` });
   }
 
+  // Head-to-head, its own category
+  const fearData = computeFearIndex();
+  if (fearData.length) {
+    const maxFear = Math.max(...fearData.map(f => f.fear));
+    if (maxFear > 0) {
+      const winners = fearData.filter(f => f.fear === maxFear).map(f => displayName(f.manager)).join(' & ');
+      cards.push({ label: "Fear Index", value: maxFear + ' 😈', sub: winners });
+    }
+  }
+
   // Draft, a distinct category, last
   if (WSW_DATA.draft && WSW_DATA.draft.manager_rankings) {
     const rankings = WSW_DATA.draft.manager_rankings.filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
@@ -828,63 +838,48 @@ function buildHighlights() {
   });
 }
 
-// ── RIVALS ────────────────────────────────────────────────────────────────────
-function populateRivalsSelect() {
-  const managers = selectableManagers();
-  const sel = document.getElementById('rivals-manager');
-  managers.forEach(m => {
-    const opt = document.createElement('option');
-    opt.value = m; opt.textContent = displayName(m);
-    sel.appendChild(opt);
+// ── HEAD-TO-HEAD ──────────────────────────────────────────────────────────────
+// Fear Index = how many other current managers this manager has a strictly
+// winning (W > L) head-to-head record against. Shared between the H2H matrix
+// page and the Dashboard highlight card.
+function computeFearIndex() {
+  const managers = sortedManagers().filter(m => CURRENT_MANAGERS.has(m));
+  return managers.map(m => {
+    let fear = 0;
+    managers.forEach(opp => {
+      if (opp === m) return;
+      const pair = [m, opp].sort().join('|||');
+      const d = WSW_DATA.h2h[pair] && WSW_DATA.h2h[pair][m];
+      if (d && d.W > d.L) fear++;
+    });
+    return { manager: m, fear };
   });
 }
 
-function renderRivals() {
-  const manager = document.getElementById('rivals-manager').value;
-  const area = document.getElementById('rivals-result-area');
-  area.innerHTML = '';
-  if (!manager) return;
+function buildHeadToHeadMatrix() {
+  const managers = sortedManagers().filter(m => CURRENT_MANAGERS.has(m));
+  const fearMap = {};
+  computeFearIndex().forEach(f => fearMap[f.manager] = f.fear);
 
-  const rows = [];
-  selectableManagers().forEach(opp => {
-    if (opp === manager) return;
-    const pair = [manager, opp].sort().join('|||');
-    const data = WSW_DATA.h2h[pair];
-    if (!data || !data[manager]) return;
-    const d = data[manager];
-    const g = d.W + d.L + d.T;
-    if (!g) return;
-    const winPct = (d.W + d.T * 0.5) / g;
-    rows.push({ opp, ...d, g, winPct });
+  const headRow = document.querySelector('#h2h-matrix-table thead tr');
+  headRow.innerHTML = '<th>Manager</th>' + managers.map(m => `<th>${displayName(m)}</th>`).join('') + '<th>😈 Fear Index</th>';
+
+  const body = document.querySelector('#h2h-matrix-table tbody');
+  body.innerHTML = '';
+  managers.forEach(rowM => {
+    const cells = managers.map(colM => {
+      if (colM === rowM) return `<td class="num">—</td>`;
+      const pair = [rowM, colM].sort().join('|||');
+      const d = WSW_DATA.h2h[pair] && WSW_DATA.h2h[pair][rowM];
+      if (!d || (d.W + d.L + d.T) === 0) return `<td class="num">—</td>`;
+      let color = 'var(--text)';
+      if (d.W > d.L) color = 'var(--green)';
+      else if (d.W < d.L) color = 'var(--red)';
+      const rec = d.T ? `${d.W}-${d.L}-${d.T}` : `${d.W}-${d.L}`;
+      return `<td class="num" style="color:${color}; font-weight:600;">${rec}</td>`;
+    }).join('');
+    body.innerHTML += `<tr><td><strong>${displayName(rowM)}</strong></td>${cells}<td class="num" style="color:var(--gold); font-weight:700;">${fearMap[rowM]}</td></tr>`;
   });
-
-  if (!rows.length) {
-    area.innerHTML = '<p style="color:var(--muted)">No matchup history found for this manager.</p>';
-    return;
-  }
-
-  rows.sort((a, b) => b.winPct - a.winPct || (b.W - b.L) - (a.W - a.L));
-
-  let html = `<div class="table-wrap"><table><thead><tr>
-    <th>#</th><th>Opponent</th><th>W</th><th>L</th><th>T</th><th>Win %</th><th>Pts For</th><th>Pts Against</th><th>Avg Margin</th>
-  </tr></thead><tbody>`;
-  rows.forEach((r, i) => {
-    const margin = (r.pts_for - r.pts_against) / r.g;
-    const marginStr = (margin >= 0 ? '+' : '') + margin.toFixed(1);
-    html += `<tr>
-      <td class="rank">${i + 1}</td>
-      <td><strong>${displayName(r.opp)}</strong></td>
-      <td class="num win">${r.W}</td>
-      <td class="num loss">${r.L}</td>
-      <td class="num">${r.T}</td>
-      <td class="num">${(r.winPct * 100).toFixed(1)}%</td>
-      <td class="num">${r.pts_for.toFixed(1)}</td>
-      <td class="num">${r.pts_against.toFixed(1)}</td>
-      <td class="num" style="color:${margin >= 0 ? 'var(--green)' : 'var(--red)'}">${marginStr}</td>
-    </tr>`;
-  });
-  html += '</tbody></table></div>';
-  area.innerHTML = `<h2 style="margin-bottom:12px;">${displayName(manager)}'s Record vs Every Manager</h2>` + html;
 }
 
 // ── SEASONS ───────────────────────────────────────────────────────────────────
@@ -1410,7 +1405,7 @@ window.addEventListener('DOMContentLoaded', () => {
   }
   buildDashboard();
   buildHighlights();
-  populateRivalsSelect();
+  buildHeadToHeadMatrix();
   buildSeasons();
   populateMatchupFilters();
   renderMatchups();
