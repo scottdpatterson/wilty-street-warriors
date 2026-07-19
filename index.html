@@ -256,7 +256,7 @@
     <h2>All-Time Wins Leaders</h2>
     <div class="table-wrap">
       <table id="wins-table">
-        <thead><tr><th>#</th><th>Manager</th><th>W</th><th>L</th><th>T</th><th>Win%</th><th>Pts For</th><th>Pts/Game</th><th>Pts Against</th><th>Against/Game</th><th>🏆</th><th>Championship Playoff Appearances</th><th>Seasons</th></tr></thead>
+        <thead><tr><th>#</th><th>Manager</th><th>W</th><th>L</th><th>T</th><th>Win%</th><th>Pts For</th><th>Pts/Game</th><th>Pts Against</th><th>Against/Game</th><th>🏆</th><th>🥈</th><th>🌹</th><th>Championship Playoff Appearances</th><th>Seasons</th></tr></thead>
         <tbody></tbody>
       </table>
     </div>
@@ -265,16 +265,6 @@
   <div class="section">
     <h2>Points Scored Leaders</h2>
     <div class="bar-chart" id="pts-chart"></div>
-  </div>
-
-  <div class="section">
-    <h2>Season Champions</h2>
-    <div class="table-wrap">
-      <table id="champs-table">
-        <thead><tr><th>Season</th><th>Champion</th><th>Team Name</th><th>League</th></tr></thead>
-        <tbody></tbody>
-      </table>
-    </div>
   </div>
 </div>
 
@@ -704,11 +694,17 @@ function buildDashboard() {
     const wb = gb ? (b[1].W + b[1].T*0.5)/gb : 0;
     return wb - wa;
   });
+  const awardsByManager = {};
+  (WSW_DATA.awardRankings || []).forEach(r => { awardsByManager[r.manager] = r; });
+
   sorted.forEach(([name, s], i) => {
     const g = s.W + s.L + s.T;
     const ppg = g ? (s.pts_for / g).toFixed(1) : '—';
     const papg = g ? (s.pts_against / g).toFixed(1) : '—';
     const champs = s.championships > 0 ? '🏆'.repeat(s.championships) : '—';
+    const award = awardsByManager[name];
+    const runnerUps = award && award.runner_up > 0 ? '🥈'.repeat(award.runner_up) : '—';
+    const lasebres = award && award.lasebre > 0 ? '🌹'.repeat(award.lasebre) : '—';
     winsBody.innerHTML += `<tr>
       <td class="rank">${i+1}</td>
       <td><strong>${displayName(name)}</strong></td>
@@ -721,6 +717,8 @@ function buildDashboard() {
       <td class="num">${Math.round(s.pts_against).toLocaleString()}</td>
       <td class="num">${papg}</td>
       <td>${champs}</td>
+      <td>${runnerUps}</td>
+      <td>${lasebres}</td>
       <td class="num">${s.playoff_apps}</td>
       <td class="num">${s.seasons.length}</td>
     </tr>`;
@@ -740,18 +738,6 @@ function buildDashboard() {
         </div>
       </div>
     </div>`;
-  });
-
-  // champs table
-  const champsBody = document.querySelector('#champs-table tbody');
-  seasonKeys.slice().reverse().forEach(yr => {
-    const s = seasons[yr];
-    champsBody.innerHTML += `<tr>
-      <td><strong>${yr}</strong></td>
-      <td>${s.champion ? '<span class="champ">🏆</span>' + displayName(s.champion) : '—'}</td>
-      <td>${s.champion_team || '—'}</td>
-      <td style="color:var(--muted); font-size:12px;">${s.name}</td>
-    </tr>`;
   });
 }
 
