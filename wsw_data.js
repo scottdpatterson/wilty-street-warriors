@@ -61882,7 +61882,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 14
+    "playoff_apps": 7
   },
   "Roger": {
     "W": 205,
@@ -61918,7 +61918,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 18
+    "playoff_apps": 9
   },
   "Damon": {
     "W": 185,
@@ -61954,7 +61954,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 12
+    "playoff_apps": 6
   },
   "Michael": {
     "W": 166,
@@ -61990,7 +61990,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 10
+    "playoff_apps": 5
   },
   "Davidson": {
     "W": 157,
@@ -62026,7 +62026,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 10
+    "playoff_apps": 5
   },
   "Dahmer's Cannibals": {
     "W": 47,
@@ -62078,7 +62078,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 18
+    "playoff_apps": 9
   },
   "Jakes Jugglers": {
     "W": 12,
@@ -62165,7 +62165,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 18
+    "playoff_apps": 9
   },
   "Brett": {
     "W": 123,
@@ -62196,7 +62196,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 4
+    "playoff_apps": 2
   },
   "cool brees": {
     "W": 55,
@@ -62214,7 +62214,7 @@ const WSW_DATA = {
       "2014",
       "2015"
     ],
-    "playoff_apps": 6
+    "playoff_apps": 3
   },
   "Seth": {
     "W": 128,
@@ -62241,7 +62241,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 18
+    "playoff_apps": 9
   },
   "Keep Pounding": {
     "W": 30,
@@ -62257,7 +62257,7 @@ const WSW_DATA = {
       "2018",
       "2019"
     ],
-    "playoff_apps": 4
+    "playoff_apps": 2
   },
   "Jack": {
     "W": 47,
@@ -62274,7 +62274,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 4
+    "playoff_apps": 2
   }
 },
   draft: {
@@ -109797,14 +109797,14 @@ const WSW_DATA = {
     "crown_points": 100
   },
   {
-    "manager": "Brett",
+    "manager": "Jack",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
     "crown_points": 60
   },
   {
-    "manager": "Jack",
+    "manager": "Brett",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
