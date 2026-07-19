@@ -574,11 +574,10 @@ function displayName(name) {
 
 // Managers excluded from leaderboards/rankings. Their games still count
 // toward opponents' win %, points, etc. — only their own name/row is hidden.
-// "cool brees" is hidden for privacy but stays pickable in H2H/Rivals; the
-// placeholder team-names below are hidden everywhere a manager can be
+// The placeholder team-names below are hidden everywhere a manager can be
 // selected too, since they're not tracked real people.
 const HIDDEN_FROM_LEADERBOARD = new Set(["cool brees", "Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets"]);
-const HIDDEN_FROM_SELECTION = new Set(["Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets",
+const HIDDEN_FROM_SELECTION = new Set(["cool brees", "Keep Pounding", "Dahmer's Cannibals", "Patterson Prophets",
   "Radical Riptide", "Jakes Jugglers", "Ric's Last Resort"]);
 // Draft additionally drops Radical Riptide / Jakes Jugglers / Ric's Last
 // Resort, but the Dashboard's own tables keep showing them.
