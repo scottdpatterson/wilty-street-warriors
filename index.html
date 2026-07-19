@@ -865,10 +865,12 @@ function computeFearIndex() {
 function buildHeadToHeadMatrix() {
   const fearMap = {};
   computeFearIndex().forEach(f => fearMap[f.manager] = f.fear);
-  // Default sort: highest Fear Index first (rows and columns share this
-  // order so the matrix stays symmetric).
+  // Default sort: highest Fear Index first, ties broken by overall career
+  // win-loss record (rows and columns share this order so the matrix stays
+  // symmetric).
+  const netWins = m => WSW_DATA.managers[m].W - WSW_DATA.managers[m].L;
   const managers = sortedManagers().filter(m => CURRENT_MANAGERS.has(m))
-    .sort((a, b) => fearMap[b] - fearMap[a]);
+    .sort((a, b) => fearMap[b] - fearMap[a] || netWins(b) - netWins(a));
 
   const headRow = document.querySelector('#h2h-matrix-table thead tr');
   headRow.innerHTML = '<th>Manager</th>' + managers.map(m => `<th>${displayName(m)}</th>`).join('') + '<th>😈 Fear Index</th>';
