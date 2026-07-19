@@ -109797,14 +109797,14 @@ const WSW_DATA = {
     "crown_points": 100
   },
   {
-    "manager": "Jack",
+    "manager": "Brett",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
     "crown_points": 60
   },
   {
-    "manager": "Brett",
+    "manager": "Jack",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
@@ -109878,15 +109878,15 @@ const WSW_DATA = {
       0,
       4,
       1,
-      3,
+      2,
       2,
       1,
       3
     ],
-    "avg_placing": 4.6,
+    "avg_placing": 4.5,
     "best": 1,
     "worst": 10,
-    "seasons": 27
+    "seasons": 26
   },
   {
     "manager": "Jack",
