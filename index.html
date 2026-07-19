@@ -551,6 +551,12 @@
   </div>
 </div>
 
+<div id="comments-wrap" class="section">
+  <h2>💬 Trash Talk</h2>
+  <p class="subtitle" style="margin-bottom:12px;">One thread per tab. Sign in with GitHub to post.</p>
+  <div id="giscus-frame"></div>
+</div>
+
 <script>
 
 // Manager name mapping
@@ -598,6 +604,38 @@ function showPage(id) {
   document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
   document.getElementById('page-' + id).classList.add('active');
   event.target.classList.add('active');
+  loadComments(id);
+}
+
+// ── TRASH TALK (Giscus) ──────────────────────────────────────────────────────
+// One GitHub Discussion per tab (data-mapping="specific" + data-term=<tab id>).
+// The widget is a single shared DOM node moved into whichever page is active
+// and reloaded with the new term, rather than one iframe per tab up front.
+function loadComments(id) {
+  const wrap = document.getElementById('comments-wrap');
+  const page = document.getElementById('page-' + id);
+  if (!wrap || !page) return;
+  page.appendChild(wrap);
+
+  const frame = document.getElementById('giscus-frame');
+  frame.innerHTML = '';
+  const script = document.createElement('script');
+  script.src = 'https://giscus.app/client.js';
+  script.setAttribute('data-repo', 'scottdpatterson/wilty-street-warriors');
+  script.setAttribute('data-repo-id', 'R_kgDOTY-chw');
+  script.setAttribute('data-category', 'General');
+  script.setAttribute('data-category-id', 'DIC_kwDOTY-ch84DBf35');
+  script.setAttribute('data-mapping', 'specific');
+  script.setAttribute('data-term', id);
+  script.setAttribute('data-strict', '0');
+  script.setAttribute('data-reactions-enabled', '1');
+  script.setAttribute('data-emit-metadata', '0');
+  script.setAttribute('data-input-position', 'top');
+  script.setAttribute('data-theme', 'dark_dimmed');
+  script.setAttribute('data-lang', 'en');
+  script.crossOrigin = 'anonymous';
+  script.async = true;
+  frame.appendChild(script);
 }
 
 // ── helpers ───────────────────────────────────────────────────────────────────
@@ -1290,6 +1328,7 @@ window.addEventListener('DOMContentLoaded', () => {
   buildFreeAgents();
   buildTrades();
   initSortableTables();
+  loadComments('dashboard');
 });
 </script>
 </body>
