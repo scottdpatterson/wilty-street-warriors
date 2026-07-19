@@ -881,7 +881,8 @@ function buildHeadToHeadMatrix(sortManager, dir) {
   const recordVs = (m, opp) => {
     const pair = [m, opp].sort().join('|||');
     const d = WSW_DATA.h2h[pair] && WSW_DATA.h2h[pair][m];
-    return d ? d.W - d.L : -Infinity;
+    const g = d ? d.W + d.L + d.T : 0;
+    return g ? d.W / g : -Infinity;
   };
 
   let managers = sortedManagers().filter(m => CURRENT_MANAGERS.has(m));
