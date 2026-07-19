@@ -61874,6 +61874,8 @@ const WSW_DATA = {
     "pts_against": 31987.46,
     "championships": 7,
     "seasons": [
+      "1999",
+      "2000",
       "2001",
       "2002",
       "2003",
@@ -61910,6 +61912,8 @@ const WSW_DATA = {
     "pts_against": 33029.0,
     "championships": 6,
     "seasons": [
+      "1999",
+      "2000",
       "2001",
       "2002",
       "2003",
@@ -61946,6 +61950,7 @@ const WSW_DATA = {
     "pts_against": 31828.45,
     "championships": 1,
     "seasons": [
+      "2000",
       "2001",
       "2002",
       "2003",
@@ -61982,6 +61987,7 @@ const WSW_DATA = {
     "pts_against": 32024.29,
     "championships": 1,
     "seasons": [
+      "2000",
       "2001",
       "2002",
       "2003",
@@ -62018,6 +62024,7 @@ const WSW_DATA = {
     "pts_against": 31747.33,
     "championships": 3,
     "seasons": [
+      "2000",
       "2001",
       "2002",
       "2003",
@@ -62072,6 +62079,7 @@ const WSW_DATA = {
     "pts_against": 31723.79,
     "championships": 4,
     "seasons": [
+      "2000",
       "2002",
       "2003",
       "2004",
