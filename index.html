@@ -749,15 +749,7 @@ function buildHighlights() {
   // does its own clear; this function only appends to it.
   const cards = [];
 
-  if (WSW_DATA.draft && WSW_DATA.draft.manager_rankings) {
-    const rankings = WSW_DATA.draft.manager_rankings.filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
-    if (rankings.length) {
-      const best = rankings[0];
-      const v = best.avg_value_per_pick;
-      cards.push({ label: "Best Drafter", value: (v >= 0 ? '+' : '') + v, sub: `${displayName(best.manager)} · avg value/pick` });
-    }
-  }
-
+  // Award-based (pairs with the Dashboard's own "Most Titles" card above it)
   if (WSW_DATA.awardRankings && WSW_DATA.awardRankings.length) {
     const maxLasebre = Math.max(...WSW_DATA.awardRankings.map(r => r.lasebre));
     if (maxLasebre > 0) {
@@ -766,6 +758,7 @@ function buildHighlights() {
     }
   }
 
+  // Placement-based, best -> worst -> specific ranks in order
   const placing = WSW_DATA.placingHistory;
   if (placing && placing.length) {
     const mostConsistent = placing[0];
@@ -784,6 +777,16 @@ function buildHighlights() {
     if (p2.max > 0) cards.push({ label: "Most 2nd Place Finishes", value: p2.max, sub: names(p2.managers) });
     if (p3.max > 0) cards.push({ label: "Most 3rd Place Finishes", value: p3.max, sub: names(p3.managers) });
     if (p10.max > 0) cards.push({ label: "Most 10th Place Finishes", value: p10.max, sub: `${names(p10.managers)} · wooden spoon` });
+  }
+
+  // Draft, a distinct category, last
+  if (WSW_DATA.draft && WSW_DATA.draft.manager_rankings) {
+    const rankings = WSW_DATA.draft.manager_rankings.filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
+    if (rankings.length) {
+      const best = rankings[0];
+      const v = best.avg_value_per_pick;
+      cards.push({ label: "Best Drafter", value: (v >= 0 ? '+' : '') + v, sub: `${displayName(best.manager)} · avg value/pick` });
+    }
   }
 
   cards.forEach(c => {
