@@ -217,13 +217,13 @@ const WSW_DATA = {
       },
       {
         "rank": 4,
-        "name": "Murphys Marauders",
-        "team_id": "4",
-        "manager": "Robert",
-        "wins": 10,
-        "losses": 4,
-        "points_for": 1069.95,
-        "points_against": 942.97
+        "name": "DAMONs Demons",
+        "team_id": "3",
+        "manager": "Damon",
+        "wins": 6,
+        "losses": 8,
+        "points_for": 826.66,
+        "points_against": 880.96
       },
       {
         "rank": 5,
@@ -237,13 +237,13 @@ const WSW_DATA = {
       },
       {
         "rank": 6,
-        "name": "DAMONs Demons",
-        "team_id": "3",
-        "manager": "Damon",
-        "wins": 6,
-        "losses": 8,
-        "points_for": 826.66,
-        "points_against": 880.96
+        "name": "Murphys Marauders",
+        "team_id": "4",
+        "manager": "Robert",
+        "wins": 10,
+        "losses": 4,
+        "points_for": 1069.95,
+        "points_against": 942.97
       },
       {
         "rank": 7,
@@ -61902,7 +61902,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 7
+    "playoff_apps": 13
   },
   "Roger": {
     "W": 205,
@@ -61940,7 +61940,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 9
+    "playoff_apps": 16
   },
   "Damon": {
     "W": 185,
@@ -61977,7 +61977,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 6
+    "playoff_apps": 9
   },
   "Michael": {
     "W": 166,
@@ -62014,7 +62014,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 5
+    "playoff_apps": 6
   },
   "Davidson": {
     "W": 157,
@@ -62051,7 +62051,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 5
+    "playoff_apps": 6
   },
   "Dahmer's Cannibals": {
     "W": 53,
@@ -62069,7 +62069,7 @@ const WSW_DATA = {
       "2006",
       "2007"
     ],
-    "playoff_apps": 0
+    "playoff_apps": 4
   },
   "Robert": {
     "W": 192,
@@ -62105,7 +62105,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 9
+    "playoff_apps": 11
   },
   "Jakes Jugglers": {
     "W": 12,
@@ -62147,7 +62147,7 @@ const WSW_DATA = {
       "2007",
       "2009"
     ],
-    "playoff_apps": 0
+    "playoff_apps": 5
   },
   "Patterson Prophets": {
     "W": 6,
@@ -62192,7 +62192,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 9
+    "playoff_apps": 11
   },
   "Brett": {
     "W": 123,
@@ -62223,7 +62223,7 @@ const WSW_DATA = {
       "2024",
       "2025"
     ],
-    "playoff_apps": 2
+    "playoff_apps": 4
   },
   "cool brees": {
     "W": 55,
@@ -109829,14 +109829,14 @@ const WSW_DATA = {
     "crown_points": 100
   },
   {
-    "manager": "Jack",
+    "manager": "Brett",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
     "crown_points": 60
   },
   {
-    "manager": "Brett",
+    "manager": "Jack",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
@@ -109888,9 +109888,9 @@ const WSW_DATA = {
       4,
       4,
       1,
-      3,
+      2,
       4,
-      3,
+      4,
       2,
       0,
       1,
@@ -109964,15 +109964,15 @@ const WSW_DATA = {
       1,
       2,
       5,
-      1,
       2,
-      3,
+      2,
+      2,
       2,
       5,
       2,
       1
     ],
-    "avg_placing": 5.6,
+    "avg_placing": 5.5,
     "best": 1,
     "worst": 10,
     "seasons": 24
