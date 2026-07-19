@@ -101,6 +101,9 @@
      read left-to-right, so the row boundary needs to read clearly. */
   #h2h-matrix-table tbody tr td { border-top: 2px solid var(--muted); }
   #h2h-matrix-table tbody tr:first-child td { border-top: 2px solid var(--border); }
+  #h2h-matrix-table th { cursor: default; }
+  #h2h-matrix-table td.h2h-row-label { cursor: pointer; }
+  #h2h-matrix-table td.h2h-row-label:hover { background: rgba(255,255,255,.05); }
   table { width: 100%; border-collapse: collapse; }
   table a { color: var(--blue); text-decoration: none; }
   table a:hover { text-decoration: underline; }
@@ -866,15 +869,32 @@ function computeFearIndex() {
   });
 }
 
-function buildHeadToHeadMatrix() {
+// Click a manager's row label (not a column header) to sort every other
+// manager's column by that manager's record against them, best first --
+// click again to flip to worst first. Rows follow the same order as
+// columns so the matrix stays symmetric. The Fear Index column is always
+// appended last and never takes part in the reordering.
+function buildHeadToHeadMatrix(sortManager, dir) {
   const fearMap = {};
   computeFearIndex().forEach(f => fearMap[f.manager] = f.fear);
-  // Default sort: highest Fear Index first, ties broken by overall career
-  // win-loss record (rows and columns share this order so the matrix stays
-  // symmetric).
   const netWins = m => WSW_DATA.managers[m].W - WSW_DATA.managers[m].L;
-  const managers = sortedManagers().filter(m => CURRENT_MANAGERS.has(m))
-    .sort((a, b) => fearMap[b] - fearMap[a] || netWins(b) - netWins(a));
+  const recordVs = (m, opp) => {
+    const pair = [m, opp].sort().join('|||');
+    const d = WSW_DATA.h2h[pair] && WSW_DATA.h2h[pair][m];
+    return d ? d.W - d.L : -Infinity;
+  };
+
+  let managers = sortedManagers().filter(m => CURRENT_MANAGERS.has(m));
+  if (sortManager && managers.includes(sortManager)) {
+    const others = managers.filter(m => m !== sortManager).sort((a, b) =>
+      dir === 'asc' ? recordVs(sortManager, a) - recordVs(sortManager, b)
+                    : recordVs(sortManager, b) - recordVs(sortManager, a));
+    managers = [sortManager, ...others];
+  } else {
+    // Default sort: highest Fear Index first, ties broken by overall
+    // career win-loss record.
+    managers.sort((a, b) => fearMap[b] - fearMap[a] || netWins(b) - netWins(a));
+  }
 
   const headRow = document.querySelector('#h2h-matrix-table thead tr');
   headRow.innerHTML = '<th>Manager</th>' + managers.map(m => `<th>${displayName(m)}</th>`).join('') + '<th>😈 Fear Index</th>';
@@ -893,9 +913,22 @@ function buildHeadToHeadMatrix() {
       const rec = d.T ? `${d.W}-${d.L}-${d.T}` : `${d.W}-${d.L}`;
       return `<td class="num" style="color:${color}; font-weight:600;">${rec}</td>`;
     }).join('');
-    body.innerHTML += `<tr><td><strong>${displayName(rowM)}</strong></td>${cells}<td class="num" style="color:var(--gold); font-weight:700;">${fearMap[rowM]}</td></tr>`;
+    const active = rowM === sortManager ? ' style="color:var(--gold);"' : '';
+    body.innerHTML += `<tr><td class="h2h-row-label" data-manager="${rowM}"><strong${active}>${displayName(rowM)}</strong></td>${cells}<td class="num" style="color:var(--gold); font-weight:700;">${fearMap[rowM]}</td></tr>`;
   });
 }
+
+document.addEventListener('click', e => {
+  const cell = e.target.closest('#h2h-matrix-table tbody td.h2h-row-label');
+  if (!cell) return;
+  const table = document.getElementById('h2h-matrix-table');
+  const m = cell.dataset.manager;
+  const isSame = table.dataset.sortManager === m;
+  const dir = isSame && table.dataset.sortDir === 'desc' ? 'asc' : 'desc';
+  table.dataset.sortManager = m;
+  table.dataset.sortDir = dir;
+  buildHeadToHeadMatrix(m, dir);
+});
 
 // ── SEASONS ───────────────────────────────────────────────────────────────────
 function buildSeasons() {
@@ -1393,6 +1426,7 @@ function initSortableTables() {
     if (!th) return;
     const table = th.closest('table');
     if (!table) return;
+    if (table.id === 'h2h-matrix-table') return; // sorted by row label instead, see buildHeadToHeadMatrix
     const tbody = table.querySelector('tbody');
     if (!tbody || !tbody.rows.length) return;
 
