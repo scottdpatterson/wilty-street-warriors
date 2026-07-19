@@ -665,7 +665,7 @@ const WSW_DATA = {
         "rank": 7,
         "name": "SKULL's Spoliators",
         "team_id": "10",
-        "manager": "Scott",
+        "manager": "Dahmer's Cannibals",
         "wins": 6,
         "losses": 8,
         "points_for": 1104.56,
@@ -8603,7 +8603,7 @@ const WSW_DATA = {
     "t0_team": "LaSeBre AveNgers",
     "t0_pts": 45.48,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 73.06,
     "t1_result": "W"
@@ -8631,7 +8631,7 @@ const WSW_DATA = {
     "t0_team": "The Fighting Tigers",
     "t0_pts": 97.46,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 105.2,
     "t1_result": "W"
@@ -8743,7 +8743,7 @@ const WSW_DATA = {
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 125.94,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 84.44,
     "t1_result": "L"
@@ -8785,7 +8785,7 @@ const WSW_DATA = {
     "t0_team": "Ric's Last Resort",
     "t0_pts": 106.42,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 51.72,
     "t1_result": "L"
@@ -8883,7 +8883,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 66.76,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 89.56,
     "t1_result": "W"
@@ -8939,7 +8939,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 87.94,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 103.42,
     "t1_result": "W"
@@ -9023,7 +9023,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Digglers",
     "t0_pts": 106.54,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 83.14,
     "t1_result": "L"
@@ -9093,7 +9093,7 @@ const WSW_DATA = {
     "t0_team": "Murphy's Marauders",
     "t0_pts": 106.66,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 44.52,
     "t1_result": "L"
@@ -9107,7 +9107,7 @@ const WSW_DATA = {
     "t0_team": "SKULL's  Spoliators",
     "t0_pts": 89.32,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 41.46,
     "t1_result": "L"
@@ -9233,7 +9233,7 @@ const WSW_DATA = {
     "t0_team": "LaSeBre AveNgers",
     "t0_pts": 69.38,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 106.82,
     "t1_result": "W"
@@ -9261,7 +9261,7 @@ const WSW_DATA = {
     "t0_team": "The Fighting Tigers",
     "t0_pts": 84.96,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 85.86,
     "t1_result": "W"
@@ -9373,7 +9373,7 @@ const WSW_DATA = {
     "t0_team": "The Runnin' Rebels",
     "t0_pts": 116.5,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 81.44,
     "t1_result": "L"
@@ -9415,7 +9415,7 @@ const WSW_DATA = {
     "t0_team": "Ric's Last Resort",
     "t0_pts": 101.52,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 87.86,
     "t1_result": "L"
@@ -9513,7 +9513,7 @@ const WSW_DATA = {
     "t0_team": "The Dahminators",
     "t0_pts": 81.48,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 66.06,
     "t1_result": "L"
@@ -9555,7 +9555,7 @@ const WSW_DATA = {
     "t0_team": "Nector",
     "t0_pts": 84.52,
     "t0_result": "W",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 82.12,
     "t1_result": "L"
@@ -9625,7 +9625,7 @@ const WSW_DATA = {
     "t0_team": "Damon's Digglers",
     "t0_pts": 67.6,
     "t0_result": "L",
-    "t1_manager": "Scott",
+    "t1_manager": "Dahmer's Cannibals",
     "t1_team": "SKULL's Spoliators",
     "t1_pts": 100.82,
     "t1_result": "W"
@@ -28548,11 +28548,11 @@ const WSW_DATA = {
   h2h: {
   "Roger|||Scott": {
     "Scott": {
-      "W": 23,
-      "L": 18,
+      "W": 22,
+      "L": 17,
       "T": 0,
-      "pts_for": 3655.44,
-      "pts_against": 3591.08,
+      "pts_for": 3499.82,
+      "pts_against": 3442.84,
       "games": [
         {
           "season": "2001",
@@ -28673,28 +28673,10 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 5,
-          "pts": 89.56,
-          "opp_pts": 66.76,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2007",
           "week": 7,
           "pts": 105.1,
           "opp_pts": 74.28,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Dahminators"
-        },
-        {
-          "season": "2007",
-          "week": 14,
-          "pts": 66.06,
-          "opp_pts": 81.48,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
         },
@@ -28926,11 +28908,11 @@ const WSW_DATA = {
       ]
     },
     "Roger": {
-      "W": 18,
-      "L": 23,
+      "W": 17,
+      "L": 22,
       "T": 0,
-      "pts_for": 3591.08,
-      "pts_against": 3655.44,
+      "pts_for": 3442.84,
+      "pts_against": 3499.82,
       "games": [
         {
           "season": "2001",
@@ -29051,30 +29033,12 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 5,
-          "pts": 66.76,
-          "opp_pts": 89.56,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
           "week": 7,
           "pts": 74.28,
           "opp_pts": 105.1,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 14,
-          "pts": 81.48,
-          "opp_pts": 66.06,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2009",
@@ -30083,10 +30047,10 @@ const WSW_DATA = {
   "Dahmer's Cannibals|||Davidson": {
     "Davidson": {
       "W": 3,
-      "L": 9,
+      "L": 11,
       "T": 0,
-      "pts_for": 799.2,
-      "pts_against": 864.84,
+      "pts_for": 981.62,
+      "pts_against": 1055.9,
       "games": [
         {
           "season": "2001",
@@ -30195,15 +30159,33 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 97.46,
+          "opp_pts": 105.2,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 84.96,
+          "opp_pts": 85.86,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     },
     "Dahmer's Cannibals": {
-      "W": 9,
+      "W": 11,
       "L": 3,
       "T": 0,
-      "pts_for": 864.84,
-      "pts_against": 799.2,
+      "pts_for": 1055.9,
+      "pts_against": 981.62,
       "games": [
         {
           "season": "2001",
@@ -30312,6 +30294,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 2,
+          "pts": 105.2,
+          "opp_pts": 97.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
+        },
+        {
+          "season": "2007",
+          "week": 11,
+          "pts": 85.86,
+          "opp_pts": 84.96,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Fighting Tigers"
         }
       ]
     }
@@ -30319,10 +30319,10 @@ const WSW_DATA = {
   "Damon|||Scott": {
     "Scott": {
       "W": 21,
-      "L": 22,
+      "L": 21,
       "T": 0,
-      "pts_for": 3792.44,
-      "pts_against": 3770.09,
+      "pts_for": 3709.3,
+      "pts_against": 3663.55,
       "games": [
         {
           "season": "2001",
@@ -30428,15 +30428,6 @@ const WSW_DATA = {
           "week": 6,
           "pts": 40.51,
           "opp_pts": 58.23,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Damon's Digglers"
-        },
-        {
-          "season": "2007",
-          "week": 7,
-          "pts": 83.14,
-          "opp_pts": 106.54,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Damon's Digglers"
@@ -30714,11 +30705,11 @@ const WSW_DATA = {
       ]
     },
     "Damon": {
-      "W": 22,
+      "W": 21,
       "L": 21,
       "T": 0,
-      "pts_for": 3770.09,
-      "pts_against": 3792.44,
+      "pts_for": 3663.55,
+      "pts_against": 3709.3,
       "games": [
         {
           "season": "2001",
@@ -30824,15 +30815,6 @@ const WSW_DATA = {
           "week": 6,
           "pts": 58.23,
           "opp_pts": 40.51,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 7,
-          "pts": 106.54,
-          "opp_pts": 83.14,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
@@ -31112,11 +31094,11 @@ const WSW_DATA = {
   },
   "Dahmer's Cannibals|||Roger": {
     "Roger": {
-      "W": 5,
-      "L": 7,
+      "W": 6,
+      "L": 8,
       "T": 0,
-      "pts_for": 846.72,
-      "pts_against": 891.67,
+      "pts_for": 994.96,
+      "pts_against": 1047.29,
       "games": [
         {
           "season": "2001",
@@ -31225,15 +31207,33 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 5,
+          "pts": 66.76,
+          "opp_pts": 89.56,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 14,
+          "pts": 81.48,
+          "opp_pts": 66.06,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     },
     "Dahmer's Cannibals": {
-      "W": 7,
-      "L": 5,
+      "W": 8,
+      "L": 6,
       "T": 0,
-      "pts_for": 891.67,
-      "pts_against": 846.72,
+      "pts_for": 1047.29,
+      "pts_against": 994.96,
       "games": [
         {
           "season": "2001",
@@ -31339,6 +31339,24 @@ const WSW_DATA = {
           "week": 6,
           "pts": 68.12,
           "opp_pts": 85.9,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2007",
+          "week": 5,
+          "pts": 89.56,
+          "opp_pts": 66.76,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "The Dahminators"
+        },
+        {
+          "season": "2007",
+          "week": 14,
+          "pts": 66.06,
+          "opp_pts": 81.48,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "The Dahminators"
@@ -32160,11 +32178,11 @@ const WSW_DATA = {
   },
   "Davidson|||Scott": {
     "Scott": {
-      "W": 22,
+      "W": 20,
       "L": 20,
       "T": 0,
-      "pts_for": 3615.21,
-      "pts_against": 3580.07,
+      "pts_for": 3424.15,
+      "pts_against": 3397.65,
       "games": [
         {
           "season": "2001",
@@ -32276,27 +32294,9 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 2,
-          "pts": 105.2,
-          "opp_pts": 97.46,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
           "week": 10,
           "pts": 82.02,
           "opp_pts": 55.92,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Fighting Tigers"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 85.86,
-          "opp_pts": 84.96,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Fighting Tigers"
@@ -32548,10 +32548,10 @@ const WSW_DATA = {
     },
     "Davidson": {
       "W": 20,
-      "L": 22,
+      "L": 20,
       "T": 0,
-      "pts_for": 3580.07,
-      "pts_against": 3615.21,
+      "pts_for": 3397.65,
+      "pts_against": 3424.15,
       "games": [
         {
           "season": "2001",
@@ -32663,30 +32663,12 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 2,
-          "pts": 97.46,
-          "opp_pts": 105.2,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
           "week": 10,
           "pts": 55.92,
           "opp_pts": 82.02,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 11,
-          "pts": 84.96,
-          "opp_pts": 85.86,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2009",
@@ -33641,10 +33623,10 @@ const WSW_DATA = {
   "Dahmer's Cannibals|||Michael": {
     "Michael": {
       "W": 4,
-      "L": 7,
+      "L": 9,
       "T": 0,
-      "pts_for": 701.34,
-      "pts_against": 766.25,
+      "pts_for": 816.2,
+      "pts_against": 946.13,
       "games": [
         {
           "season": "2001",
@@ -33744,15 +33726,33 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 45.48,
+          "opp_pts": 73.06,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 69.38,
+          "opp_pts": 106.82,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     },
     "Dahmer's Cannibals": {
-      "W": 7,
+      "W": 9,
       "L": 4,
       "T": 0,
-      "pts_for": 766.25,
-      "pts_against": 701.34,
+      "pts_for": 946.13,
+      "pts_against": 816.2,
       "games": [
         {
           "season": "2001",
@@ -33852,17 +33852,35 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSebre-Avengers"
+        },
+        {
+          "season": "2007",
+          "week": 1,
+          "pts": 73.06,
+          "opp_pts": 45.48,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
+        },
+        {
+          "season": "2007",
+          "week": 10,
+          "pts": 106.82,
+          "opp_pts": 69.38,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "LaSeBre AveNgers"
         }
       ]
     }
   },
   "Michael|||Scott": {
     "Scott": {
-      "W": 28,
+      "W": 26,
       "L": 17,
       "T": 0,
-      "pts_for": 4235.02,
-      "pts_against": 3826.58,
+      "pts_for": 4055.14,
+      "pts_against": 3711.72,
       "games": [
         {
           "season": "2001",
@@ -33974,27 +33992,9 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 1,
-          "pts": 73.06,
-          "opp_pts": 45.48,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
           "week": 5,
           "pts": 98.24,
           "opp_pts": 46.68,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "LaSeBre AveNgers"
-        },
-        {
-          "season": "2007",
-          "week": 10,
-          "pts": 106.82,
-          "opp_pts": 69.38,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "LaSeBre AveNgers"
@@ -34273,10 +34273,10 @@ const WSW_DATA = {
     },
     "Michael": {
       "W": 17,
-      "L": 28,
+      "L": 26,
       "T": 0,
-      "pts_for": 3826.58,
-      "pts_against": 4235.02,
+      "pts_for": 3711.72,
+      "pts_against": 4055.14,
       "games": [
         {
           "season": "2001",
@@ -34388,30 +34388,12 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 1,
-          "pts": 45.48,
-          "opp_pts": 73.06,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
           "week": 5,
           "pts": 46.68,
           "opp_pts": 98.24,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 10,
-          "pts": 69.38,
-          "opp_pts": 106.82,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2007",
@@ -35428,11 +35410,11 @@ const WSW_DATA = {
   },
   "Dahmer's Cannibals|||Damon": {
     "Damon": {
-      "W": 4,
+      "W": 5,
       "L": 8,
       "T": 0,
-      "pts_for": 824.95,
-      "pts_against": 865.0,
+      "pts_for": 931.49,
+      "pts_against": 948.14,
       "games": [
         {
           "season": "2001",
@@ -35541,15 +35523,24 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 7,
+          "pts": 106.54,
+          "opp_pts": 83.14,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     },
     "Dahmer's Cannibals": {
       "W": 8,
-      "L": 4,
+      "L": 5,
       "T": 0,
-      "pts_for": 865.0,
-      "pts_against": 824.95,
+      "pts_for": 948.14,
+      "pts_against": 931.49,
       "games": [
         {
           "season": "2001",
@@ -35658,17 +35649,26 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Damon's Digglers"
+        },
+        {
+          "season": "2007",
+          "week": 7,
+          "pts": 83.14,
+          "opp_pts": 106.54,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Damon's Digglers"
         }
       ]
     }
   },
   "Dahmer's Cannibals|||Scott": {
     "Scott": {
-      "W": 6,
+      "W": 7,
       "L": 2,
       "T": 0,
-      "pts_for": 630.31,
-      "pts_against": 555.33,
+      "pts_for": 719.63,
+      "pts_against": 596.79,
       "games": [
         {
           "season": "2001",
@@ -35741,15 +35741,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 9,
+          "pts": 89.32,
+          "opp_pts": 41.46,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     },
     "Dahmer's Cannibals": {
       "W": 2,
-      "L": 6,
+      "L": 7,
       "T": 0,
-      "pts_for": 555.33,
-      "pts_against": 630.31,
+      "pts_for": 596.79,
+      "pts_against": 719.63,
       "games": [
         {
           "season": "2001",
@@ -35822,6 +35831,15 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 9,
+          "pts": 41.46,
+          "opp_pts": 89.32,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's  Spoliators"
         }
       ]
     }
@@ -38650,11 +38668,11 @@ const WSW_DATA = {
   },
   "Dahmer's Cannibals|||Robert": {
     "Robert": {
-      "W": 6,
+      "W": 7,
       "L": 2,
       "T": 0,
-      "pts_for": 616.0,
-      "pts_against": 536.44,
+      "pts_for": 722.66,
+      "pts_against": 580.96,
       "games": [
         {
           "season": "2002",
@@ -38727,15 +38745,24 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 106.66,
+          "opp_pts": 44.52,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     },
     "Dahmer's Cannibals": {
       "W": 2,
-      "L": 6,
+      "L": 7,
       "T": 0,
-      "pts_for": 536.44,
-      "pts_against": 616.0,
+      "pts_for": 580.96,
+      "pts_against": 722.66,
       "games": [
         {
           "season": "2002",
@@ -38806,6 +38833,15 @@ const WSW_DATA = {
           "pts": 72.35,
           "opp_pts": 54.84,
           "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Murphy's Marauders"
+        },
+        {
+          "season": "2007",
+          "week": 8,
+          "pts": 44.52,
+          "opp_pts": 106.66,
+          "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         }
@@ -38927,10 +38963,10 @@ const WSW_DATA = {
   "Robert|||Scott": {
     "Scott": {
       "W": 18,
-      "L": 19,
+      "L": 18,
       "T": 0,
-      "pts_for": 3181.42,
-      "pts_against": 3379.62,
+      "pts_for": 3136.9,
+      "pts_against": 3272.96,
       "games": [
         {
           "season": "2002",
@@ -39001,15 +39037,6 @@ const WSW_DATA = {
           "pts": 96.84,
           "opp_pts": 75.0,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "Murphy's Marauders"
-        },
-        {
-          "season": "2007",
-          "week": 8,
-          "pts": 44.52,
-          "opp_pts": 106.66,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "Murphy's Marauders"
         },
@@ -39268,11 +39295,11 @@ const WSW_DATA = {
       ]
     },
     "Robert": {
-      "W": 19,
+      "W": 18,
       "L": 18,
       "T": 0,
-      "pts_for": 3379.62,
-      "pts_against": 3181.42,
+      "pts_for": 3272.96,
+      "pts_against": 3136.9,
       "games": [
         {
           "season": "2002",
@@ -39345,15 +39372,6 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 8,
-          "pts": 106.66,
-          "opp_pts": 44.52,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2007",
@@ -42827,10 +42845,10 @@ const WSW_DATA = {
   "Dahmer's Cannibals|||Ric's Last Resort": {
     "Dahmer's Cannibals": {
       "W": 4,
-      "L": 2,
+      "L": 4,
       "T": 0,
-      "pts_for": 468.57,
-      "pts_against": 467.97,
+      "pts_for": 608.15,
+      "pts_against": 675.91,
       "games": [
         {
           "season": "2002",
@@ -42885,15 +42903,33 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 51.72,
+          "opp_pts": 106.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 87.86,
+          "opp_pts": 101.52,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "Ric's Last Resort"
         }
       ]
     },
     "Ric's Last Resort": {
-      "W": 2,
+      "W": 4,
       "L": 4,
       "T": 0,
-      "pts_for": 467.97,
-      "pts_against": 468.57,
+      "pts_for": 675.91,
+      "pts_against": 608.15,
       "games": [
         {
           "season": "2002",
@@ -42948,6 +42984,24 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 4,
+          "pts": 106.42,
+          "opp_pts": 51.72,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 13,
+          "pts": 101.52,
+          "opp_pts": 87.86,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     }
@@ -43249,10 +43303,10 @@ const WSW_DATA = {
   "Ric's Last Resort|||Scott": {
     "Scott": {
       "W": 2,
-      "L": 8,
+      "L": 6,
       "T": 0,
-      "pts_for": 714.37,
-      "pts_against": 868.93,
+      "pts_for": 574.79,
+      "pts_against": 660.99,
       "games": [
         {
           "season": "2002",
@@ -43310,27 +43364,9 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 4,
-          "pts": 51.72,
-          "opp_pts": 106.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
           "week": 11,
           "pts": 85.28,
           "opp_pts": 93.32,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Ric's Last Resort"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 87.86,
-          "opp_pts": 101.52,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Ric's Last Resort"
@@ -43347,11 +43383,11 @@ const WSW_DATA = {
       ]
     },
     "Ric's Last Resort": {
-      "W": 8,
+      "W": 6,
       "L": 2,
       "T": 0,
-      "pts_for": 868.93,
-      "pts_against": 714.37,
+      "pts_for": 660.99,
+      "pts_against": 574.79,
       "games": [
         {
           "season": "2002",
@@ -43409,30 +43445,12 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 4,
-          "pts": 106.42,
-          "opp_pts": 51.72,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
           "week": 11,
           "pts": 93.32,
           "opp_pts": 85.28,
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 13,
-          "pts": 101.52,
-          "opp_pts": 87.86,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2009",
@@ -45084,11 +45102,11 @@ const WSW_DATA = {
   },
   "Chris|||Dahmer's Cannibals": {
     "Dahmer's Cannibals": {
-      "W": 2,
+      "W": 3,
       "L": 3,
       "T": 0,
-      "pts_for": 328.1,
-      "pts_against": 347.22,
+      "pts_for": 431.52,
+      "pts_against": 435.16,
       "games": [
         {
           "season": "2004",
@@ -45134,15 +45152,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "Nector"
+        },
+        {
+          "season": "2007",
+          "week": 6,
+          "pts": 103.42,
+          "opp_pts": 87.94,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "Nector"
         }
       ]
     },
     "Chris": {
       "W": 3,
-      "L": 2,
+      "L": 3,
       "T": 0,
-      "pts_for": 347.22,
-      "pts_against": 328.1,
+      "pts_for": 435.16,
+      "pts_against": 431.52,
       "games": [
         {
           "season": "2004",
@@ -45188,6 +45215,15 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 6,
+          "pts": 87.94,
+          "opp_pts": 103.42,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     }
@@ -46156,11 +46192,11 @@ const WSW_DATA = {
   },
   "Chris|||Scott": {
     "Scott": {
-      "W": 15,
+      "W": 14,
       "L": 23,
       "T": 0,
-      "pts_for": 3559.67,
-      "pts_against": 3847.77,
+      "pts_for": 3456.25,
+      "pts_against": 3759.83,
       "games": [
         {
           "season": "2004",
@@ -46213,15 +46249,6 @@ const WSW_DATA = {
           "pts": 102.32,
           "opp_pts": 116.04,
           "result": "L",
-          "is_playoffs": false,
-          "opp_team": "Nector"
-        },
-        {
-          "season": "2007",
-          "week": 6,
-          "pts": 103.42,
-          "opp_pts": 87.94,
-          "result": "W",
           "is_playoffs": false,
           "opp_team": "Nector"
         },
@@ -46508,10 +46535,10 @@ const WSW_DATA = {
     },
     "Chris": {
       "W": 23,
-      "L": 15,
+      "L": 14,
       "T": 0,
-      "pts_for": 3847.77,
-      "pts_against": 3559.67,
+      "pts_for": 3759.83,
+      "pts_against": 3456.25,
       "games": [
         {
           "season": "2004",
@@ -46566,15 +46593,6 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 6,
-          "pts": 87.94,
-          "opp_pts": 103.42,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2007",
@@ -49304,11 +49322,11 @@ const WSW_DATA = {
   },
   "Brett|||Dahmer's Cannibals": {
     "Brett": {
-      "W": 2,
+      "W": 4,
       "L": 1,
       "T": 0,
-      "pts_for": 238.25,
-      "pts_against": 214.62,
+      "pts_for": 480.69,
+      "pts_against": 380.5,
       "games": [
         {
           "season": "2005",
@@ -49336,15 +49354,33 @@ const WSW_DATA = {
           "result": "L",
           "is_playoffs": false,
           "opp_team": "Dahmer's Cannibals"
+        },
+        {
+          "season": "2007",
+          "week": 3,
+          "pts": 125.94,
+          "opp_pts": 84.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
+        },
+        {
+          "season": "2007",
+          "week": 12,
+          "pts": 116.5,
+          "opp_pts": 81.44,
+          "result": "W",
+          "is_playoffs": false,
+          "opp_team": "SKULL's Spoliators"
         }
       ]
     },
     "Dahmer's Cannibals": {
       "W": 1,
-      "L": 2,
+      "L": 4,
       "T": 0,
-      "pts_for": 214.62,
-      "pts_against": 238.25,
+      "pts_for": 380.5,
+      "pts_against": 480.69,
       "games": [
         {
           "season": "2005",
@@ -49372,6 +49408,24 @@ const WSW_DATA = {
           "result": "W",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 3,
+          "pts": 84.44,
+          "opp_pts": 125.94,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
+        },
+        {
+          "season": "2007",
+          "week": 12,
+          "pts": 81.44,
+          "opp_pts": 116.5,
+          "result": "L",
+          "is_playoffs": false,
+          "opp_team": "The Runnin' Rebels"
         }
       ]
     }
@@ -49379,10 +49433,10 @@ const WSW_DATA = {
   "Brett|||Scott": {
     "Scott": {
       "W": 23,
-      "L": 13,
+      "L": 11,
       "T": 0,
-      "pts_for": 3560.43,
-      "pts_against": 3392.9,
+      "pts_for": 3394.55,
+      "pts_against": 3150.46,
       "games": [
         {
           "season": "2005",
@@ -49422,28 +49476,10 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 3,
-          "pts": 84.44,
-          "opp_pts": 125.94,
-          "result": "L",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
           "week": 6,
           "pts": 133.88,
           "opp_pts": 128.12,
           "result": "W",
-          "is_playoffs": false,
-          "opp_team": "The Runnin' Rebels"
-        },
-        {
-          "season": "2007",
-          "week": 12,
-          "pts": 81.44,
-          "opp_pts": 116.5,
-          "result": "L",
           "is_playoffs": false,
           "opp_team": "The Runnin' Rebels"
         },
@@ -49711,11 +49747,11 @@ const WSW_DATA = {
       ]
     },
     "Brett": {
-      "W": 13,
+      "W": 11,
       "L": 23,
       "T": 0,
-      "pts_for": 3392.9,
-      "pts_against": 3560.43,
+      "pts_for": 3150.46,
+      "pts_against": 3394.55,
       "games": [
         {
           "season": "2005",
@@ -49755,30 +49791,12 @@ const WSW_DATA = {
         },
         {
           "season": "2007",
-          "week": 3,
-          "pts": 125.94,
-          "opp_pts": 84.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
-        },
-        {
-          "season": "2007",
           "week": 6,
           "pts": 128.12,
           "opp_pts": 133.88,
           "result": "L",
           "is_playoffs": false,
           "opp_team": "SKULL's  Spoliators"
-        },
-        {
-          "season": "2007",
-          "week": 12,
-          "pts": 116.5,
-          "opp_pts": 81.44,
-          "result": "W",
-          "is_playoffs": false,
-          "opp_team": "SKULL's Spoliators"
         },
         {
           "season": "2009",
@@ -61849,11 +61867,11 @@ const WSW_DATA = {
 },
   managers: {
   "Scott": {
-    "W": 196,
-    "L": 187,
+    "W": 190,
+    "L": 179,
     "T": 0,
-    "pts_for": 33378.78,
-    "pts_against": 33273.82,
+    "pts_for": 32274.22,
+    "pts_against": 31987.46,
     "championships": 7,
     "seasons": [
       "2001",
@@ -62029,11 +62047,11 @@ const WSW_DATA = {
     "playoff_apps": 5
   },
   "Dahmer's Cannibals": {
-    "W": 47,
-    "L": 37,
+    "W": 53,
+    "L": 45,
     "T": 0,
-    "pts_for": 6043.86,
-    "pts_against": 5869.18,
+    "pts_for": 7148.42,
+    "pts_against": 7155.54,
     "championships": 0,
     "seasons": [
       "2001",
@@ -62041,7 +62059,8 @@ const WSW_DATA = {
       "2003",
       "2004",
       "2005",
-      "2006"
+      "2006",
+      "2007"
     ],
     "playoff_apps": 0
   },
@@ -73115,7 +73134,7 @@ const WSW_DATA = {
           "pick": 2,
           "round": 1,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Steven Jackson",
           "position": "RB",
@@ -73336,7 +73355,7 @@ const WSW_DATA = {
           "pick": 19,
           "round": 2,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Cedric Benson",
           "position": "RB",
@@ -73375,7 +73394,7 @@ const WSW_DATA = {
           "pick": 22,
           "round": 3,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Steve Smith",
           "position": "WR",
@@ -73596,7 +73615,7 @@ const WSW_DATA = {
           "pick": 39,
           "round": 4,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Donovan McNabb",
           "position": "QB",
@@ -73635,7 +73654,7 @@ const WSW_DATA = {
           "pick": 42,
           "round": 5,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Ravens",
           "position": "DEF",
@@ -73856,7 +73875,7 @@ const WSW_DATA = {
           "pick": 59,
           "round": 6,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Laveranues Coles",
           "position": "WR",
@@ -73895,7 +73914,7 @@ const WSW_DATA = {
           "pick": 62,
           "round": 7,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Reggie Brown",
           "position": "WR",
@@ -74116,7 +74135,7 @@ const WSW_DATA = {
           "pick": 79,
           "round": 8,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Jeremy Shockey",
           "position": "TE",
@@ -74155,7 +74174,7 @@ const WSW_DATA = {
           "pick": 82,
           "round": 9,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Fred Taylor",
           "position": "RB",
@@ -74376,7 +74395,7 @@ const WSW_DATA = {
           "pick": 99,
           "round": 10,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Bernard Berrian",
           "position": "WR",
@@ -74415,7 +74434,7 @@ const WSW_DATA = {
           "pick": 102,
           "round": 11,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Jeff Wilkins",
           "position": "K",
@@ -74636,7 +74655,7 @@ const WSW_DATA = {
           "pick": 119,
           "round": 12,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Chester Taylor",
           "position": "RB",
@@ -74675,7 +74694,7 @@ const WSW_DATA = {
           "pick": 122,
           "round": 13,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Muhsin Muhammad",
           "position": "WR",
@@ -74896,7 +74915,7 @@ const WSW_DATA = {
           "pick": 139,
           "round": 14,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Chad Pennington",
           "position": "QB",
@@ -74935,7 +74954,7 @@ const WSW_DATA = {
           "pick": 142,
           "round": 15,
           "team_key": "176.l.9584.t.10",
-          "manager": "Scott",
+          "manager": "Dahmer's Cannibals",
           "team_name": "SKULL's Spoliators",
           "player_name": "Ben Watson",
           "position": "TE",
@@ -75054,10 +75073,10 @@ const WSW_DATA = {
           "picks": 15,
           "avg_value": 4.0
         },
-        "Scott": {
-          "total_value": -227,
-          "picks": 30,
-          "avg_value": -7.57
+        "Dahmer's Cannibals": {
+          "total_value": -94,
+          "picks": 15,
+          "avg_value": -6.27
         },
         "Michael": {
           "total_value": -244,
@@ -75088,6 +75107,11 @@ const WSW_DATA = {
           "total_value": 33,
           "picks": 15,
           "avg_value": 2.2
+        },
+        "Scott": {
+          "total_value": -133,
+          "picks": 15,
+          "avg_value": -8.87
         }
       }
     },
@@ -109116,19 +109140,6 @@ const WSW_DATA = {
       }
     },
     {
-      "manager": "Dahmer's Cannibals",
-      "seasons_drafted": 6,
-      "avg_value_per_pick": 1.1,
-      "best_season": {
-        "season": "2006",
-        "avg_value": 8.07
-      },
-      "worst_season": {
-        "season": "2004",
-        "avg_value": -6.13
-      }
-    },
-    {
       "manager": "Davidson",
       "seasons_drafted": 24,
       "avg_value_per_pick": 0.9,
@@ -109152,6 +109163,19 @@ const WSW_DATA = {
       "worst_season": {
         "season": "2012",
         "avg_value": -15.53
+      }
+    },
+    {
+      "manager": "Dahmer's Cannibals",
+      "seasons_drafted": 7,
+      "avg_value_per_pick": 0.0,
+      "best_season": {
+        "season": "2006",
+        "avg_value": 8.07
+      },
+      "worst_season": {
+        "season": "2007",
+        "avg_value": -6.27
       }
     },
     {
@@ -109196,7 +109220,7 @@ const WSW_DATA = {
     {
       "manager": "Scott",
       "seasons_drafted": 24,
-      "avg_value_per_pick": -4.0,
+      "avg_value_per_pick": -4.1,
       "best_season": {
         "season": "2005",
         "avg_value": 12.0
@@ -109797,14 +109821,14 @@ const WSW_DATA = {
     "crown_points": 100
   },
   {
-    "manager": "Brett",
+    "manager": "Jack",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
     "crown_points": 60
   },
   {
-    "manager": "Jack",
+    "manager": "Brett",
     "champions": 0,
     "runner_up": 2,
     "lasebre": 1,
@@ -110006,11 +110030,11 @@ const WSW_DATA = {
   freeAgentRankings: [
   {
     "manager": "Scott",
-    "total_value": 38221.5,
-    "pickups": 628,
+    "total_value": 36767.4,
+    "pickups": 603,
     "seasons": 24,
-    "avg_value_per_season": 1592.6,
-    "total_points_pct": 114.5
+    "avg_value_per_season": 1532.0,
+    "total_points_pct": 113.9
   },
   {
     "manager": "Michael",
@@ -110038,10 +110062,10 @@ const WSW_DATA = {
   },
   {
     "manager": "Dahmer's Cannibals",
-    "total_value": 7957.2,
-    "pickups": 144,
-    "seasons": 6,
-    "avg_value_per_season": 1326.2,
+    "total_value": 9411.4,
+    "pickups": 169,
+    "seasons": 7,
+    "avg_value_per_season": 1344.5,
     "total_points_pct": 131.7
   },
   {
