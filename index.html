@@ -97,6 +97,10 @@
     position: sticky; left: 0; background: var(--card); box-shadow: 1px 0 0 var(--border);
   }
   .table-wrap.scroll-x thead th:first-child { background: var(--dark3); }
+  /* Bold row dividers on the H2H matrix -- each row is one manager's record
+     read left-to-right, so the row boundary needs to read clearly. */
+  #h2h-matrix-table tbody tr td { border-top: 2px solid var(--muted); }
+  #h2h-matrix-table tbody tr:first-child td { border-top: 2px solid var(--border); }
   table { width: 100%; border-collapse: collapse; }
   table a { color: var(--blue); text-decoration: none; }
   table a:hover { text-decoration: underline; }
