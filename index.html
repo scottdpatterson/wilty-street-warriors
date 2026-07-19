@@ -823,6 +823,12 @@ function buildHighlights() {
     }
   }
 
+  // Scoring, its own category
+  const scoringLeader = computeScoringTrends().summary[0];
+  if (scoringLeader && scoringLeader.timesHighest > 0) {
+    cards.push({ label: "Scoring Trends", value: scoringLeader.timesHighest + 'x', sub: `${displayName(scoringLeader.manager)} · seasons with the highest avg` });
+  }
+
   // Draft, a distinct category, last
   if (WSW_DATA.draft && WSW_DATA.draft.manager_rankings) {
     const rankings = WSW_DATA.draft.manager_rankings.filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
@@ -1167,7 +1173,10 @@ function buildPlacing() {
 }
 
 // ── SCORING TRENDS ────────────────────────────────────────────────────────────
-function buildScoringTrends() {
+// avgPts/seasonMax feed both the Scoring Trends page and the Dashboard's
+// "Scoring Trends" highlight card, so the season-by-season math lives here
+// once and both callers stay in sync.
+function computeScoringTrends() {
   const seasonsData = WSW_DATA.seasons;
   const seasonKeys = Object.keys(seasonsData).sort();
   const managers = sortedManagers().filter(m => CURRENT_MANAGERS.has(m));
@@ -1205,6 +1214,12 @@ function buildScoringTrends() {
       pctHighest: seasonsPlayed.length ? (timesHighest / seasonsPlayed.length * 100) : 0,
     };
   }).sort((a, b) => b.timesHighest - a.timesHighest || b.pctHighest - a.pctHighest);
+
+  return { seasonKeys, managers, avgPts, seasonMax, summary };
+}
+
+function buildScoringTrends() {
+  const { seasonKeys, managers, avgPts, seasonMax, summary } = computeScoringTrends();
 
   const summaryBody = document.querySelector('#scoring-summary-table tbody');
   summaryBody.innerHTML = '';
