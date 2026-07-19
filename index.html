@@ -754,7 +754,7 @@ function buildHighlights() {
     const maxLasebre = Math.max(...WSW_DATA.awardRankings.map(r => r.lasebre));
     if (maxLasebre > 0) {
       const winners = WSW_DATA.awardRankings.filter(r => r.lasebre === maxLasebre).map(r => displayName(r.manager)).join(' & ');
-      cards.push({ label: "Most LaSeBre Awards", value: maxLasebre, sub: winners });
+      cards.push({ label: "Most LaSeBre Awards", value: maxLasebre + ' 🌹', sub: winners });
     }
   }
 
@@ -774,7 +774,7 @@ function buildHighlights() {
     };
     const p2 = mostAt(1), p3 = mostAt(2), p10 = mostAt(9);
     const names = ms => ms.map(displayName).join(' & ');
-    if (p2.max > 0) cards.push({ label: "Most 2nd Place Finishes", value: p2.max, sub: names(p2.managers) });
+    if (p2.max > 0) cards.push({ label: "Most 2nd Place Finishes", value: p2.max + ' 🥈', sub: names(p2.managers) });
     if (p3.max > 0) cards.push({ label: "Most 3rd Place Finishes", value: p3.max, sub: names(p3.managers) });
     if (p10.max > 0) cards.push({ label: "Most 10th Place Finishes", value: p10.max, sub: `${names(p10.managers)} · wooden spoon` });
   }
