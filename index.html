@@ -91,6 +91,12 @@
 
   /* ── TABLE ── */
   .table-wrap { background: var(--card); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; margin-bottom: 28px; }
+  .table-wrap.scroll-x { overflow-x: auto; }
+  .table-wrap.scroll-x table { width: auto; min-width: 100%; }
+  .table-wrap.scroll-x th:first-child, .table-wrap.scroll-x td:first-child {
+    position: sticky; left: 0; background: var(--card); box-shadow: 1px 0 0 var(--border);
+  }
+  .table-wrap.scroll-x thead th:first-child { background: var(--dark3); }
   table { width: 100%; border-collapse: collapse; }
   table a { color: var(--blue); text-decoration: none; }
   table a:hover { text-decoration: underline; }
@@ -233,6 +239,7 @@
     <div class="nav-tab" onclick="showPage('draft')">Draft</div>
     <div class="nav-tab" onclick="showPage('awards')">Awards</div>
     <div class="nav-tab" onclick="showPage('placing')">Placing</div>
+    <div class="nav-tab" onclick="showPage('scoring')">Scoring Trends</div>
     <div class="nav-tab" onclick="showPage('freeagents')">Free Agent</div>
     <div class="nav-tab" onclick="showPage('trades')">Trades</div>
     <div class="nav-tab" onclick="showPage('seasons')">Seasons</div>
@@ -467,6 +474,21 @@
   <div class="section">
     <h2>Placing Distribution</h2>
     <div class="placing-grid" id="placing-grid"></div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════ SCORING TRENDS -->
+<div id="page-scoring" class="page">
+  <h1>Scoring Trends</h1>
+  <p class="subtitle">Average points per game, season by season. The highest average in each season is highlighted in green. No detailed points data exists for 1999, 2000, or 2008.</p>
+
+  <div class="section">
+    <div class="table-wrap scroll-x">
+      <table id="scoring-trends-table">
+        <thead><tr></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
   </div>
 </div>
 
@@ -1139,6 +1161,52 @@ function buildPlacing() {
   });
 }
 
+// ── SCORING TRENDS ────────────────────────────────────────────────────────────
+function buildScoringTrends() {
+  const seasonsData = WSW_DATA.seasons;
+  const seasonKeys = Object.keys(seasonsData).sort();
+  const managers = sortedManagers().filter(m => CURRENT_MANAGERS.has(m));
+
+  // avgPts[manager][season] = avg points/game, or undefined if no points
+  // data exists for that manager that season (1999/2000/2008, or a manager
+  // who didn't play that year).
+  const avgPts = {};
+  managers.forEach(m => avgPts[m] = {});
+  seasonKeys.forEach(yr => {
+    (seasonsData[yr].standings || []).forEach(row => {
+      const m = row.manager;
+      if (!m || !avgPts[m]) return;
+      const games = (row.wins || 0) + (row.losses || 0);
+      if (games > 0 && row.points_for != null) {
+        avgPts[m][yr] = row.points_for / games;
+      }
+    });
+  });
+
+  const seasonMax = {};
+  seasonKeys.forEach(yr => {
+    let max = -Infinity;
+    managers.forEach(m => { if (avgPts[m][yr] > max) max = avgPts[m][yr]; });
+    seasonMax[yr] = max;
+  });
+
+  const headRow = document.querySelector('#scoring-trends-table thead tr');
+  headRow.innerHTML = '<th>Manager</th>' + seasonKeys.map(yr => `<th>${yr}</th>`).join('');
+
+  const body = document.querySelector('#scoring-trends-table tbody');
+  body.innerHTML = '';
+  managers.forEach(m => {
+    const cells = seasonKeys.map(yr => {
+      const v = avgPts[m][yr];
+      if (v == null) return `<td class="num">—</td>`;
+      const isMax = v === seasonMax[yr];
+      const style = isMax ? 'color:var(--green); font-weight:700;' : '';
+      return `<td class="num" style="${style}">${v.toFixed(1)}</td>`;
+    }).join('');
+    body.innerHTML += `<tr><td><strong>${displayName(m)}</strong></td>${cells}</tr>`;
+  });
+}
+
 // ── FREE AGENTS ───────────────────────────────────────────────────────────────
 function buildFreeAgents() {
   const rows = (WSW_DATA.freeAgentRankings || []).filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
@@ -1316,6 +1384,7 @@ window.addEventListener('DOMContentLoaded', () => {
   buildDraft();
   buildAwards();
   buildPlacing();
+  buildScoringTrends();
   buildFreeAgents();
   buildTrades();
   initSortableTables();
