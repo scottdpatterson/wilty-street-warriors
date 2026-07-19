@@ -109371,32 +109371,6 @@ const WSW_DATA = {
       "value": 127
     },
     {
-      "season": "2019",
-      "pick": 139,
-      "round": 14,
-      "team_key": "390.l.123814.t.7",
-      "manager": null,
-      "team_name": "Nector",
-      "player_name": "Tom Brady",
-      "position": "QB",
-      "points": 271.68,
-      "points_rank": 12,
-      "value": 127
-    },
-    {
-      "season": "2010",
-      "pick": 141,
-      "round": 15,
-      "team_key": "242.l.230425.t.6",
-      "manager": null,
-      "team_name": "nector",
-      "player_name": "Darren McFadden",
-      "position": "RB",
-      "points": 220.4,
-      "points_rank": 16,
-      "value": 125
-    },
-    {
       "season": "2018",
       "pick": 129,
       "round": 13,
@@ -109447,6 +109421,32 @@ const WSW_DATA = {
       "points": 346.74,
       "points_rank": 5,
       "value": 125
+    },
+    {
+      "season": "2012",
+      "pick": 144,
+      "round": 15,
+      "team_key": "273.l.74063.t.6",
+      "manager": "Brett",
+      "team_name": "The Runnin' Rebels",
+      "player_name": "Ryan Fitzpatrick",
+      "position": "QB",
+      "points": 229.7,
+      "points_rank": 20,
+      "value": 124
+    },
+    {
+      "season": "2021",
+      "pick": 132,
+      "round": 14,
+      "team_key": "406.l.36892.t.9",
+      "manager": "Davidson",
+      "team_name": "The Fighting Tigers",
+      "player_name": "Joe Burrow",
+      "position": "QB",
+      "points": 328.24,
+      "points_rank": 9,
+      "value": 123
     }
   ],
   "biggest_busts": [

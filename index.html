@@ -967,8 +967,8 @@ function buildDraft() {
   if (!draft || !draft.manager_rankings) return;
 
   const rankings = draft.manager_rankings.filter(r => !HIDDEN_FROM_ALLTIME_DRAFT.has(r.manager));
-  const steals = draft.biggest_steals.filter(p => !HIDDEN_FROM_ALLTIME_DRAFT.has(p.manager));
-  const busts = draft.biggest_busts.filter(p => !HIDDEN_FROM_ALLTIME_DRAFT.has(p.manager));
+  const steals = draft.biggest_steals.filter(p => p.manager && !HIDDEN_FROM_ALLTIME_DRAFT.has(p.manager));
+  const busts = draft.biggest_busts.filter(p => p.manager && !HIDDEN_FROM_ALLTIME_DRAFT.has(p.manager));
   const bestClasses = draft.best_draft_classes.filter(c => !HIDDEN_FROM_ALLTIME_DRAFT.has(c.manager));
   const worstClasses = draft.worst_draft_classes.filter(c => !HIDDEN_FROM_ALLTIME_DRAFT.has(c.manager));
 
